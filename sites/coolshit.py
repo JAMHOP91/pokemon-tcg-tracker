@@ -1,6 +1,7 @@
-"""
+﻿"""
 Cool Shit (coolshit.co.nz) - Pokemon TCG.
-Each product is a single <a class="product-thumb" href="..." title="...">.
+Each product is a single <a class="prod-thumb" href="..." title="...">
+containing a nested .prod-thumb-price span with the price.
 """
 
 from playwright.sync_api import sync_playwright
@@ -31,7 +32,9 @@ def get_current_products() -> list[dict]:
             if not is_tcg_product(title):
                 continue
             product_url = href if href.startswith("http") else f"https://www.coolshit.co.nz{href}"
-            products.append({"id": product_url, "title": title, "url": product_url, "price": None})
+            price_el = card.query_selector(".prod-thumb-price span")
+            price = price_el.inner_text().strip() if price_el else None
+            products.append({"id": product_url, "title": title, "url": product_url, "price": price})
         browser.close()
 
     return products

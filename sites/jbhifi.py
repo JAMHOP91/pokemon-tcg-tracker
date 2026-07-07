@@ -1,6 +1,7 @@
 ﻿"""
 JB Hi-Fi NZ - Pokemon TCG.
 Finds product links by URL pattern and reads title from image alt text.
+Price comes from the data-testid="ticket-price" element.
 """
 
 from playwright.sync_api import sync_playwright
@@ -38,7 +39,9 @@ def get_current_products() -> list[dict]:
                 continue
             seen_hrefs.add(href)
             product_url = href if href.startswith("http") else f"https://www.jbhifi.co.nz{href}"
-            products.append({"id": product_url, "title": title, "url": product_url, "price": None})
+            price_el = link.query_selector('[data-testid="ticket-price"]')
+            price = price_el.inner_text().strip() if price_el else None
+            products.append({"id": product_url, "title": title, "url": product_url, "price": f"${price}" if price else None})
         browser.close()
 
     return products
