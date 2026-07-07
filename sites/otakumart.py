@@ -1,5 +1,6 @@
 ﻿"""
 Otakumart - Pokemon TCG. Shopify store, uses products.json, scoped to their pokemon-tcg collection.
+Only includes products with at least one variant in stock.
 """
 
 import requests
@@ -20,11 +21,13 @@ def get_current_products() -> list[dict]:
         title = item.get("title", "")
         if not is_tcg_product(title):
             continue
+        variants = item.get("variants", [])
+        available_variants = [v for v in variants if v.get("available")]
+        if not available_variants:
+            continue
+        cheapest = min(available_variants, key=lambda v: float(v.get("price", 0)))
+        price = cheapest.get("price")
         handle = item.get("handle")
         product_url = f"{BASE_URL}/products/{handle}"
-        price = None
-        variants = item.get("variants", [])
-        if variants:
-            price = variants[0].get("price")
         products.append({"id": str(item.get("id")), "title": title, "url": product_url, "price": f"${price}" if price else None})
     return products
