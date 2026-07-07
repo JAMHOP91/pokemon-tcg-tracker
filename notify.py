@@ -54,3 +54,15 @@ def notify_scraper_warning(site_name: str, streak: int) -> None:
 
 def notify_scraper_recovered(site_name: str) -> None:
     send_telegram_message(f"RESOLVED: {site_name} is working again.")
+
+
+def notify_priority_products(site_name: str, products: list[dict]) -> None:
+    if not products:
+        return
+
+    lines = [f"PRIORITY DROP on {site_name}!"]
+    for p in products:
+        price = f" - {p['price']}" if p.get("price") else ""
+        lines.append(f"- <a href=\"{p['url']}\">{p['title']}</a>{price}")
+
+    send_telegram_message("\n".join(lines))

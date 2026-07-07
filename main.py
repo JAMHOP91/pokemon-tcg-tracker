@@ -1,13 +1,15 @@
 ﻿"""
 Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
-Also tracks consecutive failures per site and warns if a scraper looks broken.
+Tracks consecutive failures per site and warns if a scraper looks broken.
+Sends a separate priority alert for products matching priority_keywords.json.
 """
 
 import json
 from pathlib import Path
 
-from notify import notify_new_products, notify_scraper_warning, notify_scraper_recovered
+from notify import notify_new_products, notify_scraper_warning, notify_scraper_recovered, notify_priority_products
+from priority import load_priority_keywords, is_priority_product
 from sites import jbhifi
 from sites import coolshit
 from sites import thegametree
@@ -27,7 +29,7 @@ ZERO_STREAK_WARNING_THRESHOLD = 3
 
 def load_state() -> dict:
     if STATE_FILE.exists():
-        return json.loads(STATE_FILE.read_text())
+        return json.loads(STATE_FILE.read_text(encoding="utf-8-sig"))
     return {}
 
 
@@ -46,6 +48,7 @@ def get_site_state(state: dict, site_name: str) -> dict:
 
 def main():
     state = load_state()
+    priority_keywords = load_priority_keywords()
 
     for site_name, site_module in SITES:
         print(f"Checking {site_name}...")
@@ -76,8 +79,15 @@ def main():
         new_products = [p for p in current_products if p["id"] not in seen_ids]
 
         if new_products:
+            priority_matches = [p for p in new_products if is_priority_product(p["title"], priority_keywords)]
+            regular_matches = [p for p in new_products if p not in priority_matches]
+
             print(f"  Found {len(new_products)} new product(s)")
-            notify_new_products(site_name, new_products)
+            if priority_matches:
+                print(f"    {len(priority_matches)} matched priority keywords!")
+                notify_priority_products(site_name, priority_matches)
+            if regular_matches:
+                notify_new_products(site_name, regular_matches)
         else:
             print("  No new products")
 
