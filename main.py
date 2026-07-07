@@ -16,6 +16,7 @@ from sites import thegametree
 from sites import otakumart
 from sites import cardmasters
 from sites import hobbylords
+from sites import tcgnz
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 
@@ -26,6 +27,7 @@ SITES = [
     (otakumart.SITE_NAME, otakumart),
     (cardmasters.SITE_NAME, cardmasters),
     (hobbylords.SITE_NAME, hobbylords),
+    (tcgnz.SITE_NAME, tcgnz),
 ]
 
 ZERO_STREAK_WARNING_THRESHOLD = 3
