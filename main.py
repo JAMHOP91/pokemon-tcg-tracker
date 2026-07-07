@@ -1,4 +1,4 @@
-﻿"""
+"""
 Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
 Tracks consecutive failures per site and warns if a scraper looks broken.
@@ -14,6 +14,8 @@ from sites import jbhifi
 from sites import coolshit
 from sites import thegametree
 from sites import otakumart
+from sites import cardmasters
+from sites import hobbylords
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 
@@ -22,6 +24,8 @@ SITES = [
     (coolshit.SITE_NAME, coolshit),
     (thegametree.SITE_NAME, thegametree),
     (otakumart.SITE_NAME, otakumart),
+    (cardmasters.SITE_NAME, cardmasters),
+    (hobbylords.SITE_NAME, hobbylords),
 ]
 
 ZERO_STREAK_WARNING_THRESHOLD = 3
