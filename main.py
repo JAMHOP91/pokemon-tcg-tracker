@@ -1,27 +1,28 @@
-"""
+﻿"""
 Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
+Also tracks consecutive failures per site and warns if a scraper looks broken.
 """
 
 import json
-import os
 from pathlib import Path
 
-from notify import notify_new_products
+from notify import notify_new_products, notify_scraper_warning, notify_scraper_recovered
 from sites import jbhifi
+from sites import coolshit
 from sites import thegametree
 from sites import otakumart
-from sites import coolshit
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 
-# Register each site here: (display name, module with get_current_products())
 SITES = [
     (jbhifi.SITE_NAME, jbhifi),
     (coolshit.SITE_NAME, coolshit),
     (thegametree.SITE_NAME, thegametree),
     (otakumart.SITE_NAME, otakumart),
 ]
+
+ZERO_STREAK_WARNING_THRESHOLD = 3
 
 
 def load_state() -> dict:
@@ -34,20 +35,44 @@ def save_state(state: dict) -> None:
     STATE_FILE.write_text(json.dumps(state, indent=2))
 
 
+def get_site_state(state: dict, site_name: str) -> dict:
+    entry = state.get(site_name)
+    if entry is None:
+        return {"seen_ids": [], "zero_streak": 0, "warned": False}
+    if isinstance(entry, list):
+        return {"seen_ids": entry, "zero_streak": 0, "warned": False}
+    return entry
+
+
 def main():
     state = load_state()
 
     for site_name, site_module in SITES:
         print(f"Checking {site_name}...")
+        site_state = get_site_state(state, site_name)
+        seen_ids = set(site_state["seen_ids"])
+
         try:
             current_products = site_module.get_current_products()
         except Exception as e:
             print(f"  Failed to check {site_name}: {e}")
+            current_products = None
+
+        if not current_products:
+            site_state["zero_streak"] += 1
+            print(f"  No products found (zero streak: {site_state['zero_streak']})")
+            if site_state["zero_streak"] >= ZERO_STREAK_WARNING_THRESHOLD and not site_state["warned"]:
+                notify_scraper_warning(site_name, site_state["zero_streak"])
+                site_state["warned"] = True
+            state[site_name] = site_state
             continue
 
-        seen_ids = set(state.get(site_name, []))
-        current_ids = {p["id"] for p in current_products}
+        if site_state["warned"]:
+            notify_scraper_recovered(site_name)
+        site_state["zero_streak"] = 0
+        site_state["warned"] = False
 
+        current_ids = {p["id"] for p in current_products}
         new_products = [p for p in current_products if p["id"] not in seen_ids]
 
         if new_products:
@@ -56,8 +81,8 @@ def main():
         else:
             print("  No new products")
 
-        # Update state with everything currently seen
-        state[site_name] = list(current_ids)
+        site_state["seen_ids"] = list(current_ids)
+        state[site_name] = site_state
 
     save_state(state)
 

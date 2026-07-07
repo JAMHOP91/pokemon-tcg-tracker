@@ -41,3 +41,16 @@ def notify_new_products(site_name: str, products: list[dict]) -> None:
             lines.append(f"- <a href=\"{p['url']}\">{p['title']}</a>{price}")
 
         send_telegram_message("\n".join(lines))
+
+
+def notify_scraper_warning(site_name: str, streak: int) -> None:
+    text = (
+        f"WARNING: {site_name} has returned 0 products for {streak} checks in a row. "
+        f"This usually means the site changed its layout and the scraper needs fixing, "
+        f"not that the store is actually empty."
+    )
+    send_telegram_message(text)
+
+
+def notify_scraper_recovered(site_name: str) -> None:
+    send_telegram_message(f"RESOLVED: {site_name} is working again.")
