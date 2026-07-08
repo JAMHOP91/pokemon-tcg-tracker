@@ -21,6 +21,7 @@ from sites import cardtopia
 from sites import wpgames
 from sites import collectallday
 from sites import celebrationbox_monitor
+from sites import coolshit_availability_monitor
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 
@@ -36,6 +37,7 @@ SITES = [
     (wpgames.SITE_NAME, wpgames),
     (collectallday.SITE_NAME, collectallday),
     (celebrationbox_monitor.SITE_NAME, celebrationbox_monitor),
+    (coolshit_availability_monitor.SITE_NAME, coolshit_availability_monitor),
 ]
 
 ZERO_STREAK_WARNING_THRESHOLD = 3
