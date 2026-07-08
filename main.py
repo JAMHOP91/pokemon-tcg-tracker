@@ -20,6 +20,7 @@ from sites import tcgnz
 from sites import cardtopia
 from sites import wpgames
 from sites import collectallday
+from sites import celebrationbox_monitor
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 
@@ -34,6 +35,7 @@ SITES = [
     (cardtopia.SITE_NAME, cardtopia),
     (wpgames.SITE_NAME, wpgames),
     (collectallday.SITE_NAME, collectallday),
+    (celebrationbox_monitor.SITE_NAME, celebrationbox_monitor),
 ]
 
 ZERO_STREAK_WARNING_THRESHOLD = 3
