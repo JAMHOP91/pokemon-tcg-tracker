@@ -17,6 +17,9 @@ from sites import otakumart
 from sites import cardmasters
 from sites import hobbylords
 from sites import tcgnz
+from sites import cardtopia
+from sites import wpgames
+from sites import collectallday
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 
@@ -28,6 +31,9 @@ SITES = [
     (cardmasters.SITE_NAME, cardmasters),
     (hobbylords.SITE_NAME, hobbylords),
     (tcgnz.SITE_NAME, tcgnz),
+    (cardtopia.SITE_NAME, cardtopia),
+    (wpgames.SITE_NAME, wpgames),
+    (collectallday.SITE_NAME, collectallday),
 ]
 
 ZERO_STREAK_WARNING_THRESHOLD = 3
