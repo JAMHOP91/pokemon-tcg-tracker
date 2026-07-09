@@ -56,3 +56,5 @@ def get_current_products() -> list[dict]:
             })
 
     return products
+
+ALLOW_EMPTY_RESULTS = True

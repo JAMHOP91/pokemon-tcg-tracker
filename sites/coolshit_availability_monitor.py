@@ -67,3 +67,5 @@ def get_current_products() -> list[dict]:
 
     _save_coming_soon_ids(currently_coming_soon)
     return newly_available
+
+ALLOW_EMPTY_RESULTS = True

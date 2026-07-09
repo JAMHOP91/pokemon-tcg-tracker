@@ -1,7 +1,9 @@
-"""
+﻿"""
 Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
-Tracks consecutive failures per site and warns if a scraper looks broken.
+Tracks consecutive failures per site and warns if a scraper looks broken -
+unless that site sets ALLOW_EMPTY_RESULTS = True (for watcher-style
+monitors that are expected to return nothing most of the time).
 Sends a separate priority alert for products matching priority_keywords.json.
 """
 
@@ -70,14 +72,17 @@ def main():
         print(f"Checking {site_name}...")
         site_state = get_site_state(state, site_name)
         seen_ids = set(site_state["seen_ids"])
+        allow_empty = getattr(site_module, "ALLOW_EMPTY_RESULTS", False)
 
         try:
             current_products = site_module.get_current_products()
+            fetch_failed = False
         except Exception as e:
             print(f"  Failed to check {site_name}: {e}")
             current_products = None
+            fetch_failed = True
 
-        if not current_products:
+        if fetch_failed or (not current_products and not allow_empty):
             site_state["zero_streak"] += 1
             print(f"  No products found (zero streak: {site_state['zero_streak']})")
             if site_state["zero_streak"] >= ZERO_STREAK_WARNING_THRESHOLD and not site_state["warned"]:
@@ -91,6 +96,7 @@ def main():
         site_state["zero_streak"] = 0
         site_state["warned"] = False
 
+        current_products = current_products or []
         current_ids = {p["id"] for p in current_products}
         new_products = [p for p in current_products if p["id"] not in seen_ids]
 
