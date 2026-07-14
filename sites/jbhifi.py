@@ -66,3 +66,5 @@ def get_current_products() -> list[dict]:
                 time.sleep(RETRY_DELAY_SECONDS)
 
     raise last_error
+
+ZERO_STREAK_THRESHOLD_OVERRIDE = 10

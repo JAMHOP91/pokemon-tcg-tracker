@@ -1,6 +1,8 @@
 ﻿"""
 The Game Tree NZ - Pokemon TCG. Shopify store, uses products.json.
-Only includes products with at least one variant in stock.
+Only includes Pokemon-titled products with at least one variant in stock
+(they also sell nanoblocks, other TCGs, and accessories, so this is
+scoped to Pokemon specifically rather than their whole catalog).
 """
 
 import requests
@@ -20,6 +22,8 @@ def get_current_products() -> list[dict]:
     for item in data.get("products", []):
         title = item.get("title", "")
         if not is_tcg_product(title):
+            continue
+        if "pokemon" not in title.lower() and "pokémon" not in title.lower():
             continue
         variants = item.get("variants", [])
         available_variants = [v for v in variants if v.get("available")]

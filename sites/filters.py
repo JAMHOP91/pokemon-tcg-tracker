@@ -1,7 +1,7 @@
-"""
+﻿"""
 Shared filtering logic so all site scrapers only return actual TCG
-card products — booster packs, elite trainer boxes, tins, decks,
-blisters, collections — and skip merch like mugs, plush, binders,
+card products - booster packs, elite trainer boxes, tins, decks,
+blisters, collections - and skip merch like mugs, plush, binders,
 posters, apparel, etc.
 
 Edit EXCLUDE_KEYWORDS to tune what gets filtered out. Matching is
@@ -33,10 +33,14 @@ EXCLUDE_KEYWORDS = [
     "cap",
     "hat",
     "bag",
-    "case",
     "pin collection",
     "stationery",
     "notebook",
+    "nanoblock",
+    "acrylic",
+    "riftbound",
+    "league of legends",
+    "protector",
 ]
 
 
