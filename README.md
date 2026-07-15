@@ -1,141 +1,65 @@
-# Pokemon TCG Product Tracker
+﻿# Pokemon TCG Restock Tracker (New Zealand)
 
-Checks a list of websites on a schedule, and sends you a Telegram message
-whenever a new product shows up.
+A free, self-hosted tool that watches New Zealand retailers for new
+Pokemon TCG stock (booster boxes, ETBs, tins, blisters, etc.) and sends
+instant Telegram alerts when something new appears - filtered to just
+cards, no merch/accessories.
+
+Built to solve a real problem: Pokemon TCG restocks in NZ sell out fast,
+and no single site or alert service reliably covers every retailer.
+
+## What it does
+
+- Checks 10+ NZ retailers on a schedule (JB Hi-Fi, Cool Shit, The Game
+  Tree, Otakumart, Card Masters, Hobby Lords, TCG NZ, Cardtopia,
+  WP Games, Collect All Day)
+- Filters out non-card merch (mugs, plush, binders, apparel, etc.)
+- Shows price and stock status where the retailer's site exposes it
+- Sends Telegram notifications the moment something new shows up
+- Runs entirely for free via GitHub Actions - no server, no paid API,
+  no subscription
+- Detects when a site's layout changes and a scraper needs fixing,
+  instead of silently going quiet
+- Supports "priority keywords" for sets/products you're specifically
+  hunting, which get a louder, separate alert
+- Supports "hype windows" - date ranges around known set releases where
+  checks run every few minutes instead of every 30
 
 ## How it works
 
-- `main.py` loops through the sites registered in `SITES`
-- Each site module exposes `get_current_products()`, returning a list of
-  `{"id", "title", "url", "price"}` dicts
-- `main.py` compares the current list against `seen_products.json`
-  (what was seen last run) and notifies on anything new
-- `notify.py` sends the alert to your Telegram chat
-- GitHub Actions runs this on a schedule so you don't need your PC on
+- Each retailer has its own small Python file in `sites/` that knows how
+  to fetch that store's current product listing (either via a public
+  JSON feed, or by loading the page with Playwright)
+- `main.py` runs every configured site, compares results against what it
+  saw last time, and sends alerts on anything new
+- `notify.py` handles sending messages via the Telegram Bot API
+- GitHub Actions runs the whole thing on a schedule and commits the
+  updated "seen" state back to the repo each time
+- An external free scheduler (cron-job.org) triggers the GitHub Actions
+  workflows reliably, since GitHub's own free scheduled triggers can be
+  delayed under load
 
----
+## Setup
 
-## Step 1 — Create your Telegram bot
+This was built iteratively for one person's specific use case (NZ,
+Telegram, a specific set of retailers), so it's not a polished
+plug-and-play product - but the pieces are all readable and adaptable:
 
-1. Open Telegram, search for **@BotFather**, and start a chat.
-2. Send `/newbot` and follow the prompts (pick a name and a username).
-3. BotFather will give you a **bot token** — looks like `123456789:ABCdefGhIJKlmNoPQRsTUVwxyZ`. Save it.
-4. Start a chat with your new bot (search its username, hit Start) and send it any message — this lets it message you back.
-5. Get your **chat ID**:
-   - Visit `https://api.telegram.org/bot<YOUR_TOKEN>/getUpdates` in a browser (replace `<YOUR_TOKEN>`)
-   - Send your bot another message, refresh the page
-   - Look for `"chat":{"id":123456789, ...}` in the JSON — that number is your chat ID
+1. Fork or clone this repo
+2. Create a Telegram bot via @BotFather, get your bot token and chat ID
+3. Add `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` as GitHub repo secrets
+   (Settings -> Secrets and variables -> Actions)
+4. Adjust or add site files in `sites/` for the retailers you care about
+5. Adjust `main.py`'s `SITES` list to match
+6. (Optional) set up a free cron-job.org account to trigger the
+   workflows reliably instead of relying on GitHub's own scheduler
 
-You now have `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`.
+## Disclaimer
 
----
-
-## Step 2 — Test locally (optional but recommended)
-
-```bash
-cd pokemon-tcg-tracker
-pip install -r requirements.txt
-playwright install chromium
-
-export TELEGRAM_BOT_TOKEN="your-token-here"
-export TELEGRAM_CHAT_ID="your-chat-id-here"
-
-python main.py
-```
-
-You should see console output for each site being checked. The first run will
-report everything as "new" (since `seen_products.json` starts empty) — that's
-expected. Run it a second time and it should report no new products.
-
----
-
-## Step 3 — Customize the site scrapers
-
-This starter includes two templates:
-
-- **`sites/example_shopify_site.py`** — for small/hobby TCG shops running on
-  Shopify. Just change `BASE_URL` to the real store domain. Many Shopify
-  stores expose `/products.json` for free, no scraping needed.
-- **`sites/example_playwright_site.py`** — for big retailers with
-  JavaScript-rendered pages. You'll need to:
-  1. Open the real product listing page in your browser
-  2. Right-click a product card → Inspect
-  3. Find the CSS selectors for the product card, title, link, and price
-  4. Update the `*_SELECTOR` constants at the top of the file
-
-For each new site you want to track:
-1. Copy whichever template fits (Shopify vs. big-retailer)
-2. Rename the file (e.g. `sites/target.py`)
-3. Fill in the URL and selectors
-4. Register it in `main.py`'s `SITES` list:
-   ```python
-   from sites import target
-   SITES = [
-       (example_shopify_site.SITE_NAME, example_shopify_site),
-       (target.SITE_NAME, target),
-   ]
-   ```
-
-**Tip:** start with 2–3 sites, confirm they work, then add more. Big retailer
-selectors are the most likely thing to break over time and need occasional
-maintenance.
-
----
-
-## Step 4 — Push to GitHub
-
-```bash
-git init
-git add .
-git commit -m "Initial tracker setup"
-git branch -M main
-git remote add origin https://github.com/<your-username>/pokemon-tcg-tracker.git
-git push -u origin main
-```
-
----
-
-## Step 5 — Add your secrets to GitHub
-
-In your GitHub repo:
-1. Go to **Settings → Secrets and variables → Actions**
-2. Click **New repository secret**, add:
-   - `TELEGRAM_BOT_TOKEN`
-   - `TELEGRAM_CHAT_ID`
-
----
-
-## Step 6 — Let it run
-
-The workflow in `.github/workflows/check.yml` runs every 30 minutes
-automatically once pushed. You can also trigger it manually:
-
-- Go to the **Actions** tab in your repo → select the workflow → **Run workflow**
-
-Each run commits the updated `seen_products.json` back to the repo, so state
-persists between runs without needing a database.
-
----
-
-## Adjusting the schedule
-
-Edit the `cron` line in `.github/workflows/check.yml`. Examples:
-
-- Every 15 minutes: `*/15 * * * *`
-- Every hour: `0 * * * *`
-- Every 5 minutes (only if really needed — be considerate of the sites you're checking): `*/5 * * * *`
-
-Note: GitHub Actions scheduled runs aren't perfectly precise and can be
-delayed a few minutes during high load — fine for restock alerts, not for
-sub-minute precision.
-
----
-
-## A note on big retailers
-
-Sites like Target/Walmart/Best Buy actively try to detect and block
-automated traffic. Keep the check interval reasonable (don't hammer them),
-expect selectors to need updates occasionally, and know that some may
-require additional handling (rotating user agents, proxies) if you get
-blocked — that's outside the scope of this starter, but the Shopify-based
-shops should just work.
+This is a personal hobby project, provided as-is with no warranty.
+It scrapes publicly available product listing pages respectfully (no
+login bypassing, no automated purchasing, no circumventing anti-bot
+protections - sites that actively block automated access are
+intentionally excluded rather than worked around). If you adapt this
+for your own use, please scrape responsibly and respect each site's
+terms of service.
