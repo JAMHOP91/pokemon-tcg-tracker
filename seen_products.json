@@ -123,6 +123,12 @@
       "9101935771811",
       "9134948253859",
       "8386235957411",
+      "7507178979491",
+      "9107945980067",
+      "8693154349219",
+      "9136746102947",
+      "7540284915875",
+      "8850541740195",
       "8856349376675",
       "9081919176867",
       "9107946176675",
@@ -202,6 +208,10 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "9756131819760",
+      "10076303622384",
+      "9721665880304",
+      "9716528414960",
       "10070962241776",
       "9756131819760",
       "9716525105392",
@@ -219,14 +229,16 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9328364945647",
-      "8540499149039"
+      "8540499149039",
+      "9328364945647"
     ],
     "zero_streak": 0,
     "warned": false
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
