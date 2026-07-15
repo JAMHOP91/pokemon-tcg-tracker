@@ -197,30 +197,30 @@
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-checklane-blister",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "9890801385712",
-      "10070962241776",
-      "9716525269232",
-      "9721665880304",
-      "9875903938800",
       "10083399205104",
-      "9756131819760",
-      "9716525105392",
+      "9721665880304",
+      "9716525269232",
+      "10070962241776",
+      "9788449849584",
       "10076303622384",
+      "9756131819760",
+      "9875903938800",
       "9716528414960",
-      "9788449849584"
+      "9716525105392",
+      "9890801385712"
     ],
     "zero_streak": 1,
     "warned": false
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9328364945647",
-      "8540499149039"
+      "8540499149039",
+      "9328364945647"
     ],
     "zero_streak": 0,
     "warned": false
