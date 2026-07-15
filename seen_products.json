@@ -197,8 +197,8 @@
       "https://www.tcgnz.co.nz/product-page/pokemon-tcg-team-rocket-tin",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-8-5-prismatic-evolutions-2-pack-blister"
     ],
-    "zero_streak": 0,
-    "warned": false
+    "zero_streak": 3,
+    "warned": true
   },
   "Cardtopia NZ": {
     "seen_ids": [
@@ -219,8 +219,8 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9328364945647",
-      "8540499149039"
+      "8540499149039",
+      "9328364945647"
     ],
     "zero_streak": 0,
     "warned": false
