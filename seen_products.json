@@ -7,7 +7,7 @@
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection"
     ],
-    "zero_streak": 0,
+    "zero_streak": 9,
     "warned": false
   },
   "Cool Shit - Pokemon": {
@@ -219,8 +219,8 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "8540499149039",
-      "9328364945647"
+      "9328364945647",
+      "8540499149039"
     ],
     "zero_streak": 0,
     "warned": false
