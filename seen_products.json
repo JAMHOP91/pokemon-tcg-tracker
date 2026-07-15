@@ -56,6 +56,19 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
+      "7730851184789",
+      "7330100445333",
+      "8713055273109",
+      "8758359261333",
+      "7753997320341",
+      "8619217879189",
+      "7559734886549",
+      "7330101002389",
+      "8755462078613",
+      "8676504436885",
+      "8760569692309",
+      "8760569397397",
+      "7439125512341",
       "7330101330069",
       "9011807486101",
       "7330099691669",
@@ -197,7 +210,7 @@
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-chaos-rising-booster-box",
       "https://www.tcgnz.co.nz/product-page/pre-order-pok\u00e9mon-tcg-destined-rivals-booster-box"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false
   },
   "Cardtopia NZ": {
@@ -219,8 +232,8 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "8540499149039",
-      "9328364945647"
+      "9328364945647",
+      "8540499149039"
     ],
     "zero_streak": 0,
     "warned": false
