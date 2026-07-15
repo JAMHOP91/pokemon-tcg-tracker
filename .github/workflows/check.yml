@@ -1,13 +1,16 @@
-name: Check for new Pokemon TCG products
+﻿name: Check for new Pokemon TCG products
 
 on:
   schedule:
-    # Runs every 30 minutes. Adjust the cron expression as needed.
-    - cron: "*/30 * * * *"
-  workflow_dispatch: {}  # allows manual "Run workflow" button too
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
 
 permissions:
-  contents: write  # needed so the workflow can commit updated state file
+  contents: write
+
+concurrency:
+  group: regular-check
+  cancel-in-progress: false
 
 jobs:
   check:
@@ -38,5 +41,6 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add seen_products.json coolshit_coming_soon_state.json
           git diff --quiet && git diff --staged --quiet || git commit -m "Update seen products state"
-          git pull --rebase
+          git fetch origin main
+          git merge -X ours origin/main --no-edit || true
           git push
