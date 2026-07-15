@@ -1,11 +1,11 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection"
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister"
     ],
     "zero_streak": 1,
     "warned": false
@@ -116,6 +116,8 @@
   },
   "Card Masters NZ": {
     "seen_ids": [
+      "8805645254819",
+      "9136790208675",
       "8668035317923",
       "9136746102947",
       "8565549564067",
@@ -199,7 +201,7 @@
       "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection",
       "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-sv-unova-mini-tin-sealed-box-8-tins"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false
   },
   "Cardtopia NZ": {
@@ -209,6 +211,7 @@
       "9716525105392",
       "9716525269232",
       "9890801385712",
+      "9716525269232",
       "9721665880304",
       "10076303622384",
       "9875903938800",
