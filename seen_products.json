@@ -7,7 +7,7 @@
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
     ],
-    "zero_streak": 0,
+    "zero_streak": 8,
     "warned": false
   },
   "Cool Shit - Pokemon": {
@@ -197,7 +197,7 @@
       "https://www.tcgnz.co.nz/product-page/one-piece-card-game-booster-display-royal-blood-op-10",
       "https://www.tcgnz.co.nz/product-page/pokemon-tcg-team-rocket-tin"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false
   },
   "Cardtopia NZ": {
@@ -219,8 +219,8 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9328364945647",
-      "8540499149039"
+      "8540499149039",
+      "9328364945647"
     ],
     "zero_streak": 0,
     "warned": false
