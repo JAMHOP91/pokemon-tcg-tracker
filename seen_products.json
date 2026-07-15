@@ -7,7 +7,7 @@
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false
   },
   "Cool Shit - Pokemon": {
@@ -167,6 +167,8 @@
       "https://www.hobbylords.co.nz/products/single/pokemon-model-kit-miraidon",
       "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-blaziken",
       "https://www.hobbylords.co.nz/products/single/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/pokemon-tcg-mega-evolutions-pitch-black-booster-bundle",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
       "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-rayquaza",
@@ -222,8 +224,8 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "8540499149039",
-      "9328364945647"
+      "9328364945647",
+      "8540499149039"
     ],
     "zero_streak": 0,
     "warned": false
