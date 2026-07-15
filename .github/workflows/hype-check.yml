@@ -1,4 +1,4 @@
-name: Fast check during hype windows
+﻿name: Fast check during hype windows
 
 on:
   schedule:
@@ -7,6 +7,10 @@ on:
 
 permissions:
   contents: write
+
+concurrency:
+  group: hype-window-check
+  cancel-in-progress: false
 
 jobs:
   check:
