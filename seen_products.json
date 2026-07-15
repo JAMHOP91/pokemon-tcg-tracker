@@ -7,8 +7,8 @@
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister"
     ],
-    "zero_streak": 0,
-    "warned": false
+    "zero_streak": 10,
+    "warned": true
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
