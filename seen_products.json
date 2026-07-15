@@ -13,6 +13,15 @@
   "Cool Shit - Pokemon": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/mega-evolution-ascended-heroes-mini-tin",
+      "https://www.coolshit.co.nz/product/mega-evolution-phantasmal-flames-three-booster-blister-pre-order",
+      "https://www.coolshit.co.nz/product/copy-of-mega-evolution-ascended-heroes-booster-bundle",
+      "https://www.coolshit.co.nz/product/mega-evolution-perfect-order-booster-bundle",
+      "https://www.coolshit.co.nz/product/mega-evolution-perfect-order-elite-trainer-box",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
+      "https://www.coolshit.co.nz/product/mega-evolutionperfect-order-3-booster-blister",
+      "https://www.coolshit.co.nz/product/mega-evolutionascended-heroes-mega-meganium-ex-box-mega-emboar-ex-box-or-mega-feraligatr-ex-box",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-chaos-rising-elite-trainer-box-pre-order",
       "https://www.coolshit.co.nz/product/pokemon-tcg-2-pack-blister",
       "https://www.coolshit.co.nz/product/pokemon-bundle-deal-pre-order",
@@ -219,8 +228,8 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9328364945647",
-      "8540499149039"
+      "8540499149039",
+      "9328364945647"
     ],
     "zero_streak": 0,
     "warned": false
