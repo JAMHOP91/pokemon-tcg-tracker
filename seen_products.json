@@ -7,7 +7,7 @@
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
     ],
-    "zero_streak": 0,
+    "zero_streak": 6,
     "warned": false
   },
   "Cool Shit - Pokemon": {
@@ -94,22 +94,22 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7699941818429",
-      "7850575495229",
-      "7558379405373",
       "7558377046077",
-      "7558378979389",
-      "7560189280317",
-      "7558377930813",
-      "7558380781629",
       "7558381600829",
-      "7850575986749",
-      "7560189706301",
-      "7850575888445",
-      "7558378455101",
-      "7558379864125",
+      "7558377930813",
+      "7699941818429",
       "7560189935677",
-      "7850575822909"
+      "7558379864125",
+      "7850575986749",
+      "7558379405373",
+      "7558378979389",
+      "7558378455101",
+      "7850575822909",
+      "7850575888445",
+      "7850575495229",
+      "7560189706301",
+      "7560189280317",
+      "7558380781629"
     ],
     "zero_streak": 1,
     "warned": false
@@ -163,7 +163,7 @@
       "https://www.hobbylords.co.nz/products/single/-2025-pokemon-tcg-world-championships-deck-liao-fu-guan",
       "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-rayquaza",
       "https://www.hobbylords.co.nz/products/single/pokemon-tcg-mega-evolutions-pitch-black-blister",
-      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
       "https://www.hobbylords.co.nz/products/single/pokemon-model-kit-miraidon",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
@@ -202,25 +202,25 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "9721665880304",
-      "9890801385712",
-      "9716525269232",
-      "9716525105392",
       "9756131819760",
-      "10083399205104",
-      "10076303622384",
-      "9875903938800",
-      "10070962241776",
+      "9890801385712",
       "9716528414960",
-      "9788449849584"
+      "9721665880304",
+      "9788449849584",
+      "9716525269232",
+      "10070962241776",
+      "10076303622384",
+      "10083399205104",
+      "9716525105392",
+      "9875903938800"
     ],
     "zero_streak": 1,
     "warned": false
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9328364945647",
-      "8540499149039"
+      "8540499149039",
+      "9328364945647"
     ],
     "zero_streak": 0,
     "warned": false
