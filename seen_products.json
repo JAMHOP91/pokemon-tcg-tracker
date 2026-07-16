@@ -196,12 +196,14 @@
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-elite-trainer-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-phantasmal-flames-booster-box"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false
   },
   "Cardtopia NZ": {
     "seen_ids": [
       "9756131819760",
+      "9716525269232",
+      "9788449849584",
       "9716525105392",
       "9788449849584",
       "10076303622384",
@@ -216,7 +218,6 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9464484921583",
       "9464484626671",
       "9328364945647",
       "8540499149039",
