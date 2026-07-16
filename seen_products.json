@@ -196,8 +196,8 @@
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-heroes-mini-tin",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-phantasmal-flames-booster-box"
     ],
-    "zero_streak": 0,
-    "warned": false
+    "zero_streak": 4,
+    "warned": true
   },
   "Cardtopia NZ": {
     "seen_ids": [
@@ -206,6 +206,9 @@
       "9716525105392",
       "9716528414960",
       "10070962241776",
+      "10076303622384",
+      "9756131819760",
+      "9716525105392",
       "9875903938800",
       "9756131819760",
       "9788449849584",
