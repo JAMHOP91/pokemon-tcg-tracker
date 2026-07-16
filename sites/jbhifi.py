@@ -1,4 +1,4 @@
-﻿"""
+"""
 JB Hi-Fi NZ - Pokemon TCG.
 Finds product links by URL pattern and reads title from image alt text.
 
@@ -67,4 +67,5 @@ def get_current_products() -> list[dict]:
 
     raise last_error
 
-ZERO_STREAK_THRESHOLD_OVERRIDE = 10
+
+FAILURE_THRESHOLD_MINUTES = 300

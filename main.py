@@ -1,15 +1,16 @@
 ﻿"""
 Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
-Tracks consecutive failures per site and warns if a scraper looks broken -
-unless that site sets ALLOW_EMPTY_RESULTS = True (for watcher-style
-monitors that are expected to return nothing most of the time), or sets
-ZERO_STREAK_THRESHOLD_OVERRIDE to require more failures before warning
-(for sites with known intermittent, self-resolving blocking).
+Tracks how long each site has been continuously failing and warns based
+on elapsed real time (not raw check count), so alert timing stays
+sensible regardless of how often the workflow itself runs.
+Unless a site sets ALLOW_EMPTY_RESULTS = True (for watcher-style
+monitors that are expected to return nothing most of the time).
 Sends a separate priority alert for products matching priority_keywords.json.
 """
 
 import json
+from datetime import datetime, timezone
 from pathlib import Path
 
 from notify import notify_new_products, notify_scraper_warning, notify_scraper_recovered, notify_priority_products
@@ -44,7 +45,7 @@ SITES = [
     (coolshit_availability_monitor.SITE_NAME, coolshit_availability_monitor),
 ]
 
-ZERO_STREAK_WARNING_THRESHOLD = 3
+DEFAULT_FAILURE_THRESHOLD_MINUTES = 90
 
 
 def load_state() -> dict:
@@ -60,22 +61,24 @@ def save_state(state: dict) -> None:
 def get_site_state(state: dict, site_name: str) -> dict:
     entry = state.get(site_name)
     if entry is None:
-        return {"seen_ids": [], "zero_streak": 0, "warned": False}
+        return {"seen_ids": [], "zero_streak": 0, "warned": False, "first_failure_at": None}
     if isinstance(entry, list):
-        return {"seen_ids": entry, "zero_streak": 0, "warned": False}
+        return {"seen_ids": entry, "zero_streak": 0, "warned": False, "first_failure_at": None}
+    entry.setdefault("first_failure_at", None)
     return entry
 
 
 def main():
     state = load_state()
     priority_keywords = load_priority_keywords()
+    now = datetime.now(timezone.utc)
 
     for site_name, site_module in SITES:
         print(f"Checking {site_name}...")
         site_state = get_site_state(state, site_name)
         seen_ids = set(site_state["seen_ids"])
         allow_empty = getattr(site_module, "ALLOW_EMPTY_RESULTS", False)
-        threshold = getattr(site_module, "ZERO_STREAK_THRESHOLD_OVERRIDE", ZERO_STREAK_WARNING_THRESHOLD)
+        threshold_minutes = getattr(site_module, "FAILURE_THRESHOLD_MINUTES", DEFAULT_FAILURE_THRESHOLD_MINUTES)
 
         try:
             current_products = site_module.get_current_products()
@@ -86,10 +89,16 @@ def main():
             fetch_failed = True
 
         if fetch_failed or (not current_products and not allow_empty):
+            if site_state["zero_streak"] == 0 or not site_state.get("first_failure_at"):
+                site_state["first_failure_at"] = now.isoformat()
             site_state["zero_streak"] += 1
-            print(f"  No products found (zero streak: {site_state['zero_streak']})")
-            if site_state["zero_streak"] >= threshold and not site_state["warned"]:
-                notify_scraper_warning(site_name, site_state["zero_streak"])
+
+            first_failure_at = datetime.fromisoformat(site_state["first_failure_at"])
+            elapsed_minutes = (now - first_failure_at).total_seconds() / 60
+            print(f"  No products found (failing for {elapsed_minutes:.0f} min)")
+
+            if elapsed_minutes >= threshold_minutes and not site_state["warned"]:
+                notify_scraper_warning(site_name, int(elapsed_minutes))
                 site_state["warned"] = True
             state[site_name] = site_state
             continue
@@ -98,6 +107,7 @@ def main():
             notify_scraper_recovered(site_name)
         site_state["zero_streak"] = 0
         site_state["warned"] = False
+        site_state["first_failure_at"] = None
 
         current_products = current_products or []
         current_ids = {p["id"] for p in current_products}
