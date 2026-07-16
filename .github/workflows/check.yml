@@ -1,4 +1,4 @@
-﻿name: Check for new Pokemon TCG products
+name: Check for new Pokemon TCG products
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: regular-check
+  group: pokemon-tracker-run
   cancel-in-progress: false
 
 jobs:
