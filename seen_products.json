@@ -196,30 +196,30 @@
       "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-sv-white-flare-and-black-bolt-elite-trainer-box-set",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-enhanced-booster-box"
     ],
-    "zero_streak": 0,
+    "zero_streak": 2,
     "warned": false
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "9716528414960",
-      "9716525269232",
-      "10070962241776",
-      "9716525105392",
-      "9890801385712",
-      "9875903938800",
+      "10076303622384",
       "9788449849584",
+      "9875903938800",
+      "9716525269232",
+      "9716525105392",
+      "10070962241776",
       "9756131819760",
-      "10076303622384"
+      "9716528414960",
+      "9890801385712"
     ],
     "zero_streak": 1,
     "warned": false
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9328364945647",
-      "8540499149039",
       "9464484921583",
+      "8540499149039",
       "9464484626671",
+      "9328364945647",
       "9464484790511"
     ],
     "zero_streak": 1,
