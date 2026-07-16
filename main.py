@@ -2,11 +2,9 @@
 Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
 Tracks how long each site has been continuously failing and warns based
-on elapsed real time (not raw check count), so alert timing stays
-sensible regardless of how often the workflow itself runs.
-Unless a site sets ALLOW_EMPTY_RESULTS = True (for watcher-style
-monitors that are expected to return nothing most of the time).
-Sends a separate priority alert for products matching priority_keywords.json.
+on elapsed real time (not raw check count).
+Also writes status.json (site health snapshot) and release_history.json
+(a running feed of finds) for the dashboard.
 """
 
 import json
@@ -29,6 +27,9 @@ from sites import celebrationbox_monitor
 from sites import coolshit_availability_monitor
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
+STATUS_FILE = Path(__file__).parent / "status.json"
+HISTORY_FILE = Path(__file__).parent / "release_history.json"
+MAX_HISTORY_ENTRIES = 300
 
 SITES = [
     (jbhifi.SITE_NAME, jbhifi),
@@ -58,6 +59,23 @@ def save_state(state: dict) -> None:
     STATE_FILE.write_text(json.dumps(state, indent=2))
 
 
+def load_history() -> list:
+    if HISTORY_FILE.exists():
+        try:
+            return json.loads(HISTORY_FILE.read_text(encoding="utf-8-sig"))
+        except Exception:
+            return []
+    return []
+
+
+def save_history(history: list) -> None:
+    HISTORY_FILE.write_text(json.dumps(history[-MAX_HISTORY_ENTRIES:], indent=2))
+
+
+def save_status(status: dict) -> None:
+    STATUS_FILE.write_text(json.dumps(status, indent=2))
+
+
 def get_site_state(state: dict, site_name: str) -> dict:
     entry = state.get(site_name)
     if entry is None:
@@ -71,6 +89,8 @@ def get_site_state(state: dict, site_name: str) -> dict:
 def main():
     state = load_state()
     priority_keywords = load_priority_keywords()
+    history = load_history()
+    status = {}
     now = datetime.now(timezone.utc)
 
     for site_name, site_module in SITES:
@@ -100,6 +120,12 @@ def main():
             if elapsed_minutes >= threshold_minutes and not site_state["warned"]:
                 notify_scraper_warning(site_name, int(elapsed_minutes))
                 site_state["warned"] = True
+
+            status[site_name] = {
+                "last_checked": now.isoformat(),
+                "healthy": False,
+                "failing_minutes": round(elapsed_minutes),
+            }
             state[site_name] = site_state
             continue
 
@@ -123,13 +149,30 @@ def main():
                 notify_priority_products(site_name, priority_matches)
             if regular_matches:
                 notify_new_products(site_name, regular_matches)
+
+            for p in new_products:
+                history.append({
+                    "site": site_name,
+                    "title": p["title"],
+                    "url": p["url"],
+                    "price": p.get("price"),
+                    "timestamp": now.isoformat(),
+                    "priority": p in priority_matches,
+                })
         else:
             print("  No new products")
 
+        status[site_name] = {
+            "last_checked": now.isoformat(),
+            "healthy": True,
+            "failing_minutes": 0,
+        }
         site_state["seen_ids"] = list(current_ids)
         state[site_name] = site_state
 
     save_state(state)
+    save_history(history)
+    save_status({"generated_at": now.isoformat(), "sites": status})
 
 
 if __name__ == "__main__":

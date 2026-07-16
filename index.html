@@ -1,0 +1,213 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Pokemon TCG Tracker - NZ</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    --bg: #0f1117;
+    --card: #171a23;
+    --border: #2a2e3a;
+    --text: #e8e8ec;
+    --muted: #8a8fa3;
+    --green: #3ddc84;
+    --red: #ff5a5f;
+    --yellow: #ffb020;
+    --accent: #ffcb05;
+    --accent2: #ee1515;
+  }
+  * { box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 24px;
+  }
+  .header {
+    text-align: center;
+    margin-bottom: 32px;
+  }
+  .header h1 {
+    font-size: 28px;
+    margin: 0 0 4px 0;
+    background: linear-gradient(90deg, var(--accent), var(--accent2));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .header p { color: var(--muted); margin: 0; font-size: 14px; }
+  .container { max-width: 1000px; margin: 0 auto; }
+  .section-title {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--muted);
+    margin: 32px 0 12px 0;
+  }
+  .countdown {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+  }
+  .countdown .days { font-size: 40px; font-weight: 700; color: var(--accent); }
+  .countdown .label { color: var(--muted); font-size: 14px; margin-top: 4px; }
+  .site-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 12px;
+  }
+  .site-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px;
+  }
+  .site-card .name { font-weight: 600; font-size: 14px; margin-bottom: 6px; }
+  .dot {
+    display: inline-block;
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    margin-right: 6px;
+  }
+  .dot.healthy { background: var(--green); }
+  .dot.unhealthy { background: var(--red); }
+  .site-card .meta { font-size: 12px; color: var(--muted); }
+  .feed-item {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+  }
+  .feed-item.priority { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent) inset; }
+  .feed-item a { color: var(--text); text-decoration: none; font-weight: 600; font-size: 14px; }
+  .feed-item a:hover { color: var(--accent); }
+  .feed-item .sub { color: var(--muted); font-size: 12px; margin-top: 3px; }
+  .feed-item .price { color: var(--green); font-weight: 700; white-space: nowrap; }
+  .badge {
+    display: inline-block;
+    background: var(--accent);
+    color: #000;
+    font-size: 10px;
+    font-weight: 700;
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin-left: 6px;
+    vertical-align: middle;
+  }
+  .empty { color: var(--muted); font-size: 14px; text-align: center; padding: 20px; }
+  .footer { text-align: center; color: var(--muted); font-size: 12px; margin-top: 40px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <h1>Pokemon TCG Tracker</h1>
+    <p>Watching New Zealand retailers for new stock, 24/7, for free</p>
+  </div>
+
+  <div class="section-title">Next Known Release</div>
+  <div class="countdown" id="countdown">Loading...</div>
+
+  <div class="section-title">Site Health</div>
+  <div class="site-grid" id="siteGrid">Loading...</div>
+
+  <div class="section-title">Recent Finds</div>
+  <div id="feed">Loading...</div>
+
+  <div class="footer" id="footer"></div>
+</div>
+
+<script>
+async function loadJSON(path) {
+  try {
+    const res = await fetch(path + '?t=' + Date.now());
+    if (!res.ok) return null;
+    return await res.json();
+  } catch (e) {
+    return null;
+  }
+}
+
+function timeAgo(isoString) {
+  const diffMs = Date.now() - new Date(isoString).getTime();
+  const mins = Math.round(diffMs / 60000);
+  if (mins < 1) return 'just now';
+  if (mins < 60) return mins + 'm ago';
+  const hours = Math.round(mins / 60);
+  if (hours < 24) return hours + 'h ago';
+  return Math.round(hours / 24) + 'd ago';
+}
+
+async function render() {
+  const status = await loadJSON('status.json');
+  const history = await loadJSON('release_history.json');
+  const hypeWindows = await loadJSON('hype_windows.json');
+
+  // Countdown
+  const countdownEl = document.getElementById('countdown');
+  if (hypeWindows && hypeWindows.length) {
+    const now = new Date();
+    const upcoming = hypeWindows
+      .map(w => ({ ...w, startDate: new Date(w.start) }))
+      .filter(w => w.startDate >= now || new Date(w.end) >= now)
+      .sort((a, b) => a.startDate - b.startDate);
+    if (upcoming.length) {
+      const next = upcoming[0];
+      const daysUntil = Math.ceil((next.startDate - now) / 86400000);
+      countdownEl.innerHTML = daysUntil > 0
+        ? `<div class="days">${daysUntil}</div><div class="label">day(s) until ${next.label}</div>`
+        : `<div class="days">LIVE</div><div class="label">${next.label} window is active now</div>`;
+    } else {
+      countdownEl.innerHTML = '<div class="label">No upcoming windows scheduled</div>';
+    }
+  } else {
+    countdownEl.innerHTML = '<div class="label">No hype window data available</div>';
+  }
+
+  // Site grid
+  const gridEl = document.getElementById('siteGrid');
+  if (status && status.sites) {
+    gridEl.innerHTML = Object.entries(status.sites).map(([name, s]) => `
+      <div class="site-card">
+        <div class="name"><span class="dot ${s.healthy ? 'healthy' : 'unhealthy'}"></span>${name}</div>
+        <div class="meta">${s.healthy ? 'Healthy' : 'Failing ' + s.failing_minutes + ' min'} - checked ${timeAgo(s.last_checked)}</div>
+      </div>
+    `).join('');
+  } else {
+    gridEl.innerHTML = '<div class="empty">No status data yet - runs after the next scheduled check</div>';
+  }
+
+  // Feed
+  const feedEl = document.getElementById('feed');
+  if (history && history.length) {
+    const sorted = [...history].reverse().slice(0, 40);
+    feedEl.innerHTML = sorted.map(item => `
+      <div class="feed-item ${item.priority ? 'priority' : ''}">
+        <div>
+          <a href="${item.url}" target="_blank">${item.title}</a>${item.priority ? '<span class="badge">PRIORITY</span>' : ''}
+          <div class="sub">${item.site} - ${timeAgo(item.timestamp)}</div>
+        </div>
+        ${item.price ? `<div class="price">${item.price}</div>` : ''}
+      </div>
+    `).join('');
+  } else {
+    feedEl.innerHTML = '<div class="empty">No finds recorded yet</div>';
+  }
+
+  document.getElementById('footer').textContent = 'Last updated: ' + (status ? new Date(status.generated_at).toLocaleString() : 'unknown');
+}
+
+render();
+setInterval(render, 60000);
+</script>
+</body>
+</html>
