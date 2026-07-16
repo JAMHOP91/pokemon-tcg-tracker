@@ -1,4 +1,4 @@
-﻿"""
+"""
 Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
 Tracks how long each site has been continuously failing and warns based
@@ -25,6 +25,7 @@ from sites import wpgames
 from sites import collectallday
 from sites import celebrationbox_monitor
 from sites import coolshit_availability_monitor
+from sites import tcgcollectornz
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 STATUS_FILE = Path(__file__).parent / "status.json"
@@ -44,6 +45,7 @@ SITES = [
     (collectallday.SITE_NAME, collectallday),
     (celebrationbox_monitor.SITE_NAME, celebrationbox_monitor),
     (coolshit_availability_monitor.SITE_NAME, coolshit_availability_monitor),
+    (tcgcollectornz.SITE_NAME, tcgcollectornz),
 ]
 
 DEFAULT_FAILURE_THRESHOLD_MINUTES = 90

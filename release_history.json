@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Evolution: Perfect Order Booster Box *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-perfect-order-booster-box-sealed-pre-order-ships-apr-10th-copy",
+    "price": "$360.00",
+    "timestamp": "2026-07-16T23:09:00.859819+00:00",
+    "priority": true
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Zygarde ex Premium Collection *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-zygarde-ex-premium-collection-sealed",
+    "price": "$95.99",
+    "timestamp": "2026-07-16T23:09:00.859819+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Miraidon ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-miraidon-ex-sealed",
+    "price": "$71.99",
+    "timestamp": "2026-07-16T23:09:00.859819+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Mega Lucario ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-mega-lucario-ex-sealed-pre-order-ships-may-22nd",
+    "price": "$71.99",
+    "timestamp": "2026-07-16T23:09:00.859819+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Team Rocket's Mewtwo ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-team-rockets-mewtwo-ex-sealed",
+    "price": "$71.99",
+    "timestamp": "2026-07-16T23:09:00.859819+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Dragapult ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-dragapult-ex-sealed",
+    "price": "$71.99",
+    "timestamp": "2026-07-16T23:09:00.859819+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Charizard ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-charizard-ex-sealed-pre-order-ships-nov-15th",
+    "price": "$71.99",
+    "timestamp": "2026-07-16T23:09:00.859819+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Battle Academy Board Game 2024 *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-battle-academy-board-game-2024-sealed-pre-order-ships-june-21st",
+    "price": "$59.99",
+    "timestamp": "2026-07-16T23:09:00.859819+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: 2025 World Championships Deck *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-2025-world-championships-deck-sealed",
+    "price": "$50.00",
+    "timestamp": "2026-07-16T23:09:00.859819+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Deluxe Battle Deck - Miraidon/Koraidon ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-deluxe-battle-deck-miraidon-koraidon-ex-sealed-pre-order-ships-sep",
+    "price": "$44.99",
+    "timestamp": "2026-07-16T23:09:00.859819+00:00",
+    "priority": false
+  }
+]
