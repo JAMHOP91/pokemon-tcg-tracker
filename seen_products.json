@@ -196,7 +196,7 @@
       "https://www.tcgnz.co.nz/product-page/pre-order-one-piece-booster-box-a-fist-of-divine-speed-op-11",
       "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-sv-unova-mini-tin-sealed-box-8-tins"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false
   },
   "Cardtopia NZ": {
@@ -218,8 +218,8 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9328364945647",
-      "8540499149039"
+      "8540499149039",
+      "9328364945647"
     ],
     "zero_streak": 0,
     "warned": false
