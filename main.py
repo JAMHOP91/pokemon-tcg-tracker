@@ -26,6 +26,7 @@ from sites import collectallday
 from sites import celebrationbox_monitor
 from sites import coolshit_availability_monitor
 from sites import tcgcollectornz
+from sites import hobbymaster
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 STATUS_FILE = Path(__file__).parent / "status.json"
@@ -46,6 +47,7 @@ SITES = [
     (celebrationbox_monitor.SITE_NAME, celebrationbox_monitor),
     (coolshit_availability_monitor.SITE_NAME, coolshit_availability_monitor),
     (tcgcollectornz.SITE_NAME, tcgcollectornz),
+    (hobbymaster.SITE_NAME, hobbymaster),
 ]
 
 DEFAULT_FAILURE_THRESHOLD_MINUTES = 90
