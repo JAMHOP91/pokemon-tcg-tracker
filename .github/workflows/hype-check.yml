@@ -1,4 +1,4 @@
-﻿name: Fast check during hype windows
+name: Fast check during hype windows
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: hype-window-check
+  group: pokemon-tracker-run
   cancel-in-progress: false
 
 jobs:
