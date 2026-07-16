@@ -211,8 +211,8 @@
       "9756131819760",
       "9716525105392"
     ],
-    "zero_streak": 0,
-    "warned": false
+    "zero_streak": 3,
+    "warned": true
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
@@ -222,7 +222,7 @@
       "9464484790511",
       "9464484626671"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false
   },
   "Collect All Day": {
