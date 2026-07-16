@@ -150,7 +150,7 @@
       "7540284915875",
       "8907349262499"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false
   },
   "Hobby Lords - Pokemon": {
@@ -196,20 +196,20 @@
       "https://www.tcgnz.co.nz/product-page/pokemon-tcg-team-rocket-tin",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-enhanced-booster-box"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "9716525105392",
-      "9788449849584",
-      "10070962241776",
-      "9890801385712",
-      "9716525269232",
-      "9875903938800",
       "10076303622384",
+      "9716525269232",
+      "10070962241776",
+      "9788449849584",
+      "9716525105392",
+      "9890801385712",
       "9756131819760",
-      "9716528414960"
+      "9716528414960",
+      "9875903938800"
     ],
     "zero_streak": 1,
     "warned": false
@@ -222,7 +222,7 @@
       "9464484626671",
       "9464484790511"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false
   },
   "Collect All Day": {
