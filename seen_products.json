@@ -96,8 +96,6 @@
     "seen_ids": [
       "7850575888445",
       "7850575986749",
-      "7560189280317",
-      "7558380781629",
       "7850575495229",
       "7558377046077",
       "7558378455101",
@@ -196,7 +194,7 @@
       "https://www.tcgnz.co.nz/product-page/pokemon-tcg-team-rocket-tin",
       "https://www.tcgnz.co.nz/product-page/one-piece-card-game-booster-display-royal-blood-op-10"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false
   },
   "Cardtopia NZ": {
@@ -207,6 +205,8 @@
       "9716525105392",
       "9756131819760",
       "9890801385712",
+      "9716525105392",
+      "10070962241776",
       "9788449849584",
       "9716528414960",
       "9875903938800"
