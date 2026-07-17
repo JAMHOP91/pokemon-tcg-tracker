@@ -1,10 +1,11 @@
 ﻿"""
-TCG NZ - Pokemon TCG. Runs on Wix. Finds products by the confirmed
-data-hook="product-item-name" title element, then walks up to whichever
-link wraps it (avoids depending on guessing the wrapper's exact name).
+TCG NZ - Pokemon TCG. Runs on Wix.
 
-Retries a couple of times before giving up, since Wix sites can be
-slow to fully render on a given attempt.
+Two-step check: first scans the listing page for candidate products,
+then visits each candidate's own product page to confirm it's actually
+in stock. Uses domcontentloaded + a short fixed wait instead of
+networkidle, since Wix's background chat/analytics activity can prevent
+networkidle from ever being reached.
 """
 
 import time
@@ -19,7 +20,7 @@ RETRY_DELAY_SECONDS = 10
 
 
 def _try_fetch_once() -> list[dict]:
-    products = []
+    candidates = []
     seen_hrefs = set()
 
     with sync_playwright() as p:
@@ -27,8 +28,8 @@ def _try_fetch_once() -> list[dict]:
         page = browser.new_page(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
         )
-        page.goto(LISTING_URL, timeout=30000)
-        page.wait_for_load_state("networkidle", timeout=20000)
+        page.goto(LISTING_URL, timeout=30000, wait_until="domcontentloaded")
+        page.wait_for_timeout(4000)
         page.wait_for_selector(TITLE_SELECTOR, timeout=30000, state="attached")
         titles = page.query_selector_all(TITLE_SELECTOR)
         for title_el in titles:
@@ -53,7 +54,20 @@ def _try_fetch_once() -> list[dict]:
             product_url = href if href.startswith("http") else f"https://www.tcgnz.co.nz{href}"
             price_el = card.query_selector('[data-hook="product-item-price-to-pay"]')
             price = price_el.inner_text().strip() if price_el else None
-            products.append({"id": product_url, "title": title, "url": product_url, "price": price})
+            candidates.append({"id": product_url, "title": title, "url": product_url, "price": price})
+
+        products = []
+        for candidate in candidates:
+            try:
+                page.goto(candidate["url"], timeout=20000, wait_until="domcontentloaded")
+                page.wait_for_timeout(2500)
+                body_text = page.inner_text("body").lower()
+                if "out of stock" in body_text:
+                    continue
+                products.append(candidate)
+            except Exception:
+                continue
+
         browser.close()
 
     return products
