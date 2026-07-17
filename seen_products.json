@@ -91,9 +91,9 @@
       "7753997320341",
       "7561509896341"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T08:48:20.842585+00:00"
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
@@ -154,9 +154,9 @@
       "9081919176867",
       "8805645254819"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T08:48:20.842585+00:00"
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
