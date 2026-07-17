@@ -171,8 +171,16 @@
       "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-lucario",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-jose-cruz-galindo-resendiz",
       "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-rayquaza",
+      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
+      "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-lucario",
       "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-blaziken",
-      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest"
+      "https://www.hobbylords.co.nz/products/single/gengar-premium-blind-box",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
+      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-jose-cruz-galindo-resendiz",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
+      "https://www.hobbylords.co.nz/products/single/lucario-card-display-gift-set-simplified-chinese-ver-"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -218,9 +226,9 @@
       "9716528414960",
       "10076303622384"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T19:34:06.312803+00:00"
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
@@ -228,9 +236,9 @@
       "9328364945647",
       "9464484921583"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T19:34:06.312803+00:00"
   },
   "Collect All Day": {
     "seen_ids": [
@@ -275,9 +283,9 @@
       "7985678516420",
       "7511695261892"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T19:34:06.312803+00:00"
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
