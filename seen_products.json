@@ -154,9 +154,9 @@
       "8856349376675",
       "9101958414499"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T10:50:52.435910+00:00"
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
