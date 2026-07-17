@@ -7,9 +7,9 @@
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T06:14:36.284502+00:00"
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
@@ -21,6 +21,11 @@
       "https://www.coolshit.co.nz/product/mega-evolution-ascended-heroes-elite-trainer-box",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/Megamoonlight",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-zygarde-ex-premium-collection-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-greninja-ex-premium-collection-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-charizard-tin",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolutionpitch-black-three-booster-blister-pre-order",
+      "https://www.coolshit.co.nz/product/pokemon-tcg-dec-25-collectors-chest-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolutionascended-heroes-collectionerikalarry",
       "https://www.coolshit.co.nz/product/pokemon-tcg-2-pack-blister",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-greninja-ex-premium-collection-pre-order",
@@ -161,6 +166,7 @@
   "Hobby Lords - Pokemon": {
     "seen_ids": [
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
+      "https://www.hobbylords.co.nz/products/single/pokemon-model-kit-miraidon",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
       "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-rayquaza",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
