@@ -91,9 +91,9 @@
       "8760560877717",
       "8760569692309"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T19:41:07.274291+00:00"
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
@@ -301,7 +301,7 @@
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/47050"
     ],
-    "zero_streak": 0,
+    "zero_streak": 2,
     "warned": false,
     "first_failure_at": null
   }
