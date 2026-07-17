@@ -350,5 +350,21 @@
     "price": "$31.99",
     "timestamp": "2026-07-17T06:32:09.824023+00:00",
     "priority": true
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon Japanese \u2013 Special BOX \u2013 Pokemon Center Tohoku",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-japanese-special-box-pokemon-center-tohoku",
+    "price": "$449.99",
+    "timestamp": "2026-07-17T07:38:34.473125+00:00",
+    "priority": false
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Three Booster Blister",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-three-booster-blister",
+    "price": "$32.99",
+    "timestamp": "2026-07-17T07:38:34.473125+00:00",
+    "priority": true
   }
 ]
