@@ -1,74 +1,74 @@
 {
-  "generated_at": "2026-07-17T05:23:00.477474+00:00",
+  "generated_at": "2026-07-17T05:29:40.246756+00:00",
   "sites": {
     "JB Hi-Fi NZ": {
-      "last_checked": "2026-07-17T05:23:00.477474+00:00",
+      "last_checked": "2026-07-17T05:29:40.246756+00:00",
       "healthy": false,
-      "failing_minutes": 14
+      "failing_minutes": 20
     },
     "Cool Shit - Pokemon": {
-      "last_checked": "2026-07-17T05:23:00.477474+00:00",
+      "last_checked": "2026-07-17T05:29:40.246756+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "The Game Tree NZ": {
-      "last_checked": "2026-07-17T05:23:00.477474+00:00",
-      "healthy": true,
-      "failing_minutes": 0
-    },
-    "Otakumart - Pokemon TCG": {
-      "last_checked": "2026-07-17T05:23:00.477474+00:00",
-      "healthy": true,
-      "failing_minutes": 0
-    },
-    "Card Masters NZ": {
-      "last_checked": "2026-07-17T05:23:00.477474+00:00",
+      "last_checked": "2026-07-17T05:29:40.246756+00:00",
       "healthy": false,
       "failing_minutes": 0
     },
+    "Otakumart - Pokemon TCG": {
+      "last_checked": "2026-07-17T05:29:40.246756+00:00",
+      "healthy": false,
+      "failing_minutes": 0
+    },
+    "Card Masters NZ": {
+      "last_checked": "2026-07-17T05:29:40.246756+00:00",
+      "healthy": false,
+      "failing_minutes": 7
+    },
     "Hobby Lords - Pokemon": {
-      "last_checked": "2026-07-17T05:23:00.477474+00:00",
+      "last_checked": "2026-07-17T05:29:40.246756+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "TCG NZ": {
-      "last_checked": "2026-07-17T05:23:00.477474+00:00",
+      "last_checked": "2026-07-17T05:29:40.246756+00:00",
       "healthy": false,
-      "failing_minutes": 99
+      "failing_minutes": 106
     },
     "Cardtopia NZ": {
-      "last_checked": "2026-07-17T05:23:00.477474+00:00",
+      "last_checked": "2026-07-17T05:29:40.246756+00:00",
       "healthy": false,
-      "failing_minutes": 0
+      "failing_minutes": 7
     },
     "WP Games - Pokemon TCG": {
-      "last_checked": "2026-07-17T05:23:00.477474+00:00",
-      "healthy": true,
+      "last_checked": "2026-07-17T05:29:40.246756+00:00",
+      "healthy": false,
       "failing_minutes": 0
     },
     "Collect All Day": {
-      "last_checked": "2026-07-17T05:23:00.477474+00:00",
+      "last_checked": "2026-07-17T05:29:40.246756+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "30th Celebration Box - Web Monitor": {
-      "last_checked": "2026-07-17T05:23:00.477474+00:00",
+      "last_checked": "2026-07-17T05:29:40.246756+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Cool Shit - Coming Soon Watch": {
-      "last_checked": "2026-07-17T05:23:00.477474+00:00",
+      "last_checked": "2026-07-17T05:29:40.246756+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "TCG Collector NZ": {
-      "last_checked": "2026-07-17T05:23:00.477474+00:00",
+      "last_checked": "2026-07-17T05:29:40.246756+00:00",
       "healthy": false,
-      "failing_minutes": 0
+      "failing_minutes": 7
     },
     "Hobby Master - Pokemon": {
-      "last_checked": "2026-07-17T05:23:00.477474+00:00",
-      "healthy": true,
+      "last_checked": "2026-07-17T05:29:40.246756+00:00",
+      "healthy": false,
       "failing_minutes": 0
     }
   }
