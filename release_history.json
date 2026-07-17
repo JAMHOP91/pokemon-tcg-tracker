@@ -414,5 +414,13 @@
     "price": "$95.99",
     "timestamp": "2026-07-17T13:40:24.230464+00:00",
     "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: 2025 World Championships Deck *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-2025-world-championships-deck-sealed",
+    "price": "$50.00",
+    "timestamp": "2026-07-17T13:57:15.748409+00:00",
+    "priority": false
   }
 ]
