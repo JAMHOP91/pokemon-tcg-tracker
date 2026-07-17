@@ -390,5 +390,13 @@
     "price": "$649.99",
     "timestamp": "2026-07-17T11:13:36.495308+00:00",
     "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pok\u00e9mon TCG: MEGA Munix Zero Japanese Booster Pack",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-tcg-mega-munix-zero-japanese-booster-pack",
+    "price": "$7.00",
+    "timestamp": "2026-07-17T12:37:46.198017+00:00",
+    "priority": false
   }
 ]
