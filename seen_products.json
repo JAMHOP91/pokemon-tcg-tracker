@@ -224,9 +224,9 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "8540499149039",
+      "9328364945647",
       "9464484921583",
-      "9328364945647"
+      "8540499149039"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -301,8 +301,8 @@
       "https://hobbymaster.co.nz/products/product/47235",
       "https://hobbymaster.co.nz/products/product/46971"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T14:03:54.135873+00:00"
   }
 }
