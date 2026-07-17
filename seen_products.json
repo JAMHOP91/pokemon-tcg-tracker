@@ -303,8 +303,8 @@
       "https://hobbymaster.co.nz/products/product/45880",
       "https://hobbymaster.co.nz/products/product/47232"
     ],
-    "zero_streak": 0,
+    "zero_streak": 3,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T06:51:05.678488+00:00"
   }
 }
