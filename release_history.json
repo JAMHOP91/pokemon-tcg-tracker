@@ -374,5 +374,13 @@
     "price": "$50.00",
     "timestamp": "2026-07-17T08:38:55.985447+00:00",
     "priority": false
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Three Booster Blister",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-three-booster-blister",
+    "price": "$32.99",
+    "timestamp": "2026-07-17T10:25:12.503348+00:00",
+    "priority": true
   }
 ]
