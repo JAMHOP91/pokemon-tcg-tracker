@@ -270,7 +270,6 @@
       "7866496450756",
       "8249749340356",
       "8027563098308",
-      "8584605696196",
       "8474977435844",
       "7985678516420",
       "7511695261892",
@@ -303,8 +302,8 @@
       "https://hobbymaster.co.nz/products/product/38545",
       "https://hobbymaster.co.nz/products/product/38546"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T08:28:29.444900+00:00"
   }
 }
