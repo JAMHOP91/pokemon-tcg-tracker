@@ -154,9 +154,9 @@
       "9101935771811",
       "8565549564067"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T00:56:47.682865+00:00"
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
@@ -303,8 +303,8 @@
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/46974"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T00:56:47.682865+00:00"
   }
 }
