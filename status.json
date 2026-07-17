@@ -26,6 +26,11 @@
       "healthy": true,
       "failing_minutes": 0
     },
+    "Card Masters NZ": {
+      "last_checked": "2026-07-17T07:55:55.236364+00:00",
+      "healthy": false,
+      "failing_minutes": 0
+    },
     "Hobby Lords - Pokemon": {
       "last_checked": "2026-07-17T08:01:11.665651+00:00",
       "healthy": true,

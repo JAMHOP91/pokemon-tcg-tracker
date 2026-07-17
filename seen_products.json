@@ -91,9 +91,9 @@
       "7330088353941",
       "7330100445333"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T07:55:55.236364+00:00"
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
@@ -154,9 +154,9 @@
       "9054391763107",
       "9107945226403"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T07:55:55.236364+00:00"
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
@@ -303,8 +303,8 @@
       "https://hobbymaster.co.nz/products/product/38548",
       "https://hobbymaster.co.nz/products/product/45463"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T07:55:55.236364+00:00"
   }
 }
