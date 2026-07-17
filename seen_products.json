@@ -7,7 +7,7 @@
       "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister"
     ],
-    "zero_streak": 0,
+    "zero_streak": 3,
     "warned": false,
     "first_failure_at": null
   },
@@ -116,7 +116,7 @@
     ],
     "zero_streak": 2,
     "warned": false,
-    "first_failure_at": "2026-07-17T01:33:35.469579+00:00"
+    "first_failure_at": "2026-07-17T01:35:58.882106+00:00"
   },
   "Card Masters NZ": {
     "seen_ids": [
@@ -209,14 +209,14 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "9716525269232",
+      "9716528414960",
+      "9716525105392",
       "9756131819760",
+      "9788449849584",
       "10076303622384",
       "9890801385712",
       "10070962241776",
-      "9716528414960",
-      "9716525105392",
-      "9788449849584",
-      "9716525269232",
       "9875903938800"
     ],
     "zero_streak": 1,
