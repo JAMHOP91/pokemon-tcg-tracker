@@ -7,7 +7,7 @@
       "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister"
     ],
-    "zero_streak": 0,
+    "zero_streak": 11,
     "warned": false,
     "first_failure_at": null
   },
@@ -266,6 +266,11 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8555386142916",
+      "7511695261892",
+      "8474977435844",
+      "8479841648836",
+      "7985678516420",
       "8249749340356",
       "8479841648836",
       "7866496450756",
