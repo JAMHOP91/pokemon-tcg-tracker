@@ -1,11 +1,11 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
     ],
     "zero_streak": 1,
     "warned": false,
@@ -97,6 +97,13 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
+      "7850575495229",
+      "7558379405373",
+      "7560189280317",
+      "7699941818429",
+      "7560189935677",
+      "7850575888445",
+      "7558381600829",
       "7558380781629",
       "7560189935677",
       "7560189706301",
@@ -120,6 +127,11 @@
   },
   "Card Masters NZ": {
     "seen_ids": [
+      "7540284915875",
+      "8693154349219",
+      "9136790208675",
+      "9134948253859",
+      "9101958414499",
       "9107945226403",
       "9160636137635",
       "8668035317923",
@@ -205,7 +217,7 @@
     ],
     "zero_streak": 2,
     "warned": false,
-    "first_failure_at": "2026-07-17T03:41:25.721557+00:00"
+    "first_failure_at": "2026-07-17T03:43:56.197378+00:00"
   },
   "Cardtopia NZ": {
     "seen_ids": [
