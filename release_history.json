@@ -326,5 +326,13 @@
     "price": "$59.99",
     "timestamp": "2026-07-17T04:00:38.375612+00:00",
     "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Evolution: Perfect Order Booster Box *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-perfect-order-booster-box-sealed-pre-order-ships-apr-10th-copy",
+    "price": "$360.00",
+    "timestamp": "2026-07-17T04:45:48.766725+00:00",
+    "priority": true
   }
 ]
