@@ -318,5 +318,13 @@
     "price": "$31.99",
     "timestamp": "2026-07-17T03:36:15.863566+00:00",
     "priority": true
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Battle Academy Board Game 2024 *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-battle-academy-board-game-2024-sealed-pre-order-ships-june-21st",
+    "price": "$59.99",
+    "timestamp": "2026-07-17T04:00:38.375612+00:00",
+    "priority": false
   }
 ]
