@@ -446,5 +446,13 @@
     "price": "NZ$600.00",
     "timestamp": "2026-07-17T16:50:34.774907+00:00",
     "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
+    "price": "$649.99",
+    "timestamp": "2026-07-17T22:44:24.906290+00:00",
+    "priority": false
   }
 ]
