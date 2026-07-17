@@ -3,8 +3,9 @@ TCG NZ - Pokemon TCG. Runs on Wix.
 
 Two-step check: first scans the listing page for candidate products,
 then visits each candidate's own product page to confirm it's actually
-in stock, since the listing page doesn't always show "out of stock"
-clearly even when the individual product page does.
+in stock. Uses domcontentloaded + a short fixed wait instead of
+networkidle, since Wix's background chat/analytics activity can prevent
+networkidle from ever being reached.
 """
 
 import time
@@ -27,8 +28,8 @@ def _try_fetch_once() -> list[dict]:
         page = browser.new_page(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
         )
-        page.goto(LISTING_URL, timeout=30000)
-        page.wait_for_load_state("networkidle", timeout=20000)
+        page.goto(LISTING_URL, timeout=30000, wait_until="domcontentloaded")
+        page.wait_for_timeout(4000)
         page.wait_for_selector(TITLE_SELECTOR, timeout=30000, state="attached")
         titles = page.query_selector_all(TITLE_SELECTOR)
         for title_el in titles:
@@ -58,8 +59,8 @@ def _try_fetch_once() -> list[dict]:
         products = []
         for candidate in candidates:
             try:
-                page.goto(candidate["url"], timeout=20000)
-                page.wait_for_load_state("networkidle", timeout=15000)
+                page.goto(candidate["url"], timeout=20000, wait_until="domcontentloaded")
+                page.wait_for_timeout(2500)
                 body_text = page.inner_text("body").lower()
                 if "out of stock" in body_text:
                     continue
