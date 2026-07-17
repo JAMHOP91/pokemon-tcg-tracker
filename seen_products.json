@@ -154,9 +154,9 @@
       "9136790044835",
       "9081919176867"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T20:41:48.542930+00:00"
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
@@ -225,8 +225,8 @@
   "WP Games - Pokemon TCG": {
     "seen_ids": [
       "8540499149039",
-      "9464484921583",
-      "9328364945647"
+      "9328364945647",
+      "9464484921583"
     ],
     "zero_streak": 0,
     "warned": false,
