@@ -1,15 +1,15 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister"
     ],
     "zero_streak": 23,
     "warned": false,
-    "first_failure_at": "2026-07-17T15:30:18.065817+00:00"
+    "first_failure_at": null
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
@@ -144,6 +144,21 @@
       "9136791978147",
       "7409030103203",
       "9101958414499",
+      "9158284345507",
+      "9107946176675",
+      "9136746102947",
+      "9000085717155",
+      "8850541740195",
+      "8952687788195",
+      "8668035317923",
+      "8805645254819",
+      "8907349262499",
+      "9134948253859",
+      "8565549564067",
+      "9136790274211",
+      "9101936918691",
+      "9107945226403",
+      "8386235957411",
       "9136790208675",
       "8565549564067",
       "8804082778275",
@@ -224,9 +239,9 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "8540499149039",
+      "9328364945647",
       "9464484921583",
-      "9328364945647"
+      "8540499149039"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -266,6 +281,7 @@
     "seen_ids": [
       "8479841648836",
       "8584605696196",
+      "8479841648836",
       "8027563098308",
       "7985678516420",
       "8555386142916",
