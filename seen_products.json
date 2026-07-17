@@ -9,7 +9,7 @@
     ],
     "zero_streak": 2,
     "warned": false,
-    "first_failure_at": "2026-07-17T01:26:13.324466+00:00"
+    "first_failure_at": "2026-07-17T01:28:29.934525+00:00"
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
@@ -91,9 +91,9 @@
       "7730851184789",
       "7439123284117"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T01:28:29.934525+00:00"
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
@@ -154,9 +154,9 @@
       "9136790208675",
       "7409030103203"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T01:28:29.934525+00:00"
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
@@ -219,9 +219,9 @@
       "10076303622384",
       "9875903938800"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T01:28:29.934525+00:00"
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
@@ -231,12 +231,13 @@
       "9464484626671",
       "9464484790511"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T01:28:29.934525+00:00"
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
