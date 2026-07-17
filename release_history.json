@@ -438,5 +438,13 @@
     "price": "$235.99",
     "timestamp": "2026-07-17T16:25:52.830135+00:00",
     "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Vaporeon VMAX Premium Collection",
+    "url": "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+    "price": "NZ$600.00",
+    "timestamp": "2026-07-17T16:50:34.774907+00:00",
+    "priority": false
   }
 ]
