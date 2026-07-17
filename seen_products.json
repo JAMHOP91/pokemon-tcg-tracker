@@ -9,7 +9,7 @@
     ],
     "zero_streak": 2,
     "warned": false,
-    "first_failure_at": "2026-07-17T18:39:48.768132+00:00"
+    "first_failure_at": "2026-07-17T18:45:29.414973+00:00"
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
@@ -91,9 +91,9 @@
       "8760561172629",
       "7439084388501"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T18:45:29.414973+00:00"
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
@@ -114,9 +114,9 @@
       "7850575986749",
       "7850575888445"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T18:45:29.414973+00:00"
   },
   "Card Masters NZ": {
     "seen_ids": [
@@ -154,9 +154,9 @@
       "9054391763107",
       "8952687788195"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T18:45:29.414973+00:00"
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
@@ -228,9 +228,9 @@
       "9328364945647",
       "9464484921583"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T18:45:29.414973+00:00"
   },
   "Collect All Day": {
     "seen_ids": [
@@ -275,9 +275,9 @@
       "8584605696196",
       "8249749340356"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T18:45:29.414973+00:00"
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
