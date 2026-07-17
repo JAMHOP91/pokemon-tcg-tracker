@@ -213,6 +213,8 @@
       "9716525105392",
       "9890801385712",
       "9788449849584",
+      "9716525105392",
+      "9890801385712",
       "10076303622384",
       "9716528414960",
       "10070962241776",
@@ -303,8 +305,8 @@
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/46971"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T00:43:11.632447+00:00"
   }
 }
