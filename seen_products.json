@@ -209,6 +209,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "9875903938800",
+      "10076303622384",
+      "9716525269232",
       "9716525105392",
       "9788449849584",
       "9890801385712",
@@ -303,8 +306,8 @@
       "https://hobbymaster.co.nz/products/product/47235",
       "https://hobbymaster.co.nz/products/product/46975"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-17T09:15:48.524331+00:00"
   }
 }
