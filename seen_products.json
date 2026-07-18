@@ -274,9 +274,9 @@
       "8479841648836",
       "8474977435844"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T02:19:04.756978+00:00"
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
@@ -300,8 +300,8 @@
       "https://hobbymaster.co.nz/products/product/38546",
       "https://hobbymaster.co.nz/products/product/47223"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T02:19:04.756978+00:00"
   }
 }
