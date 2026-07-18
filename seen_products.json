@@ -216,9 +216,9 @@
       "9875903938800",
       "9716528414960"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T11:00:10.317798+00:00"
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
