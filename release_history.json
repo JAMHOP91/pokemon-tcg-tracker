@@ -614,5 +614,13 @@
     "price": "$59.99",
     "timestamp": "2026-07-18T20:10:20.218706+00:00",
     "priority": false
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "Gengar Premium Blind Box",
+    "url": "https://www.hobbylords.co.nz/products/single/gengar-premium-blind-box",
+    "price": null,
+    "timestamp": "2026-07-18T21:50:10.925896+00:00",
+    "priority": false
   }
 ]
