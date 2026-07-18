@@ -598,5 +598,13 @@
     "price": "$32.99",
     "timestamp": "2026-07-18T15:44:23.049666+00:00",
     "priority": true
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Venusaur VMAX Starter Set",
+    "url": "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+    "price": "NZ$55.00",
+    "timestamp": "2026-07-18T19:06:46.843449+00:00",
+    "priority": false
   }
 ]
