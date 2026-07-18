@@ -89,9 +89,9 @@
       "7330101624981",
       "9011807486101"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T16:01:24.882419+00:00"
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
@@ -112,9 +112,9 @@
       "7558379864125",
       "7560189280317"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T16:01:24.882419+00:00"
   },
   "Card Masters NZ": {
     "seen_ids": [
