@@ -112,9 +112,9 @@
       "7560189706301",
       "7699941818429"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T09:21:58.683915+00:00"
   },
   "Card Masters NZ": {
     "seen_ids": [
@@ -298,7 +298,7 @@
       "https://hobbymaster.co.nz/products/product/47050",
       "https://hobbymaster.co.nz/products/product/45880"
     ],
-    "zero_streak": 0,
+    "zero_streak": 3,
     "warned": false,
     "first_failure_at": null
   }
