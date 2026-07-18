@@ -1,10 +1,10 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 10,
@@ -39,6 +39,12 @@
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolutionpitch-black-three-booster-blister-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-chaos-rising-booster-pre-order",
       "https://www.coolshit.co.nz/product/pokemon-tcg-2-pack-blister-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-zygarde-ex-premium-collection-pre-order",
+      "https://www.coolshit.co.nz/product/mega-evolution-ascended-heroes-mini-tin",
+      "https://www.coolshit.co.nz/product/copy-of-mega-evolution-ascended-heroes-booster-bundle",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-greninja-ex-premium-collection-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-charizard-tin",
+      "https://www.coolshit.co.nz/product/mega-evolution-ascended-heroes-booster-bundle",
       "https://www.coolshit.co.nz/product/minitin",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-chaos-rising-3-booster-blister-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolutionascended-heroes-collectionerikalarry",
@@ -168,6 +174,9 @@
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/-2025-pokemon-tcg-world-championships-deck-liao-fu-guan",
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
+      "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-blaziken",
       "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-lucario",
       "https://www.hobbylords.co.nz/products/single/gengar-premium-blind-box",
       "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-rayquaza",
@@ -300,8 +309,8 @@
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/47051"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T03:01:32.476614+00:00"
   }
 }
