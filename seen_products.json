@@ -206,15 +206,15 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "9875903938800",
-      "9890801385712",
-      "9716528414960",
-      "9788449849584",
       "9756131819760",
-      "9716525269232",
-      "10076303622384",
       "10070962241776",
-      "9716525105392"
+      "9890801385712",
+      "9788449849584",
+      "9716528414960",
+      "9716525105392",
+      "10076303622384",
+      "9875903938800",
+      "9716525269232"
     ],
     "zero_streak": 1,
     "warned": false,
@@ -261,21 +261,16 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8542847107268",
+      "7511695261892",
+      "8584605696196",
+      "8474977435844",
+      "7866496450756",
       "7985678516420",
+      "8555386142916",
       "8479841648836",
       "8249749340356",
-      "8584605696196",
-      "7511695261892",
-      "8474977435844",
-      "8542847107268",
-      "7866496450756",
-      "8555386142916",
-      "7985678516420",
-      "7866496450756",
-      "8027563098308",
-      "8584605696196",
-      "8474977435844",
-      "8542847107268"
+      "8027563098308"
     ],
     "zero_streak": 1,
     "warned": false,
@@ -283,28 +278,28 @@
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
-      "https://hobbymaster.co.nz/products/product/38545",
-      "https://hobbymaster.co.nz/products/product/38548",
-      "https://hobbymaster.co.nz/products/product/45463",
-      "https://hobbymaster.co.nz/products/product/46973",
-      "https://hobbymaster.co.nz/products/product/45880",
-      "https://hobbymaster.co.nz/products/product/46974",
-      "https://hobbymaster.co.nz/products/product/47232",
-      "https://hobbymaster.co.nz/products/product/46975",
-      "https://hobbymaster.co.nz/products/product/46971",
-      "https://hobbymaster.co.nz/products/product/37806",
-      "https://hobbymaster.co.nz/products/product/47223",
-      "https://hobbymaster.co.nz/products/product/38546",
+      "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/47235",
+      "https://hobbymaster.co.nz/products/product/38545",
+      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/38548",
+      "https://hobbymaster.co.nz/products/product/46971",
+      "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/46974",
+      "https://hobbymaster.co.nz/products/product/47050",
+      "https://hobbymaster.co.nz/products/product/37806",
+      "https://hobbymaster.co.nz/products/product/47237",
+      "https://hobbymaster.co.nz/products/product/45880",
+      "https://hobbymaster.co.nz/products/product/47223",
+      "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/46976",
-      "https://hobbymaster.co.nz/products/product/47051",
-      "https://hobbymaster.co.nz/products/product/47050",
-      "https://hobbymaster.co.nz/products/product/45878",
-      "https://hobbymaster.co.nz/products/product/47237"
+      "https://hobbymaster.co.nz/products/product/38546",
+      "https://hobbymaster.co.nz/products/product/45463",
+      "https://hobbymaster.co.nz/products/product/46975"
     ],
     "zero_streak": 2,
     "warned": false,
-    "first_failure_at": "2026-07-18T18:34:41.466398+00:00"
+    "first_failure_at": null
   }
 }
