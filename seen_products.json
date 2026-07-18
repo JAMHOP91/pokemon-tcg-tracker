@@ -19,6 +19,15 @@
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-elite-trainer-boxpre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-charizard-tin",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolutionascended-heroes-collectionerikalarry",
+      "https://www.coolshit.co.nz/product/pokemon-tcg-2-pack-blister-pre-order",
+      "https://www.coolshit.co.nz/product/copy-of-pokemon-tcg-dec-25-collectors-chest-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolutionpitch-black-three-booster-blister-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-venusaur-ex-premium-collectionpre-order",
+      "https://www.coolshit.co.nz/product/mega-evolution-perfect-order-elite-trainer-box",
+      "https://www.coolshit.co.nz/product/PokemonTCGLumioseCityMiniTin",
+      "https://www.coolshit.co.nz/product/mega-evolution-ascended-heroes-booster-bundle",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-chaos-rising-3-booster-blister-pre-order",
+      "https://www.coolshit.co.nz/product/mega-evolution-phantasmal-flames-three-booster-blister-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-chaos-rising-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-chaos-rising-3-booster-blister-pre-order",
@@ -302,6 +311,6 @@
     ],
     "zero_streak": 2,
     "warned": false,
-    "first_failure_at": "2026-07-18T04:30:01.528046+00:00"
+    "first_failure_at": "2026-07-18T04:35:00.295447+00:00"
   }
 }
