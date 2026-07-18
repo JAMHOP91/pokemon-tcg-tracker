@@ -7,7 +7,7 @@
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
     ],
-    "zero_streak": 0,
+    "zero_streak": 23,
     "warned": false,
     "first_failure_at": null
   },
@@ -207,7 +207,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "9875903938800",
+      "9716525105392",
+      "10070962241776",
       "9788449849584",
       "9756131819760",
       "10076303622384",
