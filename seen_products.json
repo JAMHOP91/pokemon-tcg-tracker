@@ -95,22 +95,22 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558378455101",
-      "7699941818429",
-      "7558379864125",
-      "7558378979389",
-      "7850575888445",
-      "7558381600829",
-      "7850575495229",
-      "7558377046077",
-      "7850575986749",
       "7850575822909",
+      "7558377046077",
+      "7850575495229",
+      "7560189706301",
+      "7560189280317",
+      "7558381600829",
+      "7850575888445",
+      "7558378979389",
+      "7558380781629",
+      "7850575986749",
+      "7699941818429",
       "7558379405373",
       "7558377930813",
-      "7560189935677",
-      "7560189280317",
-      "7560189706301",
-      "7558380781629"
+      "7558379864125",
+      "7558378455101",
+      "7560189935677"
     ],
     "zero_streak": 1,
     "warned": false,
@@ -216,15 +216,15 @@
       "9716528414960",
       "9716525269232"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T19:53:28.357543+00:00"
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
       "8540499149039",
-      "9464484921583",
-      "9328364945647"
+      "9328364945647",
+      "9464484921583"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -239,6 +239,11 @@
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/v-strikers-tin",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set"
