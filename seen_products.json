@@ -1,15 +1,15 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
     ],
     "zero_streak": 3,
     "warned": false,
-    "first_failure_at": "2026-07-18T16:39:59.679770+00:00"
+    "first_failure_at": null
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
@@ -47,6 +47,16 @@
       "https://www.coolshit.co.nz/product/pokemon-bundle-deal-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-first-partner-illustration-collectionseries-3-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-greninja-ex-premium-collection-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-chaos-rising-booster-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-chaos-rising-elite-trainer-box-pre-order",
+      "https://www.coolshit.co.nz/product/Firstpartner",
+      "https://www.coolshit.co.nz/product/pokemon-tcg-dec-25-collectors-chest-pre-order",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolutionpitch-black-three-booster-blister-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
+      "https://www.coolshit.co.nz/product/mega-evolution-ascended-heroes-elite-trainer-box",
       "https://www.coolshit.co.nz/product/mega-evolution-perfect-order-booster-box",
       "https://www.coolshit.co.nz/product/mega-evolutionperfect-order-3-booster-blister",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-charizard-tin",
@@ -278,28 +288,28 @@
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
-      "https://hobbymaster.co.nz/products/product/38545",
+      "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/47236",
+      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/38546",
+      "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/37806",
+      "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/46976",
-      "https://hobbymaster.co.nz/products/product/37806",
-      "https://hobbymaster.co.nz/products/product/46975",
-      "https://hobbymaster.co.nz/products/product/38546",
-      "https://hobbymaster.co.nz/products/product/47237",
-      "https://hobbymaster.co.nz/products/product/47232",
-      "https://hobbymaster.co.nz/products/product/47050",
-      "https://hobbymaster.co.nz/products/product/47235",
-      "https://hobbymaster.co.nz/products/product/46974",
-      "https://hobbymaster.co.nz/products/product/38548",
       "https://hobbymaster.co.nz/products/product/47223",
+      "https://hobbymaster.co.nz/products/product/47235",
+      "https://hobbymaster.co.nz/products/product/38548",
       "https://hobbymaster.co.nz/products/product/45880",
-      "https://hobbymaster.co.nz/products/product/46973",
-      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/46974",
+      "https://hobbymaster.co.nz/products/product/38545",
+      "https://hobbymaster.co.nz/products/product/47237",
+      "https://hobbymaster.co.nz/products/product/47050",
       "https://hobbymaster.co.nz/products/product/45463"
     ],
     "zero_streak": 4,
     "warned": false,
-    "first_failure_at": "2026-07-18T16:25:11.812976+00:00"
+    "first_failure_at": null
   }
 }
