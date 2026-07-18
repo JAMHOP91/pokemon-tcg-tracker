@@ -1,15 +1,15 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 26,
     "warned": false,
-    "first_failure_at": "2026-07-18T04:54:56.933712+00:00"
+    "first_failure_at": null
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
@@ -207,8 +207,13 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "9788449849584",
+      "10076303622384",
+      "9716525269232",
+      "10070962241776",
+      "9875903938800",
+      "9890801385712",
       "9756131819760",
+      "9788449849584",
       "9716525105392",
       "9875903938800",
       "10070962241776",
@@ -223,8 +228,8 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "8540499149039",
       "9464484921583",
+      "8540499149039",
       "9328364945647"
     ],
     "zero_streak": 1,
@@ -263,16 +268,16 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8479841648836",
-      "8249749340356",
       "8584605696196",
       "7866496450756",
-      "8542847107268",
-      "8027563098308",
-      "8474977435844",
-      "8555386142916",
       "7985678516420",
-      "7511695261892"
+      "8479841648836",
+      "8249749340356",
+      "8555386142916",
+      "7511695261892",
+      "8474977435844",
+      "8542847107268",
+      "8027563098308"
     ],
     "zero_streak": 1,
     "warned": false,
