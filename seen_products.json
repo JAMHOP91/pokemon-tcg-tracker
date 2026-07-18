@@ -119,6 +119,7 @@
   "Card Masters NZ": {
     "seen_ids": [
       "9101935771811",
+      "9136790044835",
       "9136792109219",
       "9081919176867",
       "8804082778275",
@@ -216,9 +217,9 @@
       "9788449849584",
       "9716528414960"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T16:58:51.938192+00:00"
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
@@ -226,9 +227,9 @@
       "9464484921583",
       "8540499149039"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T16:58:51.938192+00:00"
   },
   "Collect All Day": {
     "seen_ids": [
