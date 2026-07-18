@@ -226,9 +226,9 @@
       "8540499149039",
       "9464484921583"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T15:11:36.786262+00:00"
   },
   "Collect All Day": {
     "seen_ids": [
