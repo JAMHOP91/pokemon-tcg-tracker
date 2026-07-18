@@ -30,6 +30,7 @@
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-chaos-rising-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/mega-evolution-perfect-order-elite-trainer-box",
       "https://www.coolshit.co.nz/product/mega-evolution-perfect-order-booster-bundle",
       "https://www.coolshit.co.nz/product/mega-evolution-perfect-order-elite-trainer-box",
       "https://www.coolshit.co.nz/product/mega-evolution-ascended-heroes-elite-trainer-box",
@@ -90,9 +91,9 @@
       "8758359261333",
       "7330099200149"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T05:08:10.119510+00:00"
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
@@ -113,9 +114,9 @@
       "7560189706301",
       "7558381600829"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T05:08:10.119510+00:00"
   },
   "Card Masters NZ": {
     "seen_ids": [
@@ -153,9 +154,9 @@
       "8565549564067",
       "9054391763107"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T05:08:10.119510+00:00"
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
@@ -214,6 +215,7 @@
       "9756131819760",
       "9788449849584",
       "10076303622384",
+      "9716525105392",
       "9890801385712",
       "9716528414960"
     ],
@@ -300,8 +302,8 @@
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/45878"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T05:08:10.119510+00:00"
   }
 }
