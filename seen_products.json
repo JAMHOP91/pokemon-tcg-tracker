@@ -90,9 +90,9 @@
       "7330101330069",
       "9011807486101"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T02:15:47.053094+00:00"
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
@@ -113,9 +113,9 @@
       "7558378455101",
       "7560189935677"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T02:15:47.053094+00:00"
   },
   "Card Masters NZ": {
     "seen_ids": [
@@ -153,9 +153,9 @@
       "7507178979491",
       "9158284345507"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T02:15:47.053094+00:00"
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
@@ -217,15 +217,15 @@
       "9716528414960",
       "9716525105392"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T02:15:47.053094+00:00"
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9464484921583",
       "8540499149039",
-      "9328364945647",
-      "9464484921583"
+      "9328364945647"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -263,16 +263,16 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "7985678516420",
       "8542847107268",
-      "8027563098308",
-      "7511695261892",
-      "8249749340356",
-      "7866496450756",
-      "8479841648836",
       "8584605696196",
+      "8479841648836",
+      "8249749340356",
       "8474977435844",
-      "8555386142916"
+      "8555386142916",
+      "8027563098308",
+      "7985678516420",
+      "7866496450756",
+      "7511695261892"
     ],
     "zero_streak": 1,
     "warned": false,
@@ -280,25 +280,25 @@
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
-      "https://hobbymaster.co.nz/products/product/46974",
-      "https://hobbymaster.co.nz/products/product/47236",
-      "https://hobbymaster.co.nz/products/product/47232",
-      "https://hobbymaster.co.nz/products/product/38545",
+      "https://hobbymaster.co.nz/products/product/47223",
+      "https://hobbymaster.co.nz/products/product/37806",
       "https://hobbymaster.co.nz/products/product/46971",
-      "https://hobbymaster.co.nz/products/product/45880",
       "https://hobbymaster.co.nz/products/product/46975",
+      "https://hobbymaster.co.nz/products/product/38546",
+      "https://hobbymaster.co.nz/products/product/38545",
+      "https://hobbymaster.co.nz/products/product/47232",
+      "https://hobbymaster.co.nz/products/product/46974",
+      "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/47236",
+      "https://hobbymaster.co.nz/products/product/47235",
+      "https://hobbymaster.co.nz/products/product/38548",
+      "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/46976",
-      "https://hobbymaster.co.nz/products/product/45878",
-      "https://hobbymaster.co.nz/products/product/47235",
-      "https://hobbymaster.co.nz/products/product/46973",
-      "https://hobbymaster.co.nz/products/product/37806",
       "https://hobbymaster.co.nz/products/product/47050",
-      "https://hobbymaster.co.nz/products/product/38546",
-      "https://hobbymaster.co.nz/products/product/47223",
-      "https://hobbymaster.co.nz/products/product/38548",
-      "https://hobbymaster.co.nz/products/product/45463"
+      "https://hobbymaster.co.nz/products/product/45878",
+      "https://hobbymaster.co.nz/products/product/45880"
     ],
     "zero_streak": 1,
     "warned": false,
