@@ -210,6 +210,7 @@
       "9756131819760",
       "9716528414960",
       "9890801385712",
+      "10070962241776",
       "9716525269232",
       "9788449849584",
       "10070962241776",
@@ -222,9 +223,9 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "8540499149039",
+      "9328364945647",
       "9464484921583",
-      "9328364945647"
+      "8540499149039"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -298,8 +299,8 @@
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/47237"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T21:34:46.548684+00:00"
   }
 }
