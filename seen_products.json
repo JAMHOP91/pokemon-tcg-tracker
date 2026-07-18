@@ -9,7 +9,7 @@
     ],
     "zero_streak": 14,
     "warned": false,
-    "first_failure_at": "2026-07-18T03:23:18.443041+00:00"
+    "first_failure_at": "2026-07-18T03:26:57.676479+00:00"
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
@@ -272,7 +272,11 @@
       "8479841648836",
       "8555386142916",
       "8584605696196",
-      "7511695261892"
+      "8555386142916",
+      "8249749340356",
+      "7866496450756",
+      "8474977435844",
+      "8027563098308"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -300,8 +304,8 @@
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/46974"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T03:26:57.676479+00:00"
   }
 }
