@@ -7,9 +7,9 @@
       "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T16:10:26.580054+00:00"
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
@@ -106,6 +106,8 @@
       "7558377046077",
       "7850575888445",
       "7558380781629",
+      "7558379864125",
+      "7560189706301",
       "7558379405373",
       "7560189935677",
       "7850575822909",
