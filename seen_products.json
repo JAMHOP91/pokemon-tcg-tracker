@@ -119,6 +119,9 @@
   "Card Masters NZ": {
     "seen_ids": [
       "8850541740195",
+      "8565549564067",
+      "9136792109219",
+      "9000085717155",
       "9054391763107",
       "9101935771811",
       "9136792109219",
@@ -222,8 +225,8 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9328364945647",
       "9464484921583",
+      "9328364945647",
       "8540499149039"
     ],
     "zero_streak": 0,
@@ -298,8 +301,8 @@
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/38546"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T09:05:00.815787+00:00"
   }
 }
