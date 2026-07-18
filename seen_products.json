@@ -1,15 +1,15 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection"
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister"
     ],
     "zero_streak": 10,
     "warned": false,
-    "first_failure_at": "2026-07-18T08:20:28.550789+00:00"
+    "first_failure_at": null
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
@@ -139,6 +139,19 @@
       "9136791978147",
       "7409030103203",
       "8850541740195",
+      "9000085717155",
+      "8952687788195",
+      "8856349376675",
+      "9136790044835",
+      "9101936459939",
+      "8668035317923",
+      "7540284915875",
+      "9101935771811",
+      "7409030103203",
+      "9081919176867",
+      "9136746102947",
+      "9160636137635",
+      "9101936918691",
       "9158284345507",
       "8856349376675",
       "7540284915875",
