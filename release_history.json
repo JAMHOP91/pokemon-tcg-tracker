@@ -630,5 +630,13 @@
     "price": "NZ$90.00",
     "timestamp": "2026-07-18T22:16:25.441588+00:00",
     "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Hiroshima 2025 Special Collection Box",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-tcg-pokemon-center-hiroshima-2025-special-collection-box",
+    "price": "$549.99",
+    "timestamp": "2026-07-18T22:55:42.696743+00:00",
+    "priority": false
   }
 ]
