@@ -574,5 +574,13 @@
     "price": "NZ$90.00",
     "timestamp": "2026-07-18T12:03:17.900905+00:00",
     "priority": false
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Metal Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-metal-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-07-18T13:32:07.395175+00:00",
+    "priority": false
   }
 ]
