@@ -30,6 +30,14 @@
       "https://www.coolshit.co.nz/product/mega-evolution-phantasmal-flames-three-booster-blister-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-elite-trainer-boxpre-order",
       "https://www.coolshit.co.nz/product/pokemon-bundle-deal-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-first-partner-illustration-collectionseries-3-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolutionpitch-black-three-booster-blister-pre-order",
+      "https://www.coolshit.co.nz/product/copy-of-mega-evolution-ascended-heroes-booster-bundle",
+      "https://www.coolshit.co.nz/product/pokemon-tcg-2-pack-blister-pre-order",
+      "https://www.coolshit.co.nz/product/pokemon-tcg-dec-25-collectors-chest-pre-order",
+      "https://www.coolshit.co.nz/product/Firstpartner",
+      "https://www.coolshit.co.nz/product/mega-evolution-phantasmal-flames-three-booster-blister-pre-order",
+      "https://www.coolshit.co.nz/product/mega-evolution-ascended-heroes-elite-trainer-box",
       "https://www.coolshit.co.nz/product/pokemon-tcg-enhanced-2-pack-blister-2026",
       "https://www.coolshit.co.nz/product/Megamoonlight",
       "https://www.coolshit.co.nz/product/mega-evolution-perfect-order-booster-box",
@@ -110,7 +118,8 @@
       "7560189935677",
       "7850575888445",
       "7558379405373",
-      "7558378979389"
+      "7850575888445",
+      "7850575495229"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -145,6 +154,11 @@
       "9101936918691",
       "9136792109219",
       "7507178979491",
+      "9134948253859",
+      "7409030103203",
+      "8907349262499",
+      "8386235957411",
+      "9136790208675",
       "9107946176675",
       "9136790208675",
       "8856349376675",
@@ -298,8 +312,8 @@
       "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/47051"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-18T22:01:10.256482+00:00"
   }
 }
