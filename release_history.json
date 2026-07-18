@@ -566,5 +566,13 @@
     "price": "$184.99",
     "timestamp": "2026-07-18T10:13:31.915027+00:00",
     "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "V Strikers Tin",
+    "url": "https://www.collectallday.com/new/v-strikers-tin",
+    "price": "NZ$90.00",
+    "timestamp": "2026-07-18T12:03:17.900905+00:00",
+    "priority": false
   }
 ]
