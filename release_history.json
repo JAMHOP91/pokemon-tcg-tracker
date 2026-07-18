@@ -534,5 +534,29 @@
     "price": "NZ$495.00",
     "timestamp": "2026-07-18T08:44:56.773588+00:00",
     "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Vaporeon VMAX Premium Collection",
+    "url": "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+    "price": "NZ$600.00",
+    "timestamp": "2026-07-18T09:27:39.584398+00:00",
+    "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "V Strikers Tin",
+    "url": "https://www.collectallday.com/new/v-strikers-tin",
+    "price": "NZ$90.00",
+    "timestamp": "2026-07-18T09:27:39.584398+00:00",
+    "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Burning Shadows 3-Pack Blister",
+    "url": "https://www.collectallday.com/new/burning-shadows-3-pack",
+    "price": "from NZ$175.00",
+    "timestamp": "2026-07-18T09:27:39.584398+00:00",
+    "priority": false
   }
 ]
