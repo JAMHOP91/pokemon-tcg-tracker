@@ -526,5 +526,13 @@
     "price": "$255.00",
     "timestamp": "2026-07-18T08:23:51.723211+00:00",
     "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Flareon VMAX Premium Collection",
+    "url": "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+    "price": "NZ$495.00",
+    "timestamp": "2026-07-18T08:44:56.773588+00:00",
+    "priority": false
   }
 ]
