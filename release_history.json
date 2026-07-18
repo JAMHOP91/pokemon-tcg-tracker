@@ -638,5 +638,21 @@
     "price": "NZ$495.00",
     "timestamp": "2026-07-18T22:59:00.588747+00:00",
     "priority": false
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "#31 Cleffa - Pok\u00e9mon League (February 2001) - WotC Black Star Promo",
+    "url": "https://thegametree.co.nz/products/cleffa-pokemon-league-february-2001-wotc-black-star-promo",
+    "price": "$23.98",
+    "timestamp": "2026-07-18T23:35:20.851554+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Dragapult ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-dragapult-ex-sealed",
+    "price": "$71.99",
+    "timestamp": "2026-07-18T23:35:20.851554+00:00",
+    "priority": false
   }
 ]
