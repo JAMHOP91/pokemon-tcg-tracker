@@ -222,9 +222,9 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9464484921583",
       "8540499149039",
-      "9328364945647",
-      "9464484921583"
+      "9328364945647"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -240,6 +240,10 @@
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/v-strikers-tin",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set"
     ],
