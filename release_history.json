@@ -494,5 +494,29 @@
     "price": "$255.00",
     "timestamp": "2026-07-18T05:41:59.945689+00:00",
     "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon Chinese Terastal Gathering Booster Box",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-chinese-terastal-gathering-booster-box",
+    "price": "$235.99",
+    "timestamp": "2026-07-18T06:38:26.224862+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon Ninja Spinner Booster Box M4 Japanese",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-ninja-spinner-booster-box-m4-japanese",
+    "price": "$184.99",
+    "timestamp": "2026-07-18T06:38:26.224862+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
+    "price": "$649.99",
+    "timestamp": "2026-07-18T06:38:26.224862+00:00",
+    "priority": false
   }
 ]
