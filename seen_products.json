@@ -7,7 +7,7 @@
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
     ],
-    "zero_streak": 0,
+    "zero_streak": 5,
     "warned": false,
     "first_failure_at": null
   },
@@ -272,9 +272,9 @@
       "8584605696196",
       "7985678516420"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T07:16:32.105810+00:00"
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
@@ -298,7 +298,7 @@
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/45463"
     ],
-    "zero_streak": 0,
+    "zero_streak": 2,
     "warned": false,
     "first_failure_at": null
   }
