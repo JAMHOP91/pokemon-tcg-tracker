@@ -8,7 +8,7 @@
     ],
     "zero_streak": 3,
     "warned": false,
-    "first_failure_at": "2026-07-19T15:49:10.000336+00:00"
+    "first_failure_at": "2026-07-19T16:04:18.032369+00:00"
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
@@ -23,7 +23,6 @@
       "https://www.coolshit.co.nz/product/pokemon-tcg-2-pack-blister",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-chaos-rising-booster-pre-order",
       "https://www.coolshit.co.nz/product/PokemonTCGLumioseCityMiniTin",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-first-partner-illustration-collectionseries-3-pre-order",
       "https://www.coolshit.co.nz/product/mega-evolution-ascended-heroes-booster-bundle",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-chaos-rising-elite-trainer-box-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-zygarde-ex-premium-collection-pre-order",
@@ -277,28 +276,28 @@
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
-      "https://hobbymaster.co.nz/products/product/45463",
-      "https://hobbymaster.co.nz/products/product/38548",
-      "https://hobbymaster.co.nz/products/product/46971",
-      "https://hobbymaster.co.nz/products/product/46974",
-      "https://hobbymaster.co.nz/products/product/47235",
-      "https://hobbymaster.co.nz/products/product/45880",
-      "https://hobbymaster.co.nz/products/product/47223",
-      "https://hobbymaster.co.nz/products/product/38545",
-      "https://hobbymaster.co.nz/products/product/47232",
-      "https://hobbymaster.co.nz/products/product/45878",
-      "https://hobbymaster.co.nz/products/product/47051",
-      "https://hobbymaster.co.nz/products/product/46973",
-      "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/47236",
+      "https://hobbymaster.co.nz/products/product/47223",
+      "https://hobbymaster.co.nz/products/product/46974",
+      "https://hobbymaster.co.nz/products/product/46971",
+      "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/46976",
+      "https://hobbymaster.co.nz/products/product/47237",
+      "https://hobbymaster.co.nz/products/product/38545",
+      "https://hobbymaster.co.nz/products/product/45878",
+      "https://hobbymaster.co.nz/products/product/45880",
       "https://hobbymaster.co.nz/products/product/46975",
+      "https://hobbymaster.co.nz/products/product/45463",
+      "https://hobbymaster.co.nz/products/product/47232",
+      "https://hobbymaster.co.nz/products/product/37806",
       "https://hobbymaster.co.nz/products/product/47050",
+      "https://hobbymaster.co.nz/products/product/47235",
       "https://hobbymaster.co.nz/products/product/38546",
-      "https://hobbymaster.co.nz/products/product/37806"
+      "https://hobbymaster.co.nz/products/product/38548"
     ],
     "zero_streak": 3,
     "warned": false,
-    "first_failure_at": "2026-07-19T15:54:24.400681+00:00"
+    "first_failure_at": null
   }
 }
