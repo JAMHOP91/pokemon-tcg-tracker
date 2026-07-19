@@ -112,9 +112,9 @@
       "7558377930813",
       "7558379864125"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T04:53:13.908204+00:00"
   },
   "Card Masters NZ": {
     "seen_ids": [
