@@ -758,5 +758,13 @@
     "price": "$235.99",
     "timestamp": "2026-07-19T11:52:57.701793+00:00",
     "priority": false
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "Bandai Pokemon Model Kit Mega Rayquaza",
+    "url": "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-rayquaza",
+    "price": null,
+    "timestamp": "2026-07-19T12:44:58.149108+00:00",
+    "priority": false
   }
 ]
