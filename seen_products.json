@@ -216,9 +216,9 @@
       "9716528414960",
       "9875903938800"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T11:57:46.483255+00:00"
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
@@ -226,9 +226,9 @@
       "9328364945647",
       "9464484921583"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T11:57:46.483255+00:00"
   },
   "Collect All Day": {
     "seen_ids": [
@@ -272,9 +272,9 @@
       "8479841648836",
       "7866496450756"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T11:57:46.483255+00:00"
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
@@ -292,6 +292,10 @@
       "https://hobbymaster.co.nz/products/product/38548",
       "https://hobbymaster.co.nz/products/product/45880",
       "https://hobbymaster.co.nz/products/product/46975",
+      "https://hobbymaster.co.nz/products/product/45878",
+      "https://hobbymaster.co.nz/products/product/45463",
+      "https://hobbymaster.co.nz/products/product/47236",
+      "https://hobbymaster.co.nz/products/product/47235",
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/47235",
       "https://hobbymaster.co.nz/products/product/47050",
