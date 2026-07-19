@@ -734,5 +734,13 @@
     "price": "$48.00",
     "timestamp": "2026-07-19T10:36:09.985341+00:00",
     "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Zygarde ex Premium Collection *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-zygarde-ex-premium-collection-sealed",
+    "price": "$95.99",
+    "timestamp": "2026-07-19T10:46:19.579310+00:00",
+    "priority": false
   }
 ]
