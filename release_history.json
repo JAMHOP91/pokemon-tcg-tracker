@@ -718,5 +718,13 @@
     "price": "Sale Price:\nNZ$45.00 \nOriginal Price:\nNZ$55.00",
     "timestamp": "2026-07-19T07:13:45.504463+00:00",
     "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Pokeball Tin (Best of 2021 Series)",
+    "url": "https://www.collectallday.com/new/pokeball-tin-2021",
+    "price": "NZ$120.00",
+    "timestamp": "2026-07-19T09:03:58.024664+00:00",
+    "priority": false
   }
 ]
