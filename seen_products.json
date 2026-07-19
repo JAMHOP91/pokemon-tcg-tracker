@@ -271,9 +271,9 @@
       "7866496450756",
       "8027563098308"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T14:36:25.363180+00:00"
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
