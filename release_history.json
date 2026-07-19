@@ -670,5 +670,13 @@
     "price": "$23.99",
     "timestamp": "2026-07-19T02:57:08.380170+00:00",
     "priority": false
+  },
+  {
+    "site": "JB Hi-Fi NZ",
+    "title": "Pok\u00e9mon TCG: Mega Zygarde ex Premium Collection",
+    "url": "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": null,
+    "timestamp": "2026-07-19T04:07:12.008166+00:00",
+    "priority": false
   }
 ]
