@@ -9,7 +9,7 @@
     ],
     "zero_streak": 21,
     "warned": false,
-    "first_failure_at": "2026-07-18T23:57:53.745360+00:00"
+    "first_failure_at": "2026-07-19T00:02:31.876489+00:00"
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
@@ -112,9 +112,9 @@
       "7558377046077",
       "7558379864125"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T00:02:31.876489+00:00"
   },
   "Card Masters NZ": {
     "seen_ids": [
@@ -152,9 +152,9 @@
       "9081919176867",
       "9101936918691"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T00:02:31.876489+00:00"
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
