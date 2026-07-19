@@ -216,9 +216,9 @@
       "9875903938800",
       "9716528414960"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T07:58:36.736005+00:00"
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
@@ -298,8 +298,8 @@
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/47232"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T07:58:36.736005+00:00"
   }
 }
