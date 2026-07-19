@@ -222,9 +222,9 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "8540499149039",
       "9464484921583",
-      "9328364945647",
-      "8540499149039"
+      "9328364945647"
     ],
     "zero_streak": 1,
     "warned": false,
@@ -272,9 +272,9 @@
       "7866496450756",
       "8249749340356"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T09:57:15.405725+00:00"
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
