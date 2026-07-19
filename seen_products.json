@@ -1,11 +1,11 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister",
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
     ],
     "zero_streak": 4,
     "warned": false,
@@ -89,9 +89,9 @@
       "8760560877717",
       "8713055273109"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T06:14:23.142399+00:00"
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
@@ -112,9 +112,9 @@
       "7850575986749",
       "7558380781629"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T06:14:23.142399+00:00"
   },
   "Card Masters NZ": {
     "seen_ids": [
@@ -152,12 +152,13 @@
       "9107945226403",
       "9107944603811"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T06:14:23.142399+00:00"
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-rayquaza",
@@ -222,9 +223,9 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9464484921583",
       "9328364945647",
-      "8540499149039"
+      "8540499149039",
+      "9464484921583"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -234,6 +235,8 @@
     "seen_ids": [
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/v-strikers-tin",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
