@@ -94,6 +94,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
+      "7558377930813",
+      "7558379864125",
       "7560189935677",
       "7560189706301",
       "7558377046077",
@@ -237,6 +239,7 @@
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/v-strikers-tin",
       "https://www.collectallday.com/new/pokeball-tin-2021",
@@ -297,8 +300,8 @@
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/47237"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T18:48:39.872996+00:00"
   }
 }
