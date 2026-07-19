@@ -215,9 +215,9 @@
       "9716528414960",
       "9716525269232"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T22:36:52.981196+00:00"
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
@@ -225,9 +225,9 @@
       "9464484921583",
       "9328364945647"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T22:36:52.981196+00:00"
   },
   "Collect All Day": {
     "seen_ids": [
@@ -266,6 +266,7 @@
       "8249749340356",
       "8555386142916",
       "8584605696196",
+      "8479841648836",
       "7511695261892",
       "8542847107268",
       "7866496450756",
