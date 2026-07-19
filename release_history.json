@@ -678,5 +678,13 @@
     "price": null,
     "timestamp": "2026-07-19T04:11:08.352842+00:00",
     "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Charizard ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-charizard-ex-sealed-pre-order-ships-nov-15th",
+    "price": "$71.99",
+    "timestamp": "2026-07-19T04:24:07.293191+00:00",
+    "priority": false
   }
 ]
