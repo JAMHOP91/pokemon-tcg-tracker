@@ -6,9 +6,9 @@
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister"
     ],
-    "zero_streak": 0,
+    "zero_streak": 3,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T16:54:59.908043+00:00"
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
@@ -132,6 +132,7 @@
       "9054391763107",
       "8386235957411",
       "9158284345507",
+      "9136790208675",
       "8856349376675",
       "9107945226403",
       "9136790044835",
@@ -221,9 +222,9 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9328364945647",
+      "8540499149039",
       "9464484921583",
-      "8540499149039"
+      "9328364945647"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -262,6 +263,7 @@
     "seen_ids": [
       "7866496450756",
       "8542847107268",
+      "8584605696196",
       "8555386142916",
       "7511695261892",
       "7985678516420",
