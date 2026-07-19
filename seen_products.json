@@ -8,7 +8,7 @@
     ],
     "zero_streak": 0,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T18:39:25.490938+00:00"
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
@@ -94,6 +94,9 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
+      "7560189935677",
+      "7560189280317",
+      "7850575986749",
       "7850575822909",
       "7558378979389",
       "7699941818429",
