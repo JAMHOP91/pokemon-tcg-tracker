@@ -1,14 +1,14 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-mega-evolution-perfect-order-blister"
     ],
     "zero_streak": 2,
     "warned": false,
-    "first_failure_at": "2026-07-19T20:44:53.683862+00:00"
+    "first_failure_at": null
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
@@ -109,7 +109,16 @@
       "7558377930813",
       "7699941818429",
       "7850575822909",
-      "7558380781629"
+      "7558379864125",
+      "7850575888445",
+      "7850575986749",
+      "7558378979389",
+      "7560189706301",
+      "7558377930813",
+      "7560189935677",
+      "7560189280317",
+      "7558380781629",
+      "7558378455101"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -221,9 +230,9 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9464484921583",
+      "9328364945647",
       "8540499149039",
-      "9328364945647"
+      "9464484921583"
     ],
     "zero_streak": 0,
     "warned": false,
