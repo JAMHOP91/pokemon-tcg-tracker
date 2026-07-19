@@ -158,6 +158,14 @@
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
+      "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-rayquaza",
+      "https://www.hobbylords.co.nz/products/single/pokemon-model-kit-miraidon",
+      "https://www.hobbylords.co.nz/products/single/lucario-card-display-gift-set-simplified-chinese-ver-",
+      "https://www.hobbylords.co.nz/products/single/-2025-pokemon-tcg-world-championships-deck-liao-fu-guan",
+      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
+      "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-lucario",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/pokemon-model-kit-miraidon",
@@ -222,9 +230,9 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9464484921583",
+      "8540499149039",
       "9328364945647",
-      "8540499149039"
+      "9464484921583"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -298,8 +306,8 @@
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/37806"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T07:05:05.882902+00:00"
   }
 }
