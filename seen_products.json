@@ -158,7 +158,6 @@
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
-      "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-rayquaza",
       "https://www.hobbylords.co.nz/products/single/pokemon-model-kit-miraidon",
       "https://www.hobbylords.co.nz/products/single/gengar-premium-blind-box",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
@@ -222,6 +221,7 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9464484921583",
       "8540499149039",
       "9464484921583",
       "9328364945647"
@@ -298,8 +298,8 @@
       "https://hobbymaster.co.nz/products/product/38546",
       "https://hobbymaster.co.nz/products/product/38545"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T12:34:00.564544+00:00"
   }
 }
