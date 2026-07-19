@@ -216,9 +216,9 @@
       "10076303622384",
       "9788449849584"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T01:11:32.842245+00:00"
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
@@ -226,9 +226,9 @@
       "9464484921583",
       "8540499149039"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T01:11:32.842245+00:00"
   },
   "Collect All Day": {
     "seen_ids": [
@@ -272,9 +272,9 @@
       "7511695261892",
       "8555386142916"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T01:11:32.842245+00:00"
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
