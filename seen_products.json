@@ -88,9 +88,9 @@
       "8760560877717",
       "8758360998037"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T18:23:14.151676+00:00"
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
@@ -111,9 +111,9 @@
       "7850575822909",
       "7558377046077"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T18:23:14.151676+00:00"
   },
   "Card Masters NZ": {
     "seen_ids": [
@@ -151,9 +151,9 @@
       "9136790208675",
       "8565549564067"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T18:23:14.151676+00:00"
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
