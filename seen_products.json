@@ -8,7 +8,7 @@
     ],
     "zero_streak": 2,
     "warned": false,
-    "first_failure_at": "2026-07-19T22:40:22.878023+00:00"
+    "first_failure_at": "2026-07-19T22:44:21.029783+00:00"
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
@@ -271,9 +271,9 @@
       "8479841648836",
       "7511695261892"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-19T22:44:21.029783+00:00"
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
