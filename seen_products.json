@@ -8,7 +8,7 @@
     ],
     "zero_streak": 6,
     "warned": false,
-    "first_failure_at": "2026-07-19T14:29:47.637956+00:00"
+    "first_failure_at": "2026-07-19T14:33:02.342400+00:00"
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
@@ -205,15 +205,15 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "9756131819760",
-      "9716528414960",
-      "9716525269232",
-      "10070962241776",
       "9890801385712",
       "9788449849584",
+      "9716525105392",
+      "9716528414960",
+      "10070962241776",
+      "9756131819760",
       "9875903938800",
-      "10076303622384",
-      "9716525105392"
+      "9716525269232",
+      "10076303622384"
     ],
     "zero_streak": 1,
     "warned": false,
@@ -236,6 +236,11 @@
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
@@ -260,16 +265,16 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8555386142916",
-      "8474977435844",
-      "8479841648836",
+      "8542847107268",
       "8249749340356",
+      "7511695261892",
       "8027563098308",
       "7866496450756",
-      "8542847107268",
-      "7511695261892",
+      "8555386142916",
+      "8584605696196",
       "7985678516420",
-      "8584605696196"
+      "8474977435844",
+      "8479841648836"
     ],
     "zero_streak": 1,
     "warned": false,
