@@ -164,6 +164,8 @@
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-jose-cruz-galindo-resendiz",
       "https://www.hobbylords.co.nz/products/single/pokemon-model-kit-miraidon",
       "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-rayquaza",
+      "https://www.hobbylords.co.nz/products/single/gengar-premium-blind-box",
+      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
       "https://www.hobbylords.co.nz/products/single/-2025-pokemon-tcg-world-championships-deck-liao-fu-guan",
@@ -221,9 +223,9 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9464484921583",
       "9328364945647",
-      "8540499149039",
-      "9464484921583"
+      "8540499149039"
     ],
     "zero_streak": 0,
     "warned": false,
