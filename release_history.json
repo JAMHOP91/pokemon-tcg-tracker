@@ -742,5 +742,13 @@
     "price": "$95.99",
     "timestamp": "2026-07-19T10:46:19.579310+00:00",
     "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Miraidon ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-miraidon-ex-sealed",
+    "price": "$71.99",
+    "timestamp": "2026-07-19T11:26:17.384678+00:00",
+    "priority": false
   }
 ]
