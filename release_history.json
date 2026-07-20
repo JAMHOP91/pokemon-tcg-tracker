@@ -838,5 +838,13 @@
     "price": "$26.99",
     "timestamp": "2026-07-20T07:01:27.833517+00:00",
     "priority": false
+  },
+  {
+    "site": "JB Hi-Fi NZ",
+    "title": "Pokemon TCG - Lumiose City Mini Tin",
+    "url": "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
+    "price": null,
+    "timestamp": "2026-07-20T23:31:56.296592+00:00",
+    "priority": false
   }
 ]
