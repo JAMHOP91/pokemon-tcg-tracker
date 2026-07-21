@@ -320,11 +320,531 @@
     "priority": true
   },
   {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Battle Academy Board Game 2024 *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-battle-academy-board-game-2024-sealed-pre-order-ships-june-21st",
+    "price": "$59.99",
+    "timestamp": "2026-07-17T04:00:38.375612+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Evolution: Perfect Order Booster Box *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-perfect-order-booster-box-sealed-pre-order-ships-apr-10th-copy",
+    "price": "$360.00",
+    "timestamp": "2026-07-17T04:45:48.766725+00:00",
+    "priority": true
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Booster Bundle (Pre-order)",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-bundle",
+    "price": "$69.99",
+    "timestamp": "2026-07-17T04:54:29.827196+00:00",
+    "priority": true
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Three Booster Blister (Pre-order)",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister",
+    "price": "$31.99",
+    "timestamp": "2026-07-17T06:32:09.824023+00:00",
+    "priority": true
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon Japanese \u2013 Special BOX \u2013 Pokemon Center Tohoku",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-japanese-special-box-pokemon-center-tohoku",
+    "price": "$449.99",
+    "timestamp": "2026-07-17T07:38:34.473125+00:00",
+    "priority": false
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Three Booster Blister",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-three-booster-blister",
+    "price": "$32.99",
+    "timestamp": "2026-07-17T07:38:34.473125+00:00",
+    "priority": true
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: 2025 World Championships Deck *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-2025-world-championships-deck-sealed",
+    "price": "$50.00",
+    "timestamp": "2026-07-17T08:38:55.985447+00:00",
+    "priority": false
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Three Booster Blister",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-three-booster-blister",
+    "price": "$32.99",
+    "timestamp": "2026-07-17T10:25:12.503348+00:00",
+    "priority": true
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
+    "price": "$649.99",
+    "timestamp": "2026-07-17T11:13:36.495308+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pok\u00e9mon TCG: MEGA Munix Zero Japanese Booster Pack",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-tcg-mega-munix-zero-japanese-booster-pack",
+    "price": "$7.00",
+    "timestamp": "2026-07-17T12:37:46.198017+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Miraidon ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-miraidon-ex-sealed",
+    "price": "$71.99",
+    "timestamp": "2026-07-17T13:09:01.913103+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Zygarde ex Premium Collection *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-zygarde-ex-premium-collection-sealed",
+    "price": "$95.99",
+    "timestamp": "2026-07-17T13:40:24.230464+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: 2025 World Championships Deck *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-2025-world-championships-deck-sealed",
+    "price": "$50.00",
+    "timestamp": "2026-07-17T13:57:15.748409+00:00",
+    "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Jolteon VMAX Premium Collection",
+    "url": "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+    "price": "NZ$495.00",
+    "timestamp": "2026-07-17T14:35:10.475055+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon Chinese Terastal Gathering Booster Box",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-chinese-terastal-gathering-booster-box",
+    "price": "$235.99",
+    "timestamp": "2026-07-17T16:25:52.830135+00:00",
+    "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Vaporeon VMAX Premium Collection",
+    "url": "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+    "price": "NZ$600.00",
+    "timestamp": "2026-07-17T16:50:34.774907+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
+    "price": "$649.99",
+    "timestamp": "2026-07-17T22:44:24.906290+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Japanese Pokemon Mega Dream Ex Booster Box",
+    "url": "https://www.cardtopia.co.nz/products/boxing-day-special-japanese-pokemon-mega-dream-ex-booster-box",
+    "price": "$255.00",
+    "timestamp": "2026-07-18T01:37:04.821987+00:00",
+    "priority": false
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "POKEMON - MODEL KIT MIRAIDON",
+    "url": "https://www.hobbylords.co.nz/products/single/pokemon-model-kit-miraidon",
+    "price": null,
+    "timestamp": "2026-07-18T02:46:08.734110+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Miraidon ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-miraidon-ex-sealed",
+    "price": "$71.99",
+    "timestamp": "2026-07-18T03:39:07.672442+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pok\u00e9mon TCG: MEGA Munix Zero Japanese Booster Pack",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-tcg-mega-munix-zero-japanese-booster-pack",
+    "price": "$7.00",
+    "timestamp": "2026-07-18T04:54:56.933712+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Japanese Pokemon Mega Dream Ex Booster Box",
+    "url": "https://www.cardtopia.co.nz/products/boxing-day-special-japanese-pokemon-mega-dream-ex-booster-box",
+    "price": "$255.00",
+    "timestamp": "2026-07-18T05:41:59.945689+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon Chinese Terastal Gathering Booster Box",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-chinese-terastal-gathering-booster-box",
+    "price": "$235.99",
+    "timestamp": "2026-07-18T06:38:26.224862+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon Ninja Spinner Booster Box M4 Japanese",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-ninja-spinner-booster-box-m4-japanese",
+    "price": "$184.99",
+    "timestamp": "2026-07-18T06:38:26.224862+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
+    "price": "$649.99",
+    "timestamp": "2026-07-18T06:38:26.224862+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Japanese Pokemon Mega Dream Ex Booster Box",
+    "url": "https://www.cardtopia.co.nz/products/boxing-day-special-japanese-pokemon-mega-dream-ex-booster-box",
+    "price": "$255.00",
+    "timestamp": "2026-07-18T08:23:51.723211+00:00",
+    "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Flareon VMAX Premium Collection",
+    "url": "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+    "price": "NZ$495.00",
+    "timestamp": "2026-07-18T08:44:56.773588+00:00",
+    "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Vaporeon VMAX Premium Collection",
+    "url": "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+    "price": "NZ$600.00",
+    "timestamp": "2026-07-18T09:27:39.584398+00:00",
+    "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "V Strikers Tin",
+    "url": "https://www.collectallday.com/new/v-strikers-tin",
+    "price": "NZ$90.00",
+    "timestamp": "2026-07-18T09:27:39.584398+00:00",
+    "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Burning Shadows 3-Pack Blister",
+    "url": "https://www.collectallday.com/new/burning-shadows-3-pack",
+    "price": "from NZ$175.00",
+    "timestamp": "2026-07-18T09:27:39.584398+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon Ninja Spinner Booster Box M4 Japanese",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-ninja-spinner-booster-box-m4-japanese",
+    "price": "$184.99",
+    "timestamp": "2026-07-18T10:13:31.915027+00:00",
+    "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "V Strikers Tin",
+    "url": "https://www.collectallday.com/new/v-strikers-tin",
+    "price": "NZ$90.00",
+    "timestamp": "2026-07-18T12:03:17.900905+00:00",
+    "priority": false
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Metal Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-metal-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-07-18T13:32:07.395175+00:00",
+    "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Pokeball Tin (Best of 2021 Series)",
+    "url": "https://www.collectallday.com/new/pokeball-tin-2021",
+    "price": "NZ$120.00",
+    "timestamp": "2026-07-18T15:11:36.786262+00:00",
+    "priority": false
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Three Booster Blister",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-three-booster-blister",
+    "price": "$32.99",
+    "timestamp": "2026-07-18T15:44:23.049666+00:00",
+    "priority": true
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Venusaur VMAX Starter Set",
+    "url": "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+    "price": "NZ$55.00",
+    "timestamp": "2026-07-18T19:06:46.843449+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Battle Academy Board Game 2024 *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-battle-academy-board-game-2024-sealed-pre-order-ships-june-21st",
+    "price": "$59.99",
+    "timestamp": "2026-07-18T20:10:20.218706+00:00",
+    "priority": false
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "Gengar Premium Blind Box",
+    "url": "https://www.hobbylords.co.nz/products/single/gengar-premium-blind-box",
+    "price": null,
+    "timestamp": "2026-07-18T21:50:10.925896+00:00",
+    "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "V Strikers Tin",
+    "url": "https://www.collectallday.com/new/v-strikers-tin",
+    "price": "NZ$90.00",
+    "timestamp": "2026-07-18T22:16:25.441588+00:00",
+    "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Flareon VMAX Premium Collection",
+    "url": "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+    "price": "NZ$495.00",
+    "timestamp": "2026-07-18T22:59:00.588747+00:00",
+    "priority": false
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "#31 Cleffa - Pok\u00e9mon League (February 2001) - WotC Black Star Promo",
+    "url": "https://thegametree.co.nz/products/cleffa-pokemon-league-february-2001-wotc-black-star-promo",
+    "price": "$23.98",
+    "timestamp": "2026-07-18T23:35:20.851554+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Dragapult ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-dragapult-ex-sealed",
+    "price": "$71.99",
+    "timestamp": "2026-07-18T23:35:20.851554+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Japanese Pokemon Mega Dream Ex Booster Pack",
+    "url": "https://www.cardtopia.co.nz/products/japanese-pokemon-mega-dream-ex-booster-pack",
+    "price": "$23.99",
+    "timestamp": "2026-07-18T23:55:16.490214+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Japanese Pokemon Mega Dream Ex Booster Pack",
+    "url": "https://www.cardtopia.co.nz/products/japanese-pokemon-mega-dream-ex-booster-pack",
+    "price": "$23.99",
+    "timestamp": "2026-07-19T02:57:08.380170+00:00",
+    "priority": false
+  },
+  {
+    "site": "JB Hi-Fi NZ",
+    "title": "Pok\u00e9mon TCG: Mega Zygarde ex Premium Collection",
+    "url": "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": null,
+    "timestamp": "2026-07-19T04:11:08.352842+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Charizard ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-charizard-ex-sealed-pre-order-ships-nov-15th",
+    "price": "$71.99",
+    "timestamp": "2026-07-19T04:24:07.293191+00:00",
+    "priority": false
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "2025 World Championships Deck\u2014Flutter Devo Gardevoir | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/2025-world-championships-deck-flutter-devo-gardevoir-pokemon-tcg",
+    "price": "$48.00",
+    "timestamp": "2026-07-19T06:10:32.784407+00:00",
+    "priority": false
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "2025 Pokemon TCG World Championships Deck - Riley Mckay",
+    "url": "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
+    "price": null,
+    "timestamp": "2026-07-19T06:37:57.139226+00:00",
+    "priority": false
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "2025 Pokemon TCG World Championships Deck - Riley Mckay",
+    "url": "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
+    "price": null,
+    "timestamp": "2026-07-19T06:42:00.973356+00:00",
+    "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Grimmsnarl VMAX Starter Set",
+    "url": "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+    "price": "Sale Price:\nNZ$45.00 \nOriginal Price:\nNZ$55.00",
+    "timestamp": "2026-07-19T07:13:45.504463+00:00",
+    "priority": false
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Pokeball Tin (Best of 2021 Series)",
+    "url": "https://www.collectallday.com/new/pokeball-tin-2021",
+    "price": "NZ$120.00",
+    "timestamp": "2026-07-19T09:03:58.024664+00:00",
+    "priority": false
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "2025 World Championships Deck\u2014Pult Bomb | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/2025-world-championships-deck-pult-bomb-pokemon-tcg",
+    "price": "$48.00",
+    "timestamp": "2026-07-19T10:36:09.985341+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Zygarde ex Premium Collection *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-zygarde-ex-premium-collection-sealed",
+    "price": "$95.99",
+    "timestamp": "2026-07-19T10:46:19.579310+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Miraidon ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-miraidon-ex-sealed",
+    "price": "$71.99",
+    "timestamp": "2026-07-19T11:26:17.384678+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon Chinese Terastal Gathering Booster Box",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-chinese-terastal-gathering-booster-box",
+    "price": "$235.99",
+    "timestamp": "2026-07-19T11:52:57.701793+00:00",
+    "priority": false
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "Bandai Pokemon Model Kit Mega Rayquaza",
+    "url": "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-rayquaza",
+    "price": null,
+    "timestamp": "2026-07-19T12:44:58.149108+00:00",
+    "priority": false
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Metal Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-metal-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-07-19T13:19:59.920835+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Battle Academy Board Game 2024 *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-battle-academy-board-game-2024-sealed-pre-order-ships-june-21st",
+    "price": "$59.99",
+    "timestamp": "2026-07-19T14:54:25.937476+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: First Partner Illustration Collection\u2014Series 3 (Pre-Order) STRICTLY 1pp",
+    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-first-partner-illustration-collectionseries-3-pre-order",
+    "price": "NZ$59.00",
+    "timestamp": "2026-07-19T16:15:02.352130+00:00",
+    "priority": false
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "CHINESE POK\u00c9MON TCG: 25TH ANNIVERSARY VENUSAUR BOX SET",
+    "url": "https://hobbymaster.co.nz/products/product/38548",
+    "price": "$216.00",
+    "timestamp": "2026-07-19T18:56:01.927418+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Team Rocket's Mewtwo ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-team-rockets-mewtwo-ex-sealed",
+    "price": "$71.99",
+    "timestamp": "2026-07-19T21:24:46.638946+00:00",
+    "priority": false
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "Pokemon Battle Academy Board Game 2024",
+    "url": "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
+    "price": null,
+    "timestamp": "2026-07-19T22:00:10.916406+00:00",
+    "priority": false
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "Bandai Pokemon Model Kit Mega Lucario",
+    "url": "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-lucario",
+    "price": null,
+    "timestamp": "2026-07-19T23:15:39.883194+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "MONDAY NIGHT STREAM \u2013 LIVE POKEMON FIGHTING CHAMPIONSHIP 187",
+    "url": "https://www.cardtopia.co.nz/products/monday-night-stream-live-pokemon-fighting-championship-187",
+    "price": "$36.99",
+    "timestamp": "2026-07-20T01:01:44.530500+00:00",
+    "priority": false
+  },
+  {
     "site": "Cardtopia NZ",
     "title": "Pokemon Terastal Winner takes all - Live stream",
     "url": "https://www.cardtopia.co.nz/products/pokemon-terastal-winner-takes-all-live-stream",
     "price": "$26.99",
-    "timestamp": "2026-07-20T22:33:40.640001+00:00",
+    "timestamp": "2026-07-20T07:01:27.833517+00:00",
+    "priority": false
+  },
+  {
+    "site": "JB Hi-Fi NZ",
+    "title": "Pokemon TCG - Lumiose City Mini Tin",
+    "url": "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
+    "price": null,
+    "timestamp": "2026-07-20T23:31:56.296592+00:00",
     "priority": false
   }
 ]
