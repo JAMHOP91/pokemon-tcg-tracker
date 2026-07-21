@@ -318,5 +318,13 @@
     "price": "$31.99",
     "timestamp": "2026-07-17T03:36:15.863566+00:00",
     "priority": true
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon Terastal Winner takes all - Live stream",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-terastal-winner-takes-all-live-stream",
+    "price": "$26.99",
+    "timestamp": "2026-07-20T22:33:40.640001+00:00",
+    "priority": false
   }
 ]

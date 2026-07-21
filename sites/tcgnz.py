@@ -1,11 +1,10 @@
 ﻿"""
-TCG NZ - Pokemon TCG. Runs on Wix.
-
-Two-step check: first scans the listing page for candidate products,
-then visits each candidate's own product page to confirm it's actually
-in stock. Uses domcontentloaded + a short fixed wait instead of
-networkidle, since Wix's background chat/analytics activity can prevent
-networkidle from ever being reached.
+TCG NZ - Pokemon TCG. Runs on Wix. Finds products by the confirmed
+data-hook="product-item-name" title element, then walks up to whichever
+link wraps it. Checks the listing page's own "out of stock" text as the
+stock signal - a per-product-page verification was tried but caused
+this scraper to fail almost constantly (likely from visiting too many
+product pages per run), so this reverts to the simpler, reliable version.
 """
 
 import time
@@ -20,7 +19,7 @@ RETRY_DELAY_SECONDS = 10
 
 
 def _try_fetch_once() -> list[dict]:
-    candidates = []
+    products = []
     seen_hrefs = set()
 
     with sync_playwright() as p:
@@ -54,20 +53,7 @@ def _try_fetch_once() -> list[dict]:
             product_url = href if href.startswith("http") else f"https://www.tcgnz.co.nz{href}"
             price_el = card.query_selector('[data-hook="product-item-price-to-pay"]')
             price = price_el.inner_text().strip() if price_el else None
-            candidates.append({"id": product_url, "title": title, "url": product_url, "price": price})
-
-        products = []
-        for candidate in candidates:
-            try:
-                page.goto(candidate["url"], timeout=20000, wait_until="domcontentloaded")
-                page.wait_for_timeout(2500)
-                body_text = page.inner_text("body").lower()
-                if "out of stock" in body_text:
-                    continue
-                products.append(candidate)
-            except Exception:
-                continue
-
+            products.append({"id": product_url, "title": title, "url": product_url, "price": price})
         browser.close()
 
     return products

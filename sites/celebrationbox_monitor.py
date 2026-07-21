@@ -1,4 +1,4 @@
-﻿"""
+"""
 Broad web monitor for "Pokemon 30th Anniversary Celebration Box" (or
 close variants) across ANY NZ retailer, not just tracked sites.
 
@@ -11,7 +11,7 @@ import feedparser
 
 SITE_NAME = "30th Celebration Box - Web Monitor"
 
-GOOGLE_ALERTS_RSS_URL = ""
+GOOGLE_ALERTS_RSS_URL = "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag.xml"
 
 FEEDS = [
     ("Google Alerts", GOOGLE_ALERTS_RSS_URL),
