@@ -862,5 +862,37 @@
     "price": "$70.00",
     "timestamp": "2026-07-22T11:45:58.324860+00:00",
     "priority": false
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "4D Build - Bulbasaur",
+    "url": "https://www.hobbylords.co.nz/products/single/4d-build-bulbasaur",
+    "price": null,
+    "timestamp": "2026-07-23T01:46:27.262150+00:00",
+    "priority": false
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "4D Build - Charmander",
+    "url": "https://www.hobbylords.co.nz/products/single/4d-build-charmander",
+    "price": null,
+    "timestamp": "2026-07-23T01:46:27.262150+00:00",
+    "priority": false
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "4D Build - Pikachu",
+    "url": "https://www.hobbylords.co.nz/products/single/4d-build-pikachu",
+    "price": null,
+    "timestamp": "2026-07-23T01:46:27.262150+00:00",
+    "priority": false
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "4D Build - Squirtle",
+    "url": "https://www.hobbylords.co.nz/products/single/4d-build-squirtle",
+    "price": null,
+    "timestamp": "2026-07-23T01:46:27.262150+00:00",
+    "priority": false
   }
 ]
