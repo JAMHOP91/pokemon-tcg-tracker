@@ -894,5 +894,37 @@
     "price": null,
     "timestamp": "2026-07-23T01:46:27.262150+00:00",
     "priority": false
+  },
+  {
+    "site": "JB Hi-Fi NZ",
+    "title": "Pokemon TCG - Lumiose City Mini Tin",
+    "url": "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
+    "price": null,
+    "timestamp": "2026-07-23T02:31:11.719367+00:00",
+    "priority": false
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-box",
+    "price": "$365.99",
+    "timestamp": "2026-07-23T02:31:11.719367+00:00",
+    "priority": true
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Elite Trainer Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
+    "price": "$139.99",
+    "timestamp": "2026-07-23T02:31:11.719367+00:00",
+    "priority": true
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Booster Bundle",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-bundle",
+    "price": "$69.99",
+    "timestamp": "2026-07-23T02:31:11.719367+00:00",
+    "priority": true
   }
 ]
