@@ -31,6 +31,9 @@ from sites import otakumart_preorders
 from sites import wpgames_preorders
 from sites import gamecorner_preorders
 from sites import collectorsguild_preorders
+from sites import magicreddragon_preorders
+from sites import playx_preorders
+from sites import metalife
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 STATUS_FILE = Path(__file__).parent / "status.json"
@@ -56,6 +59,9 @@ SITES = [
     (wpgames_preorders.SITE_NAME, wpgames_preorders),
     (gamecorner_preorders.SITE_NAME, gamecorner_preorders),
     (collectorsguild_preorders.SITE_NAME, collectorsguild_preorders),
+    (magicreddragon_preorders.SITE_NAME, magicreddragon_preorders),
+    (playx_preorders.SITE_NAME, playx_preorders),
+    (metalife.SITE_NAME, metalife),
 ]
 
 DEFAULT_FAILURE_THRESHOLD_MINUTES = 90
