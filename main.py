@@ -27,6 +27,10 @@ from sites import celebrationbox_monitor
 from sites import coolshit_availability_monitor
 from sites import tcgcollectornz
 from sites import hobbymaster
+from sites import otakumart_preorders
+from sites import wpgames_preorders
+from sites import gamecorner_preorders
+from sites import collectorsguild_preorders
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 STATUS_FILE = Path(__file__).parent / "status.json"
@@ -48,6 +52,10 @@ SITES = [
     (coolshit_availability_monitor.SITE_NAME, coolshit_availability_monitor),
     (tcgcollectornz.SITE_NAME, tcgcollectornz),
     (hobbymaster.SITE_NAME, hobbymaster),
+    (otakumart_preorders.SITE_NAME, otakumart_preorders),
+    (wpgames_preorders.SITE_NAME, wpgames_preorders),
+    (gamecorner_preorders.SITE_NAME, gamecorner_preorders),
+    (collectorsguild_preorders.SITE_NAME, collectorsguild_preorders),
 ]
 
 DEFAULT_FAILURE_THRESHOLD_MINUTES = 90
