@@ -1182,5 +1182,21 @@
     "price": "$24.80",
     "timestamp": "2026-07-25T01:15:56.684691+00:00",
     "priority": false
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: Charizard ex Special Collection  (PRE-ORDER) Arrives:  31st July 2026",
+    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-charizard-ex-special-collection-pre-order-arrives-31st-july-2026",
+    "price": "$129.00",
+    "timestamp": "2026-07-25T02:45:57.698387+00:00",
+    "priority": false
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: First Partner Illustration Collection\u2014Series 2 PRE-ORDER Arrives 31st July",
+    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-2-pre-order-release-date-june-19th-2026",
+    "price": "$79.00",
+    "timestamp": "2026-07-25T02:45:57.698387+00:00",
+    "priority": false
   }
 ]
