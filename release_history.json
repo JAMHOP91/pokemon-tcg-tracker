@@ -1056,27 +1056,11 @@
     "priority": false
   },
   {
-    "site": "The Game Tree NZ",
-    "title": "**CLEARANCE** Pokemon Surprise Attack Game - Togetic & Bulbasaur",
-    "url": "https://thegametree.co.nz/products/pokemon-surprise-attack-game-togetic-bulbasaur",
-    "price": "$45.88",
-    "timestamp": "2026-07-27T23:07:59.909624+00:00",
-    "priority": false
-  },
-  {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: Mega Evolution: Chaos Rising Booster Box *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-chaos-rising-booster-box-sealed-pre-order-ships-may-22nd",
-    "price": "$360.00",
-    "timestamp": "2026-07-27T23:07:59.909624+00:00",
-    "priority": true
-  },
-  {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Mega Zygarde ex Premium Collection Sealed Case of 6 - Pok\u00e9mon TCG",
     "url": "https://magicreddragon.co.nz/products/mega-zygarde-ex-premium-collection-sealed-case-of-6-pokemon-tcg-1",
     "price": "$599.00",
-    "timestamp": "2026-07-27T23:07:59.909624+00:00",
+    "timestamp": "2026-07-25T01:15:56.684691+00:00",
     "priority": false
   },
   {
@@ -1084,47 +1068,47 @@
     "title": "Pok\u00e9mon TCG: 2025 Pokemon TCG World Championships Deck (Pre Order) Release Date: 19 June 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-2025-pokemon-tcg-world-championships-deck-pre-order-release-date-19-june-2026",
     "price": "$45.00",
-    "timestamp": "2026-07-27T23:07:59.909624+00:00",
+    "timestamp": "2026-07-25T01:15:56.684691+00:00",
     "priority": false
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: Mega Greninja ex Premium Collection",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection-pre-order-release-date-17th-july-2026",
-    "price": "$109.00",
-    "timestamp": "2026-07-27T23:07:59.909624+00:00",
-    "priority": false
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014 Pitch Black Elite Trainer Box (PRE ORDER) Release Date: 17th July 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-pre-order-release-date-17th-july-2026",
-    "price": "$149.00",
-    "timestamp": "2026-07-27T23:07:59.909624+00:00",
-    "priority": true
   },
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Moonlight Tin - Mega Clefable ex (Pre-order) Release Date: June 5th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex-pre-order-release-date-june-5th-2026",
     "price": "$56.00",
-    "timestamp": "2026-07-27T23:07:59.909624+00:00",
+    "timestamp": "2026-07-25T01:15:56.684691+00:00",
     "priority": false
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolution Chaos Rising Booster",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-booster",
+    "price": "$11.80",
+    "timestamp": "2026-07-25T01:15:56.684691+00:00",
+    "priority": true
   },
   {
     "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolution Pitch Black Elite Trainer Box",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
     "price": "$176.80",
-    "timestamp": "2026-07-27T23:07:59.909624+00:00",
+    "timestamp": "2026-07-25T01:15:56.684691+00:00",
+    "priority": true
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolution 3 Perfect Order Booster Hanger Pack Assorted",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-3-perfect-order-booster-hanger-pack-assorted",
+    "price": "$11.80",
+    "timestamp": "2026-07-25T01:15:56.684691+00:00",
     "priority": true
   },
   {
     "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolution Perfect Order Booster",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster",
-    "price": "$9.80",
-    "timestamp": "2026-07-27T23:07:59.909624+00:00",
+    "price": "$10.80",
+    "timestamp": "2026-07-25T01:15:56.684691+00:00",
     "priority": true
   },
   {
@@ -1132,7 +1116,7 @@
     "title": "Pokemon TCG - Mega Evolution Pitch Black Booster Bundle",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-bundle",
     "price": "$88.00",
-    "timestamp": "2026-07-27T23:07:59.909624+00:00",
+    "timestamp": "2026-07-25T01:15:56.684691+00:00",
     "priority": true
   },
   {
@@ -1140,7 +1124,7 @@
     "title": "Pokemon TCG - Mega Lucario ex League Battle Deck",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-pokemon-tcg-mega-lucario-ex-league-battle-deck",
     "price": "$49.80",
-    "timestamp": "2026-07-27T23:07:59.909624+00:00",
+    "timestamp": "2026-07-25T01:15:56.684691+00:00",
     "priority": false
   },
   {
@@ -1148,7 +1132,7 @@
     "title": "Pokemon TCG -  Miradidon/Koraidon ex Deluxe Battle Deck",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-miradidon-koraidon-ex-deluxe-battle-deck",
     "price": "$36.80",
-    "timestamp": "2026-07-27T23:07:59.909624+00:00",
+    "timestamp": "2026-07-25T01:15:56.684691+00:00",
     "priority": false
   },
   {
@@ -1156,7 +1140,15 @@
     "title": "Pokemon TCG - Lumiose City Mini Tin",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
     "price": "$28.60",
-    "timestamp": "2026-07-27T23:07:59.909624+00:00",
+    "timestamp": "2026-07-25T01:15:56.684691+00:00",
+    "priority": false
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Triple Whammy Back Issue Collector Tin",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-triple-whammy-back-issue-collector-tin",
+    "price": "$46.80",
+    "timestamp": "2026-07-25T01:15:56.684691+00:00",
     "priority": false
   },
   {
@@ -1164,7 +1156,7 @@
     "title": "Pokemon TCG - Trainer's Toolkit",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-trainers-toolkit",
     "price": "$79.80",
-    "timestamp": "2026-07-27T23:07:59.909624+00:00",
+    "timestamp": "2026-07-25T01:15:56.684691+00:00",
     "priority": false
   },
   {
@@ -1172,7 +1164,7 @@
     "title": "Pokemon TCG - Mega Zygarde ex Premium Collection",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
     "price": "$99.80",
-    "timestamp": "2026-07-27T23:07:59.909624+00:00",
+    "timestamp": "2026-07-25T01:15:56.684691+00:00",
     "priority": false
   },
   {
@@ -1180,7 +1172,7 @@
     "title": "Pokemon TCG - 2025 Pokemon TCG World Championships",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-2025-pokemon-tcg-world-championships",
     "price": "$44.80",
-    "timestamp": "2026-07-27T23:07:59.909624+00:00",
+    "timestamp": "2026-07-25T01:15:56.684691+00:00",
     "priority": false
   },
   {
@@ -1188,15 +1180,103 @@
     "title": "Pokemon TCG - Scarlet & Violet Anytime, Anywhere Battle Academy Japan Ver.",
     "url": "https://www.metalife.co.nz/products/pokemon-card-game-scarlet-violet-anytime-anywhere-battle-academy",
     "price": "$24.80",
-    "timestamp": "2026-07-27T23:07:59.909624+00:00",
+    "timestamp": "2026-07-25T01:15:56.684691+00:00",
     "priority": false
   },
   {
-    "site": "TCG Culture - Pokemon",
-    "title": "Pok\u00e9mon TCG:Trainer's Toolkit",
-    "url": "https://tcgculture.com/products/pokemon-tcg-trainers-toolkit",
-    "price": "$84.99",
-    "timestamp": "2026-07-27T23:07:59.909624+00:00",
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: Charizard ex Special Collection  (PRE-ORDER) Arrives:  31st July 2026",
+    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-charizard-ex-special-collection-pre-order-arrives-31st-july-2026",
+    "price": "$129.00",
+    "timestamp": "2026-07-25T02:45:57.698387+00:00",
+    "priority": false
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: First Partner Illustration Collection\u2014Series 2 PRE-ORDER Arrives 31st July",
+    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-2-pre-order-release-date-june-19th-2026",
+    "price": "$79.00",
+    "timestamp": "2026-07-25T02:45:57.698387+00:00",
+    "priority": false
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "Gengar Premium Blind Box",
+    "url": "https://www.hobbylords.co.nz/products/single/gengar-premium-blind-box",
+    "price": null,
+    "timestamp": "2026-07-25T07:46:03.389985+00:00",
+    "priority": false
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "**CLEARANCE** Pokemon Surprise Attack Game - Togetic & Bulbasaur",
+    "url": "https://thegametree.co.nz/products/pokemon-surprise-attack-game-togetic-bulbasaur",
+    "price": "$45.88",
+    "timestamp": "2026-07-25T21:01:38.490506+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Evolution: Chaos Rising Booster Box *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-chaos-rising-booster-box-sealed-pre-order-ships-may-22nd",
+    "price": "$360.00",
+    "timestamp": "2026-07-27T00:01:31.790419+00:00",
+    "priority": true
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "MONDAY NIGHT STREAM \u2013 LIVE POKEMON FIGHTING CHAMPIONSHIP 188",
+    "url": "https://www.cardtopia.co.nz/products/monday-night-stream-live-pokemon-fighting-championship-188",
+    "price": "$24.99",
+    "timestamp": "2026-07-27T02:01:31.061792+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon - Mega dream winner takes all - SAR edition",
+    "url": "https://www.cardtopia.co.nz/products/mega-dream-winner-takes-all",
+    "price": "$23.99",
+    "timestamp": "2026-07-27T02:01:31.061792+00:00",
+    "priority": false
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: Mega Greninja ex Premium Collection",
+    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection-pre-order-release-date-17th-july-2026",
+    "price": "$109.00",
+    "timestamp": "2026-07-27T05:02:29.958698+00:00",
+    "priority": false
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014 Pitch Black Elite Trainer Box (PRE ORDER) Release Date: 17th July 2026",
+    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-pre-order-release-date-17th-july-2026",
+    "price": "$149.00",
+    "timestamp": "2026-07-27T05:16:05.586305+00:00",
+    "priority": true
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: First Partner Illustration Collection\u2014Series 2 Sealed case of 6",
+    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-2-sealed-case-of-6",
+    "price": "$449.00",
+    "timestamp": "2026-07-27T07:31:14.931936+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon - Mega dream winner takes all - SAR edition",
+    "url": "https://www.cardtopia.co.nz/products/mega-dream-winner-takes-all",
+    "price": "$23.99",
+    "timestamp": "2026-07-27T08:31:23.621319+00:00",
+    "priority": false
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: First Partner Illustration Collection\u2014Series 2 Sealed case of 6",
+    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-2-sealed-case-of-6",
+    "price": "$429.00",
+    "timestamp": "2026-07-27T09:01:31.110082+00:00",
     "priority": false
   }
 ]
