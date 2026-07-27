@@ -1222,5 +1222,21 @@
     "price": "$360.00",
     "timestamp": "2026-07-27T00:01:31.790419+00:00",
     "priority": true
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "MONDAY NIGHT STREAM \u2013 LIVE POKEMON FIGHTING CHAMPIONSHIP 188",
+    "url": "https://www.cardtopia.co.nz/products/monday-night-stream-live-pokemon-fighting-championship-188",
+    "price": "$24.99",
+    "timestamp": "2026-07-27T02:01:31.061792+00:00",
+    "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon - Mega dream winner takes all - SAR edition",
+    "url": "https://www.cardtopia.co.nz/products/mega-dream-winner-takes-all",
+    "price": "$23.99",
+    "timestamp": "2026-07-27T02:01:31.061792+00:00",
+    "priority": false
   }
 ]
