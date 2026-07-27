@@ -34,6 +34,9 @@ from sites import collectorsguild_preorders
 from sites import magicreddragon_preorders
 from sites import playx_preorders
 from sites import metalife
+from sites import tcgcollectornz_preorders
+from sites import cardmasters_preorders
+from sites import tcgculture
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 STATUS_FILE = Path(__file__).parent / "status.json"
@@ -62,6 +65,9 @@ SITES = [
     (magicreddragon_preorders.SITE_NAME, magicreddragon_preorders),
     (playx_preorders.SITE_NAME, playx_preorders),
     (metalife.SITE_NAME, metalife),
+    (tcgcollectornz_preorders.SITE_NAME, tcgcollectornz_preorders),
+    (cardmasters_preorders.SITE_NAME, cardmasters_preorders),
+    (tcgculture.SITE_NAME, tcgculture),
 ]
 
 DEFAULT_FAILURE_THRESHOLD_MINUTES = 90
