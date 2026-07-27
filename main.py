@@ -41,6 +41,7 @@ from sites import toytime
 from sites import cardtopia_preorders
 from sites import mrtofu
 from sites import hobbystation
+from sites import turtleisland
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 STATUS_FILE = Path(__file__).parent / "status.json"
@@ -76,6 +77,7 @@ SITES = [
     (cardtopia_preorders.SITE_NAME, cardtopia_preorders),
     (mrtofu.SITE_NAME, mrtofu),
     (hobbystation.SITE_NAME, hobbystation),
+    (turtleisland.SITE_NAME, turtleisland),
 ]
 
 DEFAULT_FAILURE_THRESHOLD_MINUTES = 90
