@@ -1254,5 +1254,13 @@
     "price": "$149.00",
     "timestamp": "2026-07-27T05:16:05.586305+00:00",
     "priority": true
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: First Partner Illustration Collection\u2014Series 2 Sealed case of 6",
+    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-2-sealed-case-of-6",
+    "price": "$449.00",
+    "timestamp": "2026-07-27T07:31:14.931936+00:00",
+    "priority": false
   }
 ]
