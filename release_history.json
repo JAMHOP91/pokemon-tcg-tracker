@@ -1278,5 +1278,21 @@
     "price": "$429.00",
     "timestamp": "2026-07-27T09:01:31.110082+00:00",
     "priority": false
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "**CLEARANCE** Pokemon Trading Card Game Battle Academy (2024) - Armarouge ex, Pikachu ex, & Darkrai ex",
+    "url": "https://thegametree.co.nz/products/pokemon-trading-card-game-battle-academy-2024-armarouge-ex-pikachu-ex-darkrai-ex",
+    "price": "$49.88",
+    "timestamp": "2026-07-27T23:16:00.085431+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Culture - Pokemon",
+    "title": "Pok\u00e9mon TCG:Trainer's Toolkit",
+    "url": "https://tcgculture.com/products/pokemon-tcg-trainers-toolkit",
+    "price": "$84.99",
+    "timestamp": "2026-07-27T23:16:00.085431+00:00",
+    "priority": false
   }
 ]
