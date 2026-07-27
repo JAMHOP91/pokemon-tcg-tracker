@@ -1214,5 +1214,13 @@
     "price": "$45.88",
     "timestamp": "2026-07-25T21:01:38.490506+00:00",
     "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Evolution: Chaos Rising Booster Box *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-chaos-rising-booster-box-sealed-pre-order-ships-may-22nd",
+    "price": "$360.00",
+    "timestamp": "2026-07-27T00:01:31.790419+00:00",
+    "priority": true
   }
 ]
