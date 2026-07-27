@@ -1,7 +1,10 @@
 ﻿"""
 Hobby Station - Pokemon TCG. Custom platform, not Shopify.
 Each product sits in a .prod-item div, with the title/link in
-h4.prod-name a and price in .prod-price.
+h4.prod-name a and price in .prod-price. This class appears to be
+used site-wide (including recommendation widgets), so an explicit
+"pokemon" title check is required to avoid picking up unrelated
+RC/hobby products from elsewhere on the page.
 """
 
 import time
@@ -35,6 +38,8 @@ def _try_fetch_once() -> list[dict]:
                 continue
             title = title_el.inner_text().strip()
             if not title or not is_tcg_product(title):
+                continue
+            if "pokemon" not in title.lower() and "pokémon" not in title.lower():
                 continue
 
             href = title_el.get_attribute("href")
