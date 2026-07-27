@@ -1246,5 +1246,13 @@
     "price": "$109.00",
     "timestamp": "2026-07-27T05:02:29.958698+00:00",
     "priority": false
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014 Pitch Black Elite Trainer Box (PRE ORDER) Release Date: 17th July 2026",
+    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-pre-order-release-date-17th-july-2026",
+    "price": "$149.00",
+    "timestamp": "2026-07-27T05:16:05.586305+00:00",
+    "priority": true
   }
 ]
