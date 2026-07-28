@@ -1,4 +1,4 @@
-﻿"""
+"""
 Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
 Tracks how long each site has been continuously failing and warns based
@@ -45,6 +45,7 @@ from sites import cardtopia_preorders
 from sites import mrtofu
 from sites import hobbystation
 from sites import turtleisland
+from sites import coolshit_password_watch
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 STATUS_FILE = Path(__file__).parent / "status.json"
@@ -81,6 +82,7 @@ SITES = [
     (mrtofu.SITE_NAME, mrtofu),
     (hobbystation.SITE_NAME, hobbystation),
     (turtleisland.SITE_NAME, turtleisland),
+    (coolshit_password_watch.SITE_NAME, coolshit_password_watch),
 ]
 
 DEFAULT_FAILURE_THRESHOLD_MINUTES = 90
