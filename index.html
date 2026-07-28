@@ -228,10 +228,10 @@ function logoHtml(siteName) {
   if (!domain) {
     return `<div class="logo-fallback">${letter}</div>`;
   }
-  const googleUrl = `https://www.google.com/s2/favicons?domain=${domain}&sz=32`;
+  const primaryUrl = `https://logo.clearbit.com/${domain}?size=32`;
   const ddgUrl = `https://icons.duckduckgo.com/ip3/${domain}.ico`;
   const fallbackDiv = `<div class="logo-fallback">${letter}</div>`;
-  return `<img class="logo" src="${googleUrl}" data-ddg="${ddgUrl}" data-letter-html="${fallbackDiv.replace(/"/g, '&quot;')}" onerror="handleLogoError(this)">`;
+  return `<img class="logo" src="${primaryUrl}" data-ddg="${ddgUrl}" data-letter-html="${fallbackDiv.replace(/"/g, '&quot;')}" onerror="handleLogoError(this)">`;
 }
 
 function handleLogoError(img) {
