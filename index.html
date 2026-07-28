@@ -95,6 +95,19 @@
     margin-top: 2px;
     background: #fff;
   }
+  .logo-fallback {
+    width: 20px; height: 20px;
+    min-width: 20px;
+    border-radius: 4px;
+    margin-top: 2px;
+    background: var(--accent);
+    color: #000;
+    font-size: 11px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
   .site-card .name { font-weight: 600; font-size: 14px; margin-bottom: 6px; }
   .dot {
     display: inline-block;
@@ -209,10 +222,27 @@ const SITE_DOMAINS = {
   "Turtle Island - Pokemon Pre-Orders": "turtleisland.co.nz"
 };
 
-function logoUrl(siteName) {
+function logoHtml(siteName) {
   const domain = SITE_DOMAINS[siteName];
-  if (!domain) return null;
-  return `https://www.google.com/s2/favicons?domain=${domain}&sz=32`;
+  const letter = siteName.charAt(0).toUpperCase();
+  if (!domain) {
+    return `<div class="logo-fallback">${letter}</div>`;
+  }
+  const googleUrl = `https://www.google.com/s2/favicons?domain=${domain}&sz=32`;
+  const ddgUrl = `https://icons.duckduckgo.com/ip3/${domain}.ico`;
+  const fallbackDiv = `<div class="logo-fallback">${letter}</div>`;
+  return `<img class="logo" src="${googleUrl}" data-ddg="${ddgUrl}" data-letter-html="${fallbackDiv.replace(/"/g, '&quot;')}" onerror="handleLogoError(this)">`;
+}
+
+function handleLogoError(img) {
+  if (!img.dataset.triedDdg) {
+    img.dataset.triedDdg = "1";
+    img.src = img.dataset.ddg;
+  } else {
+    const wrapper = document.createElement('span');
+    wrapper.innerHTML = img.dataset.letterHtml;
+    img.replaceWith(wrapper.firstChild);
+  }
 }
 
 async function loadJSON(path) {
@@ -276,19 +306,15 @@ async function render() {
 
   const gridEl = document.getElementById('siteGrid');
   if (status && status.sites) {
-    gridEl.innerHTML = Object.entries(status.sites).map(([name, s]) => {
-      const logo = logoUrl(name);
-      const logoHtml = logo ? `<img class="logo" src="${logo}" onerror="this.style.display='none'">` : '';
-      return `
+    gridEl.innerHTML = Object.entries(status.sites).map(([name, s]) => `
       <div class="site-card">
-        ${logoHtml}
+        ${logoHtml(name)}
         <div>
           <div class="name"><span class="dot ${s.healthy ? 'healthy' : 'unhealthy'}"></span>${name}</div>
           <div class="meta">${s.healthy ? 'Healthy' : 'Failing ' + s.failing_minutes + ' min'} - checked ${timeAgo(s.last_checked)}</div>
         </div>
       </div>
-    `;
-    }).join('');
+    `).join('');
   } else {
     gridEl.innerHTML = '<div class="empty">No status data yet - runs after the next scheduled check</div>';
   }
