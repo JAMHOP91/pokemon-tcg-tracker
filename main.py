@@ -1,13 +1,16 @@
-"""
+﻿"""
 Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
 Tracks how long each site has been continuously failing and warns based
 on elapsed real time (not raw check count).
 Also writes status.json (site health snapshot) and release_history.json
-(a running feed of finds) for the dashboard.
+(a running feed of finds, including a product image where available)
+for the dashboard.
 """
 
 import json
+import re
+import requests
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -120,6 +123,25 @@ def get_site_state(state: dict, site_name: str) -> dict:
     return entry
 
 
+def fetch_og_image(url: str) -> str | None:
+    """Fetches a product page's og:image meta tag for the dashboard feed.
+    Best-effort only - returns None quickly on any failure."""
+    try:
+        resp = requests.get(url, timeout=8, headers={"User-Agent": "Mozilla/5.0"})
+        match = re.search(
+            r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
+            resp.text, re.IGNORECASE,
+        )
+        if not match:
+            match = re.search(
+                r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
+                resp.text, re.IGNORECASE,
+            )
+        return match.group(1) if match else None
+    except Exception:
+        return None
+
+
 def main():
     state = load_state()
     priority_keywords = load_priority_keywords()
@@ -192,6 +214,7 @@ def main():
                     "price": p.get("price"),
                     "timestamp": now.isoformat(),
                     "priority": p in priority_matches,
+                    "image": fetch_og_image(p["url"]),
                 })
         else:
             print("  No new products")
