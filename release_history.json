@@ -1462,5 +1462,21 @@
     "price": "$35.00",
     "timestamp": "2026-07-27T23:40:22.128919+00:00",
     "priority": false
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Hiroshima 2025 Special Collection Box",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-tcg-pokemon-center-hiroshima-2025-special-collection-box",
+    "price": "$549.99",
+    "timestamp": "2026-07-28T00:01:41.210289+00:00",
+    "priority": false
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "[D] Pokemon TCG Mega Greninja ex Premium Collection",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-mega-greninja-ex-premium-collection-preorder-only-limit-1-per-customer/",
+    "price": "$77.39",
+    "timestamp": "2026-07-28T05:31:18.399153+00:00",
+    "priority": false
   }
 ]
