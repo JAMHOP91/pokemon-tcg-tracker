@@ -105,6 +105,22 @@
   .dot.healthy { background: var(--green); }
   .dot.unhealthy { background: var(--red); }
   .site-card .meta { font-size: 12px; color: var(--muted); }
+  .manual-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 12px;
+  }
+  .manual-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px;
+    text-decoration: none;
+    display: block;
+  }
+  .manual-card .name { font-weight: 600; font-size: 14px; color: var(--text); margin-bottom: 4px; }
+  .manual-card .note { font-size: 12px; color: var(--muted); }
+  .manual-card:hover { border-color: var(--accent); }
   .feed-item {
     background: var(--card);
     border: 1px solid var(--border);
@@ -151,6 +167,9 @@
 
   <div class="section-title">Site Health</div>
   <div class="site-grid" id="siteGrid">Loading...</div>
+
+  <div class="section-title">Check Manually (Bot-Protected Sites)</div>
+  <div class="manual-grid" id="manualGrid">Loading...</div>
 
   <div class="section-title">Recent Finds</div>
   <div id="feed">Loading...</div>
@@ -205,8 +224,8 @@ async function render() {
   const status = await loadJSON('status.json');
   const history = await loadJSON('release_history.json');
   const hypeWindows = await loadJSON('hype_windows.json');
+  const manualSites = await loadJSON('manual_check_sites.json');
 
-  // Stats bar
   const statsEl = document.getElementById('statsBar');
   const siteCount = status && status.sites ? Object.keys(status.sites).length : 0;
   const totalFinds = history ? history.length : 0;
@@ -220,7 +239,6 @@ async function render() {
     <div class="stat-box"><div class="num">${priorityFinds}</div><div class="label">Priority Hits</div></div>
   `;
 
-  // Countdown
   const countdownEl = document.getElementById('countdown');
   if (hypeWindows && hypeWindows.length) {
     const nowDate = new Date();
@@ -241,7 +259,6 @@ async function render() {
     countdownEl.innerHTML = '<div class="label">No hype window data available</div>';
   }
 
-  // Site grid
   const gridEl = document.getElementById('siteGrid');
   if (status && status.sites) {
     gridEl.innerHTML = Object.entries(status.sites).map(([name, s]) => {
@@ -261,7 +278,18 @@ async function render() {
     gridEl.innerHTML = '<div class="empty">No status data yet - runs after the next scheduled check</div>';
   }
 
-  // Feed
+  const manualEl = document.getElementById('manualGrid');
+  if (manualSites && manualSites.length) {
+    manualEl.innerHTML = manualSites.map(s => `
+      <a class="manual-card" href="${s.url}" target="_blank">
+        <div class="name">${s.name}</div>
+        <div class="note">${s.note}</div>
+      </a>
+    `).join('');
+  } else {
+    manualEl.innerHTML = '<div class="empty">No manual-check sites listed</div>';
+  }
+
   const feedEl = document.getElementById('feed');
   if (history && history.length) {
     const sorted = [...history].reverse().slice(0, 40);

@@ -1,0 +1,27 @@
+﻿[
+  {
+    "name": "Mighty Ape",
+    "url": "https://www.mightyape.co.nz/hobbies/trading-cards/pokemon/all",
+    "note": "Blocks automated access"
+  },
+  {
+    "name": "Kmart NZ",
+    "url": "https://www.kmart.co.nz/category/toys/pokemon-trading-cards/",
+    "note": "Blocks automated access"
+  },
+  {
+    "name": "Farmers",
+    "url": "https://www.farmers.co.nz",
+    "note": "Blocks automated access"
+  },
+  {
+    "name": "The Warehouse",
+    "url": "https://www.thewarehouse.co.nz/c/official-merchandise/pok%C3%A9mon/pokemon-trading-cards",
+    "note": "Blocks automated access (CAPTCHA)"
+  },
+  {
+    "name": "Pokemon Center NZ",
+    "url": "https://www.pokemoncenter.com/en-nz/30th-celebration",
+    "note": "Official store - blocks automated access"
+  }
+]
