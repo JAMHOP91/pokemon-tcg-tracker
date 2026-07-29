@@ -1150,5 +1150,23 @@
     "price": "$77.39",
     "timestamp": "2026-07-28T05:31:18.399153+00:00",
     "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Forces Tin *Sealed* (PRE-ORDER, SHIPS AUG 28TH)",
+    "url": "https://tcgcollectornz.com/products/pokemon-mega-forces-tin",
+    "price": "$60.00",
+    "timestamp": "2026-07-29T02:46:02.064422+00:00",
+    "priority": false,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Forces-Tin-Mega-Dragonite-ex-Front_EN.jpg?v=1782462382"
+  },
+  {
+    "site": "TCG Collector NZ - Pre-Orders",
+    "title": "Pokemon TCG: Mega Forces Tin *Sealed* (PRE-ORDER, SHIPS AUG 28TH)",
+    "url": "https://tcgcollectornz.com/products/pokemon-mega-forces-tin",
+    "price": "$60.00",
+    "timestamp": "2026-07-29T02:46:02.064422+00:00",
+    "priority": false,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Forces-Tin-Mega-Dragonite-ex-Front_EN.jpg?v=1782462382"
   }
 ]
