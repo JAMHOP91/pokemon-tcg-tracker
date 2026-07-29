@@ -1,13 +1,13 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
     ],
     "zero_streak": 4,
     "warned": false,
-    "first_failure_at": "2026-07-29T16:45:58.273255+00:00"
+    "first_failure_at": null
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
@@ -197,7 +197,7 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "9890801385712",
+      "9716525105392",
       "9716525269232",
       "10070962241776",
       "9756131819760",
@@ -293,9 +293,9 @@
       "https://hobbymaster.co.nz/products/product/38548",
       "https://hobbymaster.co.nz/products/product/38546"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-07-29T17:31:19.179324+00:00"
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [],
