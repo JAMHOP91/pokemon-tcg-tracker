@@ -1,7 +1,8 @@
 ﻿"""
 Hobby Lords - Pokemon TCG.
-Product links follow /products/single/... with the title in an
-h4.text-primary element right inside that same link.
+Product links follow /products/single/... Their site used to have the
+title in an h4 element, but that changed - now the title only exists
+in the product image's alt attribute, so this reads from there instead.
 """
 
 from playwright.sync_api import sync_playwright
@@ -29,10 +30,10 @@ def get_current_products() -> list[dict]:
             href = link.get_attribute("href")
             if not href or href in seen_hrefs:
                 continue
-            title_el = link.query_selector("h4")
-            if not title_el:
+            img = link.query_selector("img[alt]")
+            if not img:
                 continue
-            title = title_el.inner_text().strip()
+            title = (img.get_attribute("alt") or "").strip()
             if not title:
                 continue
             if not is_tcg_product(title):
