@@ -307,7 +307,7 @@ async function render() {
 
   const gridEl = document.getElementById('siteGrid');
   if (status && status.sites) {
-    gridEl.innerHTML = Object.entries(status.sites).map(([name, s]) => `
+    gridEl.innerHTML = Object.entries(status.sites).sort((a, b) => a[0].localeCompare(b[0])).map(([name, s]) => `
       <div class="site-card">
         ${logoHtml(name)}
         <div>
