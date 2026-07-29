@@ -21,7 +21,7 @@
   },
   {
     "name": "Pokemon Center NZ",
-    "url": "https://www.pokemoncenter.com/en-nz/category/trading-card-game?sort=launch_date%2Bdesc&category=tcg-cards",
+    "url": "https://www.pokemoncenter.com/en-nz/category/trading-card-game?sort=launch_date%2Bdesc&category=tcg-cards&availability=true",
     "note": "Official store - blocks automated access"
   }
 ]
