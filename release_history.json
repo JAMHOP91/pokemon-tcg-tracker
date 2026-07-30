@@ -1240,5 +1240,32 @@
     "timestamp": "2026-07-29T23:01:25.563976+00:00",
     "priority": false,
     "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254"
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Knock Out Collection - PRE ORDER - Release Date:  September 16th 2026",
+    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection-pre-order-release-date-september-16th-2026",
+    "price": "$39.00",
+    "timestamp": "2026-07-30T01:31:25.180430+00:00",
+    "priority": true,
+    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Knock-Out-Collection_EN.jpg?v=1783053480"
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Booster Bundle - PRE ORDER - Release Date:  October 2nd 2026",
+    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-booster-bundle-pre-order-release-date-october-2nd-2026-copy",
+    "price": "$159.00",
+    "timestamp": "2026-07-30T01:31:25.180430+00:00",
+    "priority": true,
+    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Booster-Bundle_EN.jpg?v=1783052710"
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Tin -  Greninja ex - PRE ORDER - Release Date: December 4th 2026",
+    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-tin-greninja-ex-pre-order-release-date-december-4th-2026",
+    "price": "$119.00",
+    "timestamp": "2026-07-30T01:31:25.180430+00:00",
+    "priority": true,
+    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tin-Scale-150x150.jpg?v=1783046757"
   }
 ]
