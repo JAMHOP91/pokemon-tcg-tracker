@@ -1,11 +1,13 @@
-"""
+﻿"""
 JB Hi-Fi NZ - Pokemon TCG.
 Finds product links by URL pattern and reads title from image alt text.
 
 JB Hi-Fi's bot protection appears to intermittently block requests from
 cloud/datacenter IPs (like GitHub Actions uses) more than home connections,
 so this retries a couple of times with fresh browser sessions before
-giving up, rather than failing on the first block.
+giving up. Also uses domcontentloaded + a fixed wait instead of
+networkidle, since JB Hi-Fi's live chat widget keeps background network
+activity going, which can prevent networkidle from ever being reached.
 """
 
 import time
@@ -17,6 +19,7 @@ LISTING_URL = "https://www.jbhifi.co.nz/collections/collectibles-merchandise/pok
 PRODUCT_LINK_SELECTOR = 'a[href*="/products/"]'
 MAX_ATTEMPTS = 3
 RETRY_DELAY_SECONDS = 10
+FAILURE_THRESHOLD_MINUTES = 300
 
 
 def _try_fetch_once() -> list[dict]:
@@ -28,8 +31,8 @@ def _try_fetch_once() -> list[dict]:
         page = browser.new_page(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
         )
-        page.goto(LISTING_URL, timeout=30000)
-        page.wait_for_load_state("networkidle", timeout=15000)
+        page.goto(LISTING_URL, timeout=30000, wait_until="domcontentloaded")
+        page.wait_for_timeout(4000)
         page.wait_for_selector(PRODUCT_LINK_SELECTOR, timeout=30000, state="attached")
         links = page.query_selector_all(PRODUCT_LINK_SELECTOR)
         for link in links:
@@ -66,6 +69,3 @@ def get_current_products() -> list[dict]:
                 time.sleep(RETRY_DELAY_SECONDS)
 
     raise last_error
-
-
-FAILURE_THRESHOLD_MINUTES = 300
