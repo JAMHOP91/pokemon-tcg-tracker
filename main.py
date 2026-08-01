@@ -27,7 +27,7 @@ from sites import cardtopia
 from sites import wpgames
 from sites import collectallday
 from sites import celebrationbox_monitor
-from sites import coolshit_availability_monitor
+from sites import coolshit_status_watch
 from sites import tcgcollectornz
 from sites import hobbymaster
 from sites import otakumart_preorders
@@ -64,7 +64,7 @@ SITES = [
     (wpgames.SITE_NAME, wpgames),
     (collectallday.SITE_NAME, collectallday),
     (celebrationbox_monitor.SITE_NAME, celebrationbox_monitor),
-    (coolshit_availability_monitor.SITE_NAME, coolshit_availability_monitor),
+    (coolshit_status_watch.SITE_NAME, coolshit_status_watch),
     (tcgcollectornz.SITE_NAME, tcgcollectornz),
     (hobbymaster.SITE_NAME, hobbymaster),
     (otakumart_preorders.SITE_NAME, otakumart_preorders),
