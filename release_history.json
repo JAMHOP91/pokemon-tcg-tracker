@@ -1366,5 +1366,23 @@
     "timestamp": "2026-08-02T09:46:06.193173+00:00",
     "priority": false,
     "image": "http://www.metalife.co.nz/cdn/shop/files/4961806880.jpg?v=1773369872"
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-08-02T14:01:20.761046+00:00",
+    "priority": true,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201"
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-08-02T14:01:20.761046+00:00",
+    "priority": true,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682"
   }
 ]
