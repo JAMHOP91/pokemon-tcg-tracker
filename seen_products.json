@@ -290,9 +290,9 @@
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/45463"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-08-03T21:16:36.177209+00:00"
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [],
@@ -374,6 +374,7 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
+      "8970819535046",
       "8789885321414",
       "8855171334342",
       "8909657637062",
