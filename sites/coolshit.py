@@ -1,7 +1,8 @@
 ﻿"""
 Cool Shit (coolshit.co.nz) - Pokemon TCG.
 Each product is a single <a class="prod-thumb" href="..." title="...">
-containing a nested .prod-thumb-price span with the price.
+containing a nested .prod-thumb-price span with the price. Skips
+sold-out items based on the "SOLD OUT" badge text.
 """
 
 from playwright.sync_api import sync_playwright
@@ -30,6 +31,9 @@ def get_current_products() -> list[dict]:
             if not title or not href:
                 continue
             if not is_tcg_product(title):
+                continue
+            card_text = card.inner_text().lower()
+            if "sold out" in card_text:
                 continue
             product_url = href if href.startswith("http") else f"https://www.coolshit.co.nz{href}"
             price_el = card.query_selector(".prod-thumb-price span")
