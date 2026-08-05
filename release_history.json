@@ -2239,5 +2239,14 @@
     "timestamp": "2026-08-05T19:09:26.842772+00:00",
     "priority": true,
     "image": null
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG 2025 World Championships Deck",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-2025-world-championships-deck",
+    "price": "$49.99",
+    "timestamp": "2026-08-05T19:13:08.925787+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-2025-World-Championships-Deck.jpg?v=1782083911"
   }
 ]
