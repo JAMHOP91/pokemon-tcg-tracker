@@ -141,6 +141,7 @@
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-booster-box",
       "https://www.tcgnz.co.nz/product-page/pre-order-pok\u00e9mon-tcg-destined-rivals-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-enhanced-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-heroes-mini-tin",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-three-booster-blister",
       "https://www.tcgnz.co.nz/product-page/pokemon-tcg-team-rocket-tin",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-elite-trainer-box",
@@ -206,7 +207,9 @@
     "first_failure_at": null
   },
   "30th Celebration Box - Web Monitor": {
-    "seen_ids": [],
+    "seen_ids": [
+      "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html"
+    ],
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null
