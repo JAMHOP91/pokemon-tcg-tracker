@@ -2149,5 +2149,14 @@
     "timestamp": "2026-08-05T17:44:43.925664+00:00",
     "priority": true,
     "image": null
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG League Battle Deck - Mega Lucario ex",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-league-battle-deck-mega-lucario-ex",
+    "price": "$69.99",
+    "timestamp": "2026-08-05T17:59:44.986690+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-06-18112552.jpg?v=1781738787"
   }
 ]
