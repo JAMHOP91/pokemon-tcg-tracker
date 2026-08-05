@@ -14,6 +14,7 @@
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
+      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 0,
@@ -84,6 +85,17 @@
   "Card Masters NZ": {
     "seen_ids": [
       "9107945980067",
+      "9136790044835",
+      "9136791978147",
+      "8386235957411",
+      "9101936918691",
+      "9081919176867",
+      "9107946176675",
+      "9136790208675",
+      "9000085717155",
+      "9101958414499",
+      "8952687788195",
+      "9054391763107",
       "9107945226403",
       "9136790208675",
       "9136790044835",
@@ -206,7 +218,9 @@
     "first_failure_at": null
   },
   "30th Celebration Box - Web Monitor": {
-    "seen_ids": [],
+    "seen_ids": [
+      "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html"
+    ],
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null
@@ -243,6 +257,10 @@
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/37806",
+      "https://hobbymaster.co.nz/products/product/47236",
+      "https://hobbymaster.co.nz/products/product/47223",
+      "https://hobbymaster.co.nz/products/product/46975",
+      "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/38546",
       "https://hobbymaster.co.nz/products/product/38545",
       "https://hobbymaster.co.nz/products/product/46971",
