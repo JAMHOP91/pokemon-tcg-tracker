@@ -3,6 +3,8 @@ Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
 Tracks how long each site has been continuously failing and warns based
 on elapsed real time (not raw check count).
+Also tracks each product's last-known price and alerts separately if an
+already-tracked item's price drops on a later check.
 Also writes status.json (site health snapshot) and release_history.json
 (a running feed of finds, including a product image where available)
 for the dashboard.
@@ -15,7 +17,7 @@ import requests
 from datetime import datetime, timezone
 from pathlib import Path
 
-from notify import notify_new_products, notify_scraper_warning, notify_scraper_recovered, notify_priority_products
+from notify import notify_new_products, notify_scraper_warning, notify_scraper_recovered, notify_priority_products, notify_price_drops
 from priority import load_priority_keywords, is_priority_product
 from sites import jbhifi
 from sites import coolshit
@@ -127,11 +129,22 @@ def save_status(status: dict) -> None:
 def get_site_state(state: dict, site_name: str) -> dict:
     entry = state.get(site_name)
     if entry is None:
-        return {"seen_ids": [], "zero_streak": 0, "warned": False, "first_failure_at": None}
+        return {"seen_ids": [], "zero_streak": 0, "warned": False, "first_failure_at": None, "prices": {}}
     if isinstance(entry, list):
-        return {"seen_ids": entry, "zero_streak": 0, "warned": False, "first_failure_at": None}
+        return {"seen_ids": entry, "zero_streak": 0, "warned": False, "first_failure_at": None, "prices": {}}
     entry.setdefault("first_failure_at", None)
+    entry.setdefault("prices", {})
     return entry
+
+
+def parse_price(price_str):
+    if not price_str:
+        return None
+    try:
+        cleaned = price_str.replace("$", "").replace(",", "").strip()
+        return float(cleaned)
+    except (ValueError, TypeError):
+        return None
 
 
 def fetch_og_image(url: str) -> str | None:
@@ -177,6 +190,7 @@ def main():
         print(f"Checking {site_name}...")
         site_state = get_site_state(state, site_name)
         seen_ids = set(site_state["seen_ids"])
+        prices = site_state.get("prices", {})
         allow_empty = getattr(site_module, "ALLOW_EMPTY_RESULTS", False)
         threshold_minutes = getattr(site_module, "FAILURE_THRESHOLD_MINUTES", DEFAULT_FAILURE_THRESHOLD_MINUTES)
 
@@ -219,6 +233,22 @@ def main():
         current_ids = {p["id"] for p in current_products}
         new_products = [p for p in current_products if p["id"] not in seen_ids]
 
+        price_drops = []
+        for p in current_products:
+            pid = p["id"]
+            new_price = parse_price(p.get("price"))
+            old_price = prices.get(pid)
+            if pid in seen_ids and new_price is not None and old_price is not None and new_price < old_price:
+                price_drops.append({
+                    "title": p["title"],
+                    "url": p["url"],
+                    "old_price": f"${old_price:.2f}",
+                    "new_price": f"${new_price:.2f}",
+                })
+            if new_price is not None:
+                prices[pid] = new_price
+        site_state["prices"] = prices
+
         if new_products:
             priority_matches = [p for p in new_products if is_priority_product(p["title"], priority_keywords)]
             regular_matches = [p for p in new_products if p not in priority_matches]
@@ -242,6 +272,10 @@ def main():
                 })
         else:
             print("  No new products")
+
+        if price_drops:
+            print(f"  {len(price_drops)} price drop(s)")
+            notify_price_drops(site_name, price_drops)
 
         status[site_name] = {
             "last_checked": now.isoformat(),
