@@ -42,7 +42,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin main
           python merge_state.py
-          git add seen_products.json coolshit_coming_soon_state.json coolshit_status_state.json status.json release_history.json
+          git add seen_products.json coolshit_coming_soon_state.json coolshit_status_state.json celebrationbox_seen_state.json status.json release_history.json
           git diff --quiet && git diff --staged --quiet || git commit -m "Update seen products state"
           git merge -X ours origin/main --no-edit || true
           git push
