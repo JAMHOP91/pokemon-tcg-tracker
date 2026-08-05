@@ -2113,5 +2113,14 @@
     "timestamp": "2026-08-05T17:20:00.624341+00:00",
     "priority": true,
     "image": null
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pok\u00e9mon TCG: MEGA Munix Zero Japanese Booster Pack",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-tcg-mega-munix-zero-japanese-booster-pack",
+    "price": "$7.00",
+    "timestamp": "2026-08-05T17:23:17.868633+00:00",
+    "priority": false,
+    "image": "http://www.cardtopia.co.nz/cdn/shop/files/Untitleddesign-2026-01-21T214646.130.png?v=1768985232"
   }
 ]
