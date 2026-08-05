@@ -121,8 +121,6 @@
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-jose-cruz-galindo-resendiz",
-      "https://www.hobbylords.co.nz/products/single/-2025-pokemon-tcg-world-championships-deck-liao-fu-guan",
-      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/lucario-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay"
@@ -183,7 +181,11 @@
       "9328364945647",
       "9464484921583",
       "9464484626671",
-      "9388711182575"
+      "9328351772911",
+      "8540499149039",
+      "9328364945647",
+      "9388711182575",
+      "9464484921583"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -206,7 +208,9 @@
     "first_failure_at": null
   },
   "30th Celebration Box - Web Monitor": {
-    "seen_ids": [],
+    "seen_ids": [
+      "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html"
+    ],
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null
@@ -417,6 +421,7 @@
       "8832667877399",
       "8835216965655",
       "8847851880471",
+      "8832667877399",
       "8835217915927",
       "8770963537943",
       "8835215622167",
