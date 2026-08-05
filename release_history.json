@@ -1645,5 +1645,23 @@
     "timestamp": "2026-08-05T01:07:54.978014+00:00",
     "priority": false,
     "image": "http://toytime.co.nz/cdn/shop/files/2318353445.jpg?v=1784500677"
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions 4 Chaos Rising Booster pack X1",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-4-chaos-rising-booster-pack",
+    "price": "$10.99",
+    "timestamp": "2026-08-05T01:11:22.197002+00:00",
+    "priority": true,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/RISING.jpg?v=1779147663"
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG Trainer's Toolkit 2025",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-trainers-toolkit-2025",
+    "price": "$89.99",
+    "timestamp": "2026-08-05T01:11:22.197002+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCGTrainer_sToolkit2025_5d6c0764-efbd-48b1-afdd-72c21552112c.jpg?v=1761343285"
   }
 ]
