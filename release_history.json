@@ -1834,5 +1834,23 @@
     "timestamp": "2026-08-05T07:02:20.233782+00:00",
     "priority": false,
     "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck_EN.jpg?v=1775450990"
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Hidden Fates Tin",
+    "url": "https://www.collectallday.com/new/hidden-fates-tin",
+    "price": "from NZ$230.00",
+    "timestamp": "2026-08-05T08:13:32.536460+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ea41518a9fa910a7d7a63ac/1587816618843/480px-CharizardGX_Tin.jpg?format=1500w"
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Lucario ex League Battle Deck",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-lucario-ex-league-battle-deck",
+    "price": "$69.99",
+    "timestamp": "2026-08-05T08:13:32.536460+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck.png?v=1777945461"
   }
 ]
