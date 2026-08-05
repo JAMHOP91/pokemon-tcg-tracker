@@ -1,4 +1,4 @@
-"""
+﻿"""
 Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
 Tracks how long each site has been continuously failing and warns based
@@ -9,6 +9,7 @@ for the dashboard.
 """
 
 import json
+import os
 import re
 import requests
 from datetime import datetime, timezone
@@ -152,6 +153,19 @@ def fetch_og_image(url: str) -> str | None:
         return None
 
 
+def ping_heartbeat():
+    """Pings Healthchecks.io after a successful run, so it can alert us
+    if the pipeline ever stops running entirely. Best-effort only -
+    never lets a ping failure break the actual tracker run."""
+    url = os.environ.get("HEALTHCHECKS_PING_URL")
+    if not url:
+        return
+    try:
+        requests.get(url, timeout=10)
+    except Exception:
+        pass
+
+
 def main():
     state = load_state()
     priority_keywords = load_priority_keywords()
@@ -240,6 +254,7 @@ def main():
     save_state(state)
     save_history(history)
     save_status({"generated_at": now.isoformat(), "sites": status})
+    ping_heartbeat()
 
 
 if __name__ == "__main__":
