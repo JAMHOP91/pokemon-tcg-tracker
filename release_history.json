@@ -2169,12 +2169,30 @@
     "image": null
   },
   {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Chaos Rising Single Pack",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-single-pack",
-    "price": "$11.00",
-    "timestamp": "2026-08-05T18:37:40.448699+00:00",
+    "site": "30th Celebration Box - Web Monitor",
+    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
+    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
+    "price": null,
+    "timestamp": "2026-08-05T18:27:44.305294+00:00",
+    "priority": true,
+    "image": null
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon Chinese Terastal Gathering Booster Box",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-chinese-terastal-gathering-booster-box",
+    "price": "$235.99",
+    "timestamp": "2026-08-05T18:39:17.015422+00:00",
     "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/pok10407a-01.png?v=1784500570"
+    "image": "http://www.cardtopia.co.nz/cdn/shop/files/Untitleddesign-2026-06-29T172457.371.png?v=1782710733"
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Yokohama World Championships 2023 Official Deck Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-yokohama-world-championships-2023-deck-box",
+    "price": "$21.99",
+    "timestamp": "2026-08-05T18:39:17.015422+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/SocialMediaPostsConsolidatedDesigns_6.jpg?v=1737248430"
   }
 ]
