@@ -118,6 +118,7 @@
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
+      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
@@ -179,6 +180,8 @@
   "WP Games - Pokemon TCG": {
     "seen_ids": [
       "9328364945647",
+      "9328351772911",
+      "9464484626671",
       "8540499149039",
       "9328351772911",
       "9464484921583",
@@ -206,9 +209,7 @@
     "first_failure_at": null
   },
   "30th Celebration Box - Web Monitor": {
-    "seen_ids": [
-      "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html"
-    ],
+    "seen_ids": [],
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null
@@ -256,9 +257,9 @@
       "https://hobbymaster.co.nz/products/product/38548",
       "https://hobbymaster.co.nz/products/product/45880"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-08-05T19:22:43.544467+00:00"
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [],
