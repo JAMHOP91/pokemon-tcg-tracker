@@ -161,6 +161,7 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10076303622384",
       "10070962241776",
       "9716528414960",
       "10076303622384",
@@ -224,6 +225,7 @@
       "8474977435844",
       "8027563098308",
       "7511695261892",
+      "8479841648836",
       "8542844682436",
       "8584605696196",
       "8479841648836",
@@ -236,6 +238,8 @@
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
+      "https://hobbymaster.co.nz/products/product/46974",
+      "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/46974",
@@ -367,8 +371,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
     ],
     "zero_streak": 0,
