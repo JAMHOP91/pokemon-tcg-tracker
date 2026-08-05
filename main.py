@@ -48,6 +48,8 @@ from sites import turtleisland
 from sites import coolshit_password_watch
 from sites import ocare
 from sites import kidzstuffonline
+from sites import parkocards
+from sites import hobbyzone
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 STATUS_FILE = Path(__file__).parent / "status.json"
@@ -87,6 +89,8 @@ SITES = [
     (coolshit_password_watch.SITE_NAME, coolshit_password_watch),
     (ocare.SITE_NAME, ocare),
     (kidzstuffonline.SITE_NAME, kidzstuffonline),
+    (parkocards.SITE_NAME, parkocards),
+    (hobbyzone.SITE_NAME, hobbyzone),
 ]
 
 DEFAULT_FAILURE_THRESHOLD_MINUTES = 90

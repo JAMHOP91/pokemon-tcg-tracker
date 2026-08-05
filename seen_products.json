@@ -83,6 +83,13 @@
   },
   "Card Masters NZ": {
     "seen_ids": [
+      "9107945980067",
+      "7540284915875",
+      "9101936459939",
+      "9054391763107",
+      "9101958414499",
+      "9136790208675",
+      "9136746102947",
       "9136791978147",
       "9081919176867",
       "9107945980067",
@@ -256,9 +263,9 @@
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/45463"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-08-05T22:26:58.086583+00:00"
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [],
