@@ -180,6 +180,8 @@
     "seen_ids": [
       "9328364945647",
       "9328351772911",
+      "9328364945647",
+      "9464484921583",
       "8540499149039",
       "9464484921583",
       "9464484626671",
@@ -254,9 +256,9 @@
       "https://hobbymaster.co.nz/products/product/38546",
       "https://hobbymaster.co.nz/products/product/47232"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-08-05T08:03:11.984126+00:00"
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [],
