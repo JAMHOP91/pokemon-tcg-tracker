@@ -206,7 +206,9 @@
     "first_failure_at": null
   },
   "30th Celebration Box - Web Monitor": {
-    "seen_ids": [],
+    "seen_ids": [
+      "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html"
+    ],
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null
@@ -254,9 +256,9 @@
       "https://hobbymaster.co.nz/products/product/38546",
       "https://hobbymaster.co.nz/products/product/37806"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-08-05T19:56:47.296286+00:00"
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [],
@@ -309,7 +311,11 @@
       "9503064031528",
       "10365187621160",
       "10299295236392",
-      "10270182736168"
+      "10132850377000",
+      "10182936625448",
+      "10365187621160",
+      "10270182736168",
+      "9734074401064"
     ],
     "zero_streak": 0,
     "warned": false,
