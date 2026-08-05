@@ -161,6 +161,11 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "9890801385712",
+      "10070962241776",
+      "10176981205232",
+      "10076303622384",
+      "9716528414960",
       "9875903938800",
       "10076303622384",
       "9890801385712",
@@ -256,9 +261,9 @@
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/47236"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-08-05T19:03:55.754336+00:00"
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [],
