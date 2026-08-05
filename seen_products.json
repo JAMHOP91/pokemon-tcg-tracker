@@ -363,21 +363,9 @@
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/37806"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
-    "prices": {
-      "https://hobbymaster.co.nz/products/product/47223": 430.0,
-      "https://hobbymaster.co.nz/products/product/47232": 90.0,
-      "https://hobbymaster.co.nz/products/product/47236": 50.0,
-      "https://hobbymaster.co.nz/products/product/47237": 95.0,
-      "https://hobbymaster.co.nz/products/product/45463": 630.0,
-      "https://hobbymaster.co.nz/products/product/45878": 161.0,
-      "https://hobbymaster.co.nz/products/product/38545": 216.0,
-      "https://hobbymaster.co.nz/products/product/38546": 216.0,
-      "https://hobbymaster.co.nz/products/product/38548": 216.0,
-      "https://hobbymaster.co.nz/products/product/37806": 75.0
-    }
+    "first_failure_at": "2026-08-05T23:32:32.542410+00:00"
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [],
@@ -409,8 +397,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -584,6 +572,9 @@
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
       "8847851880471",
+      "8830803279895",
+      "8888685723671",
+      "8215152230423",
       "8832667877399",
       "8774665043991",
       "8888685723671",

@@ -8,7 +8,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="TCG Tracker"><circle cx='50' cy='50' r='42' fill='%23ffcb05' stroke='%23111' stroke-width='8'/><circle cx='50' cy='50' r='10' fill='%23111'/></svg>">
+<meta name="apple-mobile-web-app-title" content="TCG Tracker">
 <style>
   :root {
     --bg: #0f1117;
@@ -138,6 +138,18 @@
   .manual-card .name { font-weight: 600; font-size: 14px; color: var(--text); margin-bottom: 4px; }
   .manual-card .note { font-size: 12px; color: var(--muted); }
   .manual-card:hover { border-color: var(--accent); }
+  .search-box {
+    width: 100%;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 10px 14px;
+    color: var(--text);
+    font-size: 14px;
+    margin-bottom: 12px;
+  }
+  .search-box::placeholder { color: var(--muted); }
+  .search-box:focus { outline: none; border-color: var(--accent); }
   .feed-item-thumb { width: 48px; height: 48px; border-radius: 8px; object-fit: cover; flex-shrink: 0; }
   .feed-item {
     background: var(--card);
@@ -190,6 +202,7 @@
   <div class="manual-grid" id="manualGrid">Loading...</div>
 
   <div class="section-title">Recent Finds</div>
+  <input type="text" id="feedSearch" class="search-box" placeholder="Search by site or product name..." oninput="renderFeed(this.value)">
   <div id="feed">Loading...</div>
 
   <div class="footer" id="footer"></div>
@@ -230,6 +243,8 @@ const SITE_DOMAINS = {
   "Parko Cards - Pokemon TCG": "parkocards.co.nz",
   "Hobby Zone - Pokemon Cards": "hobbyzone.co.nz"
 };
+
+let cachedHistory = [];
 
 function logoHtml(siteName) {
   const domain = SITE_DOMAINS[siteName];
@@ -274,18 +289,51 @@ function timeAgo(isoString) {
   return Math.round(hours / 24) + 'd ago';
 }
 
+function renderFeed(searchTerm) {
+  const feedEl = document.getElementById('feed');
+  let filtered = cachedHistory;
+
+  if (searchTerm && searchTerm.trim()) {
+    const term = searchTerm.toLowerCase();
+    filtered = cachedHistory.filter(item =>
+      (item.title && item.title.toLowerCase().includes(term)) ||
+      (item.site && item.site.toLowerCase().includes(term))
+    );
+  }
+
+  if (filtered.length) {
+    const sorted = [...filtered].reverse().slice(0, 40);
+    feedEl.innerHTML = sorted.map(item => `
+      <div class="feed-item ${item.priority ? 'priority' : ''}">
+        ${item.image ? `<img class="feed-item-thumb" src="${item.image}" onerror="this.remove()">` : ''}
+        <div>
+          <a href="${item.url}" target="_blank">${item.title}</a>${item.priority ? '<span class="badge">PRIORITY</span>' : ''}
+          <div class="sub">${item.site} - ${timeAgo(item.timestamp)}</div>
+        </div>
+        ${item.price ? `<div class="price">${item.price}</div>` : ''}
+      </div>
+    `).join('');
+  } else if (searchTerm && searchTerm.trim()) {
+    feedEl.innerHTML = '<div class="empty">No finds match your search</div>';
+  } else {
+    feedEl.innerHTML = '<div class="empty">No finds recorded yet</div>';
+  }
+}
+
 async function render() {
   const status = await loadJSON('status.json');
   const history = await loadJSON('release_history.json');
   const hypeWindows = await loadJSON('hype_windows.json');
   const manualSites = await loadJSON('manual_check_sites.json');
 
+  cachedHistory = history || [];
+
   const statsEl = document.getElementById('statsBar');
   const siteCount = status && status.sites ? Object.keys(status.sites).length : 0;
-  const totalFinds = history ? history.length : 0;
+  const totalFinds = cachedHistory.length;
   const now = Date.now();
-  const last30Days = history ? history.filter(h => (now - new Date(h.timestamp).getTime()) < 30 * 86400000).length : 0;
-  const priorityFinds = history ? history.filter(h => h.priority).length : 0;
+  const last30Days = cachedHistory.filter(h => (now - new Date(h.timestamp).getTime()) < 30 * 86400000).length;
+  const priorityFinds = cachedHistory.filter(h => h.priority).length;
   statsEl.innerHTML = `
     <div class="stat-box"><div class="num">${siteCount}</div><div class="label">Sites Tracked</div></div>
     <div class="stat-box"><div class="num">${last30Days}</div><div class="label">Drops (30 days)</div></div>
@@ -340,22 +388,8 @@ async function render() {
     manualEl.innerHTML = '<div class="empty">No manual-check sites listed</div>';
   }
 
-  const feedEl = document.getElementById('feed');
-  if (history && history.length) {
-    const sorted = [...history].reverse().slice(0, 40);
-    feedEl.innerHTML = sorted.map(item => `
-      <div class="feed-item ${item.priority ? 'priority' : ''}">
-        ${item.image ? `<img class="feed-item-thumb" src="${item.image}" onerror="this.remove()">` : ''}
-        <div>
-          <a href="${item.url}" target="_blank">${item.title}</a>${item.priority ? '<span class="badge">PRIORITY</span>' : ''}
-          <div class="sub">${item.site} - ${timeAgo(item.timestamp)}</div>
-        </div>
-        ${item.price ? `<div class="price">${item.price}</div>` : ''}
-      </div>
-    `).join('');
-  } else {
-    feedEl.innerHTML = '<div class="empty">No finds recorded yet</div>';
-  }
+  const searchInput = document.getElementById('feedSearch');
+  renderFeed(searchInput ? searchInput.value : '');
 
   document.getElementById('footer').textContent = 'Last updated: ' + (status ? new Date(status.generated_at).toLocaleString() : 'unknown');
 }
