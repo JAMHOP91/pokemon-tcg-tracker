@@ -206,9 +206,7 @@
     "first_failure_at": null
   },
   "30th Celebration Box - Web Monitor": {
-    "seen_ids": [
-      "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html"
-    ],
+    "seen_ids": [],
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null
@@ -303,6 +301,7 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
+      "10299295236392",
       "9503064031528",
       "10270182736168",
       "10323223183656",
