@@ -1708,5 +1708,23 @@
     "timestamp": "2026-08-05T03:07:50.254577+00:00",
     "priority": false,
     "image": "http://www.metalife.co.nz/cdn/shop/files/475077-Product-6-I-639106834204565919.webp?v=1779063289"
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: 2-Pack Blister Product (Pre-Order)",
+    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+    "price": "NZ$24.00",
+    "timestamp": "2026-08-05T03:15:01.942173+00:00",
+    "priority": false,
+    "image": "https://assets.bigcartel.com/product_images/425327193/Untitled+design+_4_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "2025 Pokemon TCG World Championships Deck - Yuya Okita",
+    "url": "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
+    "price": null,
+    "timestamp": "2026-08-05T03:15:01.942173+00:00",
+    "priority": false,
+    "image": "https://fls-9ed9af97-ba71-4fbd-b8de-969da5133e40.laravel.cloud/testing/product/9545/images/S5Nq95NRPOmHxStCBbLNgG6fgzDZbTLsyRKR91jd.webp"
   }
 ]
