@@ -2194,5 +2194,32 @@
     "timestamp": "2026-08-05T18:39:17.015422+00:00",
     "priority": false,
     "image": "http://wpgames.co.nz/cdn/shop/files/SocialMediaPostsConsolidatedDesigns_6.jpg?v=1737248430"
+  },
+  {
+    "site": "30th Celebration Box - Web Monitor",
+    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
+    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
+    "price": null,
+    "timestamp": "2026-08-05T18:42:57.321688+00:00",
+    "priority": true,
+    "image": null
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Charizard ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-charizard-ex-sealed-pre-order-ships-nov-15th",
+    "price": "$71.99",
+    "timestamp": "2026-08-05T18:42:57.321688+00:00",
+    "priority": false,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Charizard-ex-League-Battle-Deck_EN-917x1024.jpg?v=1725010104"
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Mega Zygarde ex Premium Collection Sealed Case of 6 - Pok\u00e9mon TCG",
+    "url": "https://magicreddragon.co.nz/products/mega-zygarde-ex-premium-collection-sealed-case-of-6-pokemon-tcg-1",
+    "price": "$599.00",
+    "timestamp": "2026-08-05T18:42:57.321688+00:00",
+    "priority": false,
+    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762.jpg?v=1773976433"
   }
 ]
