@@ -2221,5 +2221,23 @@
     "timestamp": "2026-08-05T19:02:16.870819+00:00",
     "priority": false,
     "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762.jpg?v=1774229117"
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Japanese Pokemon Mega Dream Ex Booster Pack",
+    "url": "https://www.cardtopia.co.nz/products/japanese-pokemon-mega-dream-ex-booster-pack",
+    "price": "$23.99",
+    "timestamp": "2026-08-05T19:09:26.842772+00:00",
+    "priority": false,
+    "image": "http://www.cardtopia.co.nz/cdn/shop/files/megadreamEX.jpg?v=1764637524"
+  },
+  {
+    "site": "30th Celebration Box - Web Monitor",
+    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
+    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
+    "price": null,
+    "timestamp": "2026-08-05T19:09:26.842772+00:00",
+    "priority": true,
+    "image": null
   }
 ]
