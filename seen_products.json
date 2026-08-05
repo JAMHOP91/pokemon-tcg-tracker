@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -16,9 +16,9 @@
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null
+    "first_failure_at": "2026-08-05T09:44:39.879181+00:00"
   },
   "The Game Tree NZ": {
     "seen_ids": [
@@ -284,10 +284,10 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
+      "10158427111719",
       "10226093588775",
       "10200199889191",
-      "10200198644007",
-      "10158427111719"
+      "10200198644007"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -402,6 +402,7 @@
       "9285822251157",
       "9210132758677",
       "9047083745429",
+      "9268784496789",
       "9152299892885",
       "9210168803477",
       "9251800187029"
