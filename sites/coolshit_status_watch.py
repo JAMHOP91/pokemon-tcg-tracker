@@ -4,15 +4,14 @@ Cool Shit - Status Watch.
 Tracks EVERY product's status (coming_soon / available / sold_out) and
 title, not just ones explicitly marked "coming soon". Alerts on any
 meaningful change - a status flip, OR a title change on a URL we'd
-already seen (catches cases where an old product page gets reused for
-a new listing without ever showing a "coming soon" badge in our checks,
-which is a real gap the old coming-soon-only version had).
+already seen. Uses the shared retry helper for resilience.
 """
 
 import json
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 from sites.filters import is_tcg_product
+from sites.retry_helper import with_retries
 
 SITE_NAME = "Cool Shit - Status Watch"
 LISTING_URL = "https://www.coolshit.co.nz/category/pokemon"
@@ -35,7 +34,7 @@ def _save_state(state: dict) -> None:
     STATE_FILE.write_text(json.dumps(state, indent=2))
 
 
-def get_current_products() -> list[dict]:
+def _try_fetch_once() -> list[dict]:
     previous_state = _load_state()
     new_state = {}
     alerts = []
@@ -75,9 +74,6 @@ def get_current_products() -> list[dict]:
 
             prev = previous_state.get(product_url)
             if prev is None:
-                # Brand new URL we've never tracked - only alert if it's
-                # already available or sold out (skip alerting on brand
-                # new coming-soon listings, that's noise, not a drop)
                 if status != "coming_soon":
                     alerts.append({
                         "id": f"{product_url}::{status}",
@@ -100,3 +96,7 @@ def get_current_products() -> list[dict]:
 
     _save_state(new_state)
     return alerts
+
+
+def get_current_products() -> list[dict]:
+    return with_retries(_try_fetch_once, "Cool Shit Status Watch")

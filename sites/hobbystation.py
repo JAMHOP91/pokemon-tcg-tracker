@@ -1,21 +1,18 @@
 ﻿"""
 Hobby Station - Pokemon TCG. Custom platform, not Shopify.
 Each product sits in a .prod-item div, with the title/link in
-h4.prod-name a and price in .prod-price. This class appears to be
-used site-wide (including recommendation widgets), so an explicit
-"pokemon" title check is required to avoid picking up unrelated
-RC/hobby products from elsewhere on the page.
+h4.prod-name a and price in .prod-price. The .prod-item class appears
+to be used site-wide (including recommendation widgets), so this
+requires "pokemon" explicitly in the title. Uses the shared retry helper.
 """
 
-import time
 from playwright.sync_api import sync_playwright
 from sites.filters import is_tcg_product
+from sites.retry_helper import with_retries
 
 SITE_NAME = "Hobby Station - Pokemon TCG"
 LISTING_URL = "https://hobbystation.co.nz/pokemon-tcg/"
 CARD_SELECTOR = ".prod-item"
-MAX_ATTEMPTS = 3
-RETRY_DELAY_SECONDS = 10
 ALLOW_EMPTY_RESULTS = True
 
 
@@ -61,14 +58,4 @@ def _try_fetch_once() -> list[dict]:
 
 
 def get_current_products() -> list[dict]:
-    last_error = None
-    for attempt in range(1, MAX_ATTEMPTS + 1):
-        try:
-            return _try_fetch_once()
-        except Exception as e:
-            last_error = e
-            print(f"  Hobby Station attempt {attempt}/{MAX_ATTEMPTS} failed: {e}")
-            if attempt < MAX_ATTEMPTS:
-                time.sleep(RETRY_DELAY_SECONDS)
-
-    raise last_error
+    return with_retries(_try_fetch_once, "Hobby Station")

@@ -1,19 +1,19 @@
 ﻿"""
 Hobby Lords - Pokemon TCG.
-Product links follow /products/single/... Their site used to have the
-title in an h4 element, but that changed - now the title only exists
-in the product image's alt attribute, so this reads from there instead.
+Product links follow /products/single/... Title comes from the product
+image's alt attribute. Uses the shared retry helper for resilience.
 """
 
 from playwright.sync_api import sync_playwright
 from sites.filters import is_tcg_product
+from sites.retry_helper import with_retries
 
 SITE_NAME = "Hobby Lords - Pokemon"
 LISTING_URL = "https://www.hobbylords.co.nz/shop/brand/pokemon"
 PRODUCT_LINK_SELECTOR = 'a[href*="/products/single/"]'
 
 
-def get_current_products() -> list[dict]:
+def _try_fetch_once() -> list[dict]:
     products = []
     seen_hrefs = set()
 
@@ -44,3 +44,7 @@ def get_current_products() -> list[dict]:
         browser.close()
 
     return products
+
+
+def get_current_products() -> list[dict]:
+    return with_retries(_try_fetch_once, "Hobby Lords")

@@ -1,21 +1,18 @@
 ﻿"""
 TCG NZ - Pokemon TCG. Runs on Wix. Finds products by the confirmed
 data-hook="product-item-name" title element, then walks up to whichever
-link wraps it. Checks the listing page's own "out of stock" text as the
-stock signal - a per-product-page verification was tried but caused
-this scraper to fail almost constantly (likely from visiting too many
-product pages per run), so this reverts to the simpler, reliable version.
+link wraps it. Uses domcontentloaded + a short fixed wait instead of
+networkidle, since Wix's background chat/analytics activity can prevent
+networkidle from ever being reached. Uses the shared retry helper.
 """
 
-import time
 from playwright.sync_api import sync_playwright
 from sites.filters import is_tcg_product
+from sites.retry_helper import with_retries
 
 SITE_NAME = "TCG NZ"
 LISTING_URL = "https://www.tcgnz.co.nz/shop-collection"
 TITLE_SELECTOR = '[data-hook="product-item-name"]'
-MAX_ATTEMPTS = 3
-RETRY_DELAY_SECONDS = 10
 
 
 def _try_fetch_once() -> list[dict]:
@@ -60,14 +57,4 @@ def _try_fetch_once() -> list[dict]:
 
 
 def get_current_products() -> list[dict]:
-    last_error = None
-    for attempt in range(1, MAX_ATTEMPTS + 1):
-        try:
-            return _try_fetch_once()
-        except Exception as e:
-            last_error = e
-            print(f"  TCG NZ attempt {attempt}/{MAX_ATTEMPTS} failed: {e}")
-            if attempt < MAX_ATTEMPTS:
-                time.sleep(RETRY_DELAY_SECONDS)
-
-    raise last_error
+    return with_retries(_try_fetch_once, "TCG NZ")
