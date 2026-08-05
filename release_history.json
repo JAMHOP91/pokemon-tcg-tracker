@@ -1825,5 +1825,14 @@
     "timestamp": "2026-08-05T06:33:03.925962+00:00",
     "priority": true,
     "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201"
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Mega Lucario ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-mega-lucario-ex-sealed-pre-order-ships-may-22nd",
+    "price": "$71.99",
+    "timestamp": "2026-08-05T07:02:20.233782+00:00",
+    "priority": false,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck_EN.jpg?v=1775450990"
   }
 ]
