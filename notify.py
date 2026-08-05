@@ -69,3 +69,14 @@ def notify_priority_products(site_name: str, products: list[dict]) -> None:
         lines.append(f"- <a href=\"{p['url']}\">{p['title']}</a>{price}")
 
     send_telegram_message("\n".join(lines))
+
+
+def notify_price_drops(site_name: str, drops: list[dict]) -> None:
+    if not drops:
+        return
+
+    lines = [f"PRICE DROP on {site_name}!"]
+    for d in drops:
+        lines.append(f"- <a href=\"{d['url']}\">{d['title']}</a>: {d['old_price']} -> {d['new_price']}")
+
+    send_telegram_message("\n".join(lines))
