@@ -206,9 +206,7 @@
     "first_failure_at": null
   },
   "30th Celebration Box - Web Monitor": {
-    "seen_ids": [
-      "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html"
-    ],
+    "seen_ids": [],
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null
@@ -346,7 +344,11 @@
       "8921908740294",
       "8909649739974",
       "8855171334342",
-      "8970819535046"
+      "8909649739974",
+      "8970824843462",
+      "8931072311494",
+      "8789885321414",
+      "8909657637062"
     ],
     "zero_streak": 0,
     "warned": false,
