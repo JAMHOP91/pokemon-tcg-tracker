@@ -192,6 +192,7 @@
   "Collect All Day": {
     "seen_ids": [
       "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
@@ -284,7 +285,6 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10226093588775",
       "10158427111719",
       "10200199889191",
       "10200198644007"
@@ -403,7 +403,11 @@
       "9047083745429",
       "9251800187029",
       "9210168803477",
-      "9210132758677"
+      "9210132758677",
+      "9152299892885",
+      "9285795938453",
+      "9285822251157",
+      "9251800187029"
     ],
     "zero_streak": 0,
     "warned": false,
