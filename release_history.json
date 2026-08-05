@@ -1575,12 +1575,21 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCGTrainer_sToolkit2025_5d6c0764-efbd-48b1-afdd-72c21552112c.jpg?v=1761343285"
   },
   {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 2025 Pokemon TCG World Championships Deck (Pre Order) Release Date: 19 June 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-2025-pokemon-tcg-world-championships-deck-pre-order-release-date-19-june-2026",
-    "price": "$45.00",
-    "timestamp": "2026-08-05T00:11:39.775846+00:00",
+    "site": "Hobby Lords - Pokemon",
+    "title": "2025 Pokemon TCG World Championships Deck - Yuya Okita",
+    "url": "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
+    "price": null,
+    "timestamp": "2026-08-05T00:13:30.497015+00:00",
     "priority": false,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/2025-Pokemon-TCG-World-Championships-Deck-Display_EN.jpg?v=1777627623"
+    "image": "https://fls-9ed9af97-ba71-4fbd-b8de-969da5133e40.laravel.cloud/testing/product/9545/images/S5Nq95NRPOmHxStCBbLNgG6fgzDZbTLsyRKR91jd.webp"
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Miraidon ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-miraidon-ex-sealed",
+    "price": "$71.99",
+    "timestamp": "2026-08-05T00:13:30.497015+00:00",
+    "priority": false,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Miraidon-ex-League-Battle-Deck_EN-919x1024.jpg?v=1701139874"
   }
 ]

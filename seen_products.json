@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -11,7 +11,6 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection"
@@ -182,8 +181,8 @@
       "9328351772911",
       "9388711182575",
       "9464484626671",
-      "8540499149039",
-      "9328364945647"
+      "9328351772911",
+      "8540499149039"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -287,7 +286,9 @@
       "10158427111719",
       "10226093588775",
       "10200199889191",
-      "10200198644007"
+      "10200198644007",
+      "10226093588775",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
