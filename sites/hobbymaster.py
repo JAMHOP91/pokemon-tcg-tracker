@@ -1,19 +1,17 @@
 ﻿"""
 Hobby Master - Pokemon TCG. Custom platform, not Shopify.
 Each product sits in a .caption wrapper containing an h4 > a for the
-title/link, a .price div, and a .stock row div (used to detect and
-skip sold-out items).
+title/link, a .price div, and a .stock row div. Uses the shared retry
+helper for resilience.
 """
 
-import time
 from playwright.sync_api import sync_playwright
 from sites.filters import is_tcg_product
+from sites.retry_helper import with_retries
 
 SITE_NAME = "Hobby Master - Pokemon"
 LISTING_URL = "https://hobbymaster.co.nz/products/cards/4"
 CARD_SELECTOR = ".caption"
-MAX_ATTEMPTS = 3
-RETRY_DELAY_SECONDS = 10
 
 
 def _try_fetch_once() -> list[dict]:
@@ -57,14 +55,4 @@ def _try_fetch_once() -> list[dict]:
 
 
 def get_current_products() -> list[dict]:
-    last_error = None
-    for attempt in range(1, MAX_ATTEMPTS + 1):
-        try:
-            return _try_fetch_once()
-        except Exception as e:
-            last_error = e
-            print(f"  Hobby Master attempt {attempt}/{MAX_ATTEMPTS} failed: {e}")
-            if attempt < MAX_ATTEMPTS:
-                time.sleep(RETRY_DELAY_SECONDS)
-
-    raise last_error
+    return with_retries(_try_fetch_once, "Hobby Master")

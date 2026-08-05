@@ -1,21 +1,18 @@
 ﻿"""
 Turtle Island - Pokemon TCG Pre-Orders. Custom platform using Tailwind
-utility classes (no stable custom class names), so this finds products
-by URL pattern (/product/...) instead, reading the title from the
-link's own text. Mixed catalog (video games, comics, other TCGs), so
-requires "pokemon" in the title.
+utility classes, so this finds products by URL pattern (/product/...)
+instead, reading the title from the link's own text. Uses the shared
+retry helper for resilience.
 """
 
 import re
-import time
 from playwright.sync_api import sync_playwright
 from sites.filters import is_tcg_product
+from sites.retry_helper import with_retries
 
 SITE_NAME = "Turtle Island - Pokemon Pre-Orders"
 LISTING_URL = "https://turtleisland.co.nz/collection/pre-order"
 PRODUCT_LINK_SELECTOR = 'a[href*="/product/"]'
-MAX_ATTEMPTS = 3
-RETRY_DELAY_SECONDS = 10
 ALLOW_EMPTY_RESULTS = True
 
 
@@ -59,14 +56,4 @@ def _try_fetch_once() -> list[dict]:
 
 
 def get_current_products() -> list[dict]:
-    last_error = None
-    for attempt in range(1, MAX_ATTEMPTS + 1):
-        try:
-            return _try_fetch_once()
-        except Exception as e:
-            last_error = e
-            print(f"  Turtle Island attempt {attempt}/{MAX_ATTEMPTS} failed: {e}")
-            if attempt < MAX_ATTEMPTS:
-                time.sleep(RETRY_DELAY_SECONDS)
-
-    raise last_error
+    return with_retries(_try_fetch_once, "Turtle Island")

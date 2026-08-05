@@ -3,22 +3,19 @@ JB Hi-Fi NZ - Pokemon TCG.
 Finds product links by URL pattern and reads title from image alt text.
 
 JB Hi-Fi's bot protection appears to intermittently block requests from
-cloud/datacenter IPs (like GitHub Actions uses) more than home connections,
-so this retries a couple of times with fresh browser sessions before
-giving up. Also uses domcontentloaded + a fixed wait instead of
-networkidle, since JB Hi-Fi's live chat widget keeps background network
-activity going, which can prevent networkidle from ever being reached.
+cloud/datacenter IPs more than home connections, so this retries via
+the shared retry helper. Also uses domcontentloaded + a fixed wait
+instead of networkidle, since JB Hi-Fi's live chat widget keeps
+background network activity going.
 """
 
-import time
 from playwright.sync_api import sync_playwright
 from sites.filters import is_tcg_product
+from sites.retry_helper import with_retries
 
 SITE_NAME = "JB Hi-Fi NZ"
 LISTING_URL = "https://www.jbhifi.co.nz/collections/collectibles-merchandise/pokemon-trading-cards"
 PRODUCT_LINK_SELECTOR = 'a[href*="/products/"]'
-MAX_ATTEMPTS = 3
-RETRY_DELAY_SECONDS = 10
 FAILURE_THRESHOLD_MINUTES = 300
 
 
@@ -58,14 +55,4 @@ def _try_fetch_once() -> list[dict]:
 
 
 def get_current_products() -> list[dict]:
-    last_error = None
-    for attempt in range(1, MAX_ATTEMPTS + 1):
-        try:
-            return _try_fetch_once()
-        except Exception as e:
-            last_error = e
-            print(f"  JB Hi-Fi attempt {attempt}/{MAX_ATTEMPTS} failed: {e}")
-            if attempt < MAX_ATTEMPTS:
-                time.sleep(RETRY_DELAY_SECONDS)
-
-    raise last_error
+    return with_retries(_try_fetch_once, "JB Hi-Fi")
