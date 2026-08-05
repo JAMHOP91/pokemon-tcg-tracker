@@ -2439,11 +2439,11 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399"
   },
   {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: Mega Greninja ex Premium Collection",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection-pre-order-release-date-17th-july-2026",
-    "price": "$109.00",
-    "timestamp": "2026-08-05T22:56:18.608157+00:00",
+    "site": "Parko Cards - Pokemon TCG",
+    "title": "Mega Gallade ex 048/086 Double Rare \u2013 Chaos Rising",
+    "url": "https://parkocards.co.nz/products/mega-gallade-ex-048-086-double-rare-chaos-rising",
+    "price": "$7.70",
+    "timestamp": "2026-08-05T22:34:44.138562+00:00",
     "priority": false,
     "image": "http://magicreddragon.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731.jpg?v=1777627052"
   },
@@ -2452,7 +2452,7 @@
     "title": "Mega Gallade ex 048/086 Double Rare \u2013 Chaos Rising",
     "url": "https://parkocards.co.nz/products/mega-gallade-ex-048-086-double-rare-chaos-rising",
     "price": "$7.70",
-    "timestamp": "2026-08-05T22:56:18.608157+00:00",
+    "timestamp": "2026-08-05T22:45:54.354448+00:00",
     "priority": false,
     "image": "http://parkocards.co.nz/cdn/shop/files/2320764338.jpg?v=1785830489"
   },
@@ -2461,7 +2461,7 @@
     "title": "Ludicolo 095/094 Illustration Rare \u2013 Phantasmal Flames",
     "url": "https://parkocards.co.nz/products/ludicolo-095-094-illustration-rare-phantasmal-flames",
     "price": "$6.99",
-    "timestamp": "2026-08-05T22:56:18.608157+00:00",
+    "timestamp": "2026-08-05T22:45:54.354448+00:00",
     "priority": false,
     "image": "http://parkocards.co.nz/cdn/shop/files/2320823008.jpg?v=1785830614"
   },
@@ -2470,7 +2470,7 @@
     "title": "Mega Charizard X ex 013/094 Double Rare \u2013 Phantasmal Flames",
     "url": "https://parkocards.co.nz/products/mega-charizard-x-ex-013-094-double-rare-phantasmal-flames",
     "price": "$9.98",
-    "timestamp": "2026-08-05T22:56:18.608157+00:00",
+    "timestamp": "2026-08-05T22:45:54.354448+00:00",
     "priority": false,
     "image": "http://parkocards.co.nz/cdn/shop/files/2320823324.jpg?v=1785831176"
   },
@@ -2479,7 +2479,7 @@
     "title": "Mega Lopunny ex 084/094 Double Rare",
     "url": "https://parkocards.co.nz/products/mega-lopunny-ex-084-094-double-rare",
     "price": "$4.99",
-    "timestamp": "2026-08-05T22:56:18.608157+00:00",
+    "timestamp": "2026-08-05T22:45:54.354448+00:00",
     "priority": false,
     "image": "http://parkocards.co.nz/cdn/shop/files/2320823165.jpg?v=1785831351"
   },
@@ -2488,7 +2488,7 @@
     "title": "Pok\u00e9mon TCG: Mega Zygarde EX Premium Collection",
     "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
     "price": "$130.00",
-    "timestamp": "2026-08-05T22:56:18.608157+00:00",
+    "timestamp": "2026-08-05T22:45:54.354448+00:00",
     "priority": false,
     "image": "http://parkocards.co.nz/cdn/shop/files/pokemonmegazygardeex.webp?v=1785818630"
   },
@@ -2497,8 +2497,26 @@
     "title": "Pokemon Chaos Rising Booster Pack",
     "url": "https://parkocards.co.nz/products/pokemon-chaos-rising-booster-pack",
     "price": "$11.99",
-    "timestamp": "2026-08-05T22:56:18.608157+00:00",
+    "timestamp": "2026-08-05T22:45:54.354448+00:00",
     "priority": false,
     "image": "http://parkocards.co.nz/cdn/shop/files/parko-cards-chaos-rising-booster-pack.webp?v=1785818475"
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Zygarde ex Premium Collection",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": "$99.80",
+    "timestamp": "2026-08-05T22:47:37.905647+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762_1_800x_d70e02e5-58dc-46a7-ac2c-d69293cfcca2.webp?v=1777863464"
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-08-05T22:55:04.427728+00:00",
+    "priority": true,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201"
   }
 ]
