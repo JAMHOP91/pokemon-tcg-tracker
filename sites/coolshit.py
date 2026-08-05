@@ -2,18 +2,20 @@
 Cool Shit (coolshit.co.nz) - Pokemon TCG.
 Each product is a single <a class="prod-thumb" href="..." title="...">
 containing a nested .prod-thumb-price span with the price. Skips
-sold-out items based on the "SOLD OUT" badge text.
+sold-out items based on the "SOLD OUT" badge text. Uses the shared
+retry helper for resilience against transient failures.
 """
 
 from playwright.sync_api import sync_playwright
 from sites.filters import is_tcg_product
+from sites.retry_helper import with_retries
 
 SITE_NAME = "Cool Shit - Pokemon"
 LISTING_URL = "https://www.coolshit.co.nz/category/pokemon"
 PRODUCT_CARD_SELECTOR = "a.prod-thumb"
 
 
-def get_current_products() -> list[dict]:
+def _try_fetch_once() -> list[dict]:
     products = []
 
     with sync_playwright() as p:
@@ -42,3 +44,7 @@ def get_current_products() -> list[dict]:
         browser.close()
 
     return products
+
+
+def get_current_products() -> list[dict]:
+    return with_retries(_try_fetch_once, "Cool Shit")

@@ -2,19 +2,15 @@
 Cool Shit - Premium Collection Password Watch.
 
 Watches the password-locked "Premium Collection" page and alerts the
-moment it's no longer asking for a password - meaning the owner has
-unlocked it and it's genuinely purchasable. Keeps its own small state
-file to remember whether it was locked last run.
-
-This only checks a public page's visible text (whether it says
-"Password required"). It never attempts to guess, enter, or bypass a
-password, and never automates any purchase - it just tells you the
-instant the page itself changes state, same as checking it by hand.
+moment it's no longer asking for a password. Only checks public page
+text - never guesses, enters, or bypasses a password, never automates
+any purchase. Uses the shared retry helper for resilience.
 """
 
 import json
 from pathlib import Path
 from playwright.sync_api import sync_playwright
+from sites.retry_helper import with_retries
 
 SITE_NAME = "Cool Shit - Premium Collection Password Watch"
 LOCKED_URL = "https://www.coolshit.co.nz/product/premiumcollection/locked"
@@ -37,7 +33,7 @@ def _save_locked(locked: bool) -> None:
     STATE_FILE.write_text(json.dumps({"locked": locked}))
 
 
-def get_current_products() -> list[dict]:
+def _try_fetch_once() -> list[dict]:
     was_locked = _load_was_locked()
 
     with sync_playwright() as p:
@@ -55,10 +51,14 @@ def get_current_products() -> list[dict]:
 
     if was_locked and not currently_locked:
         return [{
-            "id": f"premiumcollection-unlocked",
+            "id": "premiumcollection-unlocked",
             "title": "Cool Shit Premium Collection is now UNLOCKED",
             "url": UNLOCKED_URL,
             "price": None,
         }]
 
     return []
+
+
+def get_current_products() -> list[dict]:
+    return with_retries(_try_fetch_once, "Cool Shit Password Watch")
