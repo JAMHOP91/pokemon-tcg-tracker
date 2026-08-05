@@ -2131,5 +2131,14 @@
     "timestamp": "2026-08-05T17:32:56.550732+00:00",
     "priority": true,
     "image": null
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Scarlet & Violet Anytime, Anywhere Battle Academy Japan Ver.",
+    "url": "https://www.metalife.co.nz/products/pokemon-card-game-scarlet-violet-anytime-anywhere-battle-academy",
+    "price": "$24.80",
+    "timestamp": "2026-08-05T17:34:51.890111+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/pkm37718_0.jpg?v=1732593483"
   }
 ]
