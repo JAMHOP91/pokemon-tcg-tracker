@@ -2167,5 +2167,14 @@
     "timestamp": "2026-08-05T18:12:43.093056+00:00",
     "priority": true,
     "image": null
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Chaos Rising Single Pack",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-single-pack",
+    "price": "$11.00",
+    "timestamp": "2026-08-05T18:37:40.448699+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/pok10407a-01.png?v=1784500570"
   }
 ]
