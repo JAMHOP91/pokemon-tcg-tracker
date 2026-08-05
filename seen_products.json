@@ -62,6 +62,8 @@
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
       "7850575986749",
+      "7558380781629",
+      "7850575888445",
       "7558379405373",
       "7850575888445",
       "7699941818429",
@@ -236,23 +238,23 @@
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
-      "https://hobbymaster.co.nz/products/product/46973",
-      "https://hobbymaster.co.nz/products/product/46976",
-      "https://hobbymaster.co.nz/products/product/47232",
+      "https://hobbymaster.co.nz/products/product/47237",
+      "https://hobbymaster.co.nz/products/product/37806",
+      "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/47051",
-      "https://hobbymaster.co.nz/products/product/38546",
-      "https://hobbymaster.co.nz/products/product/47223",
+      "https://hobbymaster.co.nz/products/product/38545",
+      "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/38548",
       "https://hobbymaster.co.nz/products/product/46975",
+      "https://hobbymaster.co.nz/products/product/45880",
+      "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/47236",
-      "https://hobbymaster.co.nz/products/product/45878",
-      "https://hobbymaster.co.nz/products/product/37806",
       "https://hobbymaster.co.nz/products/product/46971",
-      "https://hobbymaster.co.nz/products/product/45463",
-      "https://hobbymaster.co.nz/products/product/47237",
+      "https://hobbymaster.co.nz/products/product/47223",
+      "https://hobbymaster.co.nz/products/product/46976",
+      "https://hobbymaster.co.nz/products/product/38546",
       "https://hobbymaster.co.nz/products/product/46974",
-      "https://hobbymaster.co.nz/products/product/38545",
-      "https://hobbymaster.co.nz/products/product/45880"
+      "https://hobbymaster.co.nz/products/product/45878"
     ],
     "zero_streak": 1,
     "warned": false,
@@ -285,9 +287,9 @@
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
       "10200198644007",
+      "10226093588775",
       "10200199889191",
-      "10158427111719",
-      "10226093588775"
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
