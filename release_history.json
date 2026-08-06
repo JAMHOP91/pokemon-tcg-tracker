@@ -1,13 +1,5 @@
 [
   {
-    "site": "Turtle Island - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: 2-Pack Blister - Pitch black - Chaos rising",
-    "url": "https://turtleisland.co.nz/product/pokemon-tcg-2-pack-blister-pitch-black-chaos-rising",
-    "price": "$35.00",
-    "timestamp": "2026-07-27T23:40:22.128919+00:00",
-    "priority": false
-  },
-  {
     "site": "Cardtopia NZ",
     "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Hiroshima 2025 Special Collection Box",
     "url": "https://www.cardtopia.co.nz/products/pokemon-tcg-pokemon-center-hiroshima-2025-special-collection-box",
@@ -2695,5 +2687,14 @@
     "timestamp": "2026-08-06T13:20:08.481325+00:00",
     "priority": false,
     "image": "http://thegametree.co.nz/cdn/shop/files/059_U_Arcanine.png?v=1744358233"
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Zygarde ex Premium Collection *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-zygarde-ex-premium-collection-sealed",
+    "price": "$95.99",
+    "timestamp": "2026-08-06T13:35:22.098757+00:00",
+    "priority": false,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762.jpg?v=1774229117"
   }
 ]
