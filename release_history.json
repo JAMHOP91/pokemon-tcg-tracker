@@ -1,13 +1,5 @@
 [
   {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: Mega Evolution: Chaos Rising Booster Box *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-chaos-rising-booster-box-sealed-pre-order-ships-may-22nd",
-    "price": "$360.00",
-    "timestamp": "2026-07-27T00:01:31.790419+00:00",
-    "priority": true
-  },
-  {
     "site": "Cardtopia NZ",
     "title": "MONDAY NIGHT STREAM \u2013 LIVE POKEMON FIGHTING CHAMPIONSHIP 188",
     "url": "https://www.cardtopia.co.nz/products/monday-night-stream-live-pokemon-fighting-championship-188",
@@ -2673,5 +2665,14 @@
     "timestamp": "2026-08-06T07:01:16.791061+00:00",
     "priority": true,
     "image": "http://www.metalife.co.nz/cdn/shop/files/Pokemon_TCG-_Mega_Evolution_Pitch_Black_Elite_Trainer_Box.webp?v=1780632501"
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-08-06T07:10:50.952021+00:00",
+    "priority": true,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682"
   }
 ]
