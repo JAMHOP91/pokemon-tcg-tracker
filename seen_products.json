@@ -12,6 +12,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
       "https://www.coolshit.co.nz/product/premiumcollection",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
@@ -385,9 +388,9 @@
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-06T09:01:18.574746+00:00",
     "prices": {}
   },
   "WP Games - Pre-Orders": {
@@ -467,9 +470,9 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-06T09:01:18.574746+00:00",
     "prices": {}
   },
   "TCG Culture - Pokemon": {
@@ -782,6 +785,9 @@
       "9233072521470",
       "9190582649086",
       "8897397326078",
+      "9190582649086",
+      "9269784477950",
+      "9173828796670",
       "9090566226174",
       "9233032642814",
       "9173828796670",
