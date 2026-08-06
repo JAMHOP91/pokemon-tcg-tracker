@@ -2530,20 +2530,38 @@
     "image": "http://parkocards.co.nz/cdn/shop/files/parko-cards-chaos-rising-booster-pack.webp?v=1785818475"
   },
   {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order)",
+    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
+    "price": "NZ$360.00",
+    "timestamp": "2026-08-06T02:36:23.587133+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/425269320/17.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
+  },
+  {
     "site": "Cool Shit - Status Watch",
     "title": "View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order) (status: available)",
     "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
     "price": "NZ$360.00",
-    "timestamp": "2026-08-06T02:26:06.477677+00:00",
+    "timestamp": "2026-08-06T02:36:23.587133+00:00",
     "priority": true,
     "image": "https://assets.bigcartel.com/product_images/425269320/17.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
+  },
+  {
+    "site": "Parko Cards - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution \u2013 Pitch Black Booster Pack",
+    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-pack",
+    "price": "$8.99",
+    "timestamp": "2026-08-06T02:36:23.587133+00:00",
+    "priority": true,
+    "image": "http://parkocards.co.nz/cdn/shop/files/pitchblack.webp?v=1785983738"
   },
   {
     "site": "Parko Cards - Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Mega Greninja ex Premium Collection",
     "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
     "price": "$85.00",
-    "timestamp": "2026-08-06T02:26:06.477677+00:00",
+    "timestamp": "2026-08-06T02:36:23.587133+00:00",
     "priority": false,
     "image": "http://parkocards.co.nz/cdn/shop/files/pokemonmegagreninja.webp?v=1785983222"
   },
