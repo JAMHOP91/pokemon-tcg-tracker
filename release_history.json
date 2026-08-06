@@ -1,14 +1,6 @@
 [
   {
     "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Triple Whammy Back Issue Collector Tin",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-triple-whammy-back-issue-collector-tin",
-    "price": "$46.80",
-    "timestamp": "2026-07-25T01:06:52.293608+00:00",
-    "priority": false
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG - Trainer's Toolkit",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-trainers-toolkit",
     "price": "$79.80",
@@ -2649,5 +2641,14 @@
     "timestamp": "2026-08-06T03:17:13.158913+00:00",
     "priority": true,
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBoosterBoxjpeg.jpg?v=1772704099"
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Three Booster Blister",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister",
+    "price": "$31.99",
+    "timestamp": "2026-08-06T03:21:04.831449+00:00",
+    "priority": true,
+    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister.jpg?v=1784082727"
   }
 ]
