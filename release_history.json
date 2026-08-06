@@ -1,14 +1,6 @@
 [
   {
     "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolution 3 Perfect Order Booster Hanger Pack Assorted",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-3-perfect-order-booster-hanger-pack-assorted",
-    "price": "$11.80",
-    "timestamp": "2026-07-25T01:15:56.684691+00:00",
-    "priority": true
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolution Perfect Order Booster",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster",
     "price": "$10.80",
@@ -2659,5 +2651,14 @@
     "timestamp": "2026-08-06T04:54:48.458598+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/world-cup-bundle_1.png?v=1782098016"
+  },
+  {
+    "site": "Parko Cards - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Greninja ex Premium Collection",
+    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
+    "price": "$85.00",
+    "timestamp": "2026-08-06T05:05:44.045139+00:00",
+    "priority": false,
+    "image": "http://parkocards.co.nz/cdn/shop/files/pokemonmegagreninja.webp?v=1785983222"
   }
 ]
