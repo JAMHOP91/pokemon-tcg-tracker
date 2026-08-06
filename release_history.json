@@ -1,14 +1,6 @@
 [
   {
     "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon Tcg: Lumiose City Mini Tin",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-lumiose-city-mini-tin",
-    "price": "$26.00",
-    "timestamp": "2026-07-27T23:40:22.128919+00:00",
-    "priority": false
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG League Battle Deck - Mega Lucario ex",
     "url": "https://toytime.co.nz/products/pokemon-tcg-league-battle-deck-mega-lucario-ex",
     "price": "$69.99",
@@ -2684,5 +2676,14 @@
     "timestamp": "2026-08-06T09:28:09.809527+00:00",
     "priority": false,
     "image": null
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "2025 Pokemon TCG World Championships Deck - Liao Fu Guan",
+    "url": "https://www.hobbylords.co.nz/products/single/-2025-pokemon-tcg-world-championships-deck-liao-fu-guan",
+    "price": null,
+    "timestamp": "2026-08-06T09:40:42.331353+00:00",
+    "priority": false,
+    "image": "https://fls-9ed9af97-ba71-4fbd-b8de-969da5133e40.laravel.cloud/testing/product/9546/images/wLN3e4esc50E6ozceKx44M064yRPz2c4xPXKzOAS.jpg"
   }
 ]
