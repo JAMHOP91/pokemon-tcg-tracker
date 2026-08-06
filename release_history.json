@@ -1,14 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Mega Zygarde ex Premium Collection Sealed Case of 6 - Pok\u00e9mon TCG",
-    "url": "https://magicreddragon.co.nz/products/mega-zygarde-ex-premium-collection-sealed-case-of-6-pokemon-tcg-1",
-    "price": "$599.00",
-    "timestamp": "2026-07-25T01:15:56.684691+00:00",
-    "priority": false
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: 2025 Pokemon TCG World Championships Deck (Pre Order) Release Date: 19 June 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-2025-pokemon-tcg-world-championships-deck-pre-order-release-date-19-june-2026",
     "price": "$45.00",
@@ -2654,5 +2646,14 @@
     "timestamp": "2026-08-06T04:16:21.037168+00:00",
     "priority": false,
     "image": null
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pokemon TCG 2025 World Championships Deck",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
+    "price": "$42.61",
+    "timestamp": "2026-08-06T04:24:04.177654+00:00",
+    "priority": false,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/28332/images/74502/896924-Product-1-I-639131853003471446__18857.1780635543.220.220.webp?c=2"
   }
 ]

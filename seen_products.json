@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection"
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -247,6 +247,9 @@
   "Cardtopia NZ": {
     "seen_ids": [
       "9716525269232",
+      "10176981205232",
+      "9788449849584",
+      "10070962241776",
       "10076303622384",
       "10070962241776",
       "9890801385712",
@@ -523,9 +526,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -562,6 +565,7 @@
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
       "9047083745429",
+      "9152299892885",
       "9285795938453",
       "9268784496789",
       "9210168803477",
@@ -842,6 +846,14 @@
       "8069232033910",
       "8069235671158",
       "8069235998838",
+      "8069213454454",
+      "7976735670390",
+      "8100504862838",
+      "8069232033910",
+      "7976837546102",
+      "8171677057142",
+      "7831122182262",
+      "8220788752502",
       "7821725794422",
       "8026253328502",
       "7977047195766",
