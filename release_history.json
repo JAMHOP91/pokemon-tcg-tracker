@@ -1,14 +1,6 @@
 [
   {
     "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Zygarde ex Premium Collection",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection-pre-order-22-05-26",
-    "price": "$99.00",
-    "timestamp": "2026-07-27T23:40:22.128919+00:00",
-    "priority": false
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG Pitch Black Booster Box",
     "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-booster-box-pre-order-17-7-2026",
     "price": "$360.00",
@@ -2687,5 +2679,14 @@
     "timestamp": "2026-08-06T09:44:21.960882+00:00",
     "priority": true,
     "image": "http://popstop.co.nz/cdn/shop/files/10-10405-102_grande.jpg?v=1779404721"
+  },
+  {
+    "site": "JB Hi-Fi NZ",
+    "title": "Pokemon TCG - Mega Lucario ex League Battle Deck",
+    "url": "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+    "price": null,
+    "timestamp": "2026-08-06T10:05:30.761907+00:00",
+    "priority": false,
+    "image": "http://www.jbhifi.co.nz/cdn/shop/files/475076-Product-0-I-639106831203072478_1024x1024.jpg"
   }
 ]
