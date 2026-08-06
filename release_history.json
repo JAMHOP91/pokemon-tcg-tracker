@@ -1,14 +1,6 @@
 [
   {
     "site": "Hobby Station - Pokemon TCG",
-    "title": "Pokemon TCG Mega Zygarde ex Premium Collection (Sealed)",
-    "url": "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-    "price": "$99.00 $89.00",
-    "timestamp": "2026-07-27T23:40:22.128919+00:00",
-    "priority": false
-  },
-  {
-    "site": "Hobby Station - Pokemon TCG",
     "title": "Pokemon TCG Mega Lucario ex League Battle Deck (Sealed)",
     "url": "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
     "price": "$69.00 $55.00",
@@ -2693,5 +2685,14 @@
     "timestamp": "2026-08-06T11:57:23.745182+00:00",
     "priority": true,
     "image": "http://mrtofu.store/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box_EN.jpg?v=1783123410"
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-08-06T12:42:55.727830+00:00",
+    "priority": true,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201"
   }
 ]
