@@ -1,13 +1,5 @@
 [
   {
-    "site": "The Game Tree NZ",
-    "title": "**CLEARANCE** Pokemon Surprise Attack Game - Togetic & Bulbasaur",
-    "url": "https://thegametree.co.nz/products/pokemon-surprise-attack-game-togetic-bulbasaur",
-    "price": "$45.88",
-    "timestamp": "2026-07-25T21:01:38.490506+00:00",
-    "priority": false
-  },
-  {
     "site": "TCG Collector NZ",
     "title": "Pokemon TCG: Mega Evolution: Chaos Rising Booster Box *Sealed*",
     "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-chaos-rising-booster-box-sealed-pre-order-ships-may-22nd",
@@ -2672,5 +2664,14 @@
     "timestamp": "2026-08-06T06:50:08.178779+00:00",
     "priority": false,
     "image": "http://getthosemons.co.nz/cdn/shop/files/2025-Pokemon-TCG-World-Championships-Deck-McKay_EN.jpg?v=1781574643"
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolution Pitch Black Elite Trainer Box",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
+    "price": "$176.80",
+    "timestamp": "2026-08-06T07:01:16.791061+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/Pokemon_TCG-_Mega_Evolution_Pitch_Black_Elite_Trainer_Box.webp?v=1780632501"
   }
 ]
