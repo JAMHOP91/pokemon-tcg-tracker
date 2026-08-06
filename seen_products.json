@@ -292,8 +292,7 @@
     "seen_ids": [
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/hidden-fates-tin",
-      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
-      "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
@@ -482,7 +481,6 @@
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
       "8921908740294",
-      "8855171334342",
       "8931072311494",
       "8909657637062",
       "8970824843462",
@@ -613,6 +611,9 @@
       "9012509704349",
       "9012579074205",
       "9012511441053",
+      "9012509704349",
+      "9012579074205",
+      "9014563635357",
       "9012564689053",
       "9014563635357",
       "9014564585629",
@@ -813,7 +814,11 @@
       "9537919222037",
       "9530379600149",
       "9551121678613",
-      "9551118827797"
+      "9537919222037",
+      "9551121514773",
+      "9577428353301",
+      "9577428123925",
+      "9530379600149"
     ],
     "zero_streak": 0,
     "warned": false,
