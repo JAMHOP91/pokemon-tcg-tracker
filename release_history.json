@@ -1,13 +1,5 @@
 [
   {
-    "site": "Cardtopia NZ",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Hiroshima 2025 Special Collection Box",
-    "url": "https://www.cardtopia.co.nz/products/pokemon-tcg-pokemon-center-hiroshima-2025-special-collection-box",
-    "price": "$549.99",
-    "timestamp": "2026-07-28T00:01:41.210289+00:00",
-    "priority": false
-  },
-  {
     "site": "Hobby Station - Pokemon TCG",
     "title": "[D] Pokemon TCG Mega Greninja ex Premium Collection",
     "url": "https://hobbystation.co.nz/pokemon-tcg-mega-greninja-ex-premium-collection-preorder-only-limit-1-per-customer/",
@@ -2696,5 +2688,14 @@
     "timestamp": "2026-08-06T13:35:22.098757+00:00",
     "priority": false,
     "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762.jpg?v=1774229117"
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG League Battle Deck - Mega Lucario ex",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-league-battle-deck-mega-lucario-ex",
+    "price": "$69.99",
+    "timestamp": "2026-08-06T13:57:31.030547+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-06-18112552.jpg?v=1781738787"
   }
 ]
