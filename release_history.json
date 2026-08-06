@@ -1,14 +1,6 @@
 [
   {
     "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Zygarde ex Premium Collection",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$99.80",
-    "timestamp": "2026-07-25T01:06:52.293608+00:00",
-    "priority": false
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG - 2025 Pokemon TCG World Championships",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-2025-pokemon-tcg-world-championships",
     "price": "$44.80",
@@ -2651,5 +2643,14 @@
     "timestamp": "2026-08-06T03:44:47.608307+00:00",
     "priority": true,
     "image": "http://parkocards.co.nz/cdn/shop/files/pokemonperfectorderboosterpack.webp?v=1785987954"
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
+    "price": "$169.99",
+    "timestamp": "2026-08-06T03:52:10.473031+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851"
   }
 ]
