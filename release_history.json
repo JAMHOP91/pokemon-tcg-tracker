@@ -1,30 +1,6 @@
 [
   {
     "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: Mega Evolution: Perfect Order Booster Box *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-perfect-order-booster-box-sealed-pre-order-ships-apr-10th-copy",
-    "price": "$360.00",
-    "timestamp": "2026-07-16T23:09:00.859819+00:00",
-    "priority": true
-  },
-  {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: Mega Zygarde ex Premium Collection *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-zygarde-ex-premium-collection-sealed",
-    "price": "$95.99",
-    "timestamp": "2026-07-16T23:09:00.859819+00:00",
-    "priority": false
-  },
-  {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: League Battle Deck - Miraidon ex *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-miraidon-ex-sealed",
-    "price": "$71.99",
-    "timestamp": "2026-07-16T23:09:00.859819+00:00",
-    "priority": false
-  },
-  {
-    "site": "TCG Collector NZ",
     "title": "Pokemon TCG: League Battle Deck - Mega Lucario ex *Sealed*",
     "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-mega-lucario-ex-sealed-pre-order-ships-may-22nd",
     "price": "$71.99",
@@ -2554,5 +2530,32 @@
     "timestamp": "2026-08-06T00:19:09.539124+00:00",
     "priority": true,
     "image": "https://assets.bigcartel.com/product_images/427179522/Untitled+design+_3_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night",
+    "url": "https://www.coolshit.co.nz/product/premiumcollection",
+    "price": "NZ$449.00",
+    "timestamp": "2026-08-06T00:42:20.481748+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/427179840/Untitled+design+_7_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order)",
+    "url": "https://www.coolshit.co.nz/product/boosterbundle",
+    "price": "NZ$79.00",
+    "timestamp": "2026-08-06T00:42:20.481748+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/427180092/Untitled+design+_9_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order)",
+    "url": "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
+    "price": "NZ$29.00",
+    "timestamp": "2026-08-06T00:42:20.481748+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/427180452/Untitled+design+_10_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
   }
 ]
