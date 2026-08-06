@@ -1,6 +1,14 @@
 [
   {
     "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG League Battle Deck - Mega Lucario ex",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-league-battle-deck-mega-lucario-ex",
+    "price": "$69.99",
+    "timestamp": "2026-07-27T23:40:22.128919+00:00",
+    "priority": false
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG Perfect Order Booster Box",
     "url": "https://toytime.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster-pre-order-27-03-2026",
     "price": "$360.00",
@@ -2670,21 +2678,12 @@
     "image": null
   },
   {
-    "site": "Cardtopia NZ",
-    "title": "Japanese Pokemon Mega Dream Ex Booster Pack",
-    "url": "https://www.cardtopia.co.nz/products/japanese-pokemon-mega-dream-ex-booster-pack",
-    "price": "$23.99",
-    "timestamp": "2026-08-06T09:37:06.464701+00:00",
+    "site": "Hobby Lords - Pokemon",
+    "title": "2025 Pokemon TCG World Championships Deck - Liao Fu Guan",
+    "url": "https://www.hobbylords.co.nz/products/single/-2025-pokemon-tcg-world-championships-deck-liao-fu-guan",
+    "price": null,
+    "timestamp": "2026-08-06T09:40:42.331353+00:00",
     "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/megadreamEX.jpg?v=1764637524"
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-08-06T09:37:06.464701+00:00",
-    "priority": true,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pitch-black-booster-bundle.png?v=1784072331"
+    "image": "https://fls-9ed9af97-ba71-4fbd-b8de-969da5133e40.laravel.cloud/testing/product/9546/images/wLN3e4esc50E6ozceKx44M064yRPz2c4xPXKzOAS.jpg"
   }
 ]
