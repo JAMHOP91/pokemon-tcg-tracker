@@ -1,14 +1,5 @@
 [
   {
-    "site": "Cardtopia NZ",
-    "title": "Pokemon Ninja Spinner Booster Box M4 Japanese",
-    "url": "https://www.cardtopia.co.nz/products/pokemon-ninja-spinner-booster-box-m4-japanese",
-    "price": "$184.99",
-    "timestamp": "2026-07-29T17:46:27.122506+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/CopyofCopyofCopyofCopyofCopyofPFCBackground_600x600px.png?v=1773801865"
-  },
-  {
     "site": "The Game Tree NZ",
     "title": "5x Pokemon Go Booster Packs (s10b) - Value Deal *Japanese*",
     "url": "https://thegametree.co.nz/products/5x-pokemon-go-booster-packs-s10b-value-deal-japanese",
@@ -2698,5 +2689,14 @@
     "timestamp": "2026-08-06T14:35:06.249370+00:00",
     "priority": false,
     "image": "http://toytime.co.nz/cdn/shop/files/2026-06-26140207.jpg?v=1782439750"
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Pitch Black Elite Trainer Box - 2x PER PERSON LIMIT",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
+    "price": "$147.00",
+    "timestamp": "2026-08-06T15:05:56.209782+00:00",
+    "priority": true,
+    "image": "http://cardbot.co.nz/cdn/shop/files/10-10416-111-Pitch-Black-ETB-1-1024x976.jpg?v=1784268379"
   }
 ]
