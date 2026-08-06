@@ -1,4 +1,4 @@
-"""
+﻿"""
 Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
 Tracks how long each site has been continuously failing and warns based
@@ -63,7 +63,7 @@ from sites import bigpotato
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 STATUS_FILE = Path(__file__).parent / "status.json"
 HISTORY_FILE = Path(__file__).parent / "release_history.json"
-MAX_HISTORY_ENTRIES = 300
+MAX_HISTORY_ENTRIES = 1000
 
 SITES = [
     (jbhifi.SITE_NAME, jbhifi),
