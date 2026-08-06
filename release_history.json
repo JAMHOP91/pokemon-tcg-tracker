@@ -1,14 +1,5 @@
 [
   {
-    "site": "The Game Tree NZ",
-    "title": "Alakazam ex - Pokemon Card 151 - 190/165 - JAPANESE SR Holo",
-    "url": "https://thegametree.co.nz/products/alakazam-ex-pokemon-card-151-190-165-japanese-sr-holo",
-    "price": "$22.98",
-    "timestamp": "2026-07-29T21:01:28.859025+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/files/190_SR_Alakazamex.png?v=1744094083"
-  },
-  {
     "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG Pitch Black Single Pack",
     "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-single-pack",
@@ -2698,5 +2689,14 @@
     "timestamp": "2026-08-06T16:09:13.482072+00:00",
     "priority": true,
     "image": "https://assets.bigcartel.com/product_images/427181259/Untitled+design+_17_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "POK\u00c9MON TCG: Charizard ex Special Collection",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-charizard-ex-special-collection",
+    "price": "$67.99",
+    "timestamp": "2026-08-06T21:51:32.239479+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Charizard-ex-Special-CollectionEN-1024790-1jpg_grande.jpg?v=1755209458"
   }
 ]
