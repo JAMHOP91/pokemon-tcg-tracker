@@ -1,4 +1,4 @@
-﻿"""
+"""
 Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
 Tracks how long each site has been continuously failing and warns based
@@ -52,6 +52,9 @@ from sites import ocare
 from sites import kidzstuffonline
 from sites import parkocards
 from sites import hobbyzone
+from sites import animalkingdoms
+from sites import gamecorner
+from sites import cardbot
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 STATUS_FILE = Path(__file__).parent / "status.json"
@@ -92,6 +95,9 @@ SITES = [
     (kidzstuffonline.SITE_NAME, kidzstuffonline),
     (parkocards.SITE_NAME, parkocards),
     (hobbyzone.SITE_NAME, hobbyzone),
+    (animalkingdoms.SITE_NAME, animalkingdoms),
+    (gamecorner.SITE_NAME, gamecorner),
+    (cardbot.SITE_NAME, cardbot),
 ]
 
 DEFAULT_FAILURE_THRESHOLD_MINUTES = 90

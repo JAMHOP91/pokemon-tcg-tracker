@@ -4,17 +4,17 @@ close variants) across ANY NZ retailer, not just tracked sites.
 Uses a Google Alert (scoped to Region: New Zealand) delivered via
 Kill the Newsletter as an RSS feed.
 
-Keeps its OWN small state file (separate from the shared
-seen_products.json) tracking which entry IDs have already been
-alerted on, since the shared state mechanism was letting this specific
-monitor's single recurring entry slip through repeatedly - likely from
-local test runs having their fresh detection rolled back by routine
-merge-conflict resolution before it properly propagated.
+Keeps its OWN small state file tracking which entry IDs have already
+been alerted on. Fetches the feed with an explicit timeout via
+requests (instead of letting feedparser fetch the URL itself, which
+has no built-in timeout and can hang indefinitely if the source is
+slow or rate-limited).
 """
 
 import json
 from pathlib import Path
 import feedparser
+import requests
 
 SITE_NAME = "30th Celebration Box - Web Monitor"
 GOOGLE_ALERTS_RSS_URL = "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag.xml"
@@ -54,7 +54,9 @@ def get_current_products() -> list[dict]:
         if not feed_url:
             continue
         try:
-            feed = feedparser.parse(feed_url)
+            resp = requests.get(feed_url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
+            resp.raise_for_status()
+            feed = feedparser.parse(resp.content)
         except Exception:
             continue
 

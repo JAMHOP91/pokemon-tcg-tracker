@@ -292,6 +292,7 @@
     "seen_ids": [
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/pokeball-tin-2021",
@@ -369,7 +370,7 @@
     ],
     "zero_streak": 5,
     "warned": false,
-    "first_failure_at": "2026-08-06T02:42:11.100404+00:00",
+    "first_failure_at": null,
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -523,6 +524,7 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
@@ -531,7 +533,7 @@
     "warned": false,
     "first_failure_at": null,
     "prices": {
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/": 42.61
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/": 49.0
     }
   },
   "Turtle Island - Pokemon Pre-Orders": {
