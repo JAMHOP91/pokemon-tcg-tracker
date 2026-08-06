@@ -274,7 +274,10 @@
       "8540499149039",
       "9328351772911",
       "9328364945647",
-      "9464484626671"
+      "8540499149039",
+      "9328351772911",
+      "9464484626671",
+      "9388711182575"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -290,6 +293,7 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
@@ -593,6 +597,7 @@
     "seen_ids": [
       "8770963537943",
       "8830803279895",
+      "8832667877399",
       "8774665043991",
       "8215152230423",
       "8888685723671",
