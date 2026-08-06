@@ -28,7 +28,6 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
-      "8745246556309",
       "8755462078613",
       "8713055273109",
       "8964116873365",
@@ -323,7 +322,7 @@
       "8027563098308",
       "8584605696196",
       "8249749340356",
-      "8542844682436",
+      "7511695261892",
       "8479841648836",
       "8542847107268",
       "8555386142916",
@@ -367,9 +366,9 @@
       "https://hobbymaster.co.nz/products/product/38546",
       "https://hobbymaster.co.nz/products/product/46971"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-06T07:07:11.120226+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -413,8 +412,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
