@@ -1,15 +1,6 @@
 [
   {
     "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Pitch Black Single Pack",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-single-pack",
-    "price": "$11.00",
-    "timestamp": "2026-07-29T22:58:30.883788+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2318353445.jpg?v=1784500677"
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG Chaos Rising - Booster Box",
     "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
     "price": "$360.00",
@@ -2698,5 +2689,14 @@
     "timestamp": "2026-08-06T21:55:19.990192+00:00",
     "priority": false,
     "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Charizard-ex-Special-CollectionEN-1024790-1jpg_grande.jpg?v=1755209458"
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon Mega Zygarde ex Premium Collection",
+    "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-08-06T22:07:18.444927+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392"
   }
 ]
