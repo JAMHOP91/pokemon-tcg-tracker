@@ -297,6 +297,7 @@
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection"
     ],
@@ -413,8 +414,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -433,7 +434,6 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
-      "10132850377000",
       "10299295236392",
       "10365187621160",
       "9503064031528",
@@ -786,7 +786,8 @@
       "9381118279934",
       "9233072521470",
       "8897397326078",
-      "9173828796670"
+      "9233032642814",
+      "9269784477950"
     ],
     "zero_streak": 0,
     "warned": false,
