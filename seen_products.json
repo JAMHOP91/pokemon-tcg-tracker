@@ -298,7 +298,7 @@
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
-      "https://www.collectallday.com/new/venusaur-vmax-starter-set"
+      "https://www.collectallday.com/new/pokeball-tin-2021"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -369,7 +369,7 @@
     ],
     "zero_streak": 3,
     "warned": false,
-    "first_failure_at": "2026-08-06T02:07:46.961246+00:00",
+    "first_failure_at": null,
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
