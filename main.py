@@ -54,6 +54,7 @@ from sites import parkocards
 from sites import hobbyzone
 from sites import animalkingdoms
 from sites import gamecorner
+from sites import cardbot
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 STATUS_FILE = Path(__file__).parent / "status.json"
@@ -96,6 +97,7 @@ SITES = [
     (hobbyzone.SITE_NAME, hobbyzone),
     (animalkingdoms.SITE_NAME, animalkingdoms),
     (gamecorner.SITE_NAME, gamecorner),
+    (cardbot.SITE_NAME, cardbot),
 ]
 
 DEFAULT_FAILURE_THRESHOLD_MINUTES = 90
