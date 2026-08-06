@@ -1,15 +1,6 @@
 [
   {
     "site": "The Game Tree NZ",
-    "title": "5x Pokemon Go Booster Packs (s10b) - Value Deal *Japanese*",
-    "url": "https://thegametree.co.nz/products/5x-pokemon-go-booster-packs-s10b-value-deal-japanese",
-    "price": "$91.88",
-    "timestamp": "2026-07-29T20:46:01.857858+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/products/Pokemon_Go_5x_Booster_Box.png?v=1656215293"
-  },
-  {
-    "site": "The Game Tree NZ",
     "title": "Alakazam ex - Pokemon Card 151 - 190/165 - JAPANESE SR Holo",
     "url": "https://thegametree.co.nz/products/alakazam-ex-pokemon-card-151-190-165-japanese-sr-holo",
     "price": "$22.98",
@@ -2698,5 +2689,14 @@
     "timestamp": "2026-08-06T15:05:56.209782+00:00",
     "priority": true,
     "image": "http://cardbot.co.nz/cdn/shop/files/10-10416-111-Pitch-Black-ETB-1-1024x976.jpg?v=1784268379"
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order)",
+    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
+    "price": "NZ$69.99",
+    "timestamp": "2026-08-06T16:09:13.482072+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/427181259/Untitled+design+_17_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
   }
 ]
