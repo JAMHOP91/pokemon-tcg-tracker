@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -29,6 +29,15 @@
   "The Game Tree NZ": {
     "seen_ids": [
       "7730871795861",
+      "7561509896341",
+      "9011807486101",
+      "8755535773845",
+      "8755462078613",
+      "8760561172629",
+      "8758356803733",
+      "8964116873365",
+      "7730851184789",
+      "7559734886549",
       "8760560877717",
       "8758356803733",
       "8760569692309",
@@ -118,6 +127,8 @@
       "9136790044835",
       "8804082778275",
       "8386235957411",
+      "8804082778275",
+      "9136790044835",
       "9136791978147",
       "7540284915875",
       "9101936459939",
@@ -367,7 +378,7 @@
       "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/45878"
     ],
-    "zero_streak": 0,
+    "zero_streak": 2,
     "warned": false,
     "first_failure_at": null,
     "prices": {
@@ -756,6 +767,8 @@
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
       "9188403282176",
+      "9366282600704",
+      "9554478235904",
       "9493316403456",
       "9188403740928",
       "9554478235904",
