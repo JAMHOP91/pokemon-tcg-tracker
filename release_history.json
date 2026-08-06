@@ -1,13 +1,5 @@
 [
   {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: First Partner Illustration Collection\u2014Series 2 Sealed case of 6",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-2-sealed-case-of-6",
-    "price": "$449.00",
-    "timestamp": "2026-07-27T07:31:14.931936+00:00",
-    "priority": false
-  },
-  {
     "site": "Cardtopia NZ",
     "title": "Pokemon - Mega dream winner takes all - SAR edition",
     "url": "https://www.cardtopia.co.nz/products/mega-dream-winner-takes-all",
@@ -2678,5 +2670,14 @@
     "timestamp": "2026-08-06T07:51:43.487210+00:00",
     "priority": false,
     "image": "http://www.cardtopia.co.nz/cdn/shop/files/ChatGPTImageAug1_2026_09_40_04PM.png?v=1785577244"
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Collection Box 2025 Bundle",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-collection-box-2025-bundle",
+    "price": "$1224.00",
+    "timestamp": "2026-08-06T07:55:53.881550+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/PKM-CENTRE-2025-BUNDLE_1.png?v=1772599783"
   }
 ]
