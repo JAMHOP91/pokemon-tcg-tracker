@@ -1,21 +1,5 @@
 [
   {
-    "site": "Cardtopia NZ",
-    "title": "MONDAY NIGHT STREAM \u2013 LIVE POKEMON FIGHTING CHAMPIONSHIP 188",
-    "url": "https://www.cardtopia.co.nz/products/monday-night-stream-live-pokemon-fighting-championship-188",
-    "price": "$24.99",
-    "timestamp": "2026-07-27T02:01:31.061792+00:00",
-    "priority": false
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "Pokemon - Mega dream winner takes all - SAR edition",
-    "url": "https://www.cardtopia.co.nz/products/mega-dream-winner-takes-all",
-    "price": "$23.99",
-    "timestamp": "2026-07-27T02:01:31.061792+00:00",
-    "priority": false
-  },
-  {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: Mega Greninja ex Premium Collection",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection-pre-order-release-date-17th-july-2026",
@@ -2674,5 +2658,23 @@
     "timestamp": "2026-08-06T07:10:50.952021+00:00",
     "priority": true,
     "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682"
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "**CLEARANCE** Pokemon Clip N Go Poke Ball Belt Set - Pichu (last one)",
+    "url": "https://thegametree.co.nz/products/pokemon-clip-n-go-poke-ball-belt-set-pichu",
+    "price": "$33.88",
+    "timestamp": "2026-08-06T07:14:34.407552+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/files/ClipNGoBelt_Pichu.png?v=1743146698"
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Evolution: Chaos Rising Booster Box *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-chaos-rising-booster-box-sealed-pre-order-ships-may-22nd",
+    "price": "$360.00",
+    "timestamp": "2026-08-06T07:14:34.407552+00:00",
+    "priority": true,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Chaos-Rising-Booster-Display_EN-762x1024.jpg?v=1774217735"
   }
 ]
