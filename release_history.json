@@ -1,21 +1,5 @@
 [
   {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 2025 Pokemon TCG World Championships Deck (Pre Order) Release Date: 19 June 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-2025-pokemon-tcg-world-championships-deck-pre-order-release-date-19-june-2026",
-    "price": "$45.00",
-    "timestamp": "2026-07-25T01:15:56.684691+00:00",
-    "priority": false
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Moonlight Tin - Mega Clefable ex (Pre-order) Release Date: June 5th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex-pre-order-release-date-june-5th-2026",
-    "price": "$56.00",
-    "timestamp": "2026-07-25T01:15:56.684691+00:00",
-    "priority": false
-  },
-  {
     "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolution Chaos Rising Booster",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-booster",
@@ -2655,5 +2639,23 @@
     "timestamp": "2026-08-06T04:24:04.177654+00:00",
     "priority": false,
     "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/28332/images/74502/896924-Product-1-I-639131853003471446__18857.1780635543.220.220.webp?c=2"
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG Lumiose City Mini Tin Set",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-set",
+    "price": "$130.00",
+    "timestamp": "2026-08-06T04:53:09.238056+00:00",
+    "priority": false,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCG_LumioseCity-MiniTinSet-6_1200x1200.jpg?v=1783856395"
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG Mega Moonlight Tin (one of each)",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-moonlight-tin-one-of-each",
+    "price": "$110.00",
+    "timestamp": "2026-08-06T04:53:09.238056+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Mega_Moonlight_Tin.jpg?v=1780987378"
   }
 ]
