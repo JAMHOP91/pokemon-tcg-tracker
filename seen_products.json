@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection"
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -12,13 +12,14 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/boosterbundle",
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
-      "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/premiumcollection",
-      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection"
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
+      "https://www.coolshit.co.nz/product/boosterbundle",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -27,25 +28,25 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
-      "8755462799509",
-      "8758356803733",
-      "7753997320341",
-      "8619217879189",
       "8760569692309",
-      "8755462078613",
+      "8755462799509",
       "8760561172629",
-      "9011807486101",
-      "7730871795861",
-      "8758359261333",
-      "8760560877717",
-      "7730851184789",
-      "8964116873365",
-      "8758360998037",
-      "8713055273109",
-      "7559734886549",
       "8755535773845",
+      "7561509896341",
+      "8964116873365",
+      "9011807486101",
+      "7730851184789",
+      "8758359261333",
+      "8758356803733",
+      "7559734886549",
+      "8760560877717",
+      "8755462078613",
+      "7730871795861",
+      "7753997320341",
+      "8713055273109",
+      "8758360998037",
       "8745246556309",
-      "7561509896341"
+      "8619217879189"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -74,21 +75,21 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558378455101",
-      "7699941818429",
-      "7558377930813",
-      "7558377046077",
-      "7850575986749",
-      "7850575495229",
       "7558380781629",
       "7558379864125",
-      "7558379405373",
+      "7558378979389",
       "7560189280317",
-      "7560189935677",
-      "7850575822909",
-      "7558381600829",
+      "7699941818429",
       "7850575888445",
-      "7558378979389"
+      "7558378455101",
+      "7558377930813",
+      "7850575986749",
+      "7558381600829",
+      "7558377046077",
+      "7560189935677",
+      "7850575495229",
+      "7850575822909",
+      "7558379405373"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -113,34 +114,34 @@
   },
   "Card Masters NZ": {
     "seen_ids": [
-      "9054391763107",
-      "8805645254819",
       "9107945226403",
-      "8565549564067",
-      "9107946176675",
-      "9101958414499",
-      "8804082778275",
-      "9136790208675",
       "8850541740195",
-      "9101936459939",
-      "7409030103203",
-      "9081919176867",
-      "9101935771811",
-      "8693154349219",
-      "9107945980067",
       "9136746102947",
-      "9136791978147",
-      "9000085717155",
-      "7507178979491",
-      "9136790044835",
-      "7540284915875",
-      "9136790274211",
-      "8386235957411",
       "9134948253859",
-      "8668035317923",
-      "9101936918691",
+      "9136790044835",
       "8952687788195",
-      "8856349376675"
+      "8693154349219",
+      "8805645254819",
+      "8386235957411",
+      "8856349376675",
+      "9101936459939",
+      "9136790274211",
+      "9081919176867",
+      "7507178979491",
+      "8804082778275",
+      "9101936918691",
+      "9107946176675",
+      "7540284915875",
+      "9136790208675",
+      "8668035317923",
+      "9000085717155",
+      "9101935771811",
+      "9107945980067",
+      "9136791978147",
+      "7409030103203",
+      "8565549564067",
+      "9101958414499",
+      "9054391763107"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -178,14 +179,14 @@
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
-      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
-      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
       "https://www.hobbylords.co.nz/products/single/lucario-card-display-gift-set-simplified-chinese-ver-",
+      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
+      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
-      "https://www.hobbylords.co.nz/products/single/-2025-pokemon-tcg-world-championships-deck-liao-fu-guan",
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-jose-cruz-galindo-resendiz",
-      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
-      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-"
+      "https://www.hobbylords.co.nz/products/single/-2025-pokemon-tcg-world-championships-deck-liao-fu-guan",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -194,27 +195,27 @@
   },
   "TCG NZ": {
     "seen_ids": [
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-phantasmal-flames-booster-box",
-      "https://www.tcgnz.co.nz/product-page/pre-order-one-piece-booster-box-a-fist-of-divine-speed-op-11",
-      "https://www.tcgnz.co.nz/product-page/one-piece-card-game-booster-display-royal-blood-op-10",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-booster-box",
-      "https://www.tcgnz.co.nz/product-page/pokemon-tcg-team-rocket-tin",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-perfect-order-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-box",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-heroes-mini-tin",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-elite-trainer-box",
       "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-8-5-prismatic-evolutions-2-pack-blister",
-      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-sv-unova-mini-tin-sealed-box-8-tins",
-      "https://www.tcgnz.co.nz/product-page/pre-order-pok\u00e9mon-tcg-destined-rivals-booster-box",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-chaos-rising-booster-box",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-three-booster-blister",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-elite-trainer-box",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-enhanced-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-bundle",
+      "https://www.tcgnz.co.nz/product-page/pre-order-one-piece-booster-box-a-fist-of-divine-speed-op-11",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-8-5-prismatic-evolutions-2-pack-blister",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-three-booster-blister",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-heroes-mini-tin",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-perfect-order-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-chaos-rising-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-enhanced-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-sv-white-flare-and-black-bolt-elite-trainer-box-set",
+      "https://www.tcgnz.co.nz/product-page/one-piece-card-game-booster-display-royal-blood-op-10",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-phantasmal-flames-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pokemon-tcg-team-rocket-tin",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pok\u00e9mon-tcg-destined-rivals-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-elite-trainer-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-checklane-blister",
-      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-sv-white-flare-and-black-bolt-elite-trainer-box-set"
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-elite-trainer-box",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-sv-unova-mini-tin-sealed-box-8-tins"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -245,12 +246,12 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10176981205232",
-      "9716525269232",
-      "9756131819760",
-      "10070962241776",
       "10076303622384",
+      "10176981205232",
+      "10070962241776",
+      "9756131819760",
       "9890801385712",
+      "9716525269232",
       "9788449849584"
     ],
     "zero_streak": 0,
@@ -269,11 +270,11 @@
   "WP Games - Pokemon TCG": {
     "seen_ids": [
       "9328351772911",
-      "9388711182575",
-      "9464484626671",
       "9464484921583",
+      "9328364945647",
+      "9388711182575",
       "8540499149039",
-      "9328364945647"
+      "9464484626671"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -289,13 +290,13 @@
   },
   "Collect All Day": {
     "seen_ids": [
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
-      "https://www.collectallday.com/new/hidden-fates-tin",
-      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
-      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
-      "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set"
     ],
@@ -319,16 +320,16 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8027563098308",
-      "8542844682436",
       "8584605696196",
-      "8555386142916",
-      "8249749340356",
+      "8027563098308",
+      "8479841648836",
       "8474977435844",
       "8542847107268",
       "7511695261892",
-      "8479841648836",
-      "7985678516420"
+      "7985678516420",
+      "8249749340356",
+      "8555386142916",
+      "8542844682436"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -348,25 +349,25 @@
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
-      "https://hobbymaster.co.nz/products/product/46973",
-      "https://hobbymaster.co.nz/products/product/47232",
-      "https://hobbymaster.co.nz/products/product/45463",
-      "https://hobbymaster.co.nz/products/product/38548",
-      "https://hobbymaster.co.nz/products/product/47237",
-      "https://hobbymaster.co.nz/products/product/46971",
-      "https://hobbymaster.co.nz/products/product/45878",
-      "https://hobbymaster.co.nz/products/product/37806",
-      "https://hobbymaster.co.nz/products/product/46975",
-      "https://hobbymaster.co.nz/products/product/38546",
-      "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/47223",
-      "https://hobbymaster.co.nz/products/product/45880",
+      "https://hobbymaster.co.nz/products/product/46976",
+      "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/47236",
-      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/47232",
+      "https://hobbymaster.co.nz/products/product/38546",
+      "https://hobbymaster.co.nz/products/product/45463",
+      "https://hobbymaster.co.nz/products/product/45880",
+      "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/38545",
-      "https://hobbymaster.co.nz/products/product/46974"
+      "https://hobbymaster.co.nz/products/product/47237",
+      "https://hobbymaster.co.nz/products/product/46974",
+      "https://hobbymaster.co.nz/products/product/38548",
+      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/46971",
+      "https://hobbymaster.co.nz/products/product/37806",
+      "https://hobbymaster.co.nz/products/product/46975"
     ],
-    "zero_streak": 2,
+    "zero_streak": 3,
     "warned": false,
     "first_failure_at": "2026-08-06T02:07:46.961246+00:00",
     "prices": {
@@ -412,8 +413,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -432,15 +433,15 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
-      "9734074401064",
-      "10302497227048",
-      "10182936625448",
-      "10365187621160",
       "10323223183656",
-      "10299295236392",
+      "10302497227048",
       "10270182736168",
+      "10182936625448",
+      "10132850377000",
+      "9734074401064",
+      "10299295236392",
       "9503064031528",
-      "10132850377000"
+      "10365187621160"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -480,12 +481,12 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8931072311494",
       "8970819535046",
-      "8789885321414",
-      "8921908740294",
       "8909657637062",
       "8855171334342",
+      "8921908740294",
+      "8931072311494",
+      "8789885321414",
       "8970824843462"
     ],
     "zero_streak": 0,
@@ -522,9 +523,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -552,7 +553,9 @@
     "prices": {}
   },
   "Cool Shit - Status Watch": {
-    "seen_ids": [],
+    "seen_ids": [
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order::available::View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order)"
+    ],
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null,
@@ -560,14 +563,14 @@
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
-      "9251800187029",
-      "9285795938453",
-      "9210132758677",
+      "9285822251157",
       "9152299892885",
-      "9047083745429",
       "9268784496789",
+      "9047083745429",
+      "9251800187029",
+      "9210132758677",
       "9210168803477",
-      "9285822251157"
+      "9285795938453"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -585,12 +588,12 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8770963537943",
       "8215152230423",
       "8774665043991",
-      "8832667877399",
       "8888685723671",
+      "8832667877399",
       "8830803279895",
+      "8770963537943",
       "8847851880471"
     ],
     "zero_streak": 0,
@@ -608,12 +611,14 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
-      "9012579074205",
-      "9012567507101",
-      "9012564689053",
-      "9012511441053",
       "9012509704349",
-      "9012574650525"
+      "9012567507101",
+      "9014563635357",
+      "9012579074205",
+      "9014564585629",
+      "9012511441053",
+      "9012574650525",
+      "9012564689053"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -624,7 +629,9 @@
       "9012574650525": 9.98,
       "9012579074205": 4.99,
       "9012511441053": 130.0,
-      "9012509704349": 11.99
+      "9012509704349": 11.99,
+      "9014564585629": 8.99,
+      "9014563635357": 85.0
     }
   },
   "Hobby Zone - Pokemon Cards": {
