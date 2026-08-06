@@ -1,22 +1,6 @@
 [
   {
     "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: League Battle Deck - Charizard ex *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-charizard-ex-sealed-pre-order-ships-nov-15th",
-    "price": "$71.99",
-    "timestamp": "2026-07-16T23:09:00.859819+00:00",
-    "priority": false
-  },
-  {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: Battle Academy Board Game 2024 *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-battle-academy-board-game-2024-sealed-pre-order-ships-june-21st",
-    "price": "$59.99",
-    "timestamp": "2026-07-16T23:09:00.859819+00:00",
-    "priority": false
-  },
-  {
-    "site": "TCG Collector NZ",
     "title": "Pokemon TCG: 2025 World Championships Deck *Sealed*",
     "url": "https://tcgcollectornz.com/products/pokemon-tcg-2025-world-championships-deck-sealed",
     "price": "$50.00",
@@ -2560,5 +2544,23 @@
     "timestamp": "2026-08-06T01:52:37.129198+00:00",
     "priority": false,
     "image": "http://parkocards.co.nz/cdn/shop/files/parko-cards-chaos-rising-booster-pack.webp?v=1785818475"
+  },
+  {
+    "site": "Cool Shit - Status Watch",
+    "title": "View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order) (status: available)",
+    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
+    "price": "NZ$360.00",
+    "timestamp": "2026-08-06T02:26:06.477677+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/425269320/17.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
+  },
+  {
+    "site": "Parko Cards - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Greninja ex Premium Collection",
+    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
+    "price": "$85.00",
+    "timestamp": "2026-08-06T02:26:06.477677+00:00",
+    "priority": false,
+    "image": "http://parkocards.co.nz/cdn/shop/files/pokemonmegagreninja.webp?v=1785983222"
   }
 ]
