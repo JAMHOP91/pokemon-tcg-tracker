@@ -1,13 +1,5 @@
 [
   {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Scarlet & Violet Anytime, Anywhere Battle Academy Japan Ver.",
-    "url": "https://www.metalife.co.nz/products/pokemon-card-game-scarlet-violet-anytime-anywhere-battle-academy",
-    "price": "$24.80",
-    "timestamp": "2026-07-25T01:06:52.293608+00:00",
-    "priority": false
-  },
-  {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Mega Zygarde ex Premium Collection Sealed Case of 6 - Pok\u00e9mon TCG",
     "url": "https://magicreddragon.co.nz/products/mega-zygarde-ex-premium-collection-sealed-case-of-6-pokemon-tcg-1",
@@ -2653,5 +2645,14 @@
     "timestamp": "2026-08-06T03:55:40.705626+00:00",
     "priority": false,
     "image": "http://www.cardtopia.co.nz/cdn/shop/files/megadreamEX.jpg?v=1764637524"
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon Terastal Gathering  booster pack",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-terastal-gathering-winner-takes-all",
+    "price": "$23.99",
+    "timestamp": "2026-08-06T04:16:21.037168+00:00",
+    "priority": false,
+    "image": null
   }
 ]
