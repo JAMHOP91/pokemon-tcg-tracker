@@ -1,6 +1,46 @@
 [
   {
     "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Evolution: Perfect Order Booster Box *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-perfect-order-booster-box-sealed-pre-order-ships-apr-10th-copy",
+    "price": "$360.00",
+    "timestamp": "2026-07-16T23:09:00.859819+00:00",
+    "priority": true
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Zygarde ex Premium Collection *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-zygarde-ex-premium-collection-sealed",
+    "price": "$95.99",
+    "timestamp": "2026-07-16T23:09:00.859819+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Miraidon ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-miraidon-ex-sealed",
+    "price": "$71.99",
+    "timestamp": "2026-07-16T23:09:00.859819+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Mega Lucario ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-mega-lucario-ex-sealed-pre-order-ships-may-22nd",
+    "price": "$71.99",
+    "timestamp": "2026-07-16T23:09:00.859819+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Team Rocket's Mewtwo ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-team-rockets-mewtwo-ex-sealed",
+    "price": "$71.99",
+    "timestamp": "2026-07-16T23:09:00.859819+00:00",
+    "priority": false
+  },
+  {
+    "site": "TCG Collector NZ",
     "title": "Pokemon TCG: League Battle Deck - Dragapult ex *Sealed*",
     "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-dragapult-ex-sealed",
     "price": "$71.99",
@@ -2498,66 +2538,21 @@
     "image": null
   },
   {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night",
-    "url": "https://www.coolshit.co.nz/product/premiumcollection",
-    "price": "NZ$449.00",
-    "timestamp": "2026-08-06T00:31:53.654475+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427179840/Untitled+design+_7_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Yokohama World Championships 2023 Official Deck Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-yokohama-world-championships-2023-deck-box",
+    "price": "$21.99",
+    "timestamp": "2026-08-06T00:03:07.227224+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/SocialMediaPostsConsolidatedDesigns_6.jpg?v=1737248430"
   },
   {
     "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order)",
-    "url": "https://www.coolshit.co.nz/product/boosterbundle",
-    "price": "NZ$79.00",
-    "timestamp": "2026-08-06T00:31:53.654475+00:00",
+    "title": "View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order)",
+    "url": "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
+    "price": "NZ$99.00",
+    "timestamp": "2026-08-06T00:19:09.539124+00:00",
     "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427180092/Untitled+design+_9_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order)",
-    "url": "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
-    "price": "NZ$29.00",
-    "timestamp": "2026-08-06T00:31:53.654475+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427180452/Untitled+design+_10_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Status Watch",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP (new listing - sold out)",
-    "url": "https://www.coolshit.co.nz/product/celebration",
-    "price": "NZ$199.00",
-    "timestamp": "2026-08-06T00:31:53.654475+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427180668/Untitled+design+_12_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Status Watch",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Knock Out Collection (Pre-Order) STRICTLY 1PP (new listing - sold out)",
-    "url": "https://www.coolshit.co.nz/product/knockout",
-    "price": "NZ$39.00",
-    "timestamp": "2026-08-06T00:31:53.654475+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427180851/Untitled+design+_14_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Status Watch",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Tech Sticker Collection (Pre-Order) STRICTLY 1PP (new listing - sold out)",
-    "url": "https://www.coolshit.co.nz/product/techsticker",
-    "price": "NZ$59.00",
-    "timestamp": "2026-08-06T00:31:53.654475+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427181067/Untitled+design+_16_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Status Watch",
-    "title": "View Pokemon TCG: 30th Celebration Sylveon ex Box / Greninja ex Box (Pre-Order) STRICTLY 1PP (new listing - sold out)",
-    "url": "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-poster-collection-pre-order",
-    "price": "NZ$89.00",
-    "timestamp": "2026-08-06T00:31:53.654475+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427180974/2.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
+    "image": "https://assets.bigcartel.com/product_images/427179522/Untitled+design+_3_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
   }
 ]
