@@ -1,22 +1,6 @@
 [
   {
     "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Trainer's Toolkit",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-trainers-toolkit",
-    "price": "$79.80",
-    "timestamp": "2026-07-25T01:15:56.684691+00:00",
-    "priority": false
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Zygarde ex Premium Collection",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$99.80",
-    "timestamp": "2026-07-25T01:15:56.684691+00:00",
-    "priority": false
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG - 2025 Pokemon TCG World Championships",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-2025-pokemon-tcg-world-championships",
     "price": "$44.80",
@@ -2666,5 +2650,23 @@
     "timestamp": "2026-08-06T06:42:00.527368+00:00",
     "priority": false,
     "image": "https://assets.bigcartel.com/product_images/426132168/Untitled+design+_2_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Chaos Rising Single Pack",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-single-pack",
+    "price": "$11.00",
+    "timestamp": "2026-08-06T06:46:03.828059+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/pok10407a-01.png?v=1784500570"
+  },
+  {
+    "site": "Parko Cards - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Greninja ex Premium Collection",
+    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
+    "price": "$85.00",
+    "timestamp": "2026-08-06T06:46:03.828059+00:00",
+    "priority": false,
+    "image": "http://parkocards.co.nz/cdn/shop/files/pokemonmegagreninja.webp?v=1785983222"
   }
 ]
