@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
@@ -42,6 +43,7 @@
       "8713055273109",
       "7559734886549",
       "8755462799509",
+      "8760569692309",
       "7730851184789",
       "8758359261333",
       "7753997320341",
@@ -118,6 +120,19 @@
       "8693154349219",
       "8565549564067",
       "9134948253859",
+      "9136746102947",
+      "7409030103203",
+      "8804082778275",
+      "9107945980067",
+      "9081919176867",
+      "9054391763107",
+      "9136790208675",
+      "8805645254819",
+      "9136790274211",
+      "8693154349219",
+      "9000085717155",
+      "9101936459939",
+      "9101936918691",
       "8856349376675",
       "8952687788195",
       "8805645254819",
@@ -179,6 +194,8 @@
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-jose-cruz-galindo-resendiz",
       "https://www.hobbylords.co.nz/products/single/-2025-pokemon-tcg-world-championships-deck-liao-fu-guan",
       "https://www.hobbylords.co.nz/products/single/lucario-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
@@ -269,6 +286,9 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9464484921583",
+      "9328364945647",
+      "9464484626671",
       "8540499149039",
       "9464484921583",
       "9388711182575",
@@ -523,8 +543,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
     ],
     "zero_streak": 0,
@@ -740,6 +760,7 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
+      "10214103613524",
       "7660838092884",
       "10214103613524",
       "10214066389076"
@@ -755,7 +776,6 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9366282600704",
       "9493316403456",
       "9554478235904",
       "9462326690048",
