@@ -1,22 +1,6 @@
 [
   {
     "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: League Battle Deck - Team Rocket's Mewtwo ex *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-team-rockets-mewtwo-ex-sealed",
-    "price": "$71.99",
-    "timestamp": "2026-07-16T23:09:00.859819+00:00",
-    "priority": false
-  },
-  {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: League Battle Deck - Dragapult ex *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-dragapult-ex-sealed",
-    "price": "$71.99",
-    "timestamp": "2026-07-16T23:09:00.859819+00:00",
-    "priority": false
-  },
-  {
-    "site": "TCG Collector NZ",
     "title": "Pokemon TCG: League Battle Deck - Charizard ex *Sealed*",
     "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-charizard-ex-sealed-pre-order-ships-nov-15th",
     "price": "$71.99",
@@ -2558,5 +2542,23 @@
     "timestamp": "2026-08-06T01:21:57.463180+00:00",
     "priority": false,
     "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Dragapult-ex-League-Battle-Deck_EN-918x1024.jpg?v=1746048794"
+  },
+  {
+    "site": "Parko Cards - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Zygarde EX Premium Collection",
+    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": "$130.00",
+    "timestamp": "2026-08-06T01:52:37.129198+00:00",
+    "priority": false,
+    "image": "http://parkocards.co.nz/cdn/shop/files/pokemonmegazygardeex.webp?v=1785818630"
+  },
+  {
+    "site": "Parko Cards - Pokemon TCG",
+    "title": "Pokemon Chaos Rising Booster Pack",
+    "url": "https://parkocards.co.nz/products/pokemon-chaos-rising-booster-pack",
+    "price": "$11.99",
+    "timestamp": "2026-08-06T01:52:37.129198+00:00",
+    "priority": false,
+    "image": "http://parkocards.co.nz/cdn/shop/files/parko-cards-chaos-rising-booster-pack.webp?v=1785818475"
   }
 ]
