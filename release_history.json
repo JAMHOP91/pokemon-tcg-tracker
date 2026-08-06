@@ -1,13 +1,5 @@
 [
   {
-    "site": "Hobby Station - Pokemon TCG",
-    "title": "[D] Pokemon TCG Mega Greninja ex Premium Collection",
-    "url": "https://hobbystation.co.nz/pokemon-tcg-mega-greninja-ex-premium-collection-preorder-only-limit-1-per-customer/",
-    "price": "$77.39",
-    "timestamp": "2026-07-28T05:31:18.399153+00:00",
-    "priority": false
-  },
-  {
     "site": "TCG Collector NZ",
     "title": "Pokemon TCG: Mega Forces Tin *Sealed* (PRE-ORDER, SHIPS AUG 28TH)",
     "url": "https://tcgcollectornz.com/products/pokemon-mega-forces-tin",
@@ -2697,5 +2689,14 @@
     "timestamp": "2026-08-06T13:57:31.030547+00:00",
     "priority": false,
     "image": "http://toytime.co.nz/cdn/shop/files/2026-06-18112552.jpg?v=1781738787"
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "2025 Pokemon TCG World Championships Deck - Riley Mckay",
+    "url": "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
+    "price": null,
+    "timestamp": "2026-08-06T14:05:20.723065+00:00",
+    "priority": false,
+    "image": "https://fls-9ed9af97-ba71-4fbd-b8de-969da5133e40.laravel.cloud/testing/product/9515/images/zKTw7CRuuePtlZdXCnD6ToTH15FJ9O6Y1nfzd6Ub.jpg"
   }
 ]
