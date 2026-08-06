@@ -1,13 +1,5 @@
 [
   {
-    "site": "TCG Culture - Pokemon",
-    "title": "Pok\u00e9mon TCG:Trainer's Toolkit",
-    "url": "https://tcgculture.com/products/pokemon-tcg-trainers-toolkit",
-    "price": "$84.99",
-    "timestamp": "2026-07-27T23:16:00.085431+00:00",
-    "priority": false
-  },
-  {
     "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG Perfect Order Single Pack",
     "url": "https://toytime.co.nz/products/pokemon-tcg-perfect-order-single-pack",
@@ -2682,5 +2674,14 @@
     "timestamp": "2026-08-06T08:39:16.320895+00:00",
     "priority": true,
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851"
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-08-06T08:49:40.740719+00:00",
+    "priority": true,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201"
   }
 ]
