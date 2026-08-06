@@ -58,11 +58,12 @@ from sites import cardbot
 from sites import popstop
 from sites import getthosemons
 from sites import sealedandslabbed
+from sites import bigpotato
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 STATUS_FILE = Path(__file__).parent / "status.json"
 HISTORY_FILE = Path(__file__).parent / "release_history.json"
-MAX_HISTORY_ENTRIES = 300
+MAX_HISTORY_ENTRIES = 1000
 
 SITES = [
     (jbhifi.SITE_NAME, jbhifi),
@@ -104,6 +105,7 @@ SITES = [
     (popstop.SITE_NAME, popstop),
     (getthosemons.SITE_NAME, getthosemons),
     (sealedandslabbed.SITE_NAME, sealedandslabbed),
+    (bigpotato.SITE_NAME, bigpotato),
 ]
 
 DEFAULT_FAILURE_THRESHOLD_MINUTES = 90
