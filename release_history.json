@@ -1,13 +1,5 @@
 [
   {
-    "site": "Hobby Station - Pokemon TCG",
-    "title": "Pokemon TCG Mega Lucario ex League Battle Deck (Sealed)",
-    "url": "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
-    "price": "$69.00 $55.00",
-    "timestamp": "2026-07-27T23:40:22.128919+00:00",
-    "priority": false
-  },
-  {
     "site": "Turtle Island - Pokemon Pre-Orders",
     "title": "Pokemon TCG: 2-Pack Blister - Pitch black - Chaos rising",
     "url": "https://turtleisland.co.nz/product/pokemon-tcg-2-pack-blister-pitch-black-chaos-rising",
@@ -2694,5 +2686,14 @@
     "timestamp": "2026-08-06T12:46:40.578576+00:00",
     "priority": true,
     "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201"
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "Arcanine - Pokemon Card 151 - 059/165 - JAPANESE U Non-Holo, Poke Ball Reverse or Master Ball Reverse",
+    "url": "https://thegametree.co.nz/products/arcanine-pokemon-card-151-059-165-japanese-u-non-holo-poke-ball-reverse-or-master-ball-reverse",
+    "price": "$6.98",
+    "timestamp": "2026-08-06T13:20:08.481325+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/files/059_U_Arcanine.png?v=1744358233"
   }
 ]
