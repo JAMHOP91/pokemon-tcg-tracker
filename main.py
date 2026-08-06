@@ -48,7 +48,6 @@ from sites import cardtopia_preorders
 from sites import mrtofu
 from sites import hobbystation
 from sites import turtleisland
-from sites import coolshit_password_watch
 from sites import ocare
 from sites import kidzstuffonline
 from sites import parkocards
@@ -89,7 +88,6 @@ SITES = [
     (mrtofu.SITE_NAME, mrtofu),
     (hobbystation.SITE_NAME, hobbystation),
     (turtleisland.SITE_NAME, turtleisland),
-    (coolshit_password_watch.SITE_NAME, coolshit_password_watch),
     (ocare.SITE_NAME, ocare),
     (kidzstuffonline.SITE_NAME, kidzstuffonline),
     (parkocards.SITE_NAME, parkocards),
