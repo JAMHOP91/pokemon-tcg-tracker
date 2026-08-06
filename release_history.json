@@ -1,22 +1,6 @@
 [
   {
     "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG League Battle Deck - Mega Lucario ex",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-league-battle-deck-mega-lucario-ex",
-    "price": "$69.99",
-    "timestamp": "2026-07-27T23:40:22.128919+00:00",
-    "priority": false
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Perfect Order Booster Box",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster-pre-order-27-03-2026",
-    "price": "$360.00",
-    "timestamp": "2026-07-27T23:40:22.128919+00:00",
-    "priority": false
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG: Mega Zygarde ex Premium Collection",
     "url": "https://toytime.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection-pre-order-22-05-26",
     "price": "$99.00",
@@ -2685,5 +2669,23 @@
     "timestamp": "2026-08-06T09:40:42.331353+00:00",
     "priority": false,
     "image": "https://fls-9ed9af97-ba71-4fbd-b8de-969da5133e40.laravel.cloud/testing/product/9546/images/wLN3e4esc50E6ozceKx44M064yRPz2c4xPXKzOAS.jpg"
+  },
+  {
+    "site": "Parko Cards - Pokemon TCG",
+    "title": "Pokemon Chaos Rising Booster Pack",
+    "url": "https://parkocards.co.nz/products/pokemon-chaos-rising-booster-pack",
+    "price": "$11.99",
+    "timestamp": "2026-08-06T09:44:21.960882+00:00",
+    "priority": false,
+    "image": "http://parkocards.co.nz/cdn/shop/files/parko-cards-chaos-rising-booster-pack.webp?v=1785818475"
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising: Checklane Blister",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-checklane-blister",
+    "price": "$11.99",
+    "timestamp": "2026-08-06T09:44:21.960882+00:00",
+    "priority": true,
+    "image": "http://popstop.co.nz/cdn/shop/files/10-10405-102_grande.jpg?v=1779404721"
   }
 ]
