@@ -1,21 +1,5 @@
 [
   {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Chaos Rising Single Pack",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-single-pack",
-    "price": "$11.00",
-    "timestamp": "2026-07-27T23:40:22.128919+00:00",
-    "priority": false
-  },
-  {
-    "site": "Mr Tofu Card Store - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Evolution-Perfect Order Booster Box",
-    "url": "https://mrtofu.store/products/pre-order-pokemon-tcg-mega-evolution-perfect-order-booster-box",
-    "price": "$329.99",
-    "timestamp": "2026-07-27T23:40:22.128919+00:00",
-    "priority": true
-  },
-  {
     "site": "Hobby Station - Pokemon TCG",
     "title": "Pokemon TCG 2025 World Championships Deck",
     "url": "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
@@ -2690,5 +2674,23 @@
     "timestamp": "2026-08-06T10:48:12.205982+00:00",
     "priority": false,
     "image": "http://www.cardtopia.co.nz/cdn/shop/files/megadreamEX.jpg?v=1764637524"
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolution Perfect Order Booster",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster",
+    "price": "$10.80",
+    "timestamp": "2026-08-06T11:17:47.442272+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/Perfect-Order-Booster-Box-scaled.webp?v=1768953563"
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution - Perfect Order Booster (Single)",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-single",
+    "price": "$9.99",
+    "timestamp": "2026-08-06T11:17:47.442272+00:00",
+    "priority": true,
+    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Meowth_EN_grande.jpg?v=1774554427"
   }
 ]
