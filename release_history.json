@@ -1,14 +1,6 @@
 [
   {
     "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Perfect Order Single Pack",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-perfect-order-single-pack",
-    "price": "$11.00",
-    "timestamp": "2026-07-27T23:40:22.128919+00:00",
-    "priority": false
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon Tcg: Lumiose City Mini Tin",
     "url": "https://toytime.co.nz/products/pokemon-tcg-lumiose-city-mini-tin",
     "price": "$26.00",
@@ -2683,5 +2675,14 @@
     "timestamp": "2026-08-06T08:49:40.740719+00:00",
     "priority": true,
     "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201"
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon Terastal Gathering  booster pack",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-terastal-gathering-winner-takes-all",
+    "price": "$23.99",
+    "timestamp": "2026-08-06T09:28:09.809527+00:00",
+    "priority": false,
+    "image": null
   }
 ]
