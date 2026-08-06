@@ -1,13 +1,5 @@
 [
   {
-    "site": "The Game Tree NZ",
-    "title": "**CLEARANCE** Pokemon Trading Card Game Battle Academy (2024) - Armarouge ex, Pikachu ex, & Darkrai ex",
-    "url": "https://thegametree.co.nz/products/pokemon-trading-card-game-battle-academy-2024-armarouge-ex-pikachu-ex-darkrai-ex",
-    "price": "$49.88",
-    "timestamp": "2026-07-27T23:16:00.085431+00:00",
-    "priority": false
-  },
-  {
     "site": "TCG Culture - Pokemon",
     "title": "Pok\u00e9mon TCG:Trainer's Toolkit",
     "url": "https://tcgculture.com/products/pokemon-tcg-trainers-toolkit",
@@ -2681,5 +2673,14 @@
     "timestamp": "2026-08-06T08:08:49.448218+00:00",
     "priority": true,
     "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister.jpg?v=1784082727"
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
+    "price": "$169.99",
+    "timestamp": "2026-08-06T08:39:16.320895+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851"
   }
 ]
