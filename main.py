@@ -1,4 +1,4 @@
-"""
+﻿"""
 Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
 Tracks how long each site has been continuously failing and warns based
@@ -57,7 +57,6 @@ from sites import gamecorner
 from sites import cardbot
 from sites import popstop
 from sites import getthosemons
-from sites import getthosemons
 from sites import sealedandslabbed
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
@@ -103,7 +102,6 @@ SITES = [
     (gamecorner.SITE_NAME, gamecorner),
     (cardbot.SITE_NAME, cardbot),
     (popstop.SITE_NAME, popstop),
-    (getthosemons.SITE_NAME, getthosemons),
     (getthosemons.SITE_NAME, getthosemons),
     (sealedandslabbed.SITE_NAME, sealedandslabbed),
 ]
