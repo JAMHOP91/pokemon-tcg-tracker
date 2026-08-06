@@ -183,6 +183,7 @@
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-jose-cruz-galindo-resendiz",
       "https://www.hobbylords.co.nz/products/single/lucario-card-display-gift-set-simplified-chinese-ver-",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-jose-cruz-galindo-resendiz",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
       "https://www.hobbylords.co.nz/products/single/-2025-pokemon-tcg-world-championships-deck-liao-fu-guan",
@@ -248,9 +249,10 @@
     "seen_ids": [
       "10076303622384",
       "9716525269232",
-      "10070962241776",
-      "9756131819760",
       "9890801385712",
+      "9756131819760",
+      "9788449849584",
+      "10070962241776",
       "10176981205232",
       "9788449849584"
     ],
@@ -414,8 +416,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -487,8 +489,7 @@
       "8970819535046",
       "8789885321414",
       "8855171334342",
-      "8931072311494",
-      "8970824843462"
+      "8931072311494"
     ],
     "zero_streak": 0,
     "warned": false,
