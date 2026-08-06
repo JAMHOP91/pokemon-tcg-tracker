@@ -1,22 +1,6 @@
 [
   {
     "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG -  Miradidon/Koraidon ex Deluxe Battle Deck",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-miradidon-koraidon-ex-deluxe-battle-deck",
-    "price": "$36.80",
-    "timestamp": "2026-07-25T01:15:56.684691+00:00",
-    "priority": false
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Lumiose City Mini Tin",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
-    "price": "$28.60",
-    "timestamp": "2026-07-25T01:15:56.684691+00:00",
-    "priority": false
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG - Triple Whammy Back Issue Collector Tin",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-triple-whammy-back-issue-collector-tin",
     "price": "$46.80",
@@ -2663,5 +2647,23 @@
     "timestamp": "2026-08-06T06:09:02.914527+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/world-cup-bundle_1.png?v=1782098016"
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Japanese Pokemon Mega Dream Ex Booster Box",
+    "url": "https://www.cardtopia.co.nz/products/boxing-day-special-japanese-pokemon-mega-dream-ex-booster-box",
+    "price": "$255.00",
+    "timestamp": "2026-08-06T06:28:18.218324+00:00",
+    "priority": false,
+    "image": "http://www.cardtopia.co.nz/cdn/shop/files/M2a-bb.webp?v=1763423839"
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Grimmsnarl VMAX Starter Set",
+    "url": "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+    "price": "Sale Price:\nNZ$45.00 \nOriginal Price:\nNZ$55.00",
+    "timestamp": "2026-08-06T06:28:18.218324+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ff868cf81817a4febd391b3/1610115284466/410px-Grimmsnarl_VMAX_Starter_Set.jpg?format=1500w"
   }
 ]
