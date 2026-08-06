@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -249,7 +249,6 @@
       "9716525269232",
       "10070962241776",
       "10176981205232",
-      "9890801385712",
       "10076303622384",
       "9788449849584"
     ],
@@ -323,7 +322,6 @@
       "8584605696196",
       "8479841648836",
       "8027563098308",
-      "8249749340356",
       "7511695261892",
       "8474977435844",
       "8542844682436",
@@ -357,6 +355,9 @@
       "https://hobbymaster.co.nz/products/product/38545",
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/47232",
+      "https://hobbymaster.co.nz/products/product/38548",
+      "https://hobbymaster.co.nz/products/product/46971",
+      "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/37806",
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/47223",
@@ -433,6 +434,7 @@
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
       "10182936625448",
+      "10299295236392",
       "10270182736168",
       "10365187621160",
       "9734074401064",
@@ -522,6 +524,7 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
