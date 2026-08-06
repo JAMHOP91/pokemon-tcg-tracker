@@ -1,23 +1,5 @@
 [
   {
-    "site": "TCG Collector NZ - Pre-Orders",
-    "title": "Pokemon TCG: Mega Forces Tin *Sealed* (PRE-ORDER, SHIPS AUG 28TH)",
-    "url": "https://tcgcollectornz.com/products/pokemon-mega-forces-tin",
-    "price": "$60.00",
-    "timestamp": "2026-07-29T02:46:02.064422+00:00",
-    "priority": false,
-    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Forces-Tin-Mega-Dragonite-ex-Front_EN.jpg?v=1782462382"
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Single Cards",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-single-cards-1",
-    "price": "$1.99",
-    "timestamp": "2026-07-29T09:16:02.542696+00:00",
-    "priority": false,
-    "image": "http://www.metalife.co.nz/cdn/shop/files/20260526165345_181_227.jpg?v=1779771819"
-  },
-  {
     "site": "Cardtopia NZ",
     "title": "Pokemon Ninja Spinner Booster Box M4 Japanese",
     "url": "https://www.cardtopia.co.nz/products/pokemon-ninja-spinner-booster-box-m4-japanese",
@@ -2698,5 +2680,23 @@
     "timestamp": "2026-08-06T14:23:59.951482+00:00",
     "priority": false,
     "image": "http://www.metalife.co.nz/cdn/shop/files/4961806880.jpg?v=1773369872"
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Evolution: Chaos Rising Booster Box *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-chaos-rising-booster-box-sealed-pre-order-ships-may-22nd",
+    "price": "$360.00",
+    "timestamp": "2026-08-06T14:35:06.249370+00:00",
+    "priority": true,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Chaos-Rising-Booster-Display_EN-762x1024.jpg?v=1774217735"
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Perfect Order Single Pack",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-perfect-order-single-pack",
+    "price": "$11.00",
+    "timestamp": "2026-08-06T14:35:06.249370+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-06-26140207.jpg?v=1782439750"
   }
 ]
