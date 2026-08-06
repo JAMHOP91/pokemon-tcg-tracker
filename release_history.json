@@ -1,14 +1,6 @@
 [
   {
     "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Greninja ex Premium Collection",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-greninja-ex-premium-collection-pre-order-3-7-2026",
-    "price": "$106.00",
-    "timestamp": "2026-07-27T23:40:22.128919+00:00",
-    "priority": false
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG Chaos Rising Single Pack",
     "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-single-pack",
     "price": "$11.00",
@@ -2689,5 +2681,14 @@
     "timestamp": "2026-08-06T10:17:27.506582+00:00",
     "priority": true,
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/LumioseCityMiniTins_Emboar_1webp.webp?v=1780644066"
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Pitch Black Single Pack",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-single-pack",
+    "price": "$11.00",
+    "timestamp": "2026-08-06T10:44:17.344547+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2318353445.jpg?v=1784500677"
   }
 ]
