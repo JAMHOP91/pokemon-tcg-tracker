@@ -1,8 +1,8 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
@@ -14,7 +14,6 @@
     "seen_ids": [
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
-      "https://www.coolshit.co.nz/product/premiumcollection",
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/boosterbundle",
       "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
@@ -326,7 +325,9 @@
       "8542847107268",
       "8584605696196",
       "8542844682436",
+      "8027563098308",
       "8479841648836",
+      "8555386142916",
       "8249749340356",
       "8027563098308",
       "7511695261892"
@@ -591,6 +592,7 @@
       "8847851880471",
       "8832667877399",
       "8830803279895",
+      "8888685723671",
       "8770963537943",
       "8774665043991"
     ],
@@ -756,8 +758,6 @@
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
       "9188403609856",
-      "9493316403456",
-      "9554478235904",
       "9188403740928",
       "9188403282176",
       "9366282600704",
