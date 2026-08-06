@@ -1,14 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014 Pitch Black Elite Trainer Box (PRE ORDER) Release Date: 17th July 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-pre-order-release-date-17th-july-2026",
-    "price": "$149.00",
-    "timestamp": "2026-07-27T05:16:05.586305+00:00",
-    "priority": true
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pokemon TCG: First Partner Illustration Collection\u2014Series 2 Sealed case of 6",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-2-sealed-case-of-6",
     "price": "$449.00",
@@ -2677,5 +2669,14 @@
     "timestamp": "2026-08-06T07:32:57.460599+00:00",
     "priority": false,
     "image": "http://parkocards.co.nz/cdn/shop/files/2320823008.jpg?v=1785830614"
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Saturday Night Stream Bundle - Pokemon Astral Radiance Pitch Black",
+    "url": "https://www.cardtopia.co.nz/products/saturday-night-stream-bundle-pokemon-astral-radiance-pitch-black",
+    "price": "$30.19",
+    "timestamp": "2026-08-06T07:51:43.487210+00:00",
+    "priority": false,
+    "image": "http://www.cardtopia.co.nz/cdn/shop/files/ChatGPTImageAug1_2026_09_40_04PM.png?v=1785577244"
   }
 ]
