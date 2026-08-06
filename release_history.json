@@ -1,14 +1,6 @@
 [
   {
     "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolution Perfect Order Booster",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster",
-    "price": "$10.80",
-    "timestamp": "2026-07-25T01:15:56.684691+00:00",
-    "priority": true
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolution Pitch Black Booster Bundle",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-bundle",
     "price": "$88.00",
@@ -2660,5 +2652,14 @@
     "timestamp": "2026-08-06T05:05:44.045139+00:00",
     "priority": false,
     "image": "http://parkocards.co.nz/cdn/shop/files/pokemonmegagreninja.webp?v=1785983222"
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Saturday Night Stream Bundle - Pokemon Astral Radiance Pitch Black",
+    "url": "https://www.cardtopia.co.nz/products/saturday-night-stream-bundle-pokemon-astral-radiance-pitch-black",
+    "price": "$30.19",
+    "timestamp": "2026-08-06T05:09:30.602374+00:00",
+    "priority": false,
+    "image": "http://www.cardtopia.co.nz/cdn/shop/files/ChatGPTImageAug1_2026_09_40_04PM.png?v=1785577244"
   }
 ]
