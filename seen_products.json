@@ -293,6 +293,7 @@
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
@@ -323,6 +324,7 @@
     "seen_ids": [
       "8249749340356",
       "8479841648836",
+      "8555386142916",
       "8027563098308",
       "8474977435844",
       "8542847107268",
@@ -513,8 +515,8 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9294396063994",
-      "9096634695930"
+      "9096634695930",
+      "9294396063994"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -783,7 +785,6 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "8754151883006",
       "9233032642814",
       "9233072521470",
       "8897397326078",
