@@ -1,253 +1,5 @@
 [
   {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: Mega Zygarde ex Premium Collection *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-zygarde-ex-premium-collection-sealed",
-    "price": "$95.99",
-    "timestamp": "2026-07-19T10:46:19.579310+00:00",
-    "priority": false
-  },
-  {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: League Battle Deck - Miraidon ex *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-miraidon-ex-sealed",
-    "price": "$71.99",
-    "timestamp": "2026-07-19T11:26:17.384678+00:00",
-    "priority": false
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "Pokemon Chinese Terastal Gathering Booster Box",
-    "url": "https://www.cardtopia.co.nz/products/pokemon-chinese-terastal-gathering-booster-box",
-    "price": "$235.99",
-    "timestamp": "2026-07-19T11:52:57.701793+00:00",
-    "priority": false
-  },
-  {
-    "site": "Hobby Lords - Pokemon",
-    "title": "Bandai Pokemon Model Kit Mega Rayquaza",
-    "url": "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-rayquaza",
-    "price": null,
-    "timestamp": "2026-07-19T12:44:58.149108+00:00",
-    "priority": false
-  },
-  {
-    "site": "Otakumart - Pokemon TCG",
-    "title": "50x Basic Metal Energy | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/50x-basic-metal-energy-pokemon-tcg",
-    "price": "$3.00",
-    "timestamp": "2026-07-19T13:19:59.920835+00:00",
-    "priority": false
-  },
-  {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: Battle Academy Board Game 2024 *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-battle-academy-board-game-2024-sealed-pre-order-ships-june-21st",
-    "price": "$59.99",
-    "timestamp": "2026-07-19T14:54:25.937476+00:00",
-    "priority": false
-  },
-  {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: First Partner Illustration Collection\u2014Series 3 (Pre-Order) STRICTLY 1pp",
-    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-first-partner-illustration-collectionseries-3-pre-order",
-    "price": "NZ$59.00",
-    "timestamp": "2026-07-19T16:15:02.352130+00:00",
-    "priority": false
-  },
-  {
-    "site": "Hobby Master - Pokemon",
-    "title": "CHINESE POK\u00c9MON TCG: 25TH ANNIVERSARY VENUSAUR BOX SET",
-    "url": "https://hobbymaster.co.nz/products/product/38548",
-    "price": "$216.00",
-    "timestamp": "2026-07-19T18:56:01.927418+00:00",
-    "priority": false
-  },
-  {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: League Battle Deck - Team Rocket's Mewtwo ex *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-team-rockets-mewtwo-ex-sealed",
-    "price": "$71.99",
-    "timestamp": "2026-07-19T21:24:46.638946+00:00",
-    "priority": false
-  },
-  {
-    "site": "Hobby Lords - Pokemon",
-    "title": "Pokemon Battle Academy Board Game 2024",
-    "url": "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
-    "price": null,
-    "timestamp": "2026-07-19T22:00:10.916406+00:00",
-    "priority": false
-  },
-  {
-    "site": "Hobby Lords - Pokemon",
-    "title": "Bandai Pokemon Model Kit Mega Lucario",
-    "url": "https://www.hobbylords.co.nz/products/single/bandai-pokemon-model-kit-mega-lucario",
-    "price": null,
-    "timestamp": "2026-07-19T23:15:39.883194+00:00",
-    "priority": false
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "MONDAY NIGHT STREAM \u2013 LIVE POKEMON FIGHTING CHAMPIONSHIP 187",
-    "url": "https://www.cardtopia.co.nz/products/monday-night-stream-live-pokemon-fighting-championship-187",
-    "price": "$36.99",
-    "timestamp": "2026-07-20T01:01:44.530500+00:00",
-    "priority": false
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "Pokemon Terastal Winner takes all - Live stream",
-    "url": "https://www.cardtopia.co.nz/products/pokemon-terastal-winner-takes-all-live-stream",
-    "price": "$26.99",
-    "timestamp": "2026-07-20T07:01:27.833517+00:00",
-    "priority": false
-  },
-  {
-    "site": "JB Hi-Fi NZ",
-    "title": "Pokemon TCG - Lumiose City Mini Tin",
-    "url": "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
-    "price": null,
-    "timestamp": "2026-07-20T23:31:56.296592+00:00",
-    "priority": false
-  },
-  {
-    "site": "The Game Tree NZ",
-    "title": "**CLEARANCE** Ultra Pro Pok\u00e9mon - Pok\u00e9ball Printed Magnetic Card Holder",
-    "url": "https://thegametree.co.nz/products/ultra-pro-poke-ball-one-touch-edge-magnetic-holder-35pt",
-    "price": "$8.98",
-    "timestamp": "2026-07-21T23:15:56.443503+00:00",
-    "priority": false
-  },
-  {
-    "site": "TCG NZ",
-    "title": "POK\u00c9MON TCG Scarlet & Violet 9 Journey Together Booster Bundle",
-    "url": "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-bundle",
-    "price": "$70.00",
-    "timestamp": "2026-07-22T11:45:58.324860+00:00",
-    "priority": false
-  },
-  {
-    "site": "JB Hi-Fi NZ",
-    "title": "Pokemon TCG - Lumiose City Mini Tin",
-    "url": "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
-    "price": null,
-    "timestamp": "2026-07-23T02:31:11.719367+00:00",
-    "priority": false
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-box",
-    "price": "$365.99",
-    "timestamp": "2026-07-23T02:31:11.719367+00:00",
-    "priority": true
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Elite Trainer Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
-    "price": "$139.99",
-    "timestamp": "2026-07-23T02:31:11.719367+00:00",
-    "priority": true
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Booster Bundle",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-bundle",
-    "price": "$69.99",
-    "timestamp": "2026-07-23T02:31:11.719367+00:00",
-    "priority": true
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Mega Zygarde ex Premium Collection Sealed Case of 6 - Pok\u00e9mon TCG",
-    "url": "https://magicreddragon.co.nz/products/mega-zygarde-ex-premium-collection-sealed-case-of-6-pokemon-tcg-1",
-    "price": "$599.00",
-    "timestamp": "2026-07-25T01:06:52.293608+00:00",
-    "priority": false
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 2025 Pokemon TCG World Championships Deck (Pre Order) Release Date: 19 June 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-2025-pokemon-tcg-world-championships-deck-pre-order-release-date-19-june-2026",
-    "price": "$45.00",
-    "timestamp": "2026-07-25T01:06:52.293608+00:00",
-    "priority": false
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Moonlight Tin - Mega Clefable ex (Pre-order) Release Date: June 5th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex-pre-order-release-date-june-5th-2026",
-    "price": "$56.00",
-    "timestamp": "2026-07-25T01:06:52.293608+00:00",
-    "priority": false
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolution Chaos Rising Booster",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-booster",
-    "price": "$11.80",
-    "timestamp": "2026-07-25T01:06:52.293608+00:00",
-    "priority": true
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolution Pitch Black Elite Trainer Box",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
-    "price": "$176.80",
-    "timestamp": "2026-07-25T01:06:52.293608+00:00",
-    "priority": true
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolution 3 Perfect Order Booster Hanger Pack Assorted",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-3-perfect-order-booster-hanger-pack-assorted",
-    "price": "$11.80",
-    "timestamp": "2026-07-25T01:06:52.293608+00:00",
-    "priority": true
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolution Perfect Order Booster",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster",
-    "price": "$10.80",
-    "timestamp": "2026-07-25T01:06:52.293608+00:00",
-    "priority": true
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolution Pitch Black Booster Bundle",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-bundle",
-    "price": "$88.00",
-    "timestamp": "2026-07-25T01:06:52.293608+00:00",
-    "priority": true
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Lucario ex League Battle Deck",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-    "price": "$49.80",
-    "timestamp": "2026-07-25T01:06:52.293608+00:00",
-    "priority": false
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG -  Miradidon/Koraidon ex Deluxe Battle Deck",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-miradidon-koraidon-ex-deluxe-battle-deck",
-    "price": "$36.80",
-    "timestamp": "2026-07-25T01:06:52.293608+00:00",
-    "priority": false
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Lumiose City Mini Tin",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
-    "price": "$28.60",
-    "timestamp": "2026-07-25T01:06:52.293608+00:00",
-    "priority": false
-  },
-  {
     "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG - Triple Whammy Back Issue Collector Tin",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-triple-whammy-back-issue-collector-tin",
@@ -2618,5 +2370,284 @@
     "timestamp": "2026-08-06T03:11:41.628592+00:00",
     "priority": false,
     "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck-Front_EN_grande.jpg?v=1776291158"
+  },
+  {
+    "site": "GetThoseMons - Sealed Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution-Pitch Black Booster Pack",
+    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-pack",
+    "price": "$9.95",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Wrap-Mega-Darkrai_EN-560x1024.jpg?v=1784445114"
+  },
+  {
+    "site": "GetThoseMons - Sealed Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster Box",
+    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Display_EN-750x1024.jpg?v=1784444621"
+  },
+  {
+    "site": "GetThoseMons - Sealed Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: 2025 World Championship Deck Yuya Okita",
+    "url": "https://getthosemons.co.nz/products/pokemon-tcg-2025-world-championship-deck-yuya-okita",
+    "price": "$44.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": false,
+    "image": "http://getthosemons.co.nz/cdn/shop/files/2025-Pokemon-TCG-World-Championships-Deck-Okita_EN.jpg?v=1781574858"
+  },
+  {
+    "site": "GetThoseMons - Sealed Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: 2025 World Championship Deck Jose Cruz Galindo-Resendiz",
+    "url": "https://getthosemons.co.nz/products/pokemon-tcg-2025-world-championship-deck-jose-cruz-galindo-resendiz",
+    "price": "$44.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": false,
+    "image": "http://getthosemons.co.nz/cdn/shop/files/2025-Pokemon-TCG-World-Championships-Deck-Galindo-Resendiz_EN.jpg?v=1781574803"
+  },
+  {
+    "site": "GetThoseMons - Sealed Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: 2025 World Championship Deck Liao Fu Guan",
+    "url": "https://getthosemons.co.nz/products/pokemon-tcg-2025-world-championship-deck-liao-fu-guan",
+    "price": "$44.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": false,
+    "image": "http://getthosemons.co.nz/cdn/shop/files/2025-Pokemon-TCG-World-Championships-Deck-Liao_EN.jpg?v=1781574743"
+  },
+  {
+    "site": "GetThoseMons - Sealed Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: 2025 World Championship Deck Riley McKay",
+    "url": "https://getthosemons.co.nz/products/pokemon-tcg-2025-world-championship-deck-riley-mckay",
+    "price": "$44.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": false,
+    "image": "http://getthosemons.co.nz/cdn/shop/files/2025-Pokemon-TCG-World-Championships-Deck-McKay_EN.jpg?v=1781574643"
+  },
+  {
+    "site": "GetThoseMons - Sealed Pokemon TCG",
+    "title": "Pokemon TCG: Lumiose City Mini Tin (Assorted)",
+    "url": "https://getthosemons.co.nz/products/pokemon-tcg-lumiose-city-mini-tin",
+    "price": "$24.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": false,
+    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Lumiose-City-Mini-Tin-Embroar.jpg?v=1780884018"
+  },
+  {
+    "site": "GetThoseMons - Sealed Pokemon TCG",
+    "title": "Pokemon TCG: Mega Moonlight Tin (Mega Clefable ex)",
+    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
+    "price": "$54.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": false,
+    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Moonlit-Tin-Mega-Clefable_EN.jpg?v=1780883693"
+  },
+  {
+    "site": "GetThoseMons - Sealed Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Mega Zygarde ex Premium Collection",
+    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": false,
+    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762.jpg?v=1779678921"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Perfect Order: Sealed Booster Pack (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-pack-english",
+    "price": "$10.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBooster_2webp.webp?v=1780641519"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pok\u00e9mon: Mega Evolution: Chaos Rising: Sealed Elite Trainer Box (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-chaos-rising-sealed-elite-trainer-box-english",
+    "price": "$159.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/ChaosRisingEliteTrainerBox_1webp.webp?v=1776939037"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pok\u00e9mon: Mega Evolution: Perfect Order: Sealed Booster Bundle (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-bundle-english",
+    "price": "$74.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBoosterBundle_1webp.webp?v=1772701953"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Phantasmal Flames: Sealed Booster Box (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-scarlet-violet-mega-evolution-phantasmal-flames-sealed-booster-box-english",
+    "price": "$729.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/MegaEvolutionPhantasmalFlamesBoosterBox_1jpeg.jpg?v=1759350222"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pok\u00e9mon: Mega Evolutions: Mega Charizard X EX: Sealed Ultra Premium Collection (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-scarlet-violet-mega-charizard-x-ex-sealed-ultra-premium-collection-english",
+    "price": "$429.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/UltraPremiumCollectionBox_1webp.webp?v=1758013827"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Chaos Rising: Sealed Booster Pack (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-chaos-rising-sealed-booster-pack-english",
+    "price": "$11.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/ChaosRisingBooster_1webp.webp?v=1776939197"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Chaos Rising: Sealed 3 Booster Pack (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-chaos-rising-sealed-3-booster-pack-english",
+    "price": "$39.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/ChaosRising3pkBlister_1webp.webp?v=1776938429"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Pitch Black: Sealed Booster Box (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-pitch-black-sealed-booster-box-english",
+    "price": "$399.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PitchBlackBoosterBox_1webp.webp?v=1784004797"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Perfect Order: Sealed 3 Booster Pack (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-3-booster-pack-english",
+    "price": "$39.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrder3pkBlister_1webp.webp?v=1772703932"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pok\u00e9mon: Mega Evolution: Perfect Order: Sealed Elite Trainer Box (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-elite-trainer-box-english",
+    "price": "$134.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderEliteTrainerBoxjpeg.jpg?v=1772700406"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Scarlet & Violet: Journey Together: Sealed Enhanced Booster Box (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-scarlet-violet-journey-together-sealed-booster-box-english",
+    "price": "$499.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/JourneyTogetherBoosterBox.webp?v=1785480117"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Sword & Shield: Astral Radiance: Sealed Booster Box (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-scarlet-violet-astral-radiance-sealed-booster-box-english",
+    "price": "$749.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/AstralRadianceBoosterBoxwebp.webp?v=1785479418"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Scarlet & Violet: Obsidian Flames: Sealed Booster Box (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-scarlet-violet-obsidian-flames-sealed-booster-box-english",
+    "price": "$699.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/ObsidianFlamesBoosterBoxwebp_7565f637-1241-48c4-8944-3a948eabb4b4.webp?v=1785474298"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pok\u00e9mon: Mega Evolution: Pitch Black: Sealed Booster Bundle (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-pitch-black-sealed-booster-bundle-english",
+    "price": "$74.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PitchBlackBoosterBundle_1webp.webp?v=1784365301"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Pitch Black: Sealed 3 Booster Pack (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-pitch-black-sealed-3-booster-pack-english",
+    "price": "$39.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PitchBlack3pkBlister_1webp.webp?v=1784364768"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Scarlet & Violet: Destined Rivals: Sealed Booster Box (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-scarlet-violet-destined-rivals-sealed-booster-box-english",
+    "price": "$949.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PokemonDestinedRivalsBoosterBox_1webp.webp?v=1782537997"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pok\u00e9mon: Mega Evolution: Lumiose City: Mini Tin: Gallade (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-lumiose-city-mini-tin-gallade-english",
+    "price": "$29.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/LumioseCityMiniTins_Gallade_1webp.webp?v=1780644524"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pok\u00e9mon: Mega Evolution: Lumiose City: Mini Tin: Feraligatr (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-lumiose-city-mini-tin-feraligatr-english",
+    "price": "$29.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/LumioseCityMiniTins_Feraligatr_1webp.webp?v=1780644387"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pok\u00e9mon: Mega Evolution: Lumiose City: Mini Tin: Salamence (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-lumiose-city-mini-tin-salamence-english",
+    "price": "$29.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/LumioseCityMiniTins_Salamence_1webp.webp?v=1780644332"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pok\u00e9mon: Mega Evolution: Lumiose City: Mini Tin: Emboar (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-lumiose-city-mini-tin-emboar-english",
+    "price": "$29.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/LumioseCityMiniTins_Emboar_1webp.webp?v=1780644066"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pok\u00e9mon: Mega Evolution: Lumiose City: Mini Tin: Art Set (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-lumiose-city-mini-tin-art-set-english",
+    "price": "$174.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/LumioseCityMiniTins_ArtSet_1webp.webp?v=1780642788"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Perfect Order: Sealed Booster Box (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-box-english",
+    "price": "$369.99",
+    "timestamp": "2026-08-06T03:17:13.158913+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBoosterBoxjpeg.jpg?v=1772704099"
   }
 ]
