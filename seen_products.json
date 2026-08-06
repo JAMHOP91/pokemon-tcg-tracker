@@ -12,6 +12,7 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/boosterbundle",
       "https://www.coolshit.co.nz/product/premiumcollection",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
@@ -323,13 +324,15 @@
       "8027563098308",
       "8555386142916",
       "8249749340356",
+      "8474977435844",
       "8542847107268",
       "8584605696196",
       "7985678516420",
       "7511695261892",
       "8479841648836",
       "8542844682436",
-      "8474977435844"
+      "8555386142916",
+      "8584605696196"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -759,6 +762,7 @@
     "seen_ids": [
       "9462326690048",
       "9493316403456",
+      "9366282600704",
       "9188403740928",
       "9366282600704",
       "9188403282176",
