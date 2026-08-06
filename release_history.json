@@ -1,14 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: Mega Greninja ex Premium Collection",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection-pre-order-release-date-17th-july-2026",
-    "price": "$109.00",
-    "timestamp": "2026-07-27T05:02:29.958698+00:00",
-    "priority": false
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: Mega Evolution\u2014 Pitch Black Elite Trainer Box (PRE ORDER) Release Date: 17th July 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-pre-order-release-date-17th-july-2026",
     "price": "$149.00",
@@ -2676,5 +2668,14 @@
     "timestamp": "2026-08-06T07:14:34.407552+00:00",
     "priority": true,
     "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Chaos-Rising-Booster-Display_EN-762x1024.jpg?v=1774217735"
+  },
+  {
+    "site": "Parko Cards - Pokemon TCG",
+    "title": "Ludicolo 095/094 Illustration Rare \u2013 Phantasmal Flames",
+    "url": "https://parkocards.co.nz/products/ludicolo-095-094-illustration-rare-phantasmal-flames",
+    "price": "$6.99",
+    "timestamp": "2026-08-06T07:31:06.399747+00:00",
+    "priority": false,
+    "image": "http://parkocards.co.nz/cdn/shop/files/2320823008.jpg?v=1785830614"
   }
 ]
