@@ -1,14 +1,6 @@
 [
   {
     "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - 2025 Pokemon TCG World Championships",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-2025-pokemon-tcg-world-championships",
-    "price": "$44.80",
-    "timestamp": "2026-07-25T01:06:52.293608+00:00",
-    "priority": false
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG - Scarlet & Violet Anytime, Anywhere Battle Academy Japan Ver.",
     "url": "https://www.metalife.co.nz/products/pokemon-card-game-scarlet-violet-anytime-anywhere-battle-academy",
     "price": "$24.80",
@@ -2652,5 +2644,14 @@
     "timestamp": "2026-08-06T03:52:10.473031+00:00",
     "priority": true,
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851"
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Japanese Pokemon Mega Dream Ex Booster Pack",
+    "url": "https://www.cardtopia.co.nz/products/japanese-pokemon-mega-dream-ex-booster-pack",
+    "price": "$23.99",
+    "timestamp": "2026-08-06T03:55:40.705626+00:00",
+    "priority": false,
+    "image": "http://www.cardtopia.co.nz/cdn/shop/files/megadreamEX.jpg?v=1764637524"
   }
 ]

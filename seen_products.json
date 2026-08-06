@@ -75,6 +75,12 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
+      "7850575495229",
+      "7558377930813",
+      "7850575822909",
+      "7558377046077",
+      "7560189935677",
+      "7558379864125",
       "7558380781629",
       "7558381600829",
       "7850575888445",
@@ -183,6 +189,7 @@
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-jose-cruz-galindo-resendiz",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/lucario-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/-2025-pokemon-tcg-world-championships-deck-liao-fu-guan",
@@ -320,6 +327,13 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8027563098308",
+      "8542844682436",
+      "8474977435844",
+      "7511695261892",
+      "8479841648836",
+      "8249749340356",
+      "8584605696196",
       "8542847107268",
       "7985678516420",
       "8584605696196",
@@ -413,8 +427,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -564,6 +578,9 @@
       "9251800187029",
       "9285822251157",
       "9285795938453",
+      "9210168803477",
+      "9210132758677",
+      "9251800187029",
       "9268784496789",
       "9210168803477",
       "9152299892885",
@@ -740,8 +757,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "7660838092884",
       "10214066389076",
+      "7660838092884",
       "10214103613524"
     ],
     "zero_streak": 0,
