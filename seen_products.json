@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection"
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -12,6 +12,8 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
+      "https://www.coolshit.co.nz/product/boosterbundle",
       "https://www.coolshit.co.nz/product/premiumcollection",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/boosterbundle",
@@ -34,6 +36,14 @@
       "8758359261333",
       "7561509896341",
       "8760561172629",
+      "8755535773845",
+      "9011807486101",
+      "8745246556309",
+      "8713055273109",
+      "8619217879189",
+      "8758360998037",
+      "8755462078613",
+      "8755462799509",
       "7559734886549",
       "8713055273109",
       "7753997320341",
@@ -439,6 +449,8 @@
       "9734074401064",
       "10270182736168",
       "9503064031528",
+      "10270182736168",
+      "10182936625448",
       "10302497227048",
       "10299295236392",
       "10323223183656"
@@ -512,8 +524,8 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9294396063994",
-      "9096634695930"
+      "9096634695930",
+      "9294396063994"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -652,6 +664,36 @@
   "Animal Kingdoms - Pokemon TCG": {
     "seen_ids": [
       "9586387353840",
+      "10112184385776",
+      "10112179831024",
+      "10064521527536",
+      "8504533713136",
+      "10111551209712",
+      "9550375518448",
+      "8504547311856",
+      "10098857181424",
+      "10064521232624",
+      "10064520904944",
+      "9070036123888",
+      "10064521429232",
+      "9982539989232",
+      "9586411340016",
+      "9014123954416",
+      "9550376960240",
+      "10111548522736",
+      "10098927075568",
+      "10171572912368",
+      "9550378533104",
+      "10035621396720",
+      "9397580857584",
+      "10171547386096",
+      "9000588542192",
+      "9994678501616",
+      "8271706358000",
+      "10112186188016",
+      "10112141295856",
+      "8387844997360",
+      "10099042582768",
       "9599898976496",
       "8504533713136",
       "10112141295856",
