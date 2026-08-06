@@ -1,8 +1,8 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
@@ -33,6 +33,9 @@
       "8755535773845",
       "8755462078613",
       "8758359261333",
+      "8760560877717",
+      "7753997320341",
+      "8758360998037",
       "8964116873365",
       "9011807486101",
       "8760560877717",
@@ -124,6 +127,13 @@
       "9107945226403",
       "8952687788195",
       "7409030103203",
+      "8693154349219",
+      "9081919176867",
+      "9101936918691",
+      "9101935771811",
+      "8668035317923",
+      "9101958414499",
+      "9136746102947",
       "9136790274211",
       "8693154349219",
       "9101935771811",
@@ -413,8 +423,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -740,8 +750,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
       "10214103613524",
+      "10214066389076",
       "7660838092884"
     ],
     "zero_streak": 0,
