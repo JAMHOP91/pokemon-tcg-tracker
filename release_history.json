@@ -1,21 +1,5 @@
 [
   {
-    "site": "Cardtopia NZ",
-    "title": "Pokemon - Mega dream winner takes all - SAR edition",
-    "url": "https://www.cardtopia.co.nz/products/mega-dream-winner-takes-all",
-    "price": "$23.99",
-    "timestamp": "2026-07-27T08:31:23.621319+00:00",
-    "priority": false
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: First Partner Illustration Collection\u2014Series 2 Sealed case of 6",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-2-sealed-case-of-6",
-    "price": "$429.00",
-    "timestamp": "2026-07-27T09:01:31.110082+00:00",
-    "priority": false
-  },
-  {
     "site": "The Game Tree NZ",
     "title": "**CLEARANCE** Pokemon Trading Card Game Battle Academy (2024) - Armarouge ex, Pikachu ex, & Darkrai ex",
     "url": "https://thegametree.co.nz/products/pokemon-trading-card-game-battle-academy-2024-armarouge-ex-pikachu-ex-darkrai-ex",
@@ -2679,5 +2663,23 @@
     "timestamp": "2026-08-06T07:55:53.881550+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/PKM-CENTRE-2025-BUNDLE_1.png?v=1772599783"
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-08-06T08:08:49.448218+00:00",
+    "priority": true,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201"
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Three Booster Blister",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister",
+    "price": "$31.99",
+    "timestamp": "2026-08-06T08:08:49.448218+00:00",
+    "priority": true,
+    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister.jpg?v=1784082727"
   }
 ]
