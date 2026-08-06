@@ -1,14 +1,6 @@
 [
   {
     "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: League Battle Deck - Mega Lucario ex *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-mega-lucario-ex-sealed-pre-order-ships-may-22nd",
-    "price": "$71.99",
-    "timestamp": "2026-07-16T23:09:00.859819+00:00",
-    "priority": false
-  },
-  {
-    "site": "TCG Collector NZ",
     "title": "Pokemon TCG: League Battle Deck - Team Rocket's Mewtwo ex *Sealed*",
     "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-team-rockets-mewtwo-ex-sealed",
     "price": "$71.99",
@@ -2557,5 +2549,14 @@
     "timestamp": "2026-08-06T00:38:35.037734+00:00",
     "priority": true,
     "image": "https://assets.bigcartel.com/product_images/427180452/Untitled+design+_10_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Dragapult ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-dragapult-ex-sealed",
+    "price": "$71.99",
+    "timestamp": "2026-08-06T01:21:57.463180+00:00",
+    "priority": false,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Dragapult-ex-League-Battle-Deck_EN-918x1024.jpg?v=1746048794"
   }
 ]
