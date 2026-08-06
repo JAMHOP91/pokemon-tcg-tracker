@@ -1,22 +1,6 @@
 [
   {
     "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: Mega Zygarde ex Premium Collection *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-zygarde-ex-premium-collection-sealed",
-    "price": "$95.99",
-    "timestamp": "2026-07-16T23:31:16.658987+00:00",
-    "priority": false
-  },
-  {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: League Battle Deck - Miraidon ex *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-miraidon-ex-sealed",
-    "price": "$71.99",
-    "timestamp": "2026-07-16T23:31:16.658987+00:00",
-    "priority": false
-  },
-  {
-    "site": "TCG Collector NZ",
     "title": "Pokemon TCG: League Battle Deck - Mega Lucario ex *Sealed*",
     "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-mega-lucario-ex-sealed-pre-order-ships-may-22nd",
     "price": "$71.99",
@@ -2565,5 +2549,23 @@
     "timestamp": "2026-08-06T02:42:11.100404+00:00",
     "priority": false,
     "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ff868cd81817a4febd39134/1610115281829/410px-Venusaur_VMAX_Starter_Set.jpg?format=1500w"
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Blastoise VMAX Starter Set",
+    "url": "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+    "price": "NZ$55.00",
+    "timestamp": "2026-08-06T02:47:53.930588+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ff868ce81817a4febd3916d/1610115283113/411px-Blastoise_VMAX_Starter_Set.jpg?format=1500w"
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Grimmsnarl VMAX Starter Set",
+    "url": "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+    "price": "Sale Price:\nNZ$45.00 \nOriginal Price:\nNZ$55.00",
+    "timestamp": "2026-08-06T02:47:53.930588+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ff868cf81817a4febd391b3/1610115284466/410px-Grimmsnarl_VMAX_Starter_Set.jpg?format=1500w"
   }
 ]
