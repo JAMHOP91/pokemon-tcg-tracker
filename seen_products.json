@@ -14,8 +14,7 @@
     "seen_ids": [
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-      "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection"
+      "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -286,6 +285,7 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
