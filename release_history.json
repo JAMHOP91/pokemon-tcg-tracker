@@ -1,45 +1,5 @@
 [
   {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Zygarde ex Premium Collection",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$99.80",
-    "timestamp": "2026-07-25T01:15:56.684691+00:00",
-    "priority": false
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - 2025 Pokemon TCG World Championships",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-2025-pokemon-tcg-world-championships",
-    "price": "$44.80",
-    "timestamp": "2026-07-25T01:15:56.684691+00:00",
-    "priority": false
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Scarlet & Violet Anytime, Anywhere Battle Academy Japan Ver.",
-    "url": "https://www.metalife.co.nz/products/pokemon-card-game-scarlet-violet-anytime-anywhere-battle-academy",
-    "price": "$24.80",
-    "timestamp": "2026-07-25T01:15:56.684691+00:00",
-    "priority": false
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: Charizard ex Special Collection  (PRE-ORDER) Arrives:  31st July 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-charizard-ex-special-collection-pre-order-arrives-31st-july-2026",
-    "price": "$129.00",
-    "timestamp": "2026-07-25T02:45:57.698387+00:00",
-    "priority": false
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: First Partner Illustration Collection\u2014Series 2 PRE-ORDER Arrives 31st July",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-2-pre-order-release-date-june-19th-2026",
-    "price": "$79.00",
-    "timestamp": "2026-07-25T02:45:57.698387+00:00",
-    "priority": false
-  },
-  {
     "site": "The Game Tree NZ",
     "title": "**CLEARANCE** Pokemon Surprise Attack Game - Togetic & Bulbasaur",
     "url": "https://thegametree.co.nz/products/pokemon-surprise-attack-game-togetic-bulbasaur",
@@ -2666,6 +2626,51 @@
     "price": "$28.60",
     "timestamp": "2026-08-06T06:48:04.115481+00:00",
     "priority": false,
-    "image": "http://www.metalife.co.nz/cdn/shop/files/475077-Product-6-I-639106834204565919.webp?v=1779063289"
+    "image": "http://toytime.co.nz/cdn/shop/files/pok10407a-01.png?v=1784500570"
+  },
+  {
+    "site": "Parko Cards - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Greninja ex Premium Collection",
+    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
+    "price": "$85.00",
+    "timestamp": "2026-08-06T06:46:03.828059+00:00",
+    "priority": false,
+    "image": "http://parkocards.co.nz/cdn/shop/files/pokemonmegagreninja.webp?v=1785983222"
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Jolteon VMAX Premium Collection",
+    "url": "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+    "price": "NZ$495.00",
+    "timestamp": "2026-08-06T06:50:08.178779+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67ea524164560f4ad11bdf70/1757999523043/Jolteon+VMAX+Special+Collection.jpg?format=1500w"
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Burning Shadows 3-Pack Blister",
+    "url": "https://www.collectallday.com/new/burning-shadows-3-pack",
+    "price": "from NZ$175.00",
+    "timestamp": "2026-08-06T06:50:08.178779+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5f29e7a80dc53066d6ca647d/1779703276980/651px-SM3_Blister_Cosmog.jpg?format=1500w"
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Chaos Rising - Booster Box",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
+    "price": "$360.00",
+    "timestamp": "2026-08-06T06:50:08.178779+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254"
+  },
+  {
+    "site": "GetThoseMons - Sealed Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: 2025 World Championship Deck Riley McKay",
+    "url": "https://getthosemons.co.nz/products/pokemon-tcg-2025-world-championship-deck-riley-mckay",
+    "price": "$44.99",
+    "timestamp": "2026-08-06T06:50:08.178779+00:00",
+    "priority": false,
+    "image": "http://getthosemons.co.nz/cdn/shop/files/2025-Pokemon-TCG-World-Championships-Deck-McKay_EN.jpg?v=1781574643"
   }
 ]
