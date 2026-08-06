@@ -527,7 +527,8 @@
     "seen_ids": [
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -780,6 +781,8 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9190582649086",
+      "9233072521470",
       "9173828796670",
       "9233032642814",
       "9090566226174",
