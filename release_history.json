@@ -1,23 +1,5 @@
 [
   {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Pitch Black Single Pack",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-single-pack",
-    "price": "$11.00",
-    "timestamp": "2026-07-29T23:01:25.563976+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2318353445.jpg?v=1784500677"
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Chaos Rising - Booster Box",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
-    "price": "$360.00",
-    "timestamp": "2026-07-29T23:01:25.563976+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254"
-  },
-  {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: 30th Celebration Knock Out Collection - PRE ORDER - Release Date:  September 16th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection-pre-order-release-date-september-16th-2026",
@@ -2698,5 +2680,23 @@
     "timestamp": "2026-08-06T22:22:48.820179+00:00",
     "priority": false,
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-First-Partner-Illustration-Collection-Series-3.png?v=1785714785"
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Chaos Rising Single Pack",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-single-pack",
+    "price": "$11.00",
+    "timestamp": "2026-08-06T22:31:02.474296+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/pok10407a-01.png?v=1784500570"
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Greninja ex Premium Collection",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-greninja-ex-premium-collection-pre-order-3-7-2026",
+    "price": "$106.00",
+    "timestamp": "2026-08-06T22:31:02.474296+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-06-08161636.jpg?v=1780892221"
   }
 ]
