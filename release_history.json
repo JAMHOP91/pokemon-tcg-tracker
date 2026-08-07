@@ -2941,5 +2941,23 @@
     "timestamp": "2026-08-07T06:05:52.650907+00:00",
     "priority": false,
     "image": "http://www.cardtopia.co.nz/cdn/shop/files/Untitled-design-2025-08-21T135520.541_ef0d5e42-9ea5-4388-b628-89f9d5ed4e52.png?v=1762289607"
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Three Booster Blister",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-three-booster-blister",
+    "price": "$32.99",
+    "timestamp": "2026-08-07T06:20:44.928496+00:00",
+    "priority": true,
+    "image": "http://wpgames.co.nz/cdn/shop/files/182922ca8f264399b9435c8169756594_Original.jpg?v=1774705136"
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Charizard ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-charizard-ex-sealed-pre-order-ships-nov-15th",
+    "price": "$71.99",
+    "timestamp": "2026-08-07T06:20:44.928496+00:00",
+    "priority": false,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Charizard-ex-League-Battle-Deck_EN-917x1024.jpg?v=1725010104"
   }
 ]
