@@ -293,7 +293,7 @@
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
-      "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
@@ -368,9 +368,9 @@
       "https://hobbymaster.co.nz/products/product/38546",
       "https://hobbymaster.co.nz/products/product/45880"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-07T16:12:51.345855+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -596,6 +596,7 @@
       "8888685723671",
       "8774665043991",
       "8770963537943",
+      "8832667877399",
       "8215152230423",
       "8832667877399"
     ],
@@ -618,7 +619,7 @@
       "9012509704349",
       "9014563635357",
       "9012564689053",
-      "9012567507101",
+      "9014563635357",
       "9012579074205",
       "9015732076701",
       "9012511441053",
@@ -748,8 +749,8 @@
   "Game Corner - Pokemon": {
     "seen_ids": [
       "10214103613524",
-      "10214066389076",
-      "7660838092884"
+      "7660838092884",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -813,6 +814,12 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9551121580309",
+      "9551121678613",
+      "9530379600149",
+      "9577428123925",
+      "9537919222037",
+      "9537919516949",
       "9551121514773",
       "9577428123925",
       "9537919516949",
