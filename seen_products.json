@@ -12,6 +12,10 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
       "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
@@ -41,6 +45,7 @@
       "7730871795861",
       "8619217879189",
       "8758356803733",
+      "7730851184789",
       "7559734886549",
       "7730851184789",
       "7561509896341",
@@ -488,7 +493,12 @@
       "8921908740294",
       "8970824843462",
       "8855171334342",
-      "8789885321414"
+      "8789885321414",
+      "8921908740294",
+      "8970824843462",
+      "8970819535046",
+      "8909657637062",
+      "8931072311494"
     ],
     "zero_streak": 0,
     "warned": false,
