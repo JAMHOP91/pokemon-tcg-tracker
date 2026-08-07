@@ -247,6 +247,7 @@
   "Cardtopia NZ": {
     "seen_ids": [
       "9788449849584",
+      "9756131819760",
       "9716525269232",
       "10076303622384",
       "9890801385712",
@@ -368,9 +369,9 @@
       "https://hobbymaster.co.nz/products/product/38548",
       "https://hobbymaster.co.nz/products/product/46973"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-07T09:15:58.639749+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -591,7 +592,9 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8830803279895",
+      "8832667877399",
+      "8888685723671",
+      "8774665043991",
       "8847851880471",
       "8215152230423",
       "8888685723671",
@@ -747,8 +750,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214103613524",
       "10214066389076",
+      "10214103613524",
       "7660838092884"
     ],
     "zero_streak": 0,
@@ -785,6 +788,7 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9090566226174",
       "8897397326078",
       "9269784477950",
       "9233072521470",
