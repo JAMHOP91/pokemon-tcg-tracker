@@ -82,6 +82,15 @@
       "7558379405373",
       "7560189280317",
       "7850575888445",
+      "7850575986749",
+      "7558379864125",
+      "7558381600829",
+      "7558379405373",
+      "7850575495229",
+      "7558378979389",
+      "7699941818429",
+      "7558377930813",
+      "7560189935677",
       "7558377046077",
       "7699941818429",
       "7850575986749",
@@ -414,8 +423,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -487,6 +496,7 @@
       "8789885321414",
       "8855171334342",
       "8931072311494",
+      "8970824843462",
       "8970819535046",
       "8909657637062"
     ],
@@ -513,8 +523,8 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9096634695930",
-      "9294396063994"
+      "9294396063994",
+      "9096634695930"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -526,6 +536,7 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
@@ -567,6 +578,7 @@
       "9152299892885",
       "9210168803477",
       "9210132758677",
+      "9268784496789",
       "9285822251157",
       "9319727923349",
       "9285795938453",
