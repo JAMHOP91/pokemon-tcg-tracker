@@ -3085,5 +3085,23 @@
     "timestamp": "2026-08-07T18:05:46.850471+00:00",
     "priority": true,
     "image": "http://www.metalife.co.nz/cdn/shop/files/Pokemon_TCG-_Mega_Evolution_Pitch_Black_Elite_Trainer_Box.webp?v=1780632501"
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Lucario ex League Battle Deck",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-mega-lucario-ex-league-battle-deck",
+    "price": "$49.00",
+    "timestamp": "2026-08-07T23:29:01.381447+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck-Front_EN.jpg?v=1779856756"
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Collection Box 2025 Bundle",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-collection-box-2025-bundle",
+    "price": "$1223.00",
+    "timestamp": "2026-08-07T23:29:01.381447+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/PKM-CENTRE-2025-BUNDLE_1.png?v=1772599783"
   }
 ]
