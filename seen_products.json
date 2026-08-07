@@ -35,6 +35,11 @@
       "7753997320341",
       "8745246556309",
       "8755462078613",
+      "8619217879189",
+      "7561509896341",
+      "7753997320341",
+      "8755535773845",
+      "7730851184789",
       "7559734886549",
       "8758359261333",
       "9011807486101",
@@ -294,6 +299,8 @@
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
@@ -513,8 +520,8 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9294396063994",
-      "9096634695930"
+      "9096634695930",
+      "9294396063994"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -762,9 +769,9 @@
     "seen_ids": [
       "9188403282176",
       "9366282600704",
+      "9188403282176",
       "9462326690048",
       "9493316403456",
-      "9188403609856",
       "9188403740928",
       "9554478235904"
     ],
@@ -794,9 +801,9 @@
       "8897397326078",
       "9233032642814"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-07T02:31:06.724118+00:00",
     "prices": {
       "9173828796670": 9.99,
       "9233032642814": 9.99,
@@ -820,11 +827,15 @@
       "9530379600149",
       "9537919222037",
       "9551121580309",
+      "9537919222037",
+      "9551121678613",
+      "9577428353301",
+      "9530379600149",
       "9551121514773"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-07T02:31:06.724118+00:00",
     "prices": {
       "9577428353301": 9.95,
       "9577428123925": 359.99,
@@ -862,9 +873,9 @@
       "8026253328502",
       "8220955181174"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-07T02:31:06.724118+00:00",
     "prices": {
       "8069213454454": 10.99,
       "8026253328502": 159.99,
