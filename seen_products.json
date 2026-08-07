@@ -248,6 +248,7 @@
     "seen_ids": [
       "9756131819760",
       "9890801385712",
+      "9788449849584",
       "10076303622384",
       "10176981205232",
       "10070962241776",
@@ -368,9 +369,9 @@
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/47051"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-07T22:55:43.541229+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -747,9 +748,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "7660838092884",
       "10214066389076",
-      "10214103613524"
+      "10214103613524",
+      "7660838092884"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -768,7 +769,11 @@
       "9462326690048",
       "9188403740928",
       "9493316403456",
-      "9554478235904"
+      "9366282600704",
+      "9188403609856",
+      "9554478235904",
+      "9188403282176",
+      "9188403740928"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -900,6 +905,10 @@
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-blister-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-chilling-reign-elite-trainer-box-ice-rider-calyrex",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-blister-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-charizard-ex-premium-collection",
+      "https://www.bigpotato.co.nz/product-page/sealed-pok\u00e9mon-tcg-poke-ball-tin-d21-2021-cosmic-eclipse-vivid-voltage-rebel",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-vivid-voltage-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
