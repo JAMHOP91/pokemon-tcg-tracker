@@ -3022,5 +3022,23 @@
     "timestamp": "2026-08-07T12:35:43.518737+00:00",
     "priority": false,
     "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg"
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "Pokemon - Alcove Flip Box - Gallery Series - Frosted Forest",
+    "url": "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
+    "price": null,
+    "timestamp": "2026-08-07T13:20:46.288634+00:00",
+    "priority": false,
+    "image": "https://fls-9ed9af97-ba71-4fbd-b8de-969da5133e40.laravel.cloud/testing/product/10930/images/65e0e5794fbc5.png"
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Three Booster Blister",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-three-booster-blister",
+    "price": "$32.99",
+    "timestamp": "2026-08-07T13:20:46.288634+00:00",
+    "priority": true,
+    "image": "http://wpgames.co.nz/cdn/shop/files/182922ca8f264399b9435c8169756594_Original.jpg?v=1774705136"
   }
 ]
