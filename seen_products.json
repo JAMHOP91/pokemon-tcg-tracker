@@ -252,7 +252,9 @@
       "9890801385712",
       "9788449849584",
       "10076303622384",
-      "10176981205232"
+      "10176981205232",
+      "9756131819760",
+      "9890801385712"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -434,7 +436,6 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
-      "10302497227048",
       "9734074401064",
       "9503064031528",
       "10365187621160",
@@ -526,6 +527,7 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
