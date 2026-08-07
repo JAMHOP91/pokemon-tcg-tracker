@@ -3049,5 +3049,23 @@
     "timestamp": "2026-08-07T13:25:48.397294+00:00",
     "priority": true,
     "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682"
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Burning Shadows 3-Pack Blister",
+    "url": "https://www.collectallday.com/new/burning-shadows-3-pack",
+    "price": "from NZ$175.00",
+    "timestamp": "2026-08-07T16:31:04.751154+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5f29e7a80dc53066d6ca647d/1779703276980/651px-SM3_Blister_Cosmog.jpg?format=1500w"
+  },
+  {
+    "site": "Parko Cards - Pokemon TCG",
+    "title": "Ludicolo 095/094 Illustration Rare \u2013 Phantasmal Flames",
+    "url": "https://parkocards.co.nz/products/ludicolo-095-094-illustration-rare-phantasmal-flames",
+    "price": "$6.99",
+    "timestamp": "2026-08-07T16:31:04.751154+00:00",
+    "priority": false,
+    "image": "http://parkocards.co.nz/cdn/shop/files/2320823008.jpg?v=1785830614"
   }
 ]
