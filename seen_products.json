@@ -461,9 +461,9 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-08T09:01:16.577142+00:00",
     "prices": {}
   },
   "Card Masters - Pre-Orders": {
@@ -482,7 +482,7 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8931072311494",
+      "8789885321414",
       "8921908740294",
       "8789885321414",
       "8970819535046",
@@ -513,8 +513,8 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9294396063994",
-      "9096634695930"
+      "9096634695930",
+      "9294396063994"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -599,9 +599,9 @@
       "8830803279895",
       "8215152230423"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-08T09:01:16.577142+00:00",
     "prices": {
       "8888685723671": 10.99,
       "8847851880471": 29.99,
@@ -747,9 +747,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214103613524",
       "7660838092884",
-      "10214066389076"
+      "10214066389076",
+      "10214103613524"
     ],
     "zero_streak": 0,
     "warned": false,
