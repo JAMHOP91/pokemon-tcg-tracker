@@ -3427,5 +3427,23 @@
     "timestamp": "2026-08-08T22:02:00.167392+00:00",
     "priority": false,
     "image": "http://parkocards.co.nz/cdn/shop/files/2320823165.jpg?v=1785831351"
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Saturday Night Stream Bundle - Pokemon Astral Radiance Pitch Black",
+    "url": "https://www.cardtopia.co.nz/products/saturday-night-stream-bundle-pokemon-astral-radiance-pitch-black",
+    "price": "$30.19",
+    "timestamp": "2026-08-08T22:50:50.422057+00:00",
+    "priority": false,
+    "image": "http://www.cardtopia.co.nz/cdn/shop/files/ChatGPTImageAug1_2026_09_40_04PM.png?v=1785577244"
+  },
+  {
+    "site": "Parko Cards - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Zygarde EX Premium Collection",
+    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": "$130.00",
+    "timestamp": "2026-08-08T22:50:50.422057+00:00",
+    "priority": false,
+    "image": "http://parkocards.co.nz/cdn/shop/files/pokemonmegazygardeex.webp?v=1785818630"
   }
 ]
