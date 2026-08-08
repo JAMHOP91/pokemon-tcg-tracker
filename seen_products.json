@@ -368,9 +368,9 @@
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/46974"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-08T17:05:35.837672+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -482,7 +482,7 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8970819535046",
+      "8855171334342",
       "8931072311494",
       "8921908740294",
       "8909657637062",
