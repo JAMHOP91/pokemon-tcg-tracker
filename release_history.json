@@ -3364,5 +3364,32 @@
     "timestamp": "2026-08-08T18:10:49.333516+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/PKM-CENTRE-2025-BUNDLE_1.png?v=1772599783"
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
+    "price": "$612.00",
+    "timestamp": "2026-08-08T18:35:49.444611+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/fukuoka-box-cardbot-pokemon-center.jpg?v=1759255295"
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG:  Mega Greninja ex Premium Collection",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
+    "price": "$93.99",
+    "timestamp": "2026-08-08T18:35:49.444611+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731-1_grande.jpg?v=1780869247"
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Lucario ex League Battle Deck",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-lucario-ex-league-battle-deck",
+    "price": "$66.99",
+    "timestamp": "2026-08-08T18:35:49.444611+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck-Front_EN_grande.jpg?v=1776291158"
   }
 ]
