@@ -368,9 +368,9 @@
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/46975"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-08T21:32:49.972832+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -515,6 +515,7 @@
     "seen_ids": [
       "9294396063994",
       "9096634695930",
+      "9294396063994",
       "9294399996154"
     ],
     "zero_streak": 0,
@@ -749,8 +750,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214103613524",
       "7660838092884",
+      "10214103613524",
       "10214066389076"
     ],
     "zero_streak": 0,
