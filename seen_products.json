@@ -368,9 +368,9 @@
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/45878"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-08T06:15:52.891741+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -513,8 +513,8 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9294396063994",
-      "9096634695930"
+      "9096634695930",
+      "9294396063994"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -617,6 +617,8 @@
       "9012567507101",
       "9014564585629",
       "9012509704349",
+      "9014564585629",
+      "9014599975069",
       "9014563635357",
       "9014599975069",
       "9012579074205",
