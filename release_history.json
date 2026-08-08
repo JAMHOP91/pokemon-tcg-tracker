@@ -3274,5 +3274,14 @@
     "timestamp": "2026-08-08T13:35:39.563280+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/PKM-CENTRE-2025-BUNDLE_1.png?v=1772599783"
+  },
+  {
+    "site": "Mr Tofu Card Store - Pokemon TCG",
+    "title": "(Pre-Order) Limit 2 Per Person Pok\u00e9mon TCG: 30th Celebration Knock Out Collection",
+    "url": "https://mrtofu.store/products/pre-order-in-store-only-pokemon-tcg-30th-celebration-knock-out-collection",
+    "price": "$23.99",
+    "timestamp": "2026-08-08T13:47:44.737567+00:00",
+    "priority": true,
+    "image": "http://mrtofu.store/cdn/shop/files/Pokemon-TCG-30th-Celebration-Knock-Out-Collection_EN.jpg?v=1783124785"
   }
 ]
