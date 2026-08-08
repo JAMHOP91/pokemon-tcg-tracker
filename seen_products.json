@@ -81,6 +81,10 @@
       "7558381600829",
       "7558377046077",
       "7850575822909",
+      "7558379405373",
+      "7850575888445",
+      "7558378455101",
+      "7560189935677",
       "7558379864125",
       "7560189280317",
       "7699941818429",
@@ -186,7 +190,8 @@
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
       "https://www.hobbylords.co.nz/products/single/-2025-pokemon-tcg-world-championships-deck-liao-fu-guan",
-      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay"
+      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -414,8 +419,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -439,6 +444,8 @@
       "10182936625448",
       "10323223183656",
       "10132850377000",
+      "10302497227048",
+      "10323223183656",
       "10270182736168",
       "10302497227048",
       "10299295236392",
@@ -529,8 +536,8 @@
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -593,7 +600,6 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8774665043991",
       "8847851880471",
       "8830803279895",
       "8215152230423",
