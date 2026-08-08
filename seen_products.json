@@ -368,9 +368,9 @@
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/45880"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-08T06:31:06.215919+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -414,8 +414,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -592,6 +592,9 @@
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
       "8888685723671",
+      "8847851880471",
+      "8830803279895",
+      "8770963537943",
       "8832667877399",
       "8847851880471",
       "8830803279895",
@@ -785,6 +788,7 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9173828796670",
       "9190582649086",
       "9233072521470",
       "9269784477950",
