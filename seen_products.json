@@ -269,6 +269,7 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9328351772911",
       "9464484626671",
       "9464484921583",
       "8540499149039",
@@ -294,7 +295,7 @@
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
-      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
@@ -747,9 +748,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
+      "10214066389076",
       "10214103613524",
-      "7660838092884",
-      "10214066389076"
+      "7660838092884"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -762,6 +763,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
+      "9554478235904",
+      "9366282600704",
       "9188403740928",
       "9493316403456",
       "9188403282176",
