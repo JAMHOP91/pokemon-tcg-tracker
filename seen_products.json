@@ -291,6 +291,9 @@
   "Collect All Day": {
     "seen_ids": [
       "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
@@ -513,9 +516,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9096634695930",
       "9294399996154",
-      "9294396063994"
+      "9294396063994",
+      "9096634695930"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -599,7 +602,9 @@
       "8888685723671",
       "8215152230423",
       "8847851880471",
-      "8830803279895"
+      "8830803279895",
+      "8774665043991",
+      "8832667877399"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -795,7 +800,12 @@
       "9086478123262",
       "9090566226174",
       "9269784477950",
-      "9190582649086"
+      "9086478123262",
+      "9190582649086",
+      "9233032642814",
+      "9173828796670",
+      "9381118279934",
+      "8897397326078"
     ],
     "zero_streak": 0,
     "warned": false,
