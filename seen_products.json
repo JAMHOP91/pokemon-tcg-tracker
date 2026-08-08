@@ -19,7 +19,7 @@
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
       "https://www.coolshit.co.nz/product/premiumcollection",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -368,9 +368,9 @@
       "https://hobbymaster.co.nz/products/product/38546",
       "https://hobbymaster.co.nz/products/product/45463"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-07T23:58:36.511406+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -414,8 +414,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -593,6 +593,9 @@
     "seen_ids": [
       "8847851880471",
       "8888685723671",
+      "8770963537943",
+      "8832667877399",
+      "8830803279895",
       "8774665043991",
       "8832667877399",
       "8830803279895",
@@ -767,6 +770,8 @@
       "9188403740928",
       "9493316403456",
       "9188403609856",
+      "9493316403456",
+      "9462326690048",
       "9188403282176",
       "9554478235904"
     ],
@@ -821,7 +826,9 @@
       "9577428123925",
       "9551118827797",
       "9530379600149",
-      "9551121678613"
+      "9537919222037",
+      "9577428123925",
+      "9577428353301"
     ],
     "zero_streak": 0,
     "warned": false,
