@@ -1,6 +1,8 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
@@ -331,6 +333,11 @@
       "8249749340356",
       "8584605696196",
       "8479841648836",
+      "8555386142916",
+      "8584605696196",
+      "8474977435844",
+      "7511695261892",
+      "8249749340356",
       "8027563098308",
       "8542847107268",
       "8474977435844"
@@ -417,8 +424,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -837,6 +844,7 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9551118827797",
       "9537919516949",
       "9551121514773",
       "9551121580309",
