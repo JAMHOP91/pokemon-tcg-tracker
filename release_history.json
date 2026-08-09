@@ -4615,5 +4615,23 @@
     "timestamp": "2026-08-09T20:22:18.095751+00:00",
     "priority": false,
     "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Dragapult-ex-League-Battle-Deck_EN-918x1024.jpg?v=1746048794"
+  },
+  {
+    "site": "JB Hi-Fi NZ",
+    "title": "Pokemon TCG - Lumiose City Mini Tin",
+    "url": "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
+    "price": null,
+    "timestamp": "2026-08-09T20:25:55.377946+00:00",
+    "priority": false,
+    "image": "http://www.jbhifi.co.nz/cdn/shop/files/475077-Product-0-I-639106834204144130_1024x1024.jpg"
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "2025 Pokemon TCG World Championships Deck - Yuya Okita",
+    "url": "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
+    "price": null,
+    "timestamp": "2026-08-09T20:25:55.377946+00:00",
+    "priority": false,
+    "image": "https://fls-9ed9af97-ba71-4fbd-b8de-969da5133e40.laravel.cloud/testing/product/9545/images/S5Nq95NRPOmHxStCBbLNgG6fgzDZbTLsyRKR91jd.webp"
   }
 ]
