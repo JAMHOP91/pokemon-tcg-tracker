@@ -297,8 +297,9 @@
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
-      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
-      "https://www.collectallday.com/new/burning-shadows-3-pack"
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -446,7 +447,6 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
-      "10299295236392",
       "10132850377000",
       "10323223183656",
       "9734074401064",
