@@ -269,6 +269,8 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9388711182575",
+      "9464484790511",
       "9464484626671",
       "8540499149039",
       "9328364945647",
@@ -352,6 +354,7 @@
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
+      "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/45880",
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/47237",
@@ -772,8 +775,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214103613524",
-      "10214066389076"
+      "10214066389076",
+      "10214103613524"
     ],
     "zero_streak": 0,
     "warned": false,
