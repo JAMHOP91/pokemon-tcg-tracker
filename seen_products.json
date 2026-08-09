@@ -527,8 +527,8 @@
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9294399996154",
-      "9096634695930",
-      "9294396063994"
+      "9294396063994",
+      "9096634695930"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -543,6 +543,7 @@
     "seen_ids": [
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
     ],
     "zero_streak": 0,
@@ -761,9 +762,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "7660838092884",
       "10214103613524",
-      "10214066389076"
+      "10214066389076",
+      "7660838092884"
     ],
     "zero_streak": 0,
     "warned": false,
