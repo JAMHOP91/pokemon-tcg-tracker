@@ -293,6 +293,8 @@
   "Collect All Day": {
     "seen_ids": [
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
@@ -788,7 +790,8 @@
     "seen_ids": [
       "9493316403456",
       "9188403740928",
-      "9366282600704",
+      "9462326690048",
+      "9188403609856",
       "9188403282176",
       "9188403609856",
       "9462326690048"
@@ -808,6 +811,7 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "8897397326078",
       "9173828796670",
       "9381118279934",
       "9190582649086",
