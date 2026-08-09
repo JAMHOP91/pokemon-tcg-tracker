@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection"
@@ -294,13 +295,16 @@
     "seen_ids": [
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
-      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
-      "https://www.collectallday.com/new/venusaur-vmax-starter-set"
+      "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -323,6 +327,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8474977435844",
+      "8555386142916",
       "8542844682436",
       "7985678516420",
       "8474977435844",
@@ -434,6 +440,7 @@
       "8312959107272",
       "8335789654216",
       "8335789949128",
+      "8319521259720",
       "8320457048264",
       "8335790112968",
       "8315313553608",
@@ -505,6 +512,10 @@
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
       "8909649739974",
+      "8921908740294",
+      "8970819535046",
+      "8789885321414",
+      "8970824843462",
       "8855171334342",
       "8970824843462",
       "8909657637062",
