@@ -2,8 +2,8 @@
   "JB Hi-Fi NZ": {
     "seen_ids": [
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -368,7 +368,7 @@
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/46973"
     ],
-    "zero_streak": 0,
+    "zero_streak": 2,
     "warned": false,
     "first_failure_at": null,
     "prices": {
@@ -579,6 +579,7 @@
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
+      "9285795938453",
       "9047083745429",
       "9251800187029",
       "9210132758677",
@@ -780,6 +781,8 @@
       "9493316403456",
       "9188403609856",
       "9462326690048",
+      "9188403609856",
+      "9366282600704",
       "9188403282176",
       "9188403740928"
     ],
