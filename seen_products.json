@@ -18,6 +18,9 @@
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/premiumcollection",
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
+      "https://www.coolshit.co.nz/product/premiumcollection",
       "https://www.coolshit.co.nz/product/boosterbundle",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order"
     ],
@@ -79,6 +82,9 @@
       "7558377930813",
       "7558377046077",
       "7558381600829",
+      "7850575986749",
+      "7850575888445",
+      "7558377930813",
       "7699941818429",
       "7558378979389",
       "7850575822909",
@@ -372,7 +378,7 @@
     ],
     "zero_streak": 2,
     "warned": false,
-    "first_failure_at": "2026-08-09T19:24:00.203465+00:00",
+    "first_failure_at": null,
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
