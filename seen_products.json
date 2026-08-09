@@ -201,6 +201,7 @@
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-perfect-order-booster-box",
       "https://www.tcgnz.co.nz/product-page/pre-order-one-piece-booster-box-a-fist-of-divine-speed-op-11",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-bundle",
       "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-sv-unova-mini-tin-sealed-box-8-tins",
       "https://www.tcgnz.co.nz/product-page/pokemon-tcg-team-rocket-tin",
@@ -590,6 +591,10 @@
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
+      "9210132758677",
+      "9047083745429",
+      "9251800187029",
+      "9319727923349",
       "9285795938453",
       "9152299892885",
       "9268784496789",
@@ -618,6 +623,7 @@
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
       "8774665043991",
+      "8215152230423",
       "8888685723671",
       "8832667877399",
       "8215152230423",
@@ -639,6 +645,9 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
+      "9012511441053",
+      "9015732076701",
+      "9014599975069",
       "9014564585629",
       "9014599975069",
       "9012509704349",
@@ -845,7 +854,14 @@
       "9551118827797",
       "9530379600149",
       "9577428353301",
-      "9551121514773"
+      "9537919516949",
+      "9537919222037",
+      "9530379600149",
+      "9551121580309",
+      "9551121514773",
+      "9551118827797",
+      "9577428123925",
+      "9551121678613"
     ],
     "zero_streak": 0,
     "warned": false,
