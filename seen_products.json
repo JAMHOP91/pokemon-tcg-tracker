@@ -246,6 +246,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "9788449849584",
+      "10070962241776",
       "9716525269232",
       "9788449849584",
       "10176981205232",
@@ -370,9 +372,9 @@
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/38548"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-09T13:36:21.303860+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -536,9 +538,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9294396063994",
+      "9366286303482",
       "9096634695930",
-      "9366286303482"
+      "9294396063994"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -622,7 +624,8 @@
       "8774665043991",
       "8847851880471",
       "8888685723671",
-      "8770963537943"
+      "8847851880471",
+      "8215152230423"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -772,9 +775,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
+      "7660838092884",
       "10214103613524",
-      "10214066389076",
-      "7660838092884"
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
