@@ -4066,5 +4066,41 @@
     "timestamp": "2026-08-09T10:38:15.049458+00:00",
     "priority": false,
     "image": "http://www.metalife.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762_1_800x_d70e02e5-58dc-46a7-ac2c-d69293cfcca2.webp?v=1777863464"
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG 30th Celebration Knock Out Collection (Limit 2 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection-limit-2-per-customer-pre-order",
+    "price": "$49.99",
+    "timestamp": "2026-08-09T11:00:25.701310+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Knock-Out-Collection_EN.jpg?v=1786179473"
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: 30th Celebration Sylveon ex Box / Greninja ex Box (Limit 2 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-sylveon-ex-box-greninja-ex-box-limit-2-per-customer-pre-order",
+    "price": "$98.99",
+    "timestamp": "2026-08-09T11:00:25.701310+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/30_anniversary_ex-collection_3.webp?v=1786179101"
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG 30th Celebration Tech Sticker Blister (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-tech-sticker-blister-pre-order",
+    "price": "$49.99",
+    "timestamp": "2026-08-09T11:00:25.701310+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/pokemon-30th-celebration-english-tech-sticker-collection_700x700_1573dd5b-9b72-45bf-82a7-6b05889533de.webp?v=1786178605"
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG 30th Celebration Elite Trainer Box (Limit 2 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box-limit-2-per-customer-pre-order",
+    "price": "$349.99",
+    "timestamp": "2026-08-09T11:00:25.701310+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box_EN.jpg?v=1786177437"
   }
 ]
