@@ -17,6 +17,11 @@
       "https://www.coolshit.co.nz/product/premiumcollection",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
+      "https://www.coolshit.co.nz/product/boosterbundle",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
       "https://www.coolshit.co.nz/product/boosterbundle",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order"
@@ -537,8 +542,8 @@
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9096634695930",
-      "9294396063994",
-      "9366286303482"
+      "9366286303482",
+      "9294396063994"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -552,8 +557,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
@@ -810,7 +815,8 @@
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
       "8897397326078",
-      "9269784477950",
+      "9090566226174",
+      "9086478123262",
       "9233032642814",
       "9381118279934",
       "9173828796670",
