@@ -371,9 +371,9 @@
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/47232"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-09T22:52:31.655825+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -618,6 +618,8 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8215152230423",
+      "8832667877399",
       "8847851880471",
       "8832667877399",
       "8770963537943",
