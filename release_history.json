@@ -3715,5 +3715,23 @@
     "timestamp": "2026-08-09T03:25:06.563505+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/world-cup-bundle_1.png?v=1782098016"
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Tohoku 2025 Special Collection Box",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-tohoku-2025-special-collection-box",
+    "price": "$367.00",
+    "timestamp": "2026-08-09T03:30:41.134107+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/tohoku-box-cardbot-pokemon-center.jpg?v=1759255193"
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG:  Mega Greninja ex Premium Collection",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
+    "price": "$93.99",
+    "timestamp": "2026-08-09T03:30:41.134107+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731-1_grande.jpg?v=1780869247"
   }
 ]
