@@ -273,8 +273,11 @@
       "9464484921583",
       "8540499149039",
       "9328364945647",
-      "9388711182575",
-      "9464484626671"
+      "9328351772911",
+      "9464484921583",
+      "8540499149039",
+      "9464484626671",
+      "9388711182575"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -359,6 +362,8 @@
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/45880",
       "https://hobbymaster.co.nz/products/product/47223",
+      "https://hobbymaster.co.nz/products/product/46976",
+      "https://hobbymaster.co.nz/products/product/45880",
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/37806",
       "https://hobbymaster.co.nz/products/product/46973",
@@ -527,8 +532,8 @@
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9294399996154",
-      "9096634695930",
-      "9294396063994"
+      "9294396063994",
+      "9096634695930"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -541,9 +546,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -611,6 +616,9 @@
       "8770963537943",
       "8847851880471",
       "8888685723671",
+      "8770963537943",
+      "8847851880471",
+      "8832667877399",
       "8215152230423"
     ],
     "zero_streak": 0,
