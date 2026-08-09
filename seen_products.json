@@ -273,6 +273,9 @@
       "9464484626671",
       "9464484921583",
       "9464484790511",
+      "9388711182575",
+      "9328364945647",
+      "9464484626671",
       "8540499149039",
       "9328351772911",
       "9328364945647",
@@ -363,6 +366,9 @@
       "https://hobbymaster.co.nz/products/product/38545",
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/37806",
+      "https://hobbymaster.co.nz/products/product/47236",
+      "https://hobbymaster.co.nz/products/product/38548",
+      "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/38548",
       "https://hobbymaster.co.nz/products/product/47236",
@@ -417,8 +423,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -537,6 +543,7 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
+      "9294399996154",
       "9096634695930",
       "9294399996154",
       "9366286303482"
@@ -597,6 +604,7 @@
       "9319727923349",
       "9047083745429",
       "9285822251157",
+      "9319727923349",
       "9285795938453",
       "9268784496789",
       "9210168803477"
@@ -644,6 +652,10 @@
       "9012509704349",
       "9012564689053",
       "9012511441053",
+      "9012509704349",
+      "9012567507101",
+      "9012579074205",
+      "9012564689053",
       "9014599975069",
       "9015732076701",
       "9012567507101",
@@ -773,8 +785,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214103613524",
-      "10214066389076"
+      "10214066389076",
+      "10214103613524"
     ],
     "zero_streak": 0,
     "warned": false,
