@@ -246,6 +246,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10176981205232",
+      "9890801385712",
+      "10070962241776",
       "10076303622384",
       "9788449849584",
       "10070962241776",
@@ -269,6 +272,7 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9464484921583",
       "9388711182575",
       "9328351772911",
       "9464484626671",
@@ -370,7 +374,7 @@
     ],
     "zero_streak": 2,
     "warned": false,
-    "first_failure_at": "2026-08-09T07:18:45.449440+00:00",
+    "first_failure_at": null,
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -414,8 +418,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -761,8 +765,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
       "7660838092884",
+      "10214066389076",
       "10214103613524"
     ],
     "zero_streak": 0,
@@ -776,8 +780,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
+      "9188403282176",
       "9366282600704",
-      "9188403740928",
       "9493316403456",
       "9188403609856",
       "9188403282176",
