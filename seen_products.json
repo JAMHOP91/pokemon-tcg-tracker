@@ -13,6 +13,7 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
@@ -250,6 +251,8 @@
       "9716525269232",
       "9788449849584",
       "10070962241776",
+      "9716525269232",
+      "10076303622384",
       "9890801385712",
       "10076303622384",
       "10176981205232",
@@ -435,6 +438,10 @@
       "8315313553608",
       "8223363072200",
       "8312959107272",
+      "8335789949128",
+      "8335790178504",
+      "8319521259720",
+      "8315313553608",
       "8320457048264",
       "8335789949128",
       "8335789654216",
@@ -553,8 +560,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
     ],
     "zero_streak": 0,
