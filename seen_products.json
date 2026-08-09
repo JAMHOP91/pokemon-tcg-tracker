@@ -31,6 +31,7 @@
       "7730851184789",
       "7559734886549",
       "8755462799509",
+      "7730871795861",
       "9011807486101",
       "8713055273109",
       "8755535773845",
@@ -368,9 +369,9 @@
       "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/46973"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-09T08:07:54.461158+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -414,8 +415,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -631,6 +632,8 @@
       "9014599975069",
       "9014564585629",
       "9012511441053",
+      "9014563635357",
+      "9012564689053",
       "9012567507101",
       "9015732076701",
       "9012509704349",
