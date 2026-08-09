@@ -416,8 +416,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -786,6 +786,7 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
+      "9366282600704",
       "9188403740928",
       "9188403609856",
       "9493316403456",
