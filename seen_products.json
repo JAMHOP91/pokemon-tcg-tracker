@@ -370,7 +370,7 @@
     ],
     "zero_streak": 2,
     "warned": false,
-    "first_failure_at": "2026-08-09T00:59:40.654354+00:00",
+    "first_failure_at": null,
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -427,6 +427,7 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
+      "8315313553608",
       "8319521259720",
       "8223363072200",
       "8320457048264",
