@@ -4750,5 +4750,14 @@
     "timestamp": "2026-08-09T22:27:42.583228+00:00",
     "priority": true,
     "image": "http://popstop.co.nz/cdn/shop/files/10-10405-102_grande.jpg?v=1779404721"
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Pitch Black Single Pack",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-single-pack",
+    "price": "$11.00",
+    "timestamp": "2026-08-09T22:35:33.679935+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2318353445.jpg?v=1784500677"
   }
 ]
