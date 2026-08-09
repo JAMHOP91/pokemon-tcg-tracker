@@ -368,9 +368,9 @@
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/46976"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-09T04:47:38.317201+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -853,6 +853,16 @@
   },
   "Sealed & Slabbed - Pokemon Sealed": {
     "seen_ids": [
+      "8069232033910",
+      "7831122182262",
+      "8069235998838",
+      "8069213454454",
+      "8171677057142",
+      "8026239369334",
+      "8185039356022",
+      "8220156297334",
+      "8100504862838",
+      "8220788752502",
       "8069235671158",
       "8026239369334",
       "8026257686646",
