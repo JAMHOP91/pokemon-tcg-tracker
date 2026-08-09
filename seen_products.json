@@ -368,7 +368,7 @@
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/37806"
     ],
-    "zero_streak": 0,
+    "zero_streak": 2,
     "warned": false,
     "first_failure_at": null,
     "prices": {
@@ -608,6 +608,7 @@
     "seen_ids": [
       "8774665043991",
       "8847851880471",
+      "8770963537943",
       "8832667877399",
       "8770963537943",
       "8215152230423",
