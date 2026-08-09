@@ -3481,5 +3481,50 @@
     "timestamp": "2026-08-08T23:55:41.093220+00:00",
     "priority": false,
     "image": "http://www.metalife.co.nz/cdn/shop/files/pkm37718_0.jpg?v=1732593483"
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution Pitch Black Booster (Back Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-limit-2-per-customerpre-order",
+    "price": "$359.99",
+    "timestamp": "2026-08-09T00:22:18.985433+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Display_EN-750x1024.jpg?v=1780628056"
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "2025 Pokemon TCG World Championships Deck",
+    "url": "https://www.playx.co.nz/products/2025-pokemon-tcg-world-championships-deck-pre-order",
+    "price": "$44.99",
+    "timestamp": "2026-08-09T00:22:18.985433+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/PK25WCSDECKE4_662fd6b6-f8f6-4e49-a9db-aced59741973.webp?v=1780382510"
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Lumiose City Mini Tin (Assorted)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted-pre-order",
+    "price": "$23.99",
+    "timestamp": "2026-08-09T00:22:18.985433+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Lumiose-City-Mini-Tin-Display_EN.jpg?v=1778735064"
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Lucario ex League Battle Deck (On Sale)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-lucario-ex-league-battle-deck-pre-order",
+    "price": "$55.99",
+    "timestamp": "2026-08-09T00:22:18.985433+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck-Front_EN.jpg?v=1777356913"
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "2024 Pokemon TCG World Championships Deck (On Sale)",
+    "url": "https://www.playx.co.nz/products/2024-pokemon-tcg-world-championships-deck",
+    "price": "$39.99",
+    "timestamp": "2026-08-09T00:22:18.985433+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/965fd935-fdfd-44c4-9422-699937c2897c_1.jpg?v=1751280529"
   }
 ]
