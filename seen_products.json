@@ -179,6 +179,8 @@
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
+      "https://www.hobbylords.co.nz/products/single/lucario-card-display-gift-set-simplified-chinese-ver-",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-jose-cruz-galindo-resendiz",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-jose-cruz-galindo-resendiz",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
@@ -372,7 +374,7 @@
     ],
     "zero_streak": 0,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-09T17:48:51.361105+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -504,7 +506,11 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
+      "8970824843462",
+      "8921908740294",
       "8909657637062",
+      "8909649739974",
+      "8931072311494",
       "8855171334342",
       "8789885321414",
       "8909649739974",
@@ -640,6 +646,9 @@
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
       "9015732076701",
+      "9014599975069",
+      "9014563635357",
+      "9014564585629",
       "9012564689053",
       "9012511441053",
       "9012567507101",
