@@ -3483,12 +3483,21 @@
     "image": "http://www.metalife.co.nz/cdn/shop/files/pkm37718_0.jpg?v=1732593483"
   },
   {
+    "site": "The Game Tree NZ",
+    "title": "Abra - Pokemon Card 151 - 063/165 - JAPANESE C Non-Holo, Poke Ball Reverse or Master Ball Reverse",
+    "url": "https://thegametree.co.nz/products/abra-pokemon-card-151-063-165-japanese-c-non-holo-poke-ball-reverse-or-master-ball-reverse",
+    "price": "$4.98",
+    "timestamp": "2026-08-09T00:24:08.130562+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/files/063_C_Abra.png?v=1744357115"
+  },
+  {
     "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution Pitch Black Booster (Back Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-limit-2-per-customerpre-order",
     "price": "$359.99",
-    "timestamp": "2026-08-09T01:09:51.060930+00:00",
-    "priority": false,
+    "timestamp": "2026-08-09T00:24:08.130562+00:00",
+    "priority": true,
     "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Display_EN-750x1024.jpg?v=1780628056"
   },
   {
@@ -3496,7 +3505,7 @@
     "title": "2025 Pokemon TCG World Championships Deck",
     "url": "https://www.playx.co.nz/products/2025-pokemon-tcg-world-championships-deck-pre-order",
     "price": "$44.99",
-    "timestamp": "2026-08-09T01:09:51.060930+00:00",
+    "timestamp": "2026-08-09T00:24:08.130562+00:00",
     "priority": false,
     "image": "http://www.playx.co.nz/cdn/shop/files/PK25WCSDECKE4_662fd6b6-f8f6-4e49-a9db-aced59741973.webp?v=1780382510"
   },
@@ -3505,7 +3514,7 @@
     "title": "Pokemon TCG: Lumiose City Mini Tin (Assorted)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted-pre-order",
     "price": "$23.99",
-    "timestamp": "2026-08-09T01:09:51.060930+00:00",
+    "timestamp": "2026-08-09T00:24:08.130562+00:00",
     "priority": false,
     "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Lumiose-City-Mini-Tin-Display_EN.jpg?v=1778735064"
   },
@@ -3514,7 +3523,7 @@
     "title": "Pokemon TCG: Mega Lucario ex League Battle Deck (On Sale)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-lucario-ex-league-battle-deck-pre-order",
     "price": "$55.99",
-    "timestamp": "2026-08-09T01:09:51.060930+00:00",
+    "timestamp": "2026-08-09T00:24:08.130562+00:00",
     "priority": false,
     "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck-Front_EN.jpg?v=1777356913"
   },
@@ -3523,8 +3532,71 @@
     "title": "2024 Pokemon TCG World Championships Deck (On Sale)",
     "url": "https://www.playx.co.nz/products/2024-pokemon-tcg-world-championships-deck",
     "price": "$39.99",
-    "timestamp": "2026-08-09T01:09:51.060930+00:00",
+    "timestamp": "2026-08-09T00:24:08.130562+00:00",
     "priority": false,
     "image": "http://www.playx.co.nz/cdn/shop/files/965fd935-fdfd-44c4-9422-699937c2897c_1.jpg?v=1751280529"
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Lumiose City Mini Tin (Assorted)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted-pre-order",
+    "price": "$23.99",
+    "timestamp": "2026-08-09T00:33:28.852301+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Lumiose-City-Mini-Tin-Display_EN.jpg?v=1778735064"
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "Pokemon Battle Academy Board Game 2024",
+    "url": "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
+    "price": null,
+    "timestamp": "2026-08-09T00:41:10.860987+00:00",
+    "priority": false,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck_EN.jpg?v=1775450990"
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon Terastal Gathering  booster pack",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-terastal-gathering-winner-takes-all",
+    "price": "$23.99",
+    "timestamp": "2026-08-09T00:43:00.176952+00:00",
+    "priority": false,
+    "image": null
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Greninja ex Premium Collection",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-greninja-ex-premium-collection-pre-order-3-7-2026",
+    "price": "$106.00",
+    "timestamp": "2026-08-09T00:48:13.246066+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-2025-World-Championships-Deck.jpg?v=1782083911"
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Yokohama World Championships 2023 Official Deck Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-yokohama-world-championships-2023-deck-box",
+    "price": "$21.99",
+    "timestamp": "2026-08-09T00:51:54.215253+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364"
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution Pitch Black Booster (Back Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-limit-2-per-customerpre-order",
+    "price": "$359.99",
+    "timestamp": "2026-08-09T00:53:51.524165+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Display_EN-750x1024.jpg?v=1780628056"
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "2025 Pokemon TCG World Championships Deck",
+    "url": "https://www.playx.co.nz/products/2025-pokemon-tcg-world-championships-deck-pre-order",
+    "price": "$44.99",
+    "timestamp": "2026-08-09T00:53:51.524165+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/PK25WCSDECKE4_662fd6b6-f8f6-4e49-a9db-aced59741973.webp?v=1780382510"
   }
 ]
