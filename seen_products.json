@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection"
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -624,9 +624,9 @@
       "8770963537943",
       "8774665043991"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-09T17:00:26.835531+00:00",
     "prices": {
       "8888685723671": 10.99,
       "8847851880471": 29.99,
@@ -723,9 +723,9 @@
       "9994678501616",
       "9586411340016"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-09T17:00:26.835531+00:00",
     "prices": {
       "10111551209712": 398.0,
       "10111548522736": 32.9,
@@ -793,9 +793,9 @@
       "9462326690048",
       "9366282600704"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-09T17:00:26.835531+00:00",
     "prices": {
       "9554478235904": 147.0,
       "9493316403456": 62.0,
@@ -837,7 +837,6 @@
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
       "9537919516949",
-      "9551121580309",
       "9551121678613",
       "9530379600149",
       "9551121514773",
