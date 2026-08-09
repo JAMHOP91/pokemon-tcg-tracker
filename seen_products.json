@@ -537,9 +537,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9366286303482",
       "9096634695930",
-      "9294399996154"
+      "9294399996154",
+      "9366286303482"
     ],
     "zero_streak": 0,
     "warned": false,
