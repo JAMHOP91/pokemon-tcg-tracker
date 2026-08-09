@@ -45,6 +45,8 @@
       "8964116873365",
       "8758356803733",
       "8760561172629",
+      "8713055273109",
+      "8758356803733",
       "7561509896341",
       "8619217879189"
     ],
@@ -327,6 +329,7 @@
       "7985678516420",
       "8474977435844",
       "7511695261892",
+      "8555386142916",
       "8542844682436",
       "8542847107268",
       "8027563098308",
@@ -358,6 +361,10 @@
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/38546",
+      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/38545",
+      "https://hobbymaster.co.nz/products/product/47236",
+      "https://hobbymaster.co.nz/products/product/37806",
       "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/46976",
@@ -552,9 +559,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -592,6 +599,9 @@
     "seen_ids": [
       "9210132758677",
       "9251800187029",
+      "9285822251157",
+      "9210168803477",
+      "9047083745429",
       "9285795938453",
       "9285822251157",
       "9268784496789",
@@ -620,7 +630,6 @@
       "8847851880471",
       "8215152230423",
       "8888685723671",
-      "8774665043991",
       "8832667877399",
       "8770963537943"
     ],
@@ -772,8 +781,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
-      "10214103613524"
+      "10214103613524",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -840,6 +849,8 @@
       "9551121514773",
       "9530379600149",
       "9537919516949",
+      "9577428123925",
+      "9530379600149",
       "9577428353301",
       "9537919222037",
       "9551121678613",
