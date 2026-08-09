@@ -3552,6 +3552,15 @@
     "price": null,
     "timestamp": "2026-08-09T00:41:10.860987+00:00",
     "priority": false,
-    "image": "https://fls-9ed9af97-ba71-4fbd-b8de-969da5133e40.laravel.cloud/testing/product/14106/images/6683b3d120f11.jpeg"
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck_EN.jpg?v=1775450990"
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon Terastal Gathering  booster pack",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-terastal-gathering-winner-takes-all",
+    "price": "$23.99",
+    "timestamp": "2026-08-09T00:43:00.176952+00:00",
+    "priority": false,
+    "image": null
   }
 ]
