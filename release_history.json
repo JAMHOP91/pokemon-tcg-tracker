@@ -4176,12 +4176,30 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399"
   },
   {
-    "site": "Collect All Day",
-    "title": "Flareon VMAX Premium Collection",
-    "url": "https://www.collectallday.com/new/flareon-vmax-premium-collection",
-    "price": "NZ$495.00",
-    "timestamp": "2026-08-09T11:53:31.752151+00:00",
+    "site": "Mr Tofu Card Store - Pokemon TCG",
+    "title": "(Pre-Order) Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box CASE",
+    "url": "https://mrtofu.store/products/pre-order-pokemon-tcg-30th-celebration-elite-trainer-box-case",
+    "price": "$3500.00",
+    "timestamp": "2026-08-09T11:55:23.052998+00:00",
+    "priority": true,
+    "image": "http://mrtofu.store/cdn/shop/files/4cb399b3-2b91-40ca-97f4-e24cd2945b3a.png?v=1786276418"
+  },
+  {
+    "site": "Parko Cards - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Greninja ex Premium Collection",
+    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
+    "price": "$85.00",
+    "timestamp": "2026-08-09T11:55:23.052998+00:00",
     "priority": false,
-    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67ea529e339c3f5954c874f8/1757999502933/Flareon+VMAX+Special+Collection.jpg?format=1500w"
+    "image": "http://parkocards.co.nz/cdn/shop/files/pokemonmegagreninja.webp?v=1785983222"
+  },
+  {
+    "site": "GetThoseMons - Sealed Pokemon TCG",
+    "title": "Pokemon TCG: Mega Moonlight Tin (Mega Clefable ex)",
+    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
+    "price": "$54.99",
+    "timestamp": "2026-08-09T11:55:23.052998+00:00",
+    "priority": false,
+    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Moonlit-Tin-Mega-Clefable_EN.jpg?v=1780883693"
   }
 ]
