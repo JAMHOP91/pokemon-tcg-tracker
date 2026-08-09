@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -186,7 +186,10 @@
       "https://www.hobbylords.co.nz/products/single/-2025-pokemon-tcg-world-championships-deck-liao-fu-guan",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
       "https://www.hobbylords.co.nz/products/single/lucario-card-display-gift-set-simplified-chinese-ver-",
-      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024"
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-jose-cruz-galindo-resendiz",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
+      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -452,6 +455,10 @@
       "10299295236392",
       "10302497227048",
       "9734074401064",
+      "10299295236392",
+      "10365187621160",
+      "10323223183656",
+      "9503064031528",
       "10270182736168",
       "10132850377000",
       "10182936625448"
@@ -798,6 +805,7 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9233072521470",
       "9381118279934",
       "9233032642814",
       "8897397326078",
