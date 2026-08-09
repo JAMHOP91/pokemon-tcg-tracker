@@ -273,8 +273,10 @@
       "9464484626671",
       "9388711182575",
       "8540499149039",
-      "9464484921583",
-      "9328364945647"
+      "9388711182575",
+      "9328364945647",
+      "9328351772911",
+      "9464484921583"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -368,9 +370,9 @@
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/46974"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-09T06:58:42.532239+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -628,9 +630,10 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
+      "9015732076701",
       "9014563635357",
       "9012511441053",
-      "9014599975069",
+      "9012564689053",
       "9014564585629",
       "9012564689053",
       "9012567507101",
