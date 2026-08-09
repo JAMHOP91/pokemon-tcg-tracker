@@ -181,6 +181,7 @@
     "seen_ids": [
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
       "https://www.hobbylords.co.nz/products/single/lucario-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/-2025-pokemon-tcg-world-championships-deck-liao-fu-guan",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
@@ -272,7 +273,6 @@
       "8540499149039",
       "9328351772911",
       "9464484626671",
-      "9388711182575",
       "9328364945647",
       "9464484921583"
     ],
@@ -414,8 +414,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -446,6 +446,12 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
+      "10270182736168",
+      "9503064031528",
+      "10302497227048",
+      "10182936625448",
+      "9734074401064",
+      "10132850377000",
       "10365187621160",
       "10132850377000",
       "10302497227048",
@@ -636,7 +642,11 @@
       "9014564585629",
       "9014563635357",
       "9012509704349",
-      "9012511441053"
+      "9014564585629",
+      "9012511441053",
+      "9012564689053",
+      "9012567507101",
+      "9015732076701"
     ],
     "zero_streak": 0,
     "warned": false,
