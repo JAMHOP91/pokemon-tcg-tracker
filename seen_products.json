@@ -270,6 +270,8 @@
   "WP Games - Pokemon TCG": {
     "seen_ids": [
       "9388711182575",
+      "9328364945647",
+      "8540499149039",
       "9464484626671",
       "8540499149039",
       "9464484921583",
@@ -430,6 +432,7 @@
       "8319521259720",
       "8315313553608",
       "8223363072200",
+      "8315313553608",
       "8320457048264",
       "8312959107272"
     ],
@@ -527,8 +530,8 @@
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9294396063994",
-      "9096634695930",
-      "9294399996154"
+      "9294399996154",
+      "9096634695930"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -826,6 +829,8 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9551118827797",
+      "9551121580309",
       "9537919222037",
       "9551121514773",
       "9577428353301",
@@ -906,6 +911,19 @@
   },
   "Big Potato Collectibles - Pokemon Sealed": {
     "seen_ids": [
+      "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-y-ex-tin",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sun-moon-elite-trainer-box-lunala",
+      "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-x-ex-tin",
+      "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-happy-meal-pack-150-unit-sealed-case",
+      "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/sealed-pok\u00e9mon-tcg-poke-ball-tin-d21-2021-cosmic-eclipse-vivid-voltage-rebel",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-blister-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-charizard-ex-premium-collection",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-rebel-clash-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
       "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-vivid-voltage-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-team-rocket-s-mewtwo-ex-league-battle-deck",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-booster-pack",
