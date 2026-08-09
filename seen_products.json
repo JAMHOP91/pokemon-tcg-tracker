@@ -184,6 +184,7 @@
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/lucario-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/-2025-pokemon-tcg-world-championships-deck-liao-fu-guan",
+      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-jose-cruz-galindo-resendiz",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024"
@@ -368,9 +369,9 @@
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/37806"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-09T02:24:34.743767+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -453,6 +454,7 @@
       "10270182736168",
       "10365187621160",
       "9734074401064",
+      "10365187621160",
       "9503064031528",
       "10302497227048"
     ],
@@ -830,7 +832,7 @@
       "9537919516949",
       "9537919222037",
       "9551121678613",
-      "9551121514773",
+      "9530379600149",
       "9577428123925",
       "9577428353301",
       "9530379600149",
