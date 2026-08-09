@@ -18,7 +18,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from notify import notify_new_products, notify_scraper_warning, notify_scraper_recovered, notify_priority_products, notify_price_drops
-from priority import load_priority_keywords, is_priority_product
+from priority import load_priority_keywords, load_priority_exclude_keywords, is_priority_product
 from sites import jbhifi
 from sites import coolshit
 from sites import thegametree
@@ -194,6 +194,7 @@ def ping_heartbeat():
 def main():
     state = load_state()
     priority_keywords = load_priority_keywords()
+    priority_exclude_keywords = load_priority_exclude_keywords()
     history = load_history()
     status = {}
     now = datetime.now(timezone.utc)
@@ -262,7 +263,7 @@ def main():
         site_state["prices"] = prices
 
         if new_products:
-            priority_matches = [p for p in new_products if is_priority_product(p["title"], priority_keywords)]
+            priority_matches = [p for p in new_products if is_priority_product(p["title"], priority_keywords, priority_exclude_keywords)]
             regular_matches = [p for p in new_products if p not in priority_matches]
 
             print(f"  Found {len(new_products)} new product(s)")
