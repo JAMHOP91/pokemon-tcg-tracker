@@ -3579,6 +3579,24 @@
     "price": "$21.99",
     "timestamp": "2026-08-09T00:51:54.215253+00:00",
     "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/SocialMediaPostsConsolidatedDesigns_6.jpg?v=1737248430"
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364"
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution Pitch Black Booster (Back Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-limit-2-per-customerpre-order",
+    "price": "$359.99",
+    "timestamp": "2026-08-09T00:53:51.524165+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Display_EN-750x1024.jpg?v=1780628056"
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "2025 Pokemon TCG World Championships Deck",
+    "url": "https://www.playx.co.nz/products/2025-pokemon-tcg-world-championships-deck-pre-order",
+    "price": "$44.99",
+    "timestamp": "2026-08-09T00:53:51.524165+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/PK25WCSDECKE4_662fd6b6-f8f6-4e49-a9db-aced59741973.webp?v=1780382510"
   }
 ]
