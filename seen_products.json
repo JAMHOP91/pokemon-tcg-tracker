@@ -372,7 +372,7 @@
     ],
     "zero_streak": 2,
     "warned": false,
-    "first_failure_at": "2026-08-09T19:56:37.101160+00:00",
+    "first_failure_at": null,
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -508,6 +508,8 @@
       "8789885321414",
       "8970824843462",
       "8855171334342",
+      "8909657637062",
+      "8921908740294",
       "8909649739974",
       "8921908740294",
       "8970819535046",
@@ -537,8 +539,8 @@
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9294399996154",
-      "9366286303482",
-      "9096634695930"
+      "9096634695930",
+      "9366286303482"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -839,6 +841,9 @@
       "9537919222037",
       "9551121580309",
       "9551121678613",
+      "9551118827797",
+      "9551121580309",
+      "9577428353301",
       "9537919516949",
       "9577428123925",
       "9551121514773",
@@ -930,6 +935,9 @@
       "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-rebel-clash-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-rebel-clash-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-blister-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-chilling-reign-elite-trainer-box-ice-rider-calyrex",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
