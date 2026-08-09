@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -270,7 +270,8 @@
   "WP Games - Pokemon TCG": {
     "seen_ids": [
       "9464484921583",
-      "9464484790511",
+      "8540499149039",
+      "9328351772911",
       "9388711182575",
       "9328364945647",
       "9328351772911",
@@ -372,7 +373,7 @@
     ],
     "zero_streak": 4,
     "warned": false,
-    "first_failure_at": "2026-08-09T20:11:13.635614+00:00",
+    "first_failure_at": "2026-08-09T20:14:51.140738+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
