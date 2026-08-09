@@ -290,6 +290,7 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
@@ -368,7 +369,7 @@
       "https://hobbymaster.co.nz/products/product/45880",
       "https://hobbymaster.co.nz/products/product/47223"
     ],
-    "zero_streak": 0,
+    "zero_streak": 4,
     "warned": false,
     "first_failure_at": null,
     "prices": {
@@ -446,8 +447,6 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
-      "10270182736168",
-      "10182936625448",
       "10365187621160",
       "9734074401064",
       "10302497227048",
