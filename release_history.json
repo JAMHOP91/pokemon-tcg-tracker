@@ -4606,5 +4606,14 @@
     "timestamp": "2026-08-09T20:07:17.641823+00:00",
     "priority": false,
     "image": "https://fls-9ed9af97-ba71-4fbd-b8de-969da5133e40.laravel.cloud/testing/product/24872/images/s4xlx4FzbGL0HuljPMOr66vsQ2aripHyLqWNeFiJ.webp"
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: League Battle Deck - Dragapult ex *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-dragapult-ex-sealed",
+    "price": "$71.99",
+    "timestamp": "2026-08-09T20:22:18.095751+00:00",
+    "priority": false,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Dragapult-ex-League-Battle-Deck_EN-918x1024.jpg?v=1746048794"
   }
 ]
