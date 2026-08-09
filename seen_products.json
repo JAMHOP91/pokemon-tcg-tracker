@@ -275,6 +275,9 @@
       "9328364945647",
       "9388711182575",
       "9464484790511",
+      "9328364945647",
+      "9388711182575",
+      "8540499149039",
       "9328351772911",
       "9464484626671"
     ],
@@ -295,7 +298,12 @@
     "seen_ids": [
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
@@ -431,6 +439,9 @@
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
       "8315313553608",
+      "8335789949128",
+      "8335790112968",
+      "8320457048264",
       "8335789654216",
       "8335789949128",
       "8319521259720",
@@ -541,9 +552,9 @@
       "9096634695930",
       "9366286303482"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-09T22:42:59.783789+00:00",
     "prices": {
       "9096634695930": 329.99,
       "9294396063994": 119.99,
@@ -553,9 +564,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -705,6 +716,10 @@
       "9000588542192",
       "9599898976496",
       "9584394436848",
+      "9550378533104",
+      "10112141295856",
+      "10035669041392",
+      "10112186188016",
       "10064521429232",
       "10111551209712",
       "10171572912368",
