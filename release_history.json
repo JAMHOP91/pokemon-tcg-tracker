@@ -3904,5 +3904,14 @@
     "timestamp": "2026-08-09T06:49:40.745804+00:00",
     "priority": false,
     "image": "https://fls-9ed9af97-ba71-4fbd-b8de-969da5133e40.laravel.cloud/testing/product/10930/images/65e0e5794fbc5.png"
+  },
+  {
+    "site": "Parko Cards - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster Pack",
+    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-pack",
+    "price": "$6.99",
+    "timestamp": "2026-08-09T06:53:23.373381+00:00",
+    "priority": false,
+    "image": "http://parkocards.co.nz/cdn/shop/files/pitchblack.webp?v=1785983738"
   }
 ]
