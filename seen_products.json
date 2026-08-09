@@ -114,6 +114,7 @@
   },
   "Card Masters NZ": {
     "seen_ids": [
+      "7540284915875",
       "9136790274211",
       "9101936918691",
       "8804082778275",
@@ -183,6 +184,10 @@
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-jose-cruz-galindo-resendiz",
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
+      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-jose-cruz-galindo-resendiz",
+      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
+      "https://www.hobbylords.co.nz/products/single/lucario-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/lucario-card-display-gift-set-simplified-chinese-ver-",
@@ -269,6 +274,8 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9328351772911",
+      "9328364945647",
       "8540499149039",
       "9464484921583",
       "9328351772911",
@@ -527,8 +534,8 @@
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9294396063994",
-      "9294399996154",
-      "9096634695930"
+      "9096634695930",
+      "9294399996154"
     ],
     "zero_streak": 0,
     "warned": false,
