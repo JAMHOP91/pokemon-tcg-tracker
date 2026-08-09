@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -330,7 +330,8 @@
       "8479841648836",
       "8249749340356",
       "7985678516420",
-      "7511695261892"
+      "8027563098308",
+      "8542847107268"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -370,7 +371,7 @@
     ],
     "zero_streak": 5,
     "warned": false,
-    "first_failure_at": "2026-08-09T01:42:31.227344+00:00",
+    "first_failure_at": null,
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -414,8 +415,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -526,8 +527,8 @@
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9096634695930",
-      "9294396063994",
-      "9294399996154"
+      "9294399996154",
+      "9294396063994"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -581,6 +582,8 @@
       "9285822251157",
       "9319727923349",
       "9047083745429",
+      "9285822251157",
+      "9210132758677",
       "9210168803477",
       "9251800187029",
       "9285795938453",
@@ -803,6 +806,7 @@
       "9269784477950",
       "9233032642814",
       "9190582649086",
+      "9233072521470",
       "9173828796670",
       "9090566226174",
       "8897397326078",
