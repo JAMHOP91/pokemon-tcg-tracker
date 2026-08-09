@@ -294,6 +294,11 @@
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/hidden-fates-tin",
@@ -428,10 +433,10 @@
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
       "8315313553608",
+      "8320457048264",
       "8312959107272",
-      "8319521259720",
       "8223363072200",
-      "8320457048264"
+      "8319521259720"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -579,6 +584,11 @@
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
+      "9285822251157",
+      "9210132758677",
+      "9152299892885",
+      "9268784496789",
+      "9319727923349",
       "9285795938453",
       "9210168803477",
       "9210132758677",
