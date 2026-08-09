@@ -1,8 +1,8 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
     ],
     "zero_streak": 0,
@@ -364,6 +364,7 @@
       "https://hobbymaster.co.nz/products/product/45880",
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/47236",
+      "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/38545"
@@ -446,6 +447,9 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
+      "9734074401064",
+      "10299295236392",
+      "10302497227048",
       "9503064031528",
       "10323223183656",
       "10270182736168",
@@ -525,9 +529,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9294396063994",
+      "9294399996154",
       "9096634695930",
-      "9294399996154"
+      "9294396063994"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -540,8 +544,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
     ],
     "zero_streak": 0,
@@ -905,6 +909,8 @@
   },
   "Big Potato Collectibles - Pokemon Sealed": {
     "seen_ids": [
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
+      "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/sealed-pok\u00e9mon-tcg-poke-ball-tin-d21-2021-cosmic-eclipse-vivid-voltage-rebel",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/copy-of-pokemon-tcg-sword-shield-evolving-skies-booster-pack",
