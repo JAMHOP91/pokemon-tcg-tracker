@@ -370,9 +370,9 @@
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/46975"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-09T19:56:37.101160+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -591,6 +591,8 @@
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
       "9210132758677",
+      "9285822251157",
+      "9047083745429",
       "9152299892885",
       "9268784496789",
       "9285795938453",
@@ -647,7 +649,7 @@
       "9012564689053",
       "9012511441053",
       "9012509704349",
-      "9015732076701"
+      "9012567507101"
     ],
     "zero_streak": 0,
     "warned": false,
