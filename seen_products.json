@@ -184,7 +184,9 @@
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-jose-cruz-galindo-resendiz",
-      "https://www.hobbylords.co.nz/products/single/lucario-card-display-gift-set-simplified-chinese-ver-",
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita"
     ],
@@ -270,6 +272,8 @@
   "WP Games - Pokemon TCG": {
     "seen_ids": [
       "9328351772911",
+      "9388711182575",
+      "9464484921583",
       "8540499149039",
       "9464484921583",
       "9464484626671",
@@ -324,6 +328,13 @@
     "seen_ids": [
       "8479841648836",
       "8249749340356",
+      "8027563098308",
+      "8479841648836",
+      "8555386142916",
+      "7985678516420",
+      "8542844682436",
+      "7511695261892",
+      "8542847107268",
       "8474977435844",
       "8542844682436",
       "7511695261892",
@@ -551,8 +562,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
@@ -771,8 +782,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214103613524",
-      "10214066389076"
+      "10214066389076",
+      "10214103613524"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -786,6 +797,8 @@
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
       "9188403609856",
+      "9462326690048",
+      "9188403740928",
       "9366282600704",
       "9188403282176",
       "9188403740928",
@@ -813,6 +826,7 @@
       "8897397326078",
       "9269784477950",
       "9086478123262",
+      "9233032642814",
       "9090566226174",
       "9190582649086",
       "9233072521470"
