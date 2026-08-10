@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
     ],
     "zero_streak": 0,
@@ -183,6 +183,8 @@
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-jose-cruz-galindo-resendiz",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
+      "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-jose-cruz-galindo-resendiz",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
@@ -333,7 +335,9 @@
       "8584605696196",
       "8542847107268",
       "8555386142916",
-      "7985678516420"
+      "8474977435844",
+      "8027563098308",
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -463,6 +467,10 @@
       "10270182736168",
       "10302497227048",
       "10365187621160",
+      "10299295236392",
+      "10132850377000",
+      "9503064031528",
+      "10302497227048",
       "9734074401064",
       "10132850377000",
       "10323223183656"
@@ -594,6 +602,8 @@
       "9268784496789",
       "9210132758677",
       "9251800187029",
+      "9152299892885",
+      "9210132758677",
       "9047083745429",
       "9285795938453",
       "9319727923349",
