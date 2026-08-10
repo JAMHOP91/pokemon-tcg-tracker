@@ -5002,5 +5002,23 @@
     "timestamp": "2026-08-10T03:29:19.608576+00:00",
     "priority": false,
     "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg"
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon Chinese Terastal Gathering Booster Box",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-chinese-terastal-gathering-booster-box",
+    "price": "$235.99",
+    "timestamp": "2026-08-10T03:40:39.840400+00:00",
+    "priority": false,
+    "image": "http://www.cardtopia.co.nz/cdn/shop/files/Untitleddesign-2026-06-29T172457.371.png?v=1782710733"
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-08-10T03:40:39.840400+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201"
   }
 ]
