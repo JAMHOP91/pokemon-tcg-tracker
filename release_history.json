@@ -4885,5 +4885,23 @@
     "timestamp": "2026-08-10T01:54:28.920579+00:00",
     "priority": true,
     "image": "https://static.wixstatic.com/media/beffc4_2979dd07faa94145afde3e8ca324fbfe~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp"
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "Pokemon Creative Collection",
+    "url": "https://cardmasters.co.nz/products/pokemon-creative-collection",
+    "price": "$44.00",
+    "timestamp": "2026-08-10T02:08:12.689062+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/pokemon_creative_collection-removebg-preview_1200x1200.png?v=1764821973"
+  },
+  {
+    "site": "Parko Cards - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolution Chaos Rising Booster Pack",
+    "url": "https://parkocards.co.nz/products/pokemon-chaos-rising-booster-pack",
+    "price": "$7.99",
+    "timestamp": "2026-08-10T02:08:12.689062+00:00",
+    "priority": true,
+    "image": "http://parkocards.co.nz/cdn/shop/files/parko-cards-chaos-rising-booster-pack.webp?v=1785818475"
   }
 ]
