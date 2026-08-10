@@ -4939,5 +4939,23 @@
     "timestamp": "2026-08-10T02:55:56.249032+00:00",
     "priority": true,
     "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Knock-Out-Collection_EN.jpg?v=1786179473"
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "2025 Pokemon TCG World Championships Deck - Yuya Okita",
+    "url": "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
+    "price": null,
+    "timestamp": "2026-08-10T02:59:59.177764+00:00",
+    "priority": false,
+    "image": "https://fls-9ed9af97-ba71-4fbd-b8de-969da5133e40.laravel.cloud/testing/product/9545/images/S5Nq95NRPOmHxStCBbLNgG6fgzDZbTLsyRKR91jd.webp"
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: Ascended Heroes Booster Pack",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-booster-pack",
+    "price": "$29.00",
+    "timestamp": "2026-08-10T02:59:59.177764+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_6ba57c29f6db41f486a704fe7b174938~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp"
   }
 ]
