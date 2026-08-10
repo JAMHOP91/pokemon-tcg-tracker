@@ -2,8 +2,8 @@
   "JB Hi-Fi NZ": {
     "seen_ids": [
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -75,6 +75,12 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
+      "7558379864125",
+      "7558377930813",
+      "7699941818429",
+      "7558377046077",
+      "7850575495229",
+      "7558378455101",
       "7850575822909",
       "7558378455101",
       "7558379864125",
@@ -388,9 +394,9 @@
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T03:07:45.698656+00:00",
     "prices": {}
   },
   "WP Games - Pre-Orders": {
@@ -409,9 +415,9 @@
   },
   "Collectors Guild - Pokemon Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T03:07:45.698656+00:00",
     "prices": {}
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
@@ -419,9 +425,9 @@
       "10158427111719",
       "10200199889191"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T03:07:45.698656+00:00",
     "prices": {
       "10200199889191": 45.0,
       "10158427111719": 56.0
@@ -439,9 +445,9 @@
       "8335789949128",
       "8223363072200"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T03:07:45.698656+00:00",
     "prices": {
       "8320457048264": 359.99,
       "8319521259720": 44.99,
@@ -618,6 +624,9 @@
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
       "8774665043991",
+      "8832667877399",
+      "8847851880471",
+      "8888685723671",
       "8215152230423",
       "8888685723671",
       "8832667877399",

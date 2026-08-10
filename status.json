@@ -76,6 +76,11 @@
       "healthy": true,
       "failing_minutes": 0
     },
+    "Otakumart - Pre-Orders": {
+      "last_checked": "2026-08-10T03:07:45.698656+00:00",
+      "healthy": false,
+      "failing_minutes": 0
+    },
     "WP Games - Pre-Orders": {
       "last_checked": "2026-08-10T03:09:41.568492+00:00",
       "healthy": true,
