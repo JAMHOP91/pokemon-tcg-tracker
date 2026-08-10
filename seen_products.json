@@ -558,9 +558,9 @@
       "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T10:01:17.796583+00:00",
     "prices": {
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/": 42.61
     }
