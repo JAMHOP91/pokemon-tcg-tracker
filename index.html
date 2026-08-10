@@ -92,7 +92,10 @@
     display: flex;
     align-items: flex-start;
     gap: 10px;
+    text-decoration: none;
+    color: inherit;
   }
+  .site-card.clickable:hover { border-color: var(--accent); }
   .site-card img.logo {
     width: 20px; height: 20px;
     border-radius: 4px;
@@ -112,7 +115,7 @@
     align-items: center;
     justify-content: center;
   }
-  .site-card .name { font-weight: 600; font-size: 14px; margin-bottom: 6px; }
+  .site-card .name { font-weight: 600; font-size: 14px; margin-bottom: 6px; color: var(--text); }
   .dot {
     display: inline-block;
     width: 8px; height: 8px;
@@ -187,7 +190,7 @@
   <div class="header">
     <h1>Pokemon TCG Tracker</h1>
     <p>Watching New Zealand retailers for new stock, 24/7, for free</p>
-    <div class="about">Built from scratch to solve a real problem: NZ Pokemon TCG restocks sell out fast, and no single site catches them all. Runs entirely on free infrastructure - no paid API, no subscription, no server.</div>
+    <div class="about">Built from scratch to solve a real problem: NZ Pokemon TCG restocks sell out fast, and no single site catches them all. Runs entirely on free infrastructure - no paid API, no subscription, no server. Click any site card below to jump straight to that store's Pokemon TCG page.</div>
   </div>
 
   <div class="stats-bar" id="statsBar"></div>
@@ -195,7 +198,7 @@
   <div class="section-title">Next Known Release</div>
   <div class="countdown" id="countdown">Loading...</div>
 
-  <div class="section-title">Site Health</div>
+  <div class="section-title">Site Health (click to visit)</div>
   <div class="site-grid" id="siteGrid">Loading...</div>
 
   <div class="section-title">Check Manually (Bot-Protected Sites)</div>
@@ -220,7 +223,7 @@ const SITE_DOMAINS = {
   "Cardtopia NZ": "cardtopia.co.nz",
   "WP Games - Pokemon TCG": "wpgames.co.nz",
   "Collect All Day": "collectallday.com",
-  "Cool Shit - Coming Soon Watch": "coolshit.co.nz",
+  "Cool Shit - Status Watch": "coolshit.co.nz",
   "TCG Collector NZ": "tcgcollectornz.com",
   "Hobby Master - Pokemon": "hobbymaster.co.nz",
   "Otakumart - Pre-Orders": "otakumart.co.nz",
@@ -241,7 +244,56 @@ const SITE_DOMAINS = {
   "OCARE NZ - Pokemon TCG": "ocare.co.nz",
   "Kidzstuffonline - Pokemon TCG": "kidzstuffonline.co.nz",
   "Parko Cards - Pokemon TCG": "parkocards.co.nz",
-  "Hobby Zone - Pokemon Cards": "hobbyzone.co.nz"
+  "Hobby Zone - Pokemon Cards": "hobbyzone.co.nz",
+  "Animal Kingdoms - Pokemon TCG": "animalkingdoms.co.nz",
+  "Game Corner - Pokemon": "gamecorner.co.nz",
+  "Card Bot - English Pokemon TCG": "cardbot.co.nz",
+  "Pop Stop - Pokemon TCG": "popstop.co.nz",
+  "GetThoseMons - Sealed Pokemon TCG": "getthosemons.co.nz",
+  "Sealed & Slabbed - Pokemon Sealed": "sealedandslabbed.co.nz",
+  "Big Potato Collectibles - Pokemon Sealed": "bigpotato.co.nz"
+};
+
+const SITE_LISTING_URLS = {
+  "JB Hi-Fi NZ": "https://www.jbhifi.co.nz/collections/collectibles-merchandise/pokemon-trading-cards",
+  "Cool Shit - Pokemon": "https://www.coolshit.co.nz/category/pokemon",
+  "The Game Tree NZ": "https://thegametree.co.nz/collections/all",
+  "Otakumart - Pokemon TCG": "https://otakumart.co.nz/collections/pokemon-tcg",
+  "Card Masters NZ": "https://cardmasters.co.nz/collections/pokemon",
+  "Hobby Lords - Pokemon": "https://www.hobbylords.co.nz/shop/brand/pokemon",
+  "TCG NZ": "https://www.tcgnz.co.nz/shop-collection",
+  "Cardtopia NZ": "https://www.cardtopia.co.nz/collections/new-arrivals",
+  "WP Games - Pokemon TCG": "https://wpgames.co.nz/collections/pokemon-tcg",
+  "Collect All Day": "https://www.collectallday.com/new",
+  "Cool Shit - Status Watch": "https://www.coolshit.co.nz/category/pokemon",
+  "TCG Collector NZ": "https://tcgcollectornz.com/collections/pokemon-tcg-collector-nz",
+  "Hobby Master - Pokemon": "https://hobbymaster.co.nz/products/cards/4",
+  "Otakumart - Pre-Orders": "https://otakumart.co.nz/collections/pre-order-pokemon-tcg",
+  "WP Games - Pre-Orders": "https://wpgames.co.nz/collections/pokemon-tcg-pre-orders",
+  "Game Corner - Pokemon Pre-Orders": "https://gamecorner.co.nz/collections/pkmn-pre-orders",
+  "Collectors Guild - Pokemon Pre-Orders": "https://collectorsguild.co.nz/collections/pokemon-pre-orders",
+  "Magic Red Dragon - Pokemon Pre-Orders": "https://magicreddragon.co.nz/collections/pre-orders",
+  "PlayX - Pokemon Pre-Orders": "https://www.playx.co.nz/collections/pre-order",
+  "MetaLife - Pokemon TCG": "https://www.metalife.co.nz/collections/pokemon-1",
+  "TCG Collector NZ - Pre-Orders": "https://tcgcollectornz.com/collections/pre-order-products-tcg-collector-nz",
+  "Card Masters - Pre-Orders": "https://cardmasters.co.nz/collections/pre-orders",
+  "TCG Culture - Pokemon": "https://tcgculture.com/collections/pokemon",
+  "Toy Time - Pokemon TCG": "https://toytime.co.nz/collections/pokemon-tcg",
+  "Cardtopia - Pre-Orders": "https://www.cardtopia.co.nz/collections/pokemon-english-pre-orders",
+  "Mr Tofu Card Store - Pokemon TCG": "https://mrtofu.store/collections/pokemon-tcg",
+  "Hobby Station - Pokemon TCG": "https://hobbystation.co.nz/pokemon-tcg/",
+  "Turtle Island - Pokemon Pre-Orders": "https://turtleisland.co.nz/collection/pre-order",
+  "OCARE NZ - Pokemon TCG": "https://ocare.co.nz/collections/pokemon-card-game",
+  "Kidzstuffonline - Pokemon TCG": "https://kidzstuffonline.co.nz",
+  "Parko Cards - Pokemon TCG": "https://parkocards.co.nz/collections/pokemon",
+  "Hobby Zone - Pokemon Cards": "https://hobbyzone.co.nz/collections/pokemon-cards",
+  "Animal Kingdoms - Pokemon TCG": "https://animalkingdoms.co.nz/collections/pokemon-tcg",
+  "Game Corner - Pokemon": "https://gamecorner.co.nz/collections/pokemon",
+  "Card Bot - English Pokemon TCG": "https://cardbot.co.nz/collections/english-pokemon-tcg",
+  "Pop Stop - Pokemon TCG": "https://popstop.co.nz/collections/pokemon",
+  "GetThoseMons - Sealed Pokemon TCG": "https://getthosemons.co.nz/collections/all-pokemon-trading-card-game-sealed",
+  "Sealed & Slabbed - Pokemon Sealed": "https://sealedandslabbed.co.nz/collections/pokemon-sealed",
+  "Big Potato Collectibles - Pokemon Sealed": "https://www.bigpotato.co.nz/pokemonsealedcollection"
 };
 
 let cachedHistory = [];
@@ -363,15 +415,21 @@ async function render() {
 
   const gridEl = document.getElementById('siteGrid');
   if (status && status.sites) {
-    gridEl.innerHTML = Object.entries(status.sites).sort((a, b) => a[0].localeCompare(b[0])).map(([name, s]) => `
-      <div class="site-card">
+    gridEl.innerHTML = Object.entries(status.sites).sort((a, b) => a[0].localeCompare(b[0])).map(([name, s]) => {
+      const listingUrl = SITE_LISTING_URLS[name];
+      const tag = listingUrl ? 'a' : 'div';
+      const hrefAttr = listingUrl ? `href="${listingUrl}" target="_blank"` : '';
+      const clickableClass = listingUrl ? 'clickable' : '';
+      return `
+      <${tag} class="site-card ${clickableClass}" ${hrefAttr}>
         ${logoHtml(name)}
         <div>
           <div class="name"><span class="dot ${s.healthy ? 'healthy' : 'unhealthy'}"></span>${name}</div>
           <div class="meta">${s.healthy ? 'Healthy' : 'Failing ' + s.failing_minutes + ' min'} - checked ${timeAgo(s.last_checked)}</div>
         </div>
-      </div>
-    `).join('');
+      </${tag}>
+    `;
+    }).join('');
   } else {
     gridEl.innerHTML = '<div class="empty">No status data yet - runs after the next scheduled check</div>';
   }
