@@ -18,8 +18,12 @@
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
       "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
-      "https://www.coolshit.co.nz/product/premiumsealedcase"
+      "https://www.coolshit.co.nz/product/boosterbundle",
+      "https://www.coolshit.co.nz/product/premiumcollection",
+      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -463,6 +467,7 @@
       "9503064031528",
       "10302497227048",
       "10323223183656",
+      "10302497227048",
       "10299295236392",
       "10182936625448"
     ],
@@ -590,6 +595,7 @@
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
+      "9152299892885",
       "9047083745429",
       "9251800187029",
       "9319727923349",
