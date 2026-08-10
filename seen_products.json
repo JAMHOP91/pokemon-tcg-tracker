@@ -299,7 +299,8 @@
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
-      "https://www.collectallday.com/new/jolteon-vmax-premium-collection"
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -322,6 +323,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8479841648836",
+      "8249749340356",
       "8542847107268",
       "7511695261892",
       "8542844682436",
@@ -370,9 +373,9 @@
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/47051"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T04:52:31.313040+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -552,8 +555,8 @@
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -790,7 +793,10 @@
       "9188403740928",
       "9366282600704",
       "9493316403456",
-      "9188403609856"
+      "9462326690048",
+      "9188403740928",
+      "9188403609856",
+      "9188403282176"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -810,6 +816,11 @@
       "9381118279934",
       "9086478123262",
       "9233032642814",
+      "9269784477950",
+      "9381118279934",
+      "9086478123262",
+      "9190582649086",
+      "8897397326078",
       "9090566226174",
       "9173828796670",
       "8897397326078",
