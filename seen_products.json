@@ -298,6 +298,7 @@
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
@@ -619,11 +620,11 @@
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
       "8774665043991",
+      "8832667877399",
       "8888685723671",
       "8215152230423",
-      "8832667877399",
-      "8770963537943",
-      "8847851880471"
+      "8847851880471",
+      "8770963537943"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -642,6 +643,7 @@
     "seen_ids": [
       "9012509704349",
       "9014564585629",
+      "9012567507101",
       "9012511441053",
       "9014563635357",
       "9015732076701",
