@@ -210,6 +210,9 @@
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-heroes-mini-tin",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-enhanced-booster-box",
       "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-sv-white-flare-and-black-bolt-elite-trainer-box-set",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-elite-trainer-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-perfect-order-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-sv-unova-mini-tin-sealed-box-8-tins",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-chaos-rising-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-perfect-order-booster-box",
       "https://www.tcgnz.co.nz/product-page/pre-order-one-piece-booster-box-a-fist-of-divine-speed-op-11",
@@ -538,9 +541,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
+      "9096634695930",
       "9366286303482",
-      "9294399996154",
-      "9096634695930"
+      "9294399996154"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -920,7 +923,8 @@
     "seen_ids": [
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-blister-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-vivid-voltage-booster-pack",
-      "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-x-ex-tin",
+      "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-y-ex-tin",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
