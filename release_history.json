@@ -4966,5 +4966,32 @@
     "timestamp": "2026-08-10T03:09:41.568492+00:00",
     "priority": false,
     "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67ea524164560f4ad11bdf70/1757999523043/Jolteon+VMAX+Special+Collection.jpg?format=1500w"
+  },
+  {
+    "site": "Hobby Lords - Pokemon",
+    "title": "2025 Pokemon TCG World Championships Deck - Yuya Okita",
+    "url": "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
+    "price": null,
+    "timestamp": "2026-08-10T03:18:07.467365+00:00",
+    "priority": false,
+    "image": "https://fls-9ed9af97-ba71-4fbd-b8de-969da5133e40.laravel.cloud/testing/product/9545/images/S5Nq95NRPOmHxStCBbLNgG6fgzDZbTLsyRKR91jd.webp"
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG 2025 World Championships Deck",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-2025-world-championships-deck",
+    "price": "$62.00",
+    "timestamp": "2026-08-10T03:18:07.467365+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/world-cup-bundle_1.png?v=1782098016"
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
+    "price": "$613.00",
+    "timestamp": "2026-08-10T03:18:07.467365+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/fukuoka-box-cardbot-pokemon-center.jpg?v=1759255295"
   }
 ]
