@@ -409,9 +409,9 @@
   },
   "Collectors Guild - Pokemon Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T02:31:17.225170+00:00",
     "prices": {}
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
@@ -419,9 +419,9 @@
       "10158427111719",
       "10200199889191"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T02:31:17.225170+00:00",
     "prices": {
       "10200199889191": 45.0,
       "10158427111719": 56.0
@@ -437,11 +437,13 @@
       "8320457048264",
       "8335789949128",
       "8315313553608",
-      "8335790178504"
+      "8335789654216",
+      "8320457048264",
+      "8312959107272"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T02:31:17.225170+00:00",
     "prices": {
       "8320457048264": 359.99,
       "8319521259720": 44.99,
@@ -466,9 +468,9 @@
       "10365187621160",
       "10270182736168"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T02:31:17.225170+00:00",
     "prices": {
       "10302497227048": 176.8,
       "10132850377000": 10.8,
@@ -483,23 +485,23 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T02:31:17.225170+00:00",
     "prices": {}
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T02:31:17.225170+00:00",
     "prices": {}
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T02:31:17.225170+00:00",
     "prices": {}
   },
   "Toy Time - Pokemon TCG": {
@@ -513,9 +515,9 @@
       "8909649739974",
       "8931072311494"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T02:31:17.225170+00:00",
     "prices": {
       "8931072311494": 11.0,
       "8970824843462": 11.0,
@@ -529,9 +531,9 @@
   },
   "Cardtopia - Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T02:31:17.225170+00:00",
     "prices": {}
   },
   "Mr Tofu Card Store - Pokemon TCG": {
@@ -540,9 +542,9 @@
       "9366286303482",
       "9096634695930"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T02:31:17.225170+00:00",
     "prices": {
       "9096634695930": 329.99,
       "9294396063994": 119.99,
@@ -841,14 +843,15 @@
       "9577428353301",
       "9551121580309",
       "9551121678613",
+      "9551121580309",
       "9577428123925",
       "9530379600149",
       "9537919516949",
       "9551121514773"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T02:31:17.225170+00:00",
     "prices": {
       "9577428353301": 9.95,
       "9577428123925": 359.99,
@@ -887,9 +890,9 @@
       "7977019080822",
       "8069232033910"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T02:31:17.225170+00:00",
     "prices": {
       "8069213454454": 10.99,
       "8026253328502": 159.99,
