@@ -246,6 +246,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "9788449849584",
+      "9716525269232",
+      "10076303622384",
       "10176981205232",
       "9890801385712",
       "10202363330800",
@@ -373,9 +376,9 @@
       "https://hobbymaster.co.nz/products/product/38545",
       "https://hobbymaster.co.nz/products/product/46976"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-10T09:45:21.188818+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -772,8 +775,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214103613524",
-      "10214066389076"
+      "10214066389076",
+      "10214103613524"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -790,6 +793,7 @@
       "9188403282176",
       "9366282600704",
       "9188403609856",
+      "9188403282176",
       "9462326690048",
       "9188403740928"
     ],
