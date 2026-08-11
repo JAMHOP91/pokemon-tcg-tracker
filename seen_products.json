@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -18,6 +18,8 @@
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
       "https://www.coolshit.co.nz/product/boosterbundle",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
+      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/premiumcollection"
     ],
@@ -327,7 +329,7 @@
     "seen_ids": [
       "8555386142916",
       "7511695261892",
-      "8479841648836",
+      "8027563098308",
       "8584002666692",
       "8027563098308",
       "8249749340356",
@@ -362,6 +364,8 @@
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/46974",
+      "https://hobbymaster.co.nz/products/product/45878",
+      "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/45880",
       "https://hobbymaster.co.nz/products/product/38546",
       "https://hobbymaster.co.nz/products/product/38545",
@@ -420,8 +424,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -508,6 +512,7 @@
     "seen_ids": [
       "8970819535046",
       "8909657637062",
+      "8970819535046",
       "8855171334342",
       "8789885321414",
       "8970824843462",
@@ -554,8 +559,8 @@
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -639,6 +644,7 @@
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
       "9012567507101",
+      "9014564585629",
       "9012509704349",
       "9014599975069",
       "9012564689053",
