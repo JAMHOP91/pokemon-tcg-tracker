@@ -5515,5 +5515,14 @@
     "timestamp": "2026-08-11T21:40:51.459482+00:00",
     "priority": false,
     "image": "https://fls-9ed9af97-ba71-4fbd-b8de-969da5133e40.laravel.cloud/testing/product/10930/images/65e0e5794fbc5.png"
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-08-11T22:02:08.300992+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PitchBlack_BoosterBox.png?v=1784081025"
   }
 ]
