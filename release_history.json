@@ -5263,5 +5263,32 @@
     "timestamp": "2026-08-11T02:05:43.885237+00:00",
     "priority": false,
     "image": "http://parkocards.co.nz/cdn/shop/files/pokemonperfectorderboosterpack.webp?v=1785987954"
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Chaos Rising - Booster Box",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
+    "price": "$360.00",
+    "timestamp": "2026-08-11T02:55:43.252324+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254"
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Greninja ex Premium Collection",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-greninja-ex-premium-collection-pre-order-3-7-2026",
+    "price": "$106.00",
+    "timestamp": "2026-08-11T02:55:43.252324+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-06-08161636.jpg?v=1780892221"
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": "$109.99",
+    "timestamp": "2026-08-11T02:55:43.252324+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364"
   }
 ]
