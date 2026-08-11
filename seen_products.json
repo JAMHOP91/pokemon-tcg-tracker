@@ -19,7 +19,7 @@
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
       "https://www.coolshit.co.nz/product/boosterbundle",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-      "https://www.coolshit.co.nz/product/premiumcollection"
+      "https://www.coolshit.co.nz/product/boosterbundle"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -543,6 +543,7 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
