@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
@@ -80,6 +81,12 @@
       "7558380781629",
       "7558377046077",
       "7850575888445",
+      "7558378979389",
+      "7558380781629",
+      "7850575986749",
+      "7558379864125",
+      "7560189280317",
+      "7558377930813",
       "7699941818429",
       "7558381600829",
       "7850575495229",
@@ -370,9 +377,9 @@
       "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/47051"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T08:17:54.418106+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -508,6 +515,8 @@
       "8970824843462",
       "8855171334342",
       "8909657637062",
+      "8855171334342",
+      "8970824843462",
       "8789885321414",
       "8909649739974"
     ],
@@ -783,7 +792,6 @@
     "seen_ids": [
       "9366282600704",
       "9188403282176",
-      "9188403740928",
       "9493316403456",
       "9188403609856"
     ],
