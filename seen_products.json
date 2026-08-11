@@ -36,6 +36,7 @@
       "8760569692309",
       "7730851184789",
       "8755535773845",
+      "8760560877717",
       "8760561172629",
       "8713055273109",
       "8755462799509",
@@ -181,7 +182,7 @@
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
       "https://www.hobbylords.co.nz/products/single/lucario-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
-      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest"
+      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -242,6 +243,7 @@
   "Cardtopia NZ": {
     "seen_ids": [
       "10070962241776",
+      "10076303622384",
       "9756131819760",
       "10076303622384",
       "9788449849584"
@@ -267,7 +269,8 @@
       "9388711182575",
       "9464484626671",
       "9328364945647",
-      "9328351772911"
+      "9328351772911",
+      "9464484626671"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -500,6 +503,7 @@
       "8970819535046",
       "8789885321414",
       "8909657637062",
+      "8970824843462",
       "8855171334342",
       "8970824843462",
       "8909649739974"
@@ -543,9 +547,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -778,10 +782,10 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9188403740928",
       "9493316403456",
-      "9188403282176",
       "9366282600704",
+      "9188403282176",
+      "9188403740928",
       "9188403609856"
     ],
     "zero_streak": 0,
@@ -827,6 +831,8 @@
     "seen_ids": [
       "9530379600149",
       "9551118827797",
+      "9551121580309",
+      "9530379600149",
       "9577428353301",
       "9537919516949",
       "9551121580309",
