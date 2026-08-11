@@ -292,7 +292,11 @@
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
     ],
@@ -530,8 +534,8 @@
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9294399996154",
-      "9366286303482",
-      "9096634695930"
+      "9096634695930",
+      "9366286303482"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -803,7 +807,11 @@
       "9233072521470",
       "9233032642814",
       "9090566226174",
-      "9381118279934"
+      "9086478123262",
+      "9269784477950",
+      "9233032642814",
+      "9381118279934",
+      "9233072521470"
     ],
     "zero_streak": 0,
     "warned": false,
