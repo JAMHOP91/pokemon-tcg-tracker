@@ -2,8 +2,8 @@
   "JB Hi-Fi NZ": {
     "seen_ids": [
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -302,7 +302,10 @@
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/hidden-fates-tin",
-      "https://www.collectallday.com/new/pokeball-tin-2021"
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -420,8 +423,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -433,9 +436,10 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8315313553608",
+      "8312959107272",
       "8335789949128",
       "8335789654216",
+      "8315313553608",
       "8320457048264",
       "8335790178504",
       "8312959107272",
