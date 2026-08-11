@@ -374,9 +374,9 @@
       "https://hobbymaster.co.nz/products/product/38548",
       "https://hobbymaster.co.nz/products/product/47051"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T02:45:54.624855+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -681,6 +681,7 @@
   },
   "Animal Kingdoms - Pokemon TCG": {
     "seen_ids": [
+      "9586387353840",
       "10171560952048",
       "9994678501616",
       "10035669041392",
