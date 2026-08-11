@@ -5344,5 +5344,23 @@
     "timestamp": "2026-08-11T04:50:50.313285+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/hiroshima-box-cardbot-pokemon-center.jpg?v=1759255240"
+  },
+  {
+    "site": "TCG NZ",
+    "title": "Box Set: White Flare and Black Bolt Elite Trainer",
+    "url": "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-sv-white-flare-and-black-bolt-elite-trainer-box-set",
+    "price": "$250.00",
+    "timestamp": "2026-08-11T05:21:23.443635+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/f9a8f0_6bbf494b8ddc49939af62641d840681d~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp"
+  },
+  {
+    "site": "TCG NZ",
+    "title": "One Piece Card Game: Booster Display \u2013 Royal Blood [OP-10]",
+    "url": "https://www.tcgnz.co.nz/product-page/one-piece-card-game-booster-display-royal-blood-op-10",
+    "price": "$220.00",
+    "timestamp": "2026-08-11T05:21:23.443635+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/f9a8f0_718490adeafc43c39a9234c28bee144e~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg"
   }
 ]
