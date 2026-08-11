@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -41,6 +41,10 @@
       "8713055273109",
       "8755462799509",
       "8760560877717",
+      "8760561172629",
+      "8755535773845",
+      "7559734886549",
+      "8745246556309",
       "8760569692309",
       "8964116873365",
       "8745246556309",
@@ -76,6 +80,8 @@
       "7558380781629",
       "7558381600829",
       "7560189935677",
+      "7850575888445",
+      "7558378979389",
       "7558379405373",
       "7850575822909",
       "7558378979389",
@@ -363,7 +369,7 @@
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/46974"
     ],
-    "zero_streak": 0,
+    "zero_streak": 2,
     "warned": false,
     "first_failure_at": null,
     "prices": {
@@ -527,9 +533,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9096634695930",
       "9366286303482",
-      "9294399996154"
+      "9294399996154",
+      "9096634695930"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -775,6 +781,7 @@
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
       "9366282600704",
+      "9188403609856",
       "9188403282176",
       "9188403740928",
       "9493316403456",
