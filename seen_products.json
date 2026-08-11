@@ -328,6 +328,8 @@
       "8584605696196",
       "8479841648836",
       "8027563098308",
+      "8249749340356",
+      "8584002666692",
       "8542844682436",
       "8555386142916",
       "7985678516420",
@@ -374,9 +376,9 @@
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/47237"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T01:45:47.606864+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -622,7 +624,11 @@
       "8770963537943",
       "8888685723671",
       "8847851880471",
-      "8832667877399"
+      "8888685723671",
+      "8215152230423",
+      "8832667877399",
+      "8774665043991",
+      "8770963537943"
     ],
     "zero_streak": 0,
     "warned": false,
