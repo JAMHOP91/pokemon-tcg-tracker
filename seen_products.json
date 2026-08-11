@@ -459,6 +459,7 @@
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
       "9734074401064",
+      "10323223183656",
       "10270182736168",
       "10299295236392",
       "10302497227048",
@@ -554,8 +555,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
     ],
     "zero_streak": 0,
@@ -619,6 +620,8 @@
     "seen_ids": [
       "8847851880471",
       "8832667877399",
+      "8774665043991",
+      "8847851880471",
       "8215152230423",
       "8888685723671",
       "8770963537943",
@@ -772,8 +775,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
-      "10214103613524"
+      "10214103613524",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
