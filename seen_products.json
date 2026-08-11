@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -13,6 +13,7 @@
   "Cool Shit - Pokemon": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/premiumcollection",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
       "https://www.coolshit.co.nz/product/boosterbundle",
@@ -321,6 +322,7 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8249749340356",
       "8542844682436",
       "7985678516420",
       "7511695261892",
@@ -369,9 +371,9 @@
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/46976"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T12:03:20.505105+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -504,7 +506,6 @@
     "seen_ids": [
       "8970824843462",
       "8855171334342",
-      "8931072311494",
       "8970819535046",
       "8909649739974",
       "8909657637062",
@@ -855,6 +856,18 @@
   },
   "Sealed & Slabbed - Pokemon Sealed": {
     "seen_ids": [
+      "8069235769462",
+      "7976837546102",
+      "8185039356022",
+      "7821725794422",
+      "7977047195766",
+      "8220788752502",
+      "8220955181174",
+      "8069213454454",
+      "8026239369334",
+      "8069235671158",
+      "7831122182262",
+      "8026257686646",
       "7977019080822",
       "8220156297334",
       "8185039356022",
