@@ -141,9 +141,9 @@
       "9101936918691",
       "9136790274211"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T17:31:13.748063+00:00",
     "prices": {
       "7409030103203": 10.0,
       "8668035317923": 10.0,
@@ -269,9 +269,9 @@
       "9464484626671",
       "9328364945647"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T17:31:13.748063+00:00",
     "prices": {
       "8540499149039": 21.99,
       "9328351772911": 359.99,
@@ -389,9 +389,9 @@
   },
   "WP Games - Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T17:31:13.748063+00:00",
     "prices": {}
   },
   "Game Corner - Pokemon Pre-Orders": {
@@ -410,8 +410,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -475,16 +475,16 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T17:31:13.748063+00:00",
     "prices": {}
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T17:31:13.748063+00:00",
     "prices": {}
   },
   "TCG Culture - Pokemon": {
@@ -504,9 +504,9 @@
       "8909657637062",
       "8931072311494"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T17:31:13.748063+00:00",
     "prices": {
       "8931072311494": 11.0,
       "8970824843462": 11.0,
@@ -528,8 +528,8 @@
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9366286303482",
-      "9294399996154",
-      "9096634695930"
+      "9096634695930",
+      "9294399996154"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -543,9 +543,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -588,9 +588,9 @@
       "9285795938453",
       "9210168803477"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T17:31:13.748063+00:00",
     "prices": {
       "9285795938453": 169.99,
       "9268784496789": 99.99,
@@ -612,9 +612,9 @@
       "8770963537943",
       "8847851880471"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T17:31:13.748063+00:00",
     "prices": {
       "8888685723671": 10.99,
       "8847851880471": 29.99,
@@ -637,9 +637,9 @@
       "9012511441053",
       "9012567507101"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T17:31:13.748063+00:00",
     "prices": {
       "9012564689053": 7.7,
       "9012567507101": 6.99,
@@ -655,9 +655,9 @@
   },
   "Hobby Zone - Pokemon Cards": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T17:31:13.748063+00:00",
     "prices": {}
   },
   "Cool Shit - Password Watch": {
@@ -778,6 +778,8 @@
       "9188403740928",
       "9493316403456",
       "9188403609856",
+      "9188403282176",
+      "9493316403456",
       "9366282600704"
     ],
     "zero_streak": 0,
