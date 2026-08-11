@@ -17,6 +17,8 @@
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/premiumcollection",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
       "https://www.coolshit.co.nz/product/boosterbundle",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order"
@@ -48,9 +50,9 @@
       "7561509896341",
       "8755462078613"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {
       "8713055273109": 29.88,
       "8745246556309": 33.88,
@@ -91,9 +93,9 @@
       "7558379405373",
       "7850575888445"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {
       "7850575986749": 48.0,
       "7850575888445": 48.0,
@@ -185,6 +187,7 @@
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
       "https://www.hobbylords.co.nz/products/single/lucario-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
       "https://www.hobbylords.co.nz/products/single/-2025-pokemon-tcg-world-championships-deck-liao-fu-guan"
     ],
@@ -279,9 +282,9 @@
       "9328351772911",
       "9464484626671"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {
       "8540499149039": 21.99,
       "9328351772911": 359.99,
@@ -399,9 +402,9 @@
   },
   "WP Games - Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {}
   },
   "Game Corner - Pokemon Pre-Orders": {
@@ -413,9 +416,9 @@
   },
   "Collectors Guild - Pokemon Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {}
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
@@ -423,9 +426,9 @@
       "10200199889191",
       "10158427111719"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {
       "10200199889191": 45.0,
       "10158427111719": 56.0
@@ -441,9 +444,9 @@
       "8335789949128",
       "8315313553608"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {
       "8320457048264": 359.99,
       "8319521259720": 44.99,
@@ -468,9 +471,9 @@
       "9734074401064",
       "9503064031528"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {
       "10302497227048": 176.8,
       "10132850377000": 10.8,
@@ -485,23 +488,23 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {}
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {}
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {}
   },
   "Toy Time - Pokemon TCG": {
@@ -510,13 +513,12 @@
       "8970819535046",
       "8970824843462",
       "8931072311494",
-      "8855171334342",
       "8789885321414",
       "8909649739974"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {
       "8931072311494": 11.0,
       "8970824843462": 11.0,
@@ -530,9 +532,9 @@
   },
   "Cardtopia - Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {}
   },
   "Mr Tofu Card Store - Pokemon TCG": {
@@ -541,9 +543,9 @@
       "9096634695930",
       "9294399996154"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {
       "9096634695930": 329.99,
       "9294396063994": 119.99,
@@ -648,9 +650,9 @@
       "9012511441053",
       "9012509704349"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {
       "9012564689053": 7.7,
       "9012567507101": 6.99,
@@ -666,9 +668,9 @@
   },
   "Hobby Zone - Pokemon Cards": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {}
   },
   "Cool Shit - Password Watch": {
@@ -722,9 +724,9 @@
       "9584394436848",
       "9994678501616"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {
       "10111551209712": 398.0,
       "10111548522736": 32.9,
@@ -791,9 +793,9 @@
       "9188403609856",
       "9188403282176"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {
       "9554478235904": 147.0,
       "9493316403456": 62.0,
@@ -815,9 +817,9 @@
       "9269784477950",
       "9086478123262"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {
       "9173828796670": 9.99,
       "9233032642814": 9.99,
@@ -843,9 +845,9 @@
       "9537919516949",
       "9551121514773"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-11T03:15:50.072528+00:00",
     "prices": {
       "9577428353301": 9.95,
       "9577428123925": 359.99,
