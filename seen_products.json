@@ -287,6 +287,8 @@
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
@@ -527,8 +529,8 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9366286303482",
       "9096634695930",
+      "9366286303482",
       "9294399996154"
     ],
     "zero_streak": 0,
@@ -627,6 +629,7 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
+      "9015732076701",
       "9012567507101",
       "9014563635357",
       "9014599975069",
