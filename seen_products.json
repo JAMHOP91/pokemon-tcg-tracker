@@ -283,6 +283,7 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
@@ -537,9 +538,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -757,8 +758,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
-      "10214103613524"
+      "10214103613524",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
