@@ -34,6 +34,9 @@
       "8760560877717",
       "8745246556309",
       "7559734886549",
+      "8760561172629",
+      "8755535773845",
+      "8755462799509",
       "8760569692309",
       "8713055273109",
       "8758356803733",
@@ -359,9 +362,9 @@
       "https://hobbymaster.co.nz/products/product/47369",
       "https://hobbymaster.co.nz/products/product/38545"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-12T11:25:57.647097+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -770,10 +773,10 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9366282600704",
-      "9188403609856",
       "9188403282176",
-      "9188403740928"
+      "9188403609856",
+      "9188403740928",
+      "9366282600704"
     ],
     "zero_streak": 0,
     "warned": false,
