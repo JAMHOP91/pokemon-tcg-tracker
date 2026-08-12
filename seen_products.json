@@ -240,8 +240,8 @@
   "Cardtopia NZ": {
     "seen_ids": [
       "10076303622384",
-      "10070962241776",
-      "9756131819760"
+      "9756131819760",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -312,6 +312,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8542844682436",
+      "8249749340356",
       "8555386142916",
       "8249749340356",
       "8542844682436",
@@ -418,9 +420,9 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8315313553608",
       "8320457048264",
-      "8312959107272"
+      "8312959107272",
+      "8315313553608"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -518,8 +520,8 @@
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9366286303482",
-      "9294399996154",
-      "9096634695930"
+      "9096634695930",
+      "9294399996154"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -897,6 +899,7 @@
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-blister-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle",
       "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-happy-meal-pack-150-unit-sealed-case",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-charizard-ex-premium-collection",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
