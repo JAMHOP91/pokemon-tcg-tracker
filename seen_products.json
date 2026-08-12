@@ -418,8 +418,8 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8315313553608",
       "8312959107272",
+      "8315313553608",
       "8320457048264"
     ],
     "zero_streak": 0,
@@ -752,8 +752,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
-      "10214103613524"
+      "10214103613524",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -788,6 +788,8 @@
     "seen_ids": [
       "9233032642814",
       "9269784477950",
+      "9381118279934",
+      "9090566226174",
       "9086478123262",
       "9381118279934",
       "9090566226174",
@@ -911,6 +913,10 @@
       "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sun-moon-elite-trainer-box-lunala",
       "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-x-ex-tin",
       "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-x-ex-tin",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sun-moon-elite-trainer-box-lunala",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-blister-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-team-rocket-s-mewtwo-ex-league-battle-deck",
       "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-y-ex-tin",
