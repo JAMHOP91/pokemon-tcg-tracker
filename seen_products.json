@@ -2,8 +2,8 @@
   "JB Hi-Fi NZ": {
     "seen_ids": [
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -418,11 +418,13 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
+      "8312959107272",
       "8320457048264",
       "8335789949128",
       "8335790178504",
       "8315313553608",
-      "8312959107272"
+      "8335790178504",
+      "8335789949128"
     ],
     "zero_streak": 0,
     "warned": false,
