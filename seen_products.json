@@ -540,6 +540,7 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
@@ -624,6 +625,7 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
+      "9012567507101",
       "9014564585629",
       "9014599975069",
       "9012567507101",
@@ -775,10 +777,10 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9188403740928",
       "9366282600704",
+      "9188403282176",
       "9188403609856",
-      "9188403282176"
+      "9188403740928"
     ],
     "zero_streak": 0,
     "warned": false,
