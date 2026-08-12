@@ -341,6 +341,10 @@
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/38546",
+      "https://hobbymaster.co.nz/products/product/45880",
+      "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/38548",
       "https://hobbymaster.co.nz/products/product/38545",
       "https://hobbymaster.co.nz/products/product/47223",
@@ -533,8 +537,8 @@
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -571,6 +575,8 @@
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
       "9285795938453",
+      "9268784496789",
+      "9285822251157",
       "9210168803477",
       "9268784496789",
       "9152299892885",
@@ -785,6 +791,8 @@
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
       "9233032642814",
+      "9269784477950",
+      "9090566226174",
       "9086478123262",
       "9173828796670",
       "9381118279934",
