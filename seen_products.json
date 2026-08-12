@@ -264,7 +264,7 @@
       "9388711182575",
       "9328351772911",
       "9464484921583",
-      "9328364945647"
+      "9464484626671"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -358,9 +358,9 @@
       "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/46975"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-12T19:34:50.399022+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -574,6 +574,7 @@
       "9285795938453",
       "9285822251157",
       "9268784496789",
+      "9285822251157",
       "9210168803477",
       "9152299892885"
     ],
@@ -896,6 +897,9 @@
     "seen_ids": [
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-chilling-reign-elite-trainer-box-ice-rider-calyrex",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
       "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-vivid-voltage-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-y-ex-tin",
