@@ -417,9 +417,9 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8312959107272",
+      "8320457048264",
       "8315313553608",
-      "8320457048264"
+      "8312959107272"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -532,9 +532,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -811,6 +811,8 @@
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
       "9537919516949",
+      "9537919222037",
+      "9530379600149",
       "9551121514773",
       "9530379600149",
       "9577428353301",
