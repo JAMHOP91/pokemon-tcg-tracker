@@ -180,7 +180,8 @@
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-riley-mckay",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
-      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest"
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
+      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -359,9 +360,9 @@
       "https://hobbymaster.co.nz/products/product/37806",
       "https://hobbymaster.co.nz/products/product/47369"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-12T08:59:19.652907+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -576,6 +577,8 @@
     "seen_ids": [
       "9268784496789",
       "9285822251157",
+      "9285795938453",
+      "9268784496789",
       "9210168803477",
       "9285795938453",
       "9152299892885"
@@ -631,9 +634,9 @@
       "9014563635357",
       "9015732076701"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-12T08:59:19.652907+00:00",
     "prices": {
       "9012564689053": 7.7,
       "9012567507101": 6.99,
@@ -651,9 +654,9 @@
   },
   "Hobby Zone - Pokemon Cards": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-12T08:59:19.652907+00:00",
     "prices": {}
   },
   "Cool Shit - Password Watch": {
@@ -759,9 +762,9 @@
       "10214103613524",
       "10214066389076"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-12T08:59:19.652907+00:00",
     "prices": {
       "10214103613524": 110.0,
       "10214066389076": 25.0,
@@ -775,9 +778,9 @@
       "9188403282176",
       "9188403609856"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-12T08:59:19.652907+00:00",
     "prices": {
       "9554478235904": 147.0,
       "9493316403456": 62.0,
@@ -826,9 +829,9 @@
       "9551121678613",
       "9577428123925"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-12T08:59:19.652907+00:00",
     "prices": {
       "9577428353301": 9.95,
       "9577428123925": 359.99,
@@ -867,9 +870,9 @@
       "8171677057142",
       "8185012945014"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-12T08:59:19.652907+00:00",
     "prices": {
       "8069213454454": 10.99,
       "8026253328502": 159.99,
