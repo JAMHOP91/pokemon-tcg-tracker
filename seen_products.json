@@ -123,6 +123,10 @@
       "9000085717155",
       "9101958414499",
       "9136746102947",
+      "8565549564067",
+      "8386235957411",
+      "9101936459939",
+      "9107945980067",
       "9054391763107",
       "8804082778275",
       "8565549564067",
@@ -265,6 +269,7 @@
       "9464484626671",
       "9388711182575",
       "9328364945647",
+      "9388711182575",
       "9464484921583",
       "9328351772911"
     ],
@@ -353,6 +358,16 @@
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/47237",
+      "https://hobbymaster.co.nz/products/product/45463",
+      "https://hobbymaster.co.nz/products/product/38545",
+      "https://hobbymaster.co.nz/products/product/47232",
+      "https://hobbymaster.co.nz/products/product/47223",
+      "https://hobbymaster.co.nz/products/product/46975",
+      "https://hobbymaster.co.nz/products/product/47236",
+      "https://hobbymaster.co.nz/products/product/46976",
+      "https://hobbymaster.co.nz/products/product/38548",
+      "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/47369",
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/37806",
@@ -759,8 +774,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214103613524",
-      "10214066389076"
+      "10214066389076",
+      "10214103613524"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -773,6 +788,7 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
+      "9188403740928",
       "9188403609856",
       "9366282600704",
       "9188403740928",
