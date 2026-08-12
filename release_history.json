@@ -5587,5 +5587,23 @@
     "timestamp": "2026-08-12T07:55:50.112464+00:00",
     "priority": false,
     "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Lumiose-City-Mini-Tin-Embroar.jpg?v=1780884018"
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
+    "price": "$169.99",
+    "timestamp": "2026-08-12T09:40:45.159335+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851"
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster",
+    "price": "$11.99",
+    "timestamp": "2026-08-12T09:40:45.159335+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Mega-Zygarde_EN.png?v=1774393148"
   }
 ]
