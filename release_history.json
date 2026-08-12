@@ -5686,5 +5686,32 @@
     "timestamp": "2026-08-12T18:20:45.672696+00:00",
     "priority": false,
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399"
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Grass Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-grass-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-08-12T19:38:27.545062+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicGrassEnergy-50x.jpg?v=1737492505"
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Hiroshima 2025 Special Collection Box",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-hiroshima-2025-special-collection-box",
+    "price": "$492.00",
+    "timestamp": "2026-08-12T19:38:27.545062+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/hiroshima-box-cardbot-pokemon-center.jpg?v=1759255240"
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
+    "price": "$9.99",
+    "timestamp": "2026-08-12T19:38:27.545062+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191"
   }
 ]
