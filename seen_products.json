@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -241,8 +241,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "9756131819760",
       "10070962241776",
+      "9756131819760",
       "10076303622384"
     ],
     "zero_streak": 0,
@@ -264,6 +264,7 @@
     "seen_ids": [
       "9464484921583",
       "9388711182575",
+      "9464484921583",
       "9464484626671",
       "9328351772911",
       "9328364945647"
@@ -407,8 +408,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -634,9 +635,9 @@
       "9012511441053",
       "9021949411485"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-12T02:31:04.760090+00:00",
     "prices": {
       "9012564689053": 7.7,
       "9012567507101": 6.99,
@@ -654,9 +655,9 @@
   },
   "Hobby Zone - Pokemon Cards": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-12T02:31:04.760090+00:00",
     "prices": {}
   },
   "Cool Shit - Password Watch": {
@@ -710,9 +711,9 @@
       "9550378533104",
       "9994678501616"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-12T02:31:04.760090+00:00",
     "prices": {
       "10111551209712": 398.0,
       "10111548522736": 32.9,
@@ -778,9 +779,9 @@
       "9188403609856",
       "9188403282176"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-12T02:31:04.760090+00:00",
     "prices": {
       "9554478235904": 147.0,
       "9493316403456": 62.0,
@@ -801,9 +802,9 @@
       "9381118279934",
       "9269784477950"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-12T02:31:04.760090+00:00",
     "prices": {
       "9173828796670": 9.99,
       "9233032642814": 9.99,
