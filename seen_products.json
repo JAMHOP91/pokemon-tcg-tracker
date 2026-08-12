@@ -31,6 +31,7 @@
       "8619217879189",
       "8760560877717",
       "8760569692309",
+      "8755462078613",
       "7559734886549",
       "9011807486101",
       "8755535773845",
@@ -239,9 +240,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10070962241776",
       "10076303622384",
-      "9756131819760",
-      "10070962241776"
+      "9756131819760"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -353,6 +354,8 @@
       "https://hobbymaster.co.nz/products/product/38548",
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/45880",
+      "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/47369",
       "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/47236",
@@ -492,7 +495,12 @@
       "8909649739974",
       "8789885321414",
       "8970824843462",
-      "8970819535046"
+      "8909657637062",
+      "8789885321414",
+      "8909649739974",
+      "8970819535046",
+      "8855171334342",
+      "8931072311494"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -752,8 +760,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
-      "10214103613524"
+      "10214103613524",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
