@@ -357,9 +357,9 @@
       "https://hobbymaster.co.nz/products/product/38545",
       "https://hobbymaster.co.nz/products/product/45880"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-12T23:07:43.783529+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -417,8 +417,8 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8320457048264",
       "8312959107272",
+      "8320457048264",
       "8315313553608"
     ],
     "zero_streak": 0,
@@ -533,8 +533,8 @@
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
     ],
     "zero_streak": 0,
     "warned": false,
