@@ -33,6 +33,12 @@
       "8758356803733",
       "7730851184789",
       "7730871795861",
+      "7730851184789",
+      "8758356803733",
+      "8745246556309",
+      "9011807486101",
+      "7561509896341",
+      "8619217879189",
       "8755535773845",
       "9011807486101",
       "8760560877717",
@@ -284,11 +290,12 @@
   "Collect All Day": {
     "seen_ids": [
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/hidden-fates-tin",
-      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/pokeball-tin-2021"
@@ -360,9 +367,9 @@
       "https://hobbymaster.co.nz/products/product/37806",
       "https://hobbymaster.co.nz/products/product/47232"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-12T04:45:50.839786+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -407,8 +414,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -576,6 +583,9 @@
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
+      "9210168803477",
+      "9285822251157",
+      "9251800187029",
       "9285795938453",
       "9152299892885",
       "9251800187029",
@@ -759,8 +769,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214103613524",
-      "10214066389076"
+      "10214066389076",
+      "10214103613524"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -776,7 +786,7 @@
       "9188403282176",
       "9188403609856",
       "9188403740928",
-      "9366282600704"
+      "9188403609856"
     ],
     "zero_streak": 0,
     "warned": false,
