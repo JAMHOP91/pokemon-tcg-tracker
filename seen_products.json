@@ -84,6 +84,8 @@
       "7699941818429",
       "7558379864125",
       "7558378455101",
+      "7558381600829",
+      "7558379864125",
       "7850575888445",
       "7558378979389",
       "7560189280317",
@@ -283,6 +285,8 @@
     "seen_ids": [
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
@@ -419,6 +423,7 @@
       "8315313553608",
       "8335789654216",
       "8312959107272",
+      "8335789654216",
       "8320457048264"
     ],
     "zero_streak": 0,
@@ -532,9 +537,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -598,7 +603,7 @@
       "8832667877399",
       "8888685723671",
       "8215152230423",
-      "8847851880471"
+      "8888685723671"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -767,6 +772,7 @@
     "seen_ids": [
       "9188403740928",
       "9366282600704",
+      "9188403740928",
       "9188403282176",
       "9188403609856"
     ],
