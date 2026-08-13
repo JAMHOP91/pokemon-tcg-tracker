@@ -206,6 +206,8 @@
       "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-sv-unova-mini-tin-sealed-box-8-tins",
       "https://www.tcgnz.co.nz/product-page/one-piece-card-game-booster-display-royal-blood-op-10",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-three-booster-blister",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-sv-white-flare-and-black-bolt-elite-trainer-box-set",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-phantasmal-flames-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-bundle",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister"
@@ -356,9 +358,9 @@
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/45463"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-13T10:38:02.184349+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -516,9 +518,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
+      "9294399996154",
       "9096634695930",
-      "9366286303482",
-      "9294399996154"
+      "9366286303482"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -768,7 +770,8 @@
       "9366282600704",
       "9188403740928",
       "9188403282176",
-      "9188403609856"
+      "9188403740928",
+      "9366282600704"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -815,7 +818,9 @@
       "9537919516949",
       "9551121678613",
       "9577428123925",
-      "9551118827797"
+      "9551121678613",
+      "9551118827797",
+      "9537919516949"
     ],
     "zero_streak": 0,
     "warned": false,
