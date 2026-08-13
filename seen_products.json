@@ -357,9 +357,9 @@
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/46975"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-13T01:01:15.764578+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -417,9 +417,9 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
+      "8315313553608",
       "8320457048264",
-      "8312959107272",
-      "8315313553608"
+      "8312959107272"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -517,8 +517,8 @@
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9366286303482",
-      "9096634695930",
-      "9294399996154"
+      "9294399996154",
+      "9096634695930"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -570,6 +570,7 @@
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
+      "9285795938453",
       "9152299892885",
       "9210168803477",
       "9268784496789",
@@ -593,6 +594,8 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8832667877399",
+      "8215152230423",
       "8774665043991",
       "8215152230423",
       "8847851880471",
@@ -624,7 +627,12 @@
       "9014599975069",
       "9021949411485",
       "9012579074205",
-      "9012511441053"
+      "9012511441053",
+      "9012509704349",
+      "9012564689053",
+      "9014563635357",
+      "9015732076701",
+      "9014564585629"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -750,8 +758,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214103613524",
-      "10214066389076"
+      "10214066389076",
+      "10214103613524"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -784,6 +792,9 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9381118279934",
+      "9090566226174",
+      "9233032642814",
       "9086478123262",
       "9381118279934",
       "9233032642814",
