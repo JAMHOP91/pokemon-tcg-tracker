@@ -354,9 +354,9 @@
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/45880"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-13T12:07:45.511958+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -414,7 +414,6 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8315313553608",
       "8320457048264",
       "8335789654216",
       "8312959107272"
@@ -746,9 +745,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
+      "10214103613524",
       "8063603605588",
-      "10214103613524"
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
