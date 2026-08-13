@@ -85,6 +85,8 @@
       "7558378979389",
       "7558379864125",
       "7560189935677",
+      "7558378455101",
+      "7850575986749",
       "7558381600829",
       "7850575986749",
       "7558380781629"
@@ -188,6 +190,7 @@
   "TCG NZ": {
     "seen_ids": [
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-enhanced-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-chaos-rising-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-elite-trainer-box",
       "https://www.tcgnz.co.nz/product-page/pokemon-tcg-team-rocket-tin",
@@ -354,9 +357,9 @@
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/47232"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-13T14:15:58.792448+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -401,8 +404,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -591,6 +594,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8770963537943",
       "8888685723671",
       "8847851880471",
       "8832667877399",
@@ -764,8 +768,8 @@
     "seen_ids": [
       "9188403282176",
       "9366282600704",
-      "9188403609856",
-      "9188403740928"
+      "9188403740928",
+      "9188403609856"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -786,7 +790,10 @@
       "9269784477950",
       "9233072521470",
       "9173828796670",
-      "9233032642814"
+      "9269784477950",
+      "9233072521470",
+      "9233032642814",
+      "9381118279934"
     ],
     "zero_streak": 0,
     "warned": false,
