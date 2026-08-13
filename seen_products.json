@@ -259,6 +259,7 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9328364945647",
       "9328351772911",
       "9388711182575",
       "9464484921583",
@@ -281,6 +282,9 @@
   "Collect All Day": {
     "seen_ids": [
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
@@ -416,6 +420,7 @@
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
       "8335789654216",
+      "8315313553608",
       "8312959107272",
       "8315313553608",
       "8320457048264"
