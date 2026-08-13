@@ -40,6 +40,9 @@
       "8760561172629",
       "8755462799509",
       "7559734886549",
+      "7561509896341",
+      "8755462078613",
+      "8964116873365",
       "8619217879189",
       "9011807486101",
       "8758360998037",
@@ -177,8 +180,8 @@
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
-      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024"
     ],
     "zero_streak": 0,
@@ -262,6 +265,7 @@
     "seen_ids": [
       "9464484921583",
       "9388711182575",
+      "9464484626671",
       "9328364945647",
       "9328351772911",
       "9464484626671"
@@ -593,7 +597,8 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8888685723671",
+      "8832667877399",
+      "8215152230423",
       "8770963537943",
       "8774665043991",
       "8215152230423",
@@ -749,8 +754,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
-      "10214103613524"
+      "10214103613524",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
