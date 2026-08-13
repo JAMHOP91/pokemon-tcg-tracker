@@ -13,6 +13,7 @@
   "Cool Shit - Pokemon": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
+      "https://www.coolshit.co.nz/product/boosterbundle",
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
       "https://www.coolshit.co.nz/product/boosterbundle",
@@ -85,6 +86,8 @@
       "7560189935677",
       "7558380781629",
       "7558379405373",
+      "7850575986749",
+      "7558379864125",
       "7850575495229",
       "7558378979389",
       "7850575822909"
@@ -416,10 +419,10 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8335789654216",
-      "8320457048264",
       "8315313553608",
-      "8312959107272"
+      "8320457048264",
+      "8312959107272",
+      "8335789654216"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -441,6 +444,8 @@
       "10182936625448",
       "10299295236392",
       "10270182736168",
+      "10132850377000",
+      "10302497227048",
       "10323223183656",
       "10365187621160",
       "10302497227048",
@@ -768,7 +773,9 @@
       "9188403740928",
       "9366282600704",
       "9188403282176",
-      "9188403609856"
+      "9188403609856",
+      "9366282600704",
+      "9188403740928"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -788,8 +795,6 @@
       "9173828796670",
       "9233072521470",
       "9381118279934",
-      "9086478123262",
-      "9090566226174",
       "9233032642814",
       "9269784477950"
     ],
