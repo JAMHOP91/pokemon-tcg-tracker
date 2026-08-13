@@ -2,8 +2,8 @@
   "JB Hi-Fi NZ": {
     "seen_ids": [
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -177,8 +177,7 @@
   "Hobby Lords - Pokemon": {
     "seen_ids": [
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
-      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
-      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest"
+      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -343,7 +342,12 @@
       "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/37806",
+      "https://hobbymaster.co.nz/products/product/47232",
+      "https://hobbymaster.co.nz/products/product/46975",
+      "https://hobbymaster.co.nz/products/product/38545",
+      "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/38546",
+      "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/45878",
@@ -513,6 +517,7 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
+      "9096634695930",
       "9294399996154",
       "9096634695930",
       "9366286303482"
@@ -568,6 +573,7 @@
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
       "9285795938453",
+      "9210168803477",
       "9285822251157",
       "9268784496789",
       "9152299892885",
@@ -805,13 +811,14 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9577428123925",
       "9537919222037",
       "9537919516949",
       "9530379600149",
       "9551121678613",
-      "9551118827797",
-      "9577428353301"
+      "9530379600149",
+      "9577428353301",
+      "9577428123925",
+      "9551118827797"
     ],
     "zero_streak": 0,
     "warned": false,
