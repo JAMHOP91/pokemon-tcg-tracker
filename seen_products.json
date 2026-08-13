@@ -188,7 +188,6 @@
   },
   "TCG NZ": {
     "seen_ids": [
-      "https://www.tcgnz.co.nz/product-page/pre-order-pok\u00e9mon-tcg-destined-rivals-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-phantasmal-flames-booster-box",
       "https://www.tcgnz.co.nz/product-page/pre-order-one-piece-booster-box-a-fist-of-divine-speed-op-11",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-three-booster-blister",
@@ -403,8 +402,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -445,7 +444,8 @@
       "10365187621160",
       "10132850377000",
       "10302497227048",
-      "10299295236392"
+      "9734074401064",
+      "10365187621160"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -516,9 +516,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
+      "9294399996154",
       "9366286303482",
-      "9096634695930",
-      "9294399996154"
+      "9096634695930"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -750,8 +750,8 @@
   "Game Corner - Pokemon": {
     "seen_ids": [
       "10214103613524",
-      "10214066389076",
-      "8063603605588"
+      "8063603605588",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
