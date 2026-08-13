@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -178,8 +178,8 @@
   "Hobby Lords - Pokemon": {
     "seen_ids": [
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
-      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
-      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-"
+      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
+      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -403,8 +403,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -419,6 +419,7 @@
       "8320457048264",
       "8335789654216",
       "8315313553608",
+      "8320457048264",
       "8312959107272"
     ],
     "zero_streak": 0,
@@ -571,6 +572,8 @@
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
       "9285822251157",
+      "9210168803477",
+      "9152299892885",
       "9268784496789",
       "9285795938453",
       "9152299892885",
@@ -765,10 +768,10 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9188403740928",
+      "9188403609856",
       "9188403282176",
       "9366282600704",
-      "9188403609856"
+      "9188403740928"
     ],
     "zero_streak": 0,
     "warned": false,
