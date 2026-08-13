@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -18,8 +18,13 @@
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
       "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
+      "https://www.coolshit.co.nz/product/premiumcollection",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
-      "https://www.coolshit.co.nz/product/premiumsealedcase"
+      "https://www.coolshit.co.nz/product/boosterbundle"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -116,6 +121,11 @@
       "9136746102947",
       "8850541740195",
       "9107945226403",
+      "9000085717155",
+      "9136790208675",
+      "9136790274211",
+      "9101936918691",
+      "8668035317923",
       "7540284915875",
       "9000085717155",
       "9054391763107",
@@ -513,8 +523,8 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9096634695930",
       "9294399996154",
+      "9096634695930",
       "9366286303482"
     ],
     "zero_streak": 0,
