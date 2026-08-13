@@ -353,9 +353,9 @@
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/46973"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-13T23:01:28.074199+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -400,8 +400,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -413,7 +413,6 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8320457048264",
       "8312959107272",
       "8335789654216",
       "8315313553608"
@@ -590,6 +589,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8832667877399",
       "8847851880471",
       "8832667877399",
       "8770963537943",
@@ -745,9 +745,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
+      "8063603605588",
       "10214103613524",
-      "10214066389076",
-      "8063603605588"
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -810,6 +810,7 @@
       "9530379600149",
       "9537919222037",
       "9577428123925",
+      "9577428353301",
       "9551118827797",
       "9551121678613"
     ],
