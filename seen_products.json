@@ -353,9 +353,9 @@
       "https://hobbymaster.co.nz/products/product/45880",
       "https://hobbymaster.co.nz/products/product/46974"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-13T21:32:59.254483+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -567,7 +567,6 @@
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
-      "9285795938453",
       "9152299892885",
       "9285822251157",
       "9268784496789",
@@ -745,8 +744,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "8063603605588",
       "10214066389076",
+      "8063603605588",
       "10214103613524"
     ],
     "zero_streak": 0,
@@ -805,6 +804,8 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9537919222037",
+      "9537919516949",
       "9551121678613",
       "9537919222037",
       "9551118827797",
