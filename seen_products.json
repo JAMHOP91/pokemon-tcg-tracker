@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -238,9 +238,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
       "10076303622384",
-      "9756131819760"
+      "9756131819760",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -592,6 +592,7 @@
       "8774665043991",
       "8847851880471",
       "8770963537943",
+      "8847851880471",
       "8888685723671",
       "8832667877399"
     ],
@@ -611,6 +612,8 @@
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
       "9012511441053",
+      "9015732076701",
+      "9014599975069",
       "9021943742621",
       "9014563635357",
       "9014599975069",
