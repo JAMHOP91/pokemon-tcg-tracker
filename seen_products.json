@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -238,9 +238,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
       "10076303622384",
-      "9756131819760"
+      "9756131819760",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -311,9 +311,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8479841648836",
+      "8542847107268",
       "8542844682436",
-      "8542847107268"
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -413,10 +413,10 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8312959107272",
       "8315313553608",
-      "8335789654216",
-      "8320457048264"
+      "8312959107272",
+      "8320457048264",
+      "8335789654216"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -762,6 +762,7 @@
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
       "9188403282176",
+      "9188403609856",
       "9366282600704",
       "9188403609856",
       "9188403740928"
