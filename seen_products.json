@@ -353,9 +353,9 @@
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/46973"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-14T21:50:54.900852+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -400,8 +400,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -512,9 +512,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9294399996154",
       "9096634695930",
-      "9366286303482"
+      "9366286303482",
+      "9294399996154"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -756,11 +756,11 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9366282600704",
-      "9188403282176",
       "9608224964864",
-      "9188403740928",
-      "9188403609856"
+      "9188403282176",
+      "9188403609856",
+      "9366282600704",
+      "9188403740928"
     ],
     "zero_streak": 0,
     "warned": false,
