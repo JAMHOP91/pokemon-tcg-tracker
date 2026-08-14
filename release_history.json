@@ -6154,5 +6154,23 @@
     "timestamp": "2026-08-14T03:05:44.737328+00:00",
     "priority": false,
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Mega-Zygarde_EN.png?v=1774393148"
+  },
+  {
+    "site": "Goblin Games NZ - Pokemon TCG",
+    "title": "Perfect Order Booster Pack",
+    "url": "https://goblingames.nz/products/perfect-order-booster-pack",
+    "price": "$12.00",
+    "timestamp": "2026-08-14T03:40:49.853146+00:00",
+    "priority": false,
+    "image": "http://goblingames.nz/cdn/shop/files/672398.jpg?v=1776145766"
+  },
+  {
+    "site": "Goblin Games NZ - Pokemon TCG",
+    "title": "Perfect Order Booster Display (Box)",
+    "url": "https://goblingames.nz/products/perfect-order-booster-box",
+    "price": "$360.00",
+    "timestamp": "2026-08-14T03:40:49.853146+00:00",
+    "priority": false,
+    "image": "http://goblingames.nz/cdn/shop/files/672394.jpg?v=1776145744"
   }
 ]
