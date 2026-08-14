@@ -132,6 +132,10 @@
       "8850541740195",
       "9107945980067",
       "9107946176675",
+      "9134948253859",
+      "9107945980067",
+      "8668035317923",
+      "8856349376675",
       "9081919176867",
       "9134948253859",
       "9101936459939",
@@ -176,6 +180,7 @@
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-"
@@ -204,6 +209,12 @@
       "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-phantasmal-flames-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-bundle",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-checklane-blister",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-sv-unova-mini-tin-sealed-box-8-tins",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-8-5-prismatic-evolutions-2-pack-blister",
       "https://www.tcgnz.co.nz/product-page/pre-order-pok\u00e9mon-tcg-destined-rivals-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-three-booster-blister",
       "https://www.tcgnz.co.nz/product-page/one-piece-card-game-booster-display-royal-blood-op-10",
@@ -312,8 +323,8 @@
   "TCG Collector NZ": {
     "seen_ids": [
       "8542844682436",
-      "8542847107268",
-      "8479841648836"
+      "8479841648836",
+      "8542847107268"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -353,9 +364,9 @@
       "https://hobbymaster.co.nz/products/product/37806",
       "https://hobbymaster.co.nz/products/product/45880"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-14T00:47:39.269200+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -570,6 +581,7 @@
       "9268784496789",
       "9285795938453",
       "9152299892885",
+      "9268784496789",
       "9210168803477"
     ],
     "zero_streak": 0,
@@ -590,6 +602,7 @@
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
       "8847851880471",
+      "8774665043991",
       "8770963537943",
       "8832667877399",
       "8774665043991",
