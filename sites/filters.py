@@ -1,10 +1,10 @@
 ﻿"""
 Shared filtering logic so all site scrapers only return actual TCG
 card products - booster packs, elite trainer boxes, tins, blisters,
-collections - and skip merch (mugs, plush, binders, apparel, model
-kits), pre-constructed decks (Battle Decks, Theme Decks, Tournament
-Decks, etc.), non-English releases, non-TCG board games, and live
-stream/card-break events (which aren't real sealed product listings).
+collections - and skip merch (mugs, plush, squishmallows, binders,
+apparel, model kits, card holders), pre-constructed decks (Battle
+Decks, Theme Decks, Tournament Decks, etc.), non-English releases,
+non-TCG board games, and live stream/card-break events.
 
 Edit EXCLUDE_KEYWORDS to tune what gets filtered out. Matching is
 case-insensitive and checks if the keyword appears anywhere in the title.
@@ -13,6 +13,7 @@ case-insensitive and checks if the keyword appears anywhere in the title.
 EXCLUDE_KEYWORDS = [
     "mug",
     "plush",
+    "squishmallow",
     "binder",
     "portfolio",
     "backpack",
@@ -53,12 +54,14 @@ EXCLUDE_KEYWORDS = [
     "battle academy",
     "board game",
     "stream",
+    "card holder",
 ]
 
 
 def is_tcg_product(title: str) -> bool:
     """Returns True if the product title looks like an actual TCG
     card product (not merch, not a pre-con deck, not a non-English
-    release, not a board game, not a live stream/break event)."""
+    release, not a board game, not a live stream/break event, not a
+    card storage accessory)."""
     title_lower = title.lower()
     return not any(keyword in title_lower for keyword in EXCLUDE_KEYWORDS)

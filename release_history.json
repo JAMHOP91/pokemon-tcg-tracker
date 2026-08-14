@@ -6082,5 +6082,41 @@
     "timestamp": "2026-08-14T01:47:47.898227+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/P10408_SV08pt5_3D_Mini_Tins_Display_Front_EN-820x1024.jpg?v=1786671301"
+  },
+  {
+    "site": "Games Lab - Pokemon TCG",
+    "title": "Pokemon Perfect Order Booster Box",
+    "url": "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
+    "price": null,
+    "timestamp": "2026-08-14T03:38:09.106540+00:00",
+    "priority": false,
+    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/826516024/5682520509.jpg"
+  },
+  {
+    "site": "Games Lab - Pokemon TCG",
+    "title": "Pokemon Mega Zygarde ex Premium Collection",
+    "url": "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+    "price": null,
+    "timestamp": "2026-08-14T03:38:09.106540+00:00",
+    "priority": false,
+    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/832752708/5798246075.jpg"
+  },
+  {
+    "site": "Goblin Games NZ - Pokemon TCG",
+    "title": "Perfect Order Booster Pack",
+    "url": "https://goblingames.nz/products/perfect-order-booster-pack",
+    "price": "$12.00",
+    "timestamp": "2026-08-14T03:38:09.106540+00:00",
+    "priority": false,
+    "image": "http://goblingames.nz/cdn/shop/files/672398.jpg?v=1776145766"
+  },
+  {
+    "site": "Goblin Games NZ - Pokemon TCG",
+    "title": "Perfect Order Booster Display (Box)",
+    "url": "https://goblingames.nz/products/perfect-order-booster-box",
+    "price": "$360.00",
+    "timestamp": "2026-08-14T03:38:09.106540+00:00",
+    "priority": false,
+    "image": "http://goblingames.nz/cdn/shop/files/672394.jpg?v=1776145744"
   }
 ]

@@ -60,6 +60,7 @@ from sites import getthosemons
 from sites import sealedandslabbed
 from sites import bigpotato
 from sites import gameslab
+from sites import goblingames
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 STATUS_FILE = Path(__file__).parent / "status.json"
@@ -108,6 +109,7 @@ SITES = [
     (sealedandslabbed.SITE_NAME, sealedandslabbed),
     (bigpotato.SITE_NAME, bigpotato),
     (gameslab.SITE_NAME, gameslab),
+    (goblingames.SITE_NAME, goblingames),
 ]
 
 DEFAULT_FAILURE_THRESHOLD_MINUTES = 90
