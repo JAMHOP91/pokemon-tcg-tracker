@@ -176,8 +176,8 @@
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
-      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024"
     ],
     "zero_streak": 0,
@@ -353,9 +353,9 @@
       "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/47237"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-14T02:33:06.723977+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -610,6 +610,7 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
+      "9014599975069",
       "9012564689053",
       "9015732076701",
       "9012579074205",
@@ -937,7 +938,6 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Squishmallow-10-Inch-W4-Pokemon-Teddiursa-p651277251",
       "https://www.gameslab.co.nz/products/Squishmallow-10-Inch-W4-Pokemon-Clefairy-p651254787",
       "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
