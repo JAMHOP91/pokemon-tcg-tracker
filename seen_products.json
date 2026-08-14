@@ -12,6 +12,7 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/premiumcollection",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
       "https://www.coolshit.co.nz/product/boosterbundle",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
@@ -262,8 +263,7 @@
       "9388711182575",
       "9464484921583",
       "9464484626671",
-      "9328364945647",
-      "9328351772911"
+      "9464484921583"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -311,8 +311,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8542847107268",
       "8479841648836",
+      "8542847107268",
       "8542844682436"
     ],
     "zero_streak": 0,
@@ -353,9 +353,9 @@
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/45880"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-14T18:58:27.159951+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -610,6 +610,8 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
+      "9014599975069",
+      "9012511441053",
       "9012509704349",
       "9014599975069",
       "9014563635357",
@@ -756,8 +758,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9608224964864",
       "9188403282176",
+      "9608224964864",
       "9188403609856",
       "9188403740928",
       "9366282600704"
