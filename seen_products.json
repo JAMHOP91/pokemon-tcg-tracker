@@ -312,8 +312,8 @@
   "TCG Collector NZ": {
     "seen_ids": [
       "8479841648836",
-      "8542847107268",
-      "8542844682436"
+      "8542844682436",
+      "8542847107268"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -353,9 +353,9 @@
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/46975"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-14T00:15:57.872369+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -439,6 +439,7 @@
       "9734074401064",
       "10323223183656",
       "10365187621160",
+      "9734074401064",
       "10299295236392",
       "10302497227048",
       "10182936625448"
