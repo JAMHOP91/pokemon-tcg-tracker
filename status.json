@@ -1,208 +1,203 @@
 {
-  "generated_at": "2026-08-14T01:47:45.498796+00:00",
+  "generated_at": "2026-08-14T01:47:47.898227+00:00",
   "sites": {
     "JB Hi-Fi NZ": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Cool Shit - Pokemon": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "The Game Tree NZ": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Otakumart - Pokemon TCG": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Card Masters NZ": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Hobby Lords - Pokemon": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "TCG NZ": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Cardtopia NZ": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "WP Games - Pokemon TCG": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Collect All Day": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "30th Celebration Box - Web Monitor": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Cool Shit - Status Watch": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "TCG Collector NZ": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Hobby Master - Pokemon": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Otakumart - Pre-Orders": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "WP Games - Pre-Orders": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Game Corner - Pokemon Pre-Orders": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Collectors Guild - Pokemon Pre-Orders": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Magic Red Dragon - Pokemon Pre-Orders": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "PlayX - Pokemon Pre-Orders": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "MetaLife - Pokemon TCG": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "TCG Collector NZ - Pre-Orders": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Card Masters - Pre-Orders": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "TCG Culture - Pokemon": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Toy Time - Pokemon TCG": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Cardtopia - Pre-Orders": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Mr Tofu Card Store - Pokemon TCG": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Hobby Station - Pokemon TCG": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Turtle Island - Pokemon Pre-Orders": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "OCARE NZ - Pokemon TCG": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Kidzstuffonline - Pokemon TCG": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Parko Cards - Pokemon TCG": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Hobby Zone - Pokemon Cards": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Animal Kingdoms - Pokemon TCG": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Game Corner - Pokemon": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Card Bot - English Pokemon TCG": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Pop Stop - Pokemon TCG": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "GetThoseMons - Sealed Pokemon TCG": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Sealed & Slabbed - Pokemon Sealed": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     },
     "Big Potato Collectibles - Pokemon Sealed": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
-      "healthy": true,
-      "failing_minutes": 0
-    },
-    "Games Lab - Pokemon TCG": {
-      "last_checked": "2026-08-14T01:47:45.498796+00:00",
+      "last_checked": "2026-08-14T01:47:47.898227+00:00",
       "healthy": true,
       "failing_minutes": 0
     }
