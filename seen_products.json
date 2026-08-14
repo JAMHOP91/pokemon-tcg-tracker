@@ -353,9 +353,9 @@
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/46971"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-14T18:33:03.690315+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -882,6 +882,7 @@
   },
   "Big Potato Collectibles - Pokemon Sealed": {
     "seen_ids": [
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sun-moon-elite-trainer-box-lunala",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-charizard-ex-premium-collection",
       "https://www.bigpotato.co.nz/product-page/copy-of-pokemon-tcg-sword-shield-evolving-skies-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-team-rocket-s-mewtwo-ex-league-battle-deck",
@@ -944,8 +945,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
