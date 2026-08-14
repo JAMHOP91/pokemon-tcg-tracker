@@ -1,8 +1,8 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 0,
@@ -131,6 +131,19 @@
       "9136790274211",
       "9136790044835",
       "9081919176867",
+      "8856349376675",
+      "9134948253859",
+      "9101935771811",
+      "8850541740195",
+      "8693154349219",
+      "7540284915875",
+      "9107945226403",
+      "9101958414499",
+      "9136746102947",
+      "8952687788195",
+      "9136791978147",
+      "9054391763107",
+      "9136790208675",
       "8565549564067",
       "9101958414499",
       "7507178979491",
@@ -353,9 +366,9 @@
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/38548"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-14T14:25:43.231965+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -413,6 +426,7 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
+      "8315313553608",
       "8312959107272",
       "8315313553608",
       "8335789654216"
@@ -513,8 +527,8 @@
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9366286303482",
-      "9096634695930",
-      "9294399996154"
+      "9294399996154",
+      "9096634695930"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -783,6 +797,8 @@
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
       "9381118279934",
+      "9173828796670",
+      "9269784477950",
       "9233072521470",
       "9233032642814",
       "9173828796670",
