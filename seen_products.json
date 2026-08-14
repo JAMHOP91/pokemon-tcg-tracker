@@ -18,6 +18,8 @@
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/premiumcollection",
       "https://www.coolshit.co.nz/product/boosterbundle",
+      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
     ],
@@ -138,7 +140,12 @@
       "8856349376675",
       "9134948253859",
       "8952687788195",
-      "8668035317923"
+      "8386235957411",
+      "9134948253859",
+      "9107945980067",
+      "9101935771811",
+      "9054391763107",
+      "9136790208675"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -400,8 +407,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -744,9 +751,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214103613524",
+      "10214066389076",
       "8063603605588",
-      "10214066389076"
+      "10214103613524"
     ],
     "zero_streak": 0,
     "warned": false,
