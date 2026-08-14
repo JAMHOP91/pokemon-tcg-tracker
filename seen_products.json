@@ -207,7 +207,18 @@
       "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-checklane-blister",
       "https://www.tcgnz.co.nz/product-page/one-piece-card-game-booster-display-royal-blood-op-10",
-      "https://www.tcgnz.co.nz/product-page/pre-order-one-piece-booster-box-a-fist-of-divine-speed-op-11"
+      "https://www.tcgnz.co.nz/product-page/pre-order-pok\u00e9mon-tcg-destined-rivals-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-perfect-order-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-checklane-blister",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-sv-white-flare-and-black-bolt-elite-trainer-box-set",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-sv-unova-mini-tin-sealed-box-8-tins",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-bundle",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-three-booster-blister",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-elite-trainer-box",
+      "https://www.tcgnz.co.nz/product-page/pre-order-one-piece-booster-box-a-fist-of-divine-speed-op-11",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-heroes-mini-tin"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -238,9 +249,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
       "9756131819760",
-      "10076303622384"
+      "10076303622384",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -280,6 +291,12 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
@@ -439,6 +456,7 @@
       "10299295236392",
       "10132850377000",
       "10302497227048",
+      "10299295236392",
       "10365187621160",
       "10323223183656",
       "10182936625448"
@@ -745,8 +763,8 @@
   "Game Corner - Pokemon": {
     "seen_ids": [
       "8063603605588",
-      "10214066389076",
-      "10214103613524"
+      "10214103613524",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
