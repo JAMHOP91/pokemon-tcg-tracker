@@ -41,6 +41,9 @@
       "8713055273109",
       "8755462799509",
       "7559734886549",
+      "8713055273109",
+      "8758356803733",
+      "8755462799509",
       "7730871795861",
       "7730851184789",
       "9011807486101",
@@ -311,9 +314,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8542847107268",
       "8479841648836",
-      "8542844682436",
-      "8542847107268"
+      "8542844682436"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -529,8 +532,8 @@
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
       "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -666,6 +669,20 @@
       "10171578286320",
       "9014123954416",
       "10064521527536",
+      "10035621396720",
+      "10035669041392",
+      "8271706358000",
+      "9584394436848",
+      "9550375518448",
+      "10111551209712",
+      "9994681090288",
+      "10171547386096",
+      "10098857181424",
+      "9550378533104",
+      "8504547311856",
+      "10112186188016",
+      "9586387353840",
+      "9550376960240",
       "10112184385776",
       "8504533713136",
       "10098927075568",
@@ -811,6 +828,7 @@
       "9551121678613",
       "9530379600149",
       "9551118827797",
+      "9577428353301",
       "9537919222037",
       "9537919516949"
     ],
