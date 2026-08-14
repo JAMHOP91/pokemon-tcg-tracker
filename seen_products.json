@@ -238,9 +238,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10076303622384",
+      "10070962241776",
       "9756131819760",
-      "10070962241776"
+      "10076303622384"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -353,9 +353,9 @@
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/47223"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-14T20:15:41.213437+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -567,6 +567,8 @@
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
       "9210168803477",
+      "9285822251157",
+      "9285795938453",
       "9152299892885",
       "9285795938453",
       "9285822251157",
@@ -946,8 +948,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
