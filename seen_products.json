@@ -311,9 +311,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8542847107268",
       "8479841648836",
-      "8542844682436",
-      "8542847107268"
+      "8542844682436"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -487,7 +487,9 @@
       "8789885321414",
       "8855171334342",
       "8909657637062",
-      "8970819535046"
+      "8970824843462",
+      "8931072311494",
+      "8855171334342"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -513,8 +515,8 @@
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9294399996154",
-      "9366286303482",
-      "9096634695930"
+      "9096634695930",
+      "9366286303482"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -806,6 +808,7 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9537919222037",
       "9551118827797",
       "9537919222037",
       "9551121678613",
@@ -941,7 +944,10 @@
       "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
       "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
       "https://www.gameslab.co.nz/products/Squishmallow-10-Inch-W4-Pokemon-Clefairy-p651254787",
-      "https://www.gameslab.co.nz/products/Squishmallow-10-Inch-W4-Pokemon-Teddiursa-p651277251"
+      "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/Squishmallow-10-Inch-W4-Pokemon-Teddiursa-p651277251",
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -950,8 +956,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
