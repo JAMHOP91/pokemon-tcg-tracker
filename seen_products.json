@@ -177,8 +177,8 @@
   "Hobby Lords - Pokemon": {
     "seen_ids": [
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
-      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
-      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-"
+      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -238,9 +238,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "9756131819760",
       "10076303622384",
-      "10070962241776",
-      "9756131819760"
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -285,6 +285,10 @@
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/pokeball-tin-2021",
@@ -512,9 +516,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9366286303482",
+      "9096634695930",
       "9294399996154",
-      "9096634695930"
+      "9366286303482"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -761,7 +765,10 @@
       "9608224964864",
       "9366282600704",
       "9188403609856",
-      "9188403282176"
+      "9188403740928",
+      "9366282600704",
+      "9188403282176",
+      "9608224964864"
     ],
     "zero_streak": 0,
     "warned": false,
