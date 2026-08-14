@@ -413,8 +413,8 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8312959107272",
       "8315313553608",
+      "8312959107272",
       "8335789654216"
     ],
     "zero_streak": 0,
@@ -441,7 +441,8 @@
       "10365187621160",
       "10302497227048",
       "10323223183656",
-      "9734074401064"
+      "10182936625448",
+      "10132850377000"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -741,8 +742,8 @@
   "Game Corner - Pokemon": {
     "seen_ids": [
       "10214103613524",
-      "10214066389076",
-      "8063603605588"
+      "8063603605588",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -842,6 +843,7 @@
       "8026253328502",
       "8171677057142",
       "8026257686646",
+      "7976837546102",
       "8069235671158",
       "7976735670390",
       "8026239369334",
@@ -936,8 +938,8 @@
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
       "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
-      "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -946,8 +948,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
