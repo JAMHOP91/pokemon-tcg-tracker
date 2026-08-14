@@ -6085,10 +6085,37 @@
   },
   {
     "site": "Games Lab - Pokemon TCG",
+    "title": "Squishmallow: 10 Inch W4 Pokemon - Teddiursa",
+    "url": "https://www.gameslab.co.nz/products/Squishmallow-10-Inch-W4-Pokemon-Teddiursa-p651277251",
+    "price": null,
+    "timestamp": "2026-08-14T01:55:39.693736+00:00",
+    "priority": false,
+    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/651277251/5669965759.jpg"
+  },
+  {
+    "site": "Games Lab - Pokemon TCG",
+    "title": "Squishmallow: 10 Inch W4 Pokemon - Clefairy",
+    "url": "https://www.gameslab.co.nz/products/Squishmallow-10-Inch-W4-Pokemon-Clefairy-p651254787",
+    "price": null,
+    "timestamp": "2026-08-14T01:55:39.693736+00:00",
+    "priority": false,
+    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/651254787/5669965771.jpg"
+  },
+  {
+    "site": "Games Lab - Pokemon TCG",
+    "title": "ULTRA PRO Pok\u00e9mon - Pok\u00e9ball Printed Magnetic Card Holder",
+    "url": "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
+    "price": null,
+    "timestamp": "2026-08-14T01:55:39.693736+00:00",
+    "priority": false,
+    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/826483298/5701854559.jpg"
+  },
+  {
+    "site": "Games Lab - Pokemon TCG",
     "title": "Pokemon Perfect Order Booster Box",
     "url": "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
     "price": null,
-    "timestamp": "2026-08-14T03:38:09.106540+00:00",
+    "timestamp": "2026-08-14T01:55:39.693736+00:00",
     "priority": false,
     "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/826516024/5682520509.jpg"
   },
@@ -6097,26 +6124,35 @@
     "title": "Pokemon Mega Zygarde ex Premium Collection",
     "url": "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
     "price": null,
-    "timestamp": "2026-08-14T03:38:09.106540+00:00",
+    "timestamp": "2026-08-14T01:55:39.693736+00:00",
     "priority": false,
     "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/832752708/5798246075.jpg"
   },
   {
-    "site": "Goblin Games NZ - Pokemon TCG",
-    "title": "Perfect Order Booster Pack",
-    "url": "https://goblingames.nz/products/perfect-order-booster-pack",
-    "price": "$12.00",
-    "timestamp": "2026-08-14T03:38:09.106540+00:00",
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order)",
+    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
+    "price": "NZ$360.00",
+    "timestamp": "2026-08-14T02:10:56.427548+00:00",
     "priority": false,
-    "image": "http://goblingames.nz/cdn/shop/files/672398.jpg?v=1776145766"
+    "image": "https://assets.bigcartel.com/product_images/425269320/17.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
   },
   {
-    "site": "Goblin Games NZ - Pokemon TCG",
-    "title": "Perfect Order Booster Display (Box)",
-    "url": "https://goblingames.nz/products/perfect-order-booster-box",
-    "price": "$360.00",
-    "timestamp": "2026-08-14T03:38:09.106540+00:00",
+    "site": "Games Lab - Pokemon TCG",
+    "title": "Squishmallow: 10 Inch W4 Pokemon - Teddiursa",
+    "url": "https://www.gameslab.co.nz/products/Squishmallow-10-Inch-W4-Pokemon-Teddiursa-p651277251",
+    "price": null,
+    "timestamp": "2026-08-14T02:42:48.282604+00:00",
     "priority": false,
-    "image": "http://goblingames.nz/cdn/shop/files/672394.jpg?v=1776145744"
+    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/651277251/5669965759.jpg"
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster",
+    "price": "$11.99",
+    "timestamp": "2026-08-14T03:05:44.737328+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Mega-Zygarde_EN.png?v=1774393148"
   }
 ]
