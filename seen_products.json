@@ -239,8 +239,8 @@
   "Cardtopia NZ": {
     "seen_ids": [
       "9756131819760",
-      "10070962241776",
-      "10076303622384"
+      "10076303622384",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -355,7 +355,7 @@
     ],
     "zero_streak": 2,
     "warned": false,
-    "first_failure_at": "2026-08-14T07:40:49.580344+00:00",
+    "first_failure_at": null,
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -413,9 +413,9 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8315313553608",
       "8335789654216",
-      "8312959107272"
+      "8312959107272",
+      "8315313553608"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -785,6 +785,8 @@
       "9233072521470",
       "9381118279934",
       "9269784477950",
+      "9233072521470",
+      "9233032642814",
       "9173828796670",
       "9233032642814"
     ],
