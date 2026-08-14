@@ -1,4 +1,4 @@
-﻿"""
+"""
 Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
 Tracks how long each site has been continuously failing and warns based
@@ -59,6 +59,7 @@ from sites import popstop
 from sites import getthosemons
 from sites import sealedandslabbed
 from sites import bigpotato
+from sites import gameslab
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 STATUS_FILE = Path(__file__).parent / "status.json"
@@ -106,6 +107,7 @@ SITES = [
     (getthosemons.SITE_NAME, getthosemons),
     (sealedandslabbed.SITE_NAME, sealedandslabbed),
     (bigpotato.SITE_NAME, bigpotato),
+    (gameslab.SITE_NAME, gameslab),
 ]
 
 DEFAULT_FAILURE_THRESHOLD_MINUTES = 90
