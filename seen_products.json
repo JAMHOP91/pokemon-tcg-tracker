@@ -238,9 +238,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "9756131819760",
+      "10070962241776",
       "10076303622384",
-      "10070962241776"
+      "9756131819760"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -372,9 +372,9 @@
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-14T20:50:47.808047+00:00",
     "prices": {}
   },
   "WP Games - Pre-Orders": {
@@ -386,9 +386,9 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-14T20:50:47.808047+00:00",
     "prices": {}
   },
   "Collectors Guild - Pokemon Pre-Orders": {
@@ -403,9 +403,9 @@
       "10200199889191",
       "10158427111719"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-14T20:50:47.808047+00:00",
     "prices": {
       "10200199889191": 45.0,
       "10158427111719": 56.0
@@ -484,6 +484,7 @@
       "8789885321414",
       "8970824843462",
       "8909657637062",
+      "8909649739974",
       "8855171334342",
       "8931072311494",
       "8909649739974",
@@ -595,9 +596,9 @@
       "8888685723671",
       "8774665043991"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-14T20:50:47.808047+00:00",
     "prices": {
       "8888685723671": 10.99,
       "8847851880471": 29.99,
@@ -691,9 +692,9 @@
       "9014123954416",
       "10098857181424"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-14T20:50:47.808047+00:00",
     "prices": {
       "10111551209712": 398.0,
       "10111548522736": 32.9,
@@ -744,9 +745,9 @@
       "8063603605588",
       "10214066389076"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-14T20:50:47.808047+00:00",
     "prices": {
       "10214103613524": 110.0,
       "10214066389076": 25.0,
@@ -780,13 +781,13 @@
     "seen_ids": [
       "9233072521470",
       "9269784477950",
-      "9173828796670",
+      "9233072521470",
       "9233032642814",
       "9381118279934"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-14T20:50:47.808047+00:00",
     "prices": {
       "9173828796670": 9.99,
       "9233032642814": 9.99,
@@ -946,8 +947,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
