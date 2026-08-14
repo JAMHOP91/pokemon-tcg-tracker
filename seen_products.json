@@ -353,9 +353,9 @@
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/46975"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-14T12:01:30.733356+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -513,8 +513,8 @@
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9366286303482",
-      "9096634695930",
-      "9294399996154"
+      "9294399996154",
+      "9096634695930"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -940,7 +940,7 @@
       "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
       "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/Squishmallow-10-Inch-W4-Pokemon-Clefairy-p651254787"
+      "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298"
     ],
     "zero_streak": 0,
     "warned": false,
