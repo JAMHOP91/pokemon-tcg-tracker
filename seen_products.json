@@ -19,7 +19,7 @@
       "https://www.coolshit.co.nz/product/boosterbundle",
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -192,6 +192,11 @@
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-heroes-mini-tin",
       "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-sv-white-flare-and-black-bolt-elite-trainer-box-set",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-8-5-prismatic-evolutions-2-pack-blister",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-perfect-order-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pok\u00e9mon-tcg-destined-rivals-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-elite-trainer-box",
@@ -238,9 +243,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10070962241776",
       "10076303622384",
-      "9756131819760",
-      "10070962241776"
+      "9756131819760"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -569,6 +574,8 @@
       "9210168803477",
       "9285822251157",
       "9152299892885",
+      "9268784496789",
+      "9285822251157",
       "9285795938453",
       "9268784496789"
     ],
@@ -673,6 +680,12 @@
       "10112179831024",
       "10112141295856",
       "9586450235632",
+      "10099042582768",
+      "10064520904944",
+      "10098857181424",
+      "10111548522736",
+      "10171578286320",
+      "8387844997360",
       "10171547386096",
       "9586387353840",
       "9014123954416",
@@ -808,6 +821,7 @@
     "seen_ids": [
       "9577428353301",
       "9551121678613",
+      "9530379600149",
       "9537919516949",
       "9530379600149",
       "9551118827797",
@@ -949,8 +963,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
