@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -589,6 +589,8 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8770963537943",
+      "8774665043991",
       "8847851880471",
       "8770963537943",
       "8888685723671",
@@ -741,9 +743,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
+      "10214103613524",
       "8063603605588",
-      "10214066389076",
-      "10214103613524"
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -759,6 +761,7 @@
     "seen_ids": [
       "9188403740928",
       "9366282600704",
+      "9188403740928",
       "9608224964864",
       "9188403282176",
       "9188403609856"
@@ -781,6 +784,8 @@
     "seen_ids": [
       "9269784477950",
       "9233072521470",
+      "9269784477950",
+      "9173828796670",
       "9381118279934",
       "9233032642814",
       "9173828796670"
