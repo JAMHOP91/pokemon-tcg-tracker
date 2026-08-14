@@ -176,6 +176,7 @@
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
+      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest"
@@ -260,7 +261,7 @@
   "WP Games - Pokemon TCG": {
     "seen_ids": [
       "9328351772911",
-      "9464484921583",
+      "9388711182575",
       "9464484626671",
       "9328364945647",
       "9388711182575"
@@ -311,9 +312,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8542847107268",
       "8479841648836",
-      "8542844682436"
+      "8542844682436",
+      "8542847107268"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -589,7 +590,6 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8832667877399",
       "8847851880471",
       "8770963537943",
       "8888685723671",
@@ -756,6 +756,7 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
+      "9188403740928",
       "9366282600704",
       "9188403740928",
       "9188403609856",
@@ -946,8 +947,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
