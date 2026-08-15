@@ -258,6 +258,7 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9328351772911",
       "9388711182575",
       "9328351772911",
       "9328364945647",
@@ -279,6 +280,10 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
@@ -435,6 +440,9 @@
     "seen_ids": [
       "10365187621160",
       "10132850377000",
+      "10365187621160",
+      "10270182736168",
+      "9734074401064",
       "10182936625448",
       "9734074401064",
       "10302497227048",
@@ -612,9 +620,9 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
-      "9012579074205",
+      "9012511441053",
       "9014599975069",
-      "9012511441053"
+      "9012579074205"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -740,6 +748,7 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
+      "8063603605588",
       "10214103613524",
       "8063603605588",
       "10214066389076"
@@ -833,6 +842,17 @@
       "8026239369334",
       "7976837546102",
       "8069232033910",
+      "8069235671158",
+      "7976837546102",
+      "8026257686646",
+      "8220156297334",
+      "8026253328502",
+      "8026239369334",
+      "7977047195766",
+      "8100504862838",
+      "8220788752502",
+      "7821725794422",
+      "7976735670390",
       "8069235310710",
       "8069235671158",
       "8026257686646",
