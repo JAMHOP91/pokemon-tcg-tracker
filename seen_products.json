@@ -17,7 +17,6 @@
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
       "https://www.coolshit.co.nz/product/boosterbundle"
     ],
@@ -174,9 +173,9 @@
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
-      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
-      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest"
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
+      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -310,8 +309,7 @@
   "TCG Collector NZ": {
     "seen_ids": [
       "8542844682436",
-      "8479841648836",
-      "8542847107268"
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -594,7 +592,7 @@
       "8888685723671",
       "8832667877399",
       "8770963537943",
-      "8774665043991"
+      "8847851880471"
     ],
     "zero_streak": 0,
     "warned": false,
