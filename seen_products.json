@@ -177,8 +177,8 @@
   "Hobby Lords - Pokemon": {
     "seen_ids": [
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
-      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
-      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-"
+      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -353,9 +353,9 @@
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/47237"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-15T08:19:45.422393+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -440,6 +440,7 @@
       "10365187621160",
       "10299295236392",
       "10302497227048",
+      "10323223183656",
       "10182936625448",
       "10132850377000"
     ],
@@ -483,6 +484,7 @@
     "seen_ids": [
       "8909649739974",
       "8970819535046",
+      "8909649739974",
       "8970824843462",
       "8909657637062",
       "8855171334342",
@@ -829,6 +831,8 @@
       "8026257686646",
       "8100504862838",
       "8069235310710",
+      "7976735670390",
+      "8026239369334",
       "8069232033910",
       "8230432505974",
       "8069235769462",
@@ -945,8 +949,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
