@@ -81,6 +81,11 @@
       "7699941818429",
       "7558377046077",
       "7850575888445",
+      "7558380781629",
+      "7850575986749",
+      "7558379405373",
+      "7850575495229",
+      "7558379864125",
       "7850575822909",
       "7560189935677",
       "7558381600829",
@@ -400,8 +405,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -414,8 +419,8 @@
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
       "8335789654216",
-      "8312959107272",
-      "8315313553608"
+      "8315313553608",
+      "8312959107272"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -934,9 +939,9 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
       "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
-      "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -945,8 +950,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
