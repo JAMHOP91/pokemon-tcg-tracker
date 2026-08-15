@@ -281,6 +281,7 @@
     "seen_ids": [
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
@@ -612,7 +613,6 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
-      "9012509704349",
       "9012579074205",
       "9014599975069",
       "9012511441053"
@@ -947,8 +947,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
