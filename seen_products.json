@@ -15,6 +15,7 @@
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/premiumcollection",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
@@ -80,6 +81,16 @@
       "7850575495229",
       "7558378455101",
       "7558379864125",
+      "7558377046077",
+      "7850575495229",
+      "7850575822909",
+      "7558380781629",
+      "7558378979389",
+      "7560189935677",
+      "7560189280317",
+      "7699941818429",
+      "7558379405373",
+      "7558381600829",
       "7850575888445",
       "7558379405373",
       "7850575986749",
@@ -263,7 +274,10 @@
       "9328364945647",
       "9388711182575",
       "9328351772911",
-      "9464484921583"
+      "9464484626671",
+      "9464484921583",
+      "9328364945647",
+      "9388711182575"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -400,8 +414,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -439,6 +453,7 @@
       "10299295236392",
       "10270182736168",
       "10323223183656",
+      "10270182736168",
       "10182936625448",
       "10365187621160",
       "10302497227048"
@@ -688,7 +703,21 @@
       "10112186188016",
       "8504547311856",
       "9994681090288",
-      "10112141295856"
+      "9586450235632",
+      "9586387353840",
+      "10111551209712",
+      "10099042582768",
+      "10035621396720",
+      "10111548522736",
+      "10171547386096",
+      "9994678501616",
+      "10112186188016",
+      "10064521429232",
+      "9584394436848",
+      "9550378533104",
+      "10064520904944",
+      "9982539989232",
+      "10035669041392"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -777,8 +806,8 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9381118279934",
       "9173828796670",
+      "9381118279934",
       "9233072521470",
       "9269784477950",
       "9233032642814"
@@ -934,9 +963,9 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
       "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
     ],
     "zero_streak": 0,
     "warned": false,
