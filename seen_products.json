@@ -400,8 +400,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -512,9 +512,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9366286303482",
       "9096634695930",
-      "9294399996154"
+      "9294399996154",
+      "9366286303482"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -756,6 +756,7 @@
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
       "9608224964864",
+      "9188403282176",
       "9188403740928",
       "9188403609856",
       "9366282600704",
@@ -945,8 +946,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
