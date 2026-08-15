@@ -175,9 +175,9 @@
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
-      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
+      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
-      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024"
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -399,8 +399,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -481,6 +481,7 @@
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
       "8909649739974",
+      "8970824843462",
       "8909657637062",
       "8789885321414",
       "8970824843462",
@@ -527,9 +528,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -613,8 +614,8 @@
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
       "9012579074205",
-      "9012511441053",
-      "9014599975069"
+      "9014599975069",
+      "9012511441053"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -760,7 +761,9 @@
       "9188403740928",
       "9188403609856",
       "9188403282176",
-      "9366282600704"
+      "9188403609856",
+      "9366282600704",
+      "9188403740928"
     ],
     "zero_streak": 0,
     "warned": false,
