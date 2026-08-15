@@ -239,8 +239,8 @@
   "Cardtopia NZ": {
     "seen_ids": [
       "9756131819760",
-      "10070962241776",
-      "10076303622384"
+      "10076303622384",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -311,8 +311,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8542847107268",
       "8479841648836",
+      "8542847107268",
       "8542844682436"
     ],
     "zero_streak": 0,
@@ -339,6 +339,9 @@
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/37806",
       "https://hobbymaster.co.nz/products/product/38548",
+      "https://hobbymaster.co.nz/products/product/47237",
+      "https://hobbymaster.co.nz/products/product/45880",
+      "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/38546",
@@ -413,9 +416,9 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8312959107272",
+      "8335789654216",
       "8315313553608",
-      "8335789654216"
+      "8312959107272"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -610,6 +613,7 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
+      "9014599975069",
       "9014563635357",
       "9012579074205",
       "9014599975069",
@@ -756,11 +760,11 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
+      "9188403282176",
       "9188403740928",
-      "9366282600704",
       "9188403609856",
-      "9608224964864",
-      "9188403282176"
+      "9366282600704",
+      "9608224964864"
     ],
     "zero_streak": 0,
     "warned": false,
