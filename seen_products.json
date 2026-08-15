@@ -353,9 +353,9 @@
       "https://hobbymaster.co.nz/products/product/38546",
       "https://hobbymaster.co.nz/products/product/46975"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-15T09:31:11.807247+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -589,6 +589,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8770963537943",
       "8847851880471",
       "8888685723671",
       "8774665043991",
@@ -650,6 +651,17 @@
   "Animal Kingdoms - Pokemon TCG": {
     "seen_ids": [
       "8271706358000",
+      "9550376960240",
+      "9000588542192",
+      "9994678501616",
+      "10098857181424",
+      "10111551209712",
+      "9982539989232",
+      "10099042582768",
+      "8504533713136",
+      "10064521527536",
+      "10035669041392",
+      "9994681090288",
       "8387844997360",
       "10099042582768",
       "10035621396720",
