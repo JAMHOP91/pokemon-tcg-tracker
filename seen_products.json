@@ -286,6 +286,9 @@
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set"
@@ -311,8 +314,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8479841648836",
       "8542847107268",
+      "8479841648836",
       "8542844682436"
     ],
     "zero_streak": 0,
@@ -335,6 +338,7 @@
   "Hobby Master - Pokemon": {
     "seen_ids": [
       "https://hobbymaster.co.nz/products/product/46971",
+      "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/47369",
@@ -481,6 +485,8 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
+      "8909657637062",
+      "8855171334342",
       "8789885321414",
       "8970819535046",
       "8909657637062",
@@ -850,9 +856,9 @@
       "7976735670390",
       "7821725794422"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-15T02:31:07.754620+00:00",
     "prices": {
       "8069213454454": 10.99,
       "8026253328502": 159.99,
@@ -945,8 +951,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
