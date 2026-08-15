@@ -17,6 +17,7 @@
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/boosterbundle",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order"
@@ -261,7 +262,6 @@
     "seen_ids": [
       "9464484626671",
       "9328351772911",
-      "9464484921583",
       "9388711182575",
       "9328364945647"
     ],
@@ -439,6 +439,7 @@
       "10365187621160",
       "10302497227048",
       "10182936625448",
+      "10365187621160",
       "10323223183656",
       "9734074401064",
       "10132850377000"
@@ -756,10 +757,10 @@
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
       "9608224964864",
-      "9366282600704",
+      "9188403740928",
       "9188403609856",
       "9188403282176",
-      "9188403740928"
+      "9366282600704"
     ],
     "zero_streak": 0,
     "warned": false,
