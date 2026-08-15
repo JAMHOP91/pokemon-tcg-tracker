@@ -29,7 +29,6 @@
   "The Game Tree NZ": {
     "seen_ids": [
       "8755462078613",
-      "8760569692309",
       "8713055273109",
       "7730851184789",
       "8755535773845",
@@ -175,9 +174,9 @@
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
-      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
-      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest"
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
+      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -527,9 +526,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -591,6 +590,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8770963537943",
       "8832667877399",
       "8847851880471",
       "8888685723671",
@@ -613,8 +613,8 @@
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
       "9012579074205",
-      "9014599975069",
-      "9012511441053"
+      "9012511441053",
+      "9014599975069"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -740,9 +740,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214103613524",
       "8063603605588",
-      "10214066389076"
+      "10214066389076",
+      "10214103613524"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -779,10 +779,11 @@
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
       "9381118279934",
+      "9173828796670",
       "9233032642814",
       "9233072521470",
       "9269784477950",
-      "9173828796670"
+      "9233072521470"
     ],
     "zero_streak": 0,
     "warned": false,
