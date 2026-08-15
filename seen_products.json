@@ -372,9 +372,9 @@
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-15T04:34:50.509646+00:00",
     "prices": {}
   },
   "WP Games - Pre-Orders": {
@@ -417,9 +417,9 @@
       "8312959107272",
       "8335789654216"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-15T04:34:50.509646+00:00",
     "prices": {
       "8320457048264": 359.99,
       "8319521259720": 44.99,
@@ -505,16 +505,16 @@
   },
   "Cardtopia - Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-15T04:34:50.509646+00:00",
     "prices": {}
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9096634695930",
-      "9294399996154",
-      "9366286303482"
+      "9366286303482",
+      "9294399996154"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -892,6 +892,7 @@
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle",
       "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-team-rocket-s-mewtwo-ex-league-battle-deck",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-rebel-clash-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-y-ex-tin",
       "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-rebel-clash-booster-pack",
