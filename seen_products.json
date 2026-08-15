@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
@@ -29,6 +30,15 @@
   "The Game Tree NZ": {
     "seen_ids": [
       "7559734886549",
+      "7561509896341",
+      "8713055273109",
+      "7730871795861",
+      "8619217879189",
+      "8758360998037",
+      "9011807486101",
+      "8745246556309",
+      "8760561172629",
+      "8760569692309",
       "8964116873365",
       "8758356803733",
       "7730871795861",
@@ -238,8 +248,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "9756131819760",
       "10070962241776",
+      "9756131819760",
       "10076303622384"
     ],
     "zero_streak": 0,
@@ -259,7 +269,6 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9328351772911",
       "9388711182575",
       "9328364945647",
       "9464484626671",
@@ -311,9 +320,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8542844682436",
       "8542847107268",
-      "8479841648836",
-      "8542844682436"
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -512,9 +521,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9294399996154",
       "9366286303482",
-      "9096634695930"
+      "9096634695930",
+      "9294399996154"
     ],
     "zero_streak": 0,
     "warned": false,
