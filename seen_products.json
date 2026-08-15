@@ -115,6 +115,8 @@
       "9136746102947",
       "9107945980067",
       "9136791978147",
+      "8856349376675",
+      "8952687788195",
       "9054391763107",
       "8850541740195",
       "9107946176675",
@@ -263,7 +265,10 @@
       "9328364945647",
       "9464484921583",
       "9388711182575",
-      "9328351772911"
+      "9328351772911",
+      "9464484626671",
+      "9328364945647",
+      "9464484921583"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -286,6 +291,7 @@
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set"
@@ -339,8 +345,12 @@
       "https://hobbymaster.co.nz/products/product/38545",
       "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/46975",
+      "https://hobbymaster.co.nz/products/product/38545",
+      "https://hobbymaster.co.nz/products/product/38548",
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/45878",
+      "https://hobbymaster.co.nz/products/product/46974",
+      "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/37806",
       "https://hobbymaster.co.nz/products/product/46973",
@@ -353,9 +363,9 @@
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/47051"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-15T09:03:11.632992+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -413,8 +423,8 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8312959107272",
       "8315313553608",
+      "8312959107272",
       "8335789654216"
     ],
     "zero_streak": 0,
@@ -739,8 +749,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214103613524",
       "8063603605588",
+      "10214103613524",
       "10214066389076"
     ],
     "zero_streak": 0,
