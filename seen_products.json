@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -311,9 +311,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8479841648836",
       "8542847107268",
-      "8542844682436",
-      "8479841648836"
+      "8542844682436"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -400,8 +400,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -434,7 +434,6 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
-      "10302497227048",
       "9734074401064",
       "10182936625448",
       "10132850377000",
@@ -595,9 +594,9 @@
       "8888685723671",
       "8774665043991"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-15T11:01:14.115359+00:00",
     "prices": {
       "8888685723671": 10.99,
       "8847851880471": 29.99,
