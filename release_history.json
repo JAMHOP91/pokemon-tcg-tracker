@@ -6712,5 +6712,32 @@
     "timestamp": "2026-08-15T18:20:56.814220+00:00",
     "priority": false,
     "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Base_Mega_Evolution_Perfect_Order_Booster_Box.jpg?v=1772363677"
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order)",
+    "url": "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
+    "price": "NZ$29.00",
+    "timestamp": "2026-08-15T19:40:51.745622+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/427180452/Untitled+design+_10_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Zygarde ex Premium Collection *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-zygarde-ex-premium-collection-sealed",
+    "price": "$95.99",
+    "timestamp": "2026-08-15T19:40:51.745622+00:00",
+    "priority": false,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762.jpg?v=1774229117"
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster box 36 packs",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-box-36-packs",
+    "price": "$379.99",
+    "timestamp": "2026-08-15T19:40:51.745622+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399"
   }
 ]
