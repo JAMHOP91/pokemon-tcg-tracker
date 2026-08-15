@@ -236,9 +236,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "9756131819760",
       "10076303622384",
-      "10070962241776"
+      "10070962241776",
+      "9756131819760"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -351,9 +351,9 @@
       "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/47232"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-15T20:15:48.979771+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -439,7 +439,8 @@
       "10302497227048",
       "9734074401064",
       "10299295236392",
-      "10365187621160"
+      "10270182736168",
+      "9734074401064"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -759,7 +760,7 @@
       "9188403740928",
       "9188403609856",
       "9608224964864",
-      "9366282600704"
+      "9188403282176"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -944,8 +945,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
