@@ -15,6 +15,8 @@
       "https://www.coolshit.co.nz/product/boosterbundle",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
       "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
+      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/premiumcollection",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
@@ -569,6 +571,7 @@
       "9152299892885",
       "9268784496789",
       "9210168803477",
+      "9268784496789",
       "9285822251157",
       "9285795938453"
     ],
@@ -611,9 +614,9 @@
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
       "9012511441053",
+      "9012579074205",
       "9012509704349",
-      "9014599975069",
-      "9012579074205"
+      "9014599975069"
     ],
     "zero_streak": 0,
     "warned": false,
