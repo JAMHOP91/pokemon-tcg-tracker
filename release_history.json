@@ -6523,5 +6523,23 @@
     "timestamp": "2026-08-15T05:20:52.923487+00:00",
     "priority": false,
     "image": "http://animalkingdoms.co.nz/cdn/shop/files/MegaEvolutionPitchBlackBooster-3_1200x1200.jpg?v=1784441647"
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon Mega Zygarde ex Premium Collection",
+    "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-08-15T06:41:02.250853+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392"
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
+    "price": "$10.99",
+    "timestamp": "2026-08-15T06:41:02.250853+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pitch-black-booster-bundle.png?v=1784072331"
   }
 ]
