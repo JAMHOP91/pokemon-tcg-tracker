@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/pokemon-trading-card-game-pokemon-tcg-2025-world-championships-deck"
@@ -174,9 +175,9 @@
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
+      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
-      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
-      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-"
+      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -236,9 +237,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10076303622384",
+      "10070962241776",
       "9756131819760",
-      "10070962241776"
+      "10076303622384"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -351,9 +352,9 @@
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/46971"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-15T19:17:41.595238+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -411,9 +412,9 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8335789654216",
       "8315313553608",
-      "8312959107272"
+      "8312959107272",
+      "8335789654216"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -510,9 +511,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9096634695930",
       "9366286303482",
-      "9294399996154"
+      "9294399996154",
+      "9096634695930"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -739,9 +740,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214103613524",
       "10214066389076",
-      "8063603605588"
+      "8063603605588",
+      "10214103613524"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -844,6 +845,16 @@
       "8220788752502",
       "7977047195766",
       "8069235671158",
+      "8220788752502",
+      "7821725794422",
+      "8171677057142",
+      "7831122182262",
+      "8026253328502",
+      "8185012945014",
+      "8100504862838",
+      "8220156297334",
+      "8069235310710",
+      "8026239369334",
       "8069213454454",
       "7976837546102",
       "8026253328502",
