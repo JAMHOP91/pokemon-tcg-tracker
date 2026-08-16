@@ -122,6 +122,19 @@
       "9136791978147",
       "8565549564067",
       "9101958414499",
+      "8386235957411",
+      "9107945980067",
+      "9054391763107",
+      "9101936459939",
+      "8693154349219",
+      "9134948253859",
+      "9000085717155",
+      "9136790044835",
+      "9136746102947",
+      "7507178979491",
+      "7409030103203",
+      "8856349376675",
+      "9136790274211",
       "7540284915875",
       "9136790044835",
       "9107945980067",
@@ -336,6 +349,9 @@
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/38545",
+      "https://hobbymaster.co.nz/products/product/46975",
+      "https://hobbymaster.co.nz/products/product/47369",
       "https://hobbymaster.co.nz/products/product/38548",
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/38545",
@@ -350,9 +366,9 @@
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/47232"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-16T18:01:18.930948+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -591,6 +607,8 @@
     "seen_ids": [
       "8832667877399",
       "8770963537943",
+      "8888685723671",
+      "8832667877399",
       "8847851880471",
       "8888685723671",
       "8774665043991"
@@ -929,8 +947,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
       "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
+      "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
