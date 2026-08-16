@@ -285,7 +285,7 @@
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set"
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -350,9 +350,9 @@
       "https://hobbymaster.co.nz/products/product/38546",
       "https://hobbymaster.co.nz/products/product/45878"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-16T15:45:55.032764+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -397,8 +397,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -593,7 +593,8 @@
       "8888685723671",
       "8832667877399",
       "8774665043991",
-      "8770963537943"
+      "8770963537943",
+      "8847851880471"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -754,6 +755,8 @@
     "seen_ids": [
       "9188403282176",
       "9608224964864",
+      "9366282600704",
+      "9188403740928",
       "9188403609856",
       "9366282600704",
       "9188403740928"
@@ -774,6 +777,7 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9269784477950",
       "9233072521470",
       "9233032642814",
       "9381118279934",
@@ -823,6 +827,13 @@
   },
   "Sealed & Slabbed - Pokemon Sealed": {
     "seen_ids": [
+      "7977019080822",
+      "8069235671158",
+      "8230432505974",
+      "7976837546102",
+      "8026239369334",
+      "8026253328502",
+      "8069232033910",
       "8185012945014",
       "8069235671158",
       "7976735670390",
