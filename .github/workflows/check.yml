@@ -1,8 +1,6 @@
 ﻿name: Check for new Pokemon TCG products
 
 on:
-  schedule:
-    - cron: "*/15 * * * *"
   workflow_dispatch: {}
 
 permissions:
