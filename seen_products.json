@@ -84,7 +84,8 @@
       "7558380781629",
       "7558378979389",
       "7560189935677",
-      "7558377930813"
+      "7850575888445",
+      "7699941818429"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -308,6 +309,7 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8479841648836",
       "8542847107268",
       "8479841648836",
       "8542844682436"
@@ -397,8 +399,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -525,9 +527,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -568,6 +570,7 @@
       "9268784496789",
       "9285790793877",
       "9285822251157",
+      "9210168803477",
       "9319727923349",
       "9210168803477"
     ],
@@ -942,8 +945,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
