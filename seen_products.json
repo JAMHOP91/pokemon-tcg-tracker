@@ -235,9 +235,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10076303622384",
       "9756131819760",
-      "10070962241776",
-      "10076303622384"
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -340,6 +340,7 @@
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/37806",
       "https://hobbymaster.co.nz/products/product/38545",
+      "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/38548",
@@ -482,7 +483,6 @@
       "8789885321414",
       "8909649739974",
       "8855171334342",
-      "8970819535046",
       "8931072311494",
       "8970824843462"
     ],
@@ -510,8 +510,8 @@
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9096634695930",
-      "9366286303482",
-      "9294399996154"
+      "9294399996154",
+      "9366286303482"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -610,8 +610,8 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
-      "9014599975069",
-      "9012579074205"
+      "9012579074205",
+      "9014599975069"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -941,8 +941,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
