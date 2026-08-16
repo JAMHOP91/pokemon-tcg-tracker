@@ -284,6 +284,7 @@
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set"
     ],
@@ -308,9 +309,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8542847107268",
       "8542844682436",
-      "8479841648836",
-      "8542847107268"
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -775,6 +776,7 @@
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
       "9233072521470",
+      "9233032642814",
       "9269784477950",
       "9173828796670",
       "9233032642814",
