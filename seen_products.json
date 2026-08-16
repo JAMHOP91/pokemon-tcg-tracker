@@ -259,6 +259,7 @@
       "9464484921583",
       "9464484626671",
       "9388711182575",
+      "9328364945647",
       "9328351772911",
       "9328364945647"
     ],
@@ -350,9 +351,9 @@
       "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/45878"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-16T06:15:59.090891+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -525,8 +526,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
     ],
     "zero_streak": 0,
@@ -593,7 +594,8 @@
       "8847851880471",
       "8774665043991",
       "8888685723671",
-      "8832667877399"
+      "8847851880471",
+      "8770963537943"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -737,9 +739,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
+      "8063603605588",
       "10214103613524",
-      "10214066389076",
-      "8063603605588"
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -775,11 +777,11 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9233032642814",
-      "9269784477950",
       "9233072521470",
+      "9233032642814",
+      "9381118279934",
       "9173828796670",
-      "9381118279934"
+      "9269784477950"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -942,8 +944,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
