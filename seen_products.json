@@ -19,7 +19,9 @@
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
-      "https://www.coolshit.co.nz/product/boosterbundle"
+      "https://www.coolshit.co.nz/product/boosterbundle",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -398,8 +400,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -412,8 +414,8 @@
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
       "8312959107272",
-      "8335789654216",
-      "8315313553608"
+      "8315313553608",
+      "8335789654216"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -510,9 +512,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9366286303482",
+      "9294399996154",
       "9096634695930",
-      "9294399996154"
+      "9366286303482"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -779,6 +781,7 @@
     "seen_ids": [
       "9233032642814",
       "9173828796670",
+      "9233032642814",
       "9381118279934",
       "9269784477950",
       "9233072521470"
