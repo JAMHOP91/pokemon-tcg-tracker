@@ -4,9 +4,9 @@
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-16T23:09:10.547871+00:00",
     "prices": {}
   },
   "Cool Shit - Pokemon": {
@@ -235,9 +235,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "9756131819760",
+      "10076303622384",
       "10070962241776",
-      "10076303622384"
+      "9756131819760"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -287,9 +287,9 @@
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-16T23:09:10.547871+00:00",
     "prices": {}
   },
   "30th Celebration Box - Web Monitor": {
@@ -396,8 +396,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -566,6 +566,7 @@
       "9268784496789",
       "9285795938453",
       "9152299892885",
+      "9285795938453",
       "9210168803477",
       "9285822251157"
     ],
@@ -587,10 +588,10 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8832667877399",
       "8770963537943",
       "8888685723671",
-      "8774665043991"
+      "8774665043991",
+      "8832667877399"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -607,8 +608,8 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
-      "9014599975069",
-      "9012579074205"
+      "9012579074205",
+      "9014599975069"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -751,6 +752,7 @@
       "9188403740928",
       "9188403609856",
       "9366282600704",
+      "9188403740928",
       "9188403282176",
       "9608224964864"
     ],
@@ -937,8 +939,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
