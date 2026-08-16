@@ -19,6 +19,10 @@
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/boosterbundle",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/premiumcollection",
+      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 0,
@@ -85,7 +89,8 @@
       "7558377930813",
       "7558380781629",
       "7850575888445",
-      "7560189280317"
+      "7560189280317",
+      "7850575822909"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -928,7 +933,7 @@
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-booster-pack": 29.0,
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box": 170.0,
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle": 240.0,
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-2": 99.0
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-2": 110.0
     }
   },
   "Games Lab - Pokemon TCG": {
