@@ -174,8 +174,8 @@
   "Hobby Lords - Pokemon": {
     "seen_ids": [
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
-      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
-      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024"
+      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
+      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -308,9 +308,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8479841648836",
+      "8542847107268",
       "8542844682436",
-      "8542847107268"
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -798,7 +798,6 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9577428353301",
       "9551118827797",
       "9551121678613",
       "9530379600149",
@@ -941,8 +940,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
