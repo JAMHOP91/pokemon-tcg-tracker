@@ -1,8 +1,8 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -83,6 +83,11 @@
       "7558379864125",
       "7850575986749",
       "7560189935677",
+      "7558381600829",
+      "7850575986749",
+      "7850575822909",
+      "7850575495229",
+      "7558378979389",
       "7560189280317",
       "7558378979389"
     ],
@@ -235,9 +240,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10076303622384",
+      "9756131819760",
       "10070962241776",
-      "9756131819760"
+      "10076303622384"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -409,9 +414,9 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8312959107272",
+      "8315313553608",
       "8335789654216",
-      "8315313553608"
+      "8312959107272"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -607,8 +612,8 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
-      "9014599975069",
-      "9012579074205"
+      "9012579074205",
+      "9014599975069"
     ],
     "zero_streak": 0,
     "warned": false,
