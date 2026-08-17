@@ -349,9 +349,9 @@
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/47369"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-17T10:48:07.054029+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -898,7 +898,9 @@
       "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sun-moon-elite-trainer-box-lunala",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
-      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box"
+      "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-y-ex-tin",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-charizard-ex-premium-collection",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sun-moon-elite-trainer-box-lunala"
     ],
     "zero_streak": 0,
     "warned": false,
