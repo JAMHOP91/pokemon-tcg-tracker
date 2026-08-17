@@ -235,9 +235,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
       "9756131819760",
-      "10076303622384"
+      "10076303622384",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -437,7 +437,10 @@
       "10132850377000",
       "9734074401064",
       "10299295236392",
-      "10323223183656"
+      "10182936625448",
+      "9734074401064",
+      "10132850377000",
+      "10270182736168"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -750,6 +753,7 @@
     "seen_ids": [
       "9188403282176",
       "9608224964864",
+      "9366282600704",
       "9188403609856",
       "9366282600704",
       "9188403740928"
@@ -926,9 +930,9 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298"
+      "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
     ],
     "zero_streak": 0,
     "warned": false,
