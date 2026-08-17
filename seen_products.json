@@ -1,8 +1,8 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -235,9 +235,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
       "9756131819760",
-      "10076303622384"
+      "10076303622384",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -430,9 +430,10 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
-      "10323223183656",
+      "9734074401064",
       "10270182736168",
-      "10132850377000",
+      "10323223183656",
+      "10302410391848",
       "10182936625448",
       "10299295236392",
       "10365187621160",
@@ -589,10 +590,10 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8888685723671",
-      "8770963537943",
       "8832667877399",
-      "8774665043991"
+      "8888685723671",
+      "8774665043991",
+      "8770963537943"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -772,11 +773,11 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9233032642814",
       "9173828796670",
-      "9381118279934",
+      "9233072521470",
       "9269784477950",
-      "9233072521470"
+      "9233032642814",
+      "9381118279934"
     ],
     "zero_streak": 0,
     "warned": false,
