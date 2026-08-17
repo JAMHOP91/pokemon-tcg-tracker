@@ -7333,5 +7333,23 @@
     "timestamp": "2026-08-17T14:50:56.542115+00:00",
     "priority": false,
     "image": "http://toytime.co.nz/cdn/shop/files/pok10407a-01.png?v=1784500570"
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution - Perfect Order Booster (Single)",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-single",
+    "price": "$9.99",
+    "timestamp": "2026-08-17T16:20:45.995453+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Meowth_EN_grande.jpg?v=1774554427"
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
+    "price": "$9.99",
+    "timestamp": "2026-08-17T16:20:45.995453+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191"
   }
 ]
