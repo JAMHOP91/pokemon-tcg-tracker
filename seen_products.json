@@ -235,9 +235,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "9756131819760",
       "10070962241776",
-      "10076303622384"
+      "10076303622384",
+      "9756131819760"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -409,6 +409,7 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
+      "8315313553608",
       "8335789654216",
       "8315313553608",
       "8312959107272"
@@ -611,8 +612,8 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
-      "9012579074205",
-      "9014599975069"
+      "9014599975069",
+      "9012579074205"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -776,6 +777,7 @@
     "seen_ids": [
       "9173828796670",
       "9233072521470",
+      "9269784477950",
       "9233032642814",
       "9269784477950",
       "9381118279934"
@@ -884,6 +886,9 @@
       "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sun-moon-elite-trainer-box-lunala",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-team-rocket-s-mewtwo-ex-league-battle-deck",
       "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/copy-of-pokemon-tcg-sword-shield-evolving-skies-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-team-rocket-s-mewtwo-ex-league-battle-deck",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-2",
       "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-elite-trainer-box",
@@ -931,8 +936,8 @@
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
       "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -941,8 +946,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
