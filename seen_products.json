@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle"
@@ -36,6 +37,10 @@
       "8755462799509",
       "8758360998037",
       "8745246556309",
+      "9011807486101",
+      "7730871795861",
+      "8619217879189",
+      "8755535773845",
       "8964116873365",
       "7559734886549",
       "8760561172629",
@@ -260,6 +265,7 @@
       "9464484921583",
       "9328351772911",
       "9464484626671",
+      "9464484921583",
       "9388711182575",
       "9328364945647"
     ],
@@ -309,9 +315,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8542847107268",
       "8479841648836",
-      "8542844682436",
-      "8542847107268"
+      "8542844682436"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -737,9 +743,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
+      "8063603605588",
       "10214103613524",
-      "8063603605588"
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -757,7 +763,8 @@
       "9188403609856",
       "9608224964864",
       "9188403740928",
-      "9366282600704"
+      "9366282600704",
+      "9188403609856"
     ],
     "zero_streak": 0,
     "warned": false,
