@@ -256,6 +256,7 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9464484921583",
       "9328351772911",
       "9464484921583",
       "9328364945647",
@@ -285,7 +286,12 @@
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
-      "https://www.collectallday.com/new/pokeball-tin-2021"
+      "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -349,9 +355,9 @@
       "https://hobbymaster.co.nz/products/product/47369",
       "https://hobbymaster.co.nz/products/product/46973"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-17T16:01:17.689824+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -931,8 +937,8 @@
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
       "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298"
+      "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
