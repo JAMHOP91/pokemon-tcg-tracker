@@ -11,6 +11,8 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/boosterbundle",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
@@ -235,9 +237,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10076303622384",
       "10070962241776",
-      "9756131819760"
+      "9756131819760",
+      "10076303622384"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -349,9 +351,9 @@
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/38546"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-17T05:15:46.967272+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -396,8 +398,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -511,8 +513,8 @@
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9366286303482",
-      "9294399996154",
-      "9096634695930"
+      "9096634695930",
+      "9294399996154"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -563,6 +565,7 @@
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
+      "9268784496789",
       "9319727923349",
       "9152299892885",
       "9285790793877",
@@ -802,7 +805,9 @@
       "9537919222037",
       "9537919516949",
       "9551121678613",
-      "9551118827797"
+      "9551118827797",
+      "9577428353301",
+      "9537919516949"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -939,8 +944,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
