@@ -27,6 +27,11 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
+      "8964116873365",
+      "8713055273109",
+      "8760561172629",
+      "7730851184789",
+      "8755462078613",
       "9011807486101",
       "8745246556309",
       "7559734886549",
@@ -485,7 +490,12 @@
       "8855171334342",
       "8970819535046",
       "8931072311494",
-      "8909649739974"
+      "8970819535046",
+      "8855171334342",
+      "8970824843462",
+      "8909649739974",
+      "8909657637062",
+      "8789885321414"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -804,7 +814,8 @@
       "9530379600149",
       "9577428353301",
       "9551118827797",
-      "9537919516949"
+      "9530379600149",
+      "9577428353301"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -930,9 +941,9 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
       "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -941,8 +952,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
