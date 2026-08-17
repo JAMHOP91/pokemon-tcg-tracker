@@ -396,8 +396,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -508,8 +508,8 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9096634695930",
       "9294399996154",
+      "9096634695930",
       "9366286303482"
     ],
     "zero_streak": 0,
@@ -653,6 +653,14 @@
       "10064521527536",
       "9550376960240",
       "10171547386096",
+      "8387844997360",
+      "10098927075568",
+      "9550376960240",
+      "8271706358000",
+      "9982539989232",
+      "8504547311856",
+      "10111548522736",
+      "8504533713136",
       "9014123954416",
       "9994678501616",
       "8271706358000",
@@ -875,6 +883,10 @@
   "Big Potato Collectibles - Pokemon Sealed": {
     "seen_ids": [
       "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-x-ex-tin",
+      "https://www.bigpotato.co.nz/product-page/copy-of-pokemon-tcg-sword-shield-evolving-skies-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-team-rocket-s-mewtwo-ex-league-battle-deck",
+      "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-y-ex-tin",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
       "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-happy-meal-pack-150-unit-sealed-case",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
       "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-booster-pack",
