@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle"
@@ -39,6 +40,9 @@
       "8619217879189",
       "8755462799509",
       "7730851184789",
+      "8964116873365",
+      "8755535773845",
+      "7730871795861",
       "9011807486101",
       "8755535773845",
       "7561509896341",
@@ -174,8 +178,8 @@
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
-      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024"
     ],
     "zero_streak": 0,
@@ -309,9 +313,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8542844682436",
+      "8542847107268",
       "8479841648836",
-      "8542847107268"
+      "8542844682436"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -397,8 +401,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
-      "10158427111719"
+      "10158427111719",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -511,6 +515,7 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
+      "9096634695930",
       "9294399996154",
       "9096634695930",
       "9366286303482"
@@ -775,6 +780,8 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9173828796670",
+      "9381118279934",
       "9269784477950",
       "9381118279934",
       "9173828796670",
@@ -942,8 +949,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
