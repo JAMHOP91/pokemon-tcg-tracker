@@ -192,6 +192,7 @@
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024"
@@ -369,7 +370,7 @@
     ],
     "zero_streak": 2,
     "warned": false,
-    "first_failure_at": "2026-08-18T12:20:54.892470+00:00",
+    "first_failure_at": null,
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -427,6 +428,7 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
+      "8335789654216",
       "8312959107272",
       "8335789654216",
       "8315313553608"
@@ -452,6 +454,11 @@
       "10132850377000",
       "10302497227048",
       "10299295236392",
+      "10302410391848",
+      "10365187621160",
+      "10323223183656",
+      "10132850377000",
+      "10302497227048",
       "9734074401064",
       "10323223183656",
       "10302410391848",
@@ -627,8 +634,8 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
-      "9014599975069",
-      "9012579074205"
+      "9012579074205",
+      "9014599975069"
     ],
     "zero_streak": 0,
     "warned": false,
