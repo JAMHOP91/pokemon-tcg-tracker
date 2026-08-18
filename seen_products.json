@@ -355,6 +355,13 @@
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/38545",
+      "https://hobbymaster.co.nz/products/product/45463",
+      "https://hobbymaster.co.nz/products/product/47232",
+      "https://hobbymaster.co.nz/products/product/38548",
+      "https://hobbymaster.co.nz/products/product/46974",
+      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/47369",
@@ -608,8 +615,8 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8770963537943",
       "8774665043991",
+      "8770963537943",
       "8832667877399"
     ],
     "zero_streak": 0,
@@ -627,8 +634,8 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
-      "9014599975069",
-      "9012579074205"
+      "9012579074205",
+      "9014599975069"
     ],
     "zero_streak": 0,
     "warned": false,
