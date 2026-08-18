@@ -1,8 +1,8 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 0,
@@ -87,9 +87,9 @@
       "7558381600829",
       "7560189280317"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-18T21:01:22.568223+00:00",
     "prices": {
       "7850575986749": 48.0,
       "7850575888445": 48.0,
@@ -327,6 +327,7 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8542847107268",
       "8479841648836",
       "8542847107268",
       "8542844682436"
@@ -498,7 +499,8 @@
     "seen_ids": [
       "8970819535046",
       "8789885321414",
-      "8909649739974",
+      "8909657637062",
+      "8855171334342",
       "8970824843462",
       "8931072311494",
       "8909657637062",
@@ -527,8 +529,8 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9096634695930",
       "9294399996154",
+      "9096634695930",
       "9366286303482"
     ],
     "zero_streak": 0,
@@ -612,9 +614,9 @@
       "8770963537943",
       "8832667877399"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-18T21:01:22.568223+00:00",
     "prices": {
       "8888685723671": 10.99,
       "8847851880471": 29.99,
@@ -752,9 +754,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "8063603605588",
       "10214066389076",
-      "10214103613524"
+      "10214103613524",
+      "8063603605588"
     ],
     "zero_streak": 0,
     "warned": false,
