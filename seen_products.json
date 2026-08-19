@@ -1,8 +1,8 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin"
     ],
     "zero_streak": 0,
@@ -254,9 +254,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10070962241776",
       "10076303622384",
-      "9756131819760",
-      "10070962241776"
+      "9756131819760"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -354,6 +354,13 @@
       "https://hobbymaster.co.nz/products/product/38545",
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/38548",
+      "https://hobbymaster.co.nz/products/product/47369",
+      "https://hobbymaster.co.nz/products/product/38545",
+      "https://hobbymaster.co.nz/products/product/45463",
+      "https://hobbymaster.co.nz/products/product/47223",
+      "https://hobbymaster.co.nz/products/product/45878",
+      "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/45878",
@@ -586,6 +593,7 @@
       "9210168803477",
       "9285822251157",
       "9319727923349",
+      "9210168803477",
       "9285790793877",
       "9268784496789",
       "9152299892885"
@@ -609,8 +617,8 @@
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
       "8770963537943",
-      "8774665043991",
-      "8832667877399"
+      "8832667877399",
+      "8774665043991"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -752,6 +760,7 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
+      "8063603605588",
       "10214103613524",
       "8063603605588",
       "10214066389076"
@@ -816,6 +825,8 @@
     "seen_ids": [
       "9530379600149",
       "9537919516949",
+      "9577428123925",
+      "9577428353301",
       "9537919222037",
       "9551118827797",
       "9577428353301",
