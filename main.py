@@ -61,6 +61,7 @@ from sites import sealedandslabbed
 from sites import bigpotato
 from sites import gameslab
 from sites import goblingames
+from sites import razorleaf
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 STATUS_FILE = Path(__file__).parent / "status.json"
@@ -110,6 +111,7 @@ SITES = [
     (bigpotato.SITE_NAME, bigpotato),
     (gameslab.SITE_NAME, gameslab),
     (goblingames.SITE_NAME, goblingames),
+    (razorleaf.SITE_NAME, razorleaf),
 ]
 
 DEFAULT_FAILURE_THRESHOLD_MINUTES = 90
