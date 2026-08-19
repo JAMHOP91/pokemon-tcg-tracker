@@ -74,6 +74,8 @@
       "7850575495229",
       "7558377046077",
       "7560189280317",
+      "7558379864125",
+      "7558377046077",
       "7560189935677",
       "7558379864125",
       "7699941818429",
@@ -543,8 +545,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -608,8 +610,8 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8774665043991",
       "8832667877399",
+      "8774665043991",
       "8770963537943"
     ],
     "zero_streak": 0,
@@ -753,8 +755,8 @@
   "Game Corner - Pokemon": {
     "seen_ids": [
       "8063603605588",
-      "10214066389076",
-      "10214103613524"
+      "10214103613524",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
