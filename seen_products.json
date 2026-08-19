@@ -328,8 +328,8 @@
   "TCG Collector NZ": {
     "seen_ids": [
       "8542844682436",
-      "8542847107268",
-      "8479841648836"
+      "8479841648836",
+      "8542847107268"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -945,9 +945,9 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
+      "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298"
     ],
     "zero_streak": 0,
     "warned": false,
