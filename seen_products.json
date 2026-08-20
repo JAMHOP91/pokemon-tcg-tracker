@@ -32,6 +32,10 @@
       "8619217879189",
       "8755535773845",
       "7730851184789",
+      "8713055273109",
+      "8758360998037",
+      "8619217879189",
+      "8755462799509",
       "7730871795861",
       "8964116873365",
       "8755462799509",
@@ -263,9 +267,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10070962241776",
       "9756131819760",
-      "10076303622384",
-      "10070962241776"
+      "10076303622384"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -361,6 +365,13 @@
     "seen_ids": [
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/38548",
+      "https://hobbymaster.co.nz/products/product/47369",
+      "https://hobbymaster.co.nz/products/product/47237",
+      "https://hobbymaster.co.nz/products/product/38545",
+      "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/47232",
+      "https://hobbymaster.co.nz/products/product/45463",
+      "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/38546",
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/46975",
@@ -437,8 +448,8 @@
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
       "8335789654216",
-      "8312959107272",
-      "8315313553608"
+      "8315313553608",
+      "8312959107272"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -536,9 +547,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9096634695930",
       "9366286303482",
-      "9294399996154"
+      "9294399996154",
+      "9096634695930"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -955,8 +966,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
       "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
       "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298"
     ],
     "zero_streak": 0,
@@ -966,8 +977,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
