@@ -81,6 +81,8 @@
       "7558381600829",
       "7560189935677",
       "7560189280317",
+      "7558377046077",
+      "7558380781629",
       "7850575822909",
       "7558379405373",
       "7558378455101",
@@ -336,9 +338,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8542844682436",
+      "8479841648836",
       "8542847107268",
-      "8479841648836"
+      "8542844682436"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -374,7 +376,8 @@
       "https://hobbymaster.co.nz/products/product/38545",
       "https://hobbymaster.co.nz/products/product/47369",
       "https://hobbymaster.co.nz/products/product/46971",
-      "https://hobbymaster.co.nz/products/product/47223"
+      "https://hobbymaster.co.nz/products/product/45878",
+      "https://hobbymaster.co.nz/products/product/47237"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -536,9 +539,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9294399996154",
       "9096634695930",
-      "9366286303482"
+      "9366286303482",
+      "9294399996154"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -552,8 +555,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -638,8 +641,8 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
-      "9012579074205",
-      "9014599975069"
+      "9014599975069",
+      "9012579074205"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -966,8 +969,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
