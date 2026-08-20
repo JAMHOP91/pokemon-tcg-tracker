@@ -200,8 +200,8 @@
   "Hobby Lords - Pokemon": {
     "seen_ids": [
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
-      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
-      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest"
+      "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
+      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -535,8 +535,8 @@
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9294399996154",
-      "9096634695930",
-      "9366286303482"
+      "9366286303482",
+      "9096634695930"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -761,9 +761,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
+      "8063603605588",
       "10214066389076",
-      "10214103613524",
-      "8063603605588"
+      "10214103613524"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -777,6 +777,7 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
+      "9188403282176",
       "9366282600704",
       "9188403282176",
       "9188403609856",
