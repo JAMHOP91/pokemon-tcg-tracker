@@ -1,8 +1,8 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-lumiose-city-mini-tin",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 51,
@@ -137,6 +137,9 @@
       "8805645254819",
       "9225965764771",
       "9054391763107",
+      "7409030103203",
+      "8856349376675",
+      "8952687788195",
       "8693154349219",
       "9107946176675",
       "9136790044835",
@@ -201,9 +204,9 @@
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
+      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
-      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
-      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-"
+      "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -309,6 +312,8 @@
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
@@ -619,9 +624,9 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8832667877399",
       "8770963537943",
-      "8774665043991",
-      "8832667877399"
+      "8774665043991"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -638,8 +643,8 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
-      "9014599975069",
-      "9012579074205"
+      "9012579074205",
+      "9014599975069"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -830,7 +835,11 @@
       "9537919516949",
       "9577428353301",
       "9577428123925",
-      "9530379600149"
+      "9537919222037",
+      "9537919516949",
+      "9551121678613",
+      "9530379600149",
+      "9577428353301"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -967,8 +976,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
