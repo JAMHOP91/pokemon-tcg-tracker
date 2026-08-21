@@ -541,9 +541,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
+      "9096634695930",
       "9294399996154",
-      "9366286303482",
-      "9096634695930"
+      "9366286303482"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -643,8 +643,8 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
-      "9012579074205",
-      "9014599975069"
+      "9014599975069",
+      "9012579074205"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -971,8 +971,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
