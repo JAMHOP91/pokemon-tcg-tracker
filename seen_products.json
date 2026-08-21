@@ -78,6 +78,15 @@
       "7560189935677",
       "7560189280317",
       "7558381600829",
+      "7699941818429",
+      "7558380781629",
+      "7560189280317",
+      "7558378979389",
+      "7558379405373",
+      "7850575888445",
+      "7558379864125",
+      "7558378455101",
+      "7850575495229",
       "7850575822909",
       "7558378979389",
       "7558377930813",
@@ -291,7 +300,7 @@
       "9464484626671",
       "9328351772911",
       "9464484921583",
-      "9328364945647"
+      "9464484626671"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -339,9 +348,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8542847107268",
+      "8542844682436",
       "8479841648836",
-      "8542844682436"
+      "8542847107268"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -557,8 +566,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -587,9 +596,9 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/celebration::sold_out::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order::sold_out::View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order)",
-      "https://www.coolshit.co.nz/product/celebration::available::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
-      "https://www.coolshit.co.nz/product/celebration::sold_out::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP"
+      "https://www.coolshit.co.nz/product/celebration::available::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -707,6 +716,7 @@
       "10171572912368",
       "10171560952048",
       "8504547311856",
+      "8504549048560",
       "9586387353840",
       "10112184385776",
       "9584390013168",
