@@ -313,6 +313,7 @@
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
@@ -766,9 +767,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214103613524",
+      "10214066389076",
       "8063603605588",
-      "10214066389076"
+      "10214103613524"
     ],
     "zero_streak": 0,
     "warned": false,
