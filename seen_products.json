@@ -135,6 +135,15 @@
       "8856349376675",
       "8565549564067",
       "9136791978147",
+      "9134948253859",
+      "9101936459939",
+      "9225967239331",
+      "8668035317923",
+      "8386235957411",
+      "9225965666467",
+      "9107946176675",
+      "6051069657251",
+      "8856349376675",
       "9227332452515",
       "9136790044835",
       "9225967042723",
@@ -210,9 +219,9 @@
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-21T16:31:13.613893+00:00",
     "prices": {}
   },
   "TCG NZ": {
@@ -268,9 +277,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10076303622384",
+      "10070962241776",
       "9756131819760",
-      "10070962241776"
+      "10076303622384"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -544,8 +553,8 @@
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
       "9294399996154",
-      "9366286303482",
-      "9096634695930"
+      "9096634695930",
+      "9366286303482"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -589,9 +598,9 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/celebration::available::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
       "https://www.coolshit.co.nz/product/celebration::sold_out::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order::sold_out::View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order)"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order::sold_out::View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order)",
+      "https://www.coolshit.co.nz/product/celebration::available::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP"
     ],
     "zero_streak": 0,
     "warned": false,
