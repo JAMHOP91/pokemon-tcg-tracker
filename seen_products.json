@@ -266,9 +266,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "9756131819760",
       "10070962241776",
-      "10076303622384",
-      "9756131819760"
+      "10076303622384"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -339,9 +339,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8479841648836",
       "8542847107268",
-      "8542844682436",
-      "8479841648836"
+      "8542844682436"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -557,8 +557,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
