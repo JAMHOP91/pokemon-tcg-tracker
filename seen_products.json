@@ -266,9 +266,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10076303622384",
       "10070962241776",
-      "9756131819760"
+      "9756131819760",
+      "10076303622384"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -366,6 +366,7 @@
       "https://hobbymaster.co.nz/products/product/47369",
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/46974",
+      "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/46973",
@@ -442,8 +443,8 @@
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
       "8312959107272",
-      "8315313553608",
-      "8335789654216"
+      "8335789654216",
+      "8315313553608"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -557,8 +558,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -588,8 +589,8 @@
   "Cool Shit - Status Watch": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/celebration::sold_out::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
-      "https://www.coolshit.co.nz/product/celebration::available::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order::sold_out::View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order)"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order::sold_out::View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order)",
+      "https://www.coolshit.co.nz/product/celebration::available::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -786,7 +787,8 @@
     "seen_ids": [
       "9188403609856",
       "9188403740928",
-      "9188403282176",
+      "9188403609856",
+      "9608224964864",
       "9366282600704",
       "9608224964864"
     ],
@@ -808,6 +810,7 @@
     "seen_ids": [
       "9269784477950",
       "9381118279934",
+      "9269784477950",
       "9173828796670",
       "9233072521470",
       "9233032642814"
@@ -914,6 +917,9 @@
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-2",
       "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/copy-of-pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-blister-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-booster-pack",
