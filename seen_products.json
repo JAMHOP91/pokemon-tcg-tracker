@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
@@ -463,6 +464,10 @@
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
       "10302497227048",
+      "10270182736168",
+      "10365187621160",
+      "9734074401064",
+      "10132850377000",
       "10302410391848",
       "10365187621160",
       "10299295236392",
@@ -624,6 +629,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8832667877399",
       "8774665043991",
       "8832667877399",
       "8770963537943"
@@ -768,9 +774,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "8063603605588",
+      "10214103613524",
       "10214066389076",
-      "10214103613524"
+      "8063603605588"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -973,8 +979,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
