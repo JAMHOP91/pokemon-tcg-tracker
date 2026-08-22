@@ -204,6 +204,7 @@
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
+      "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
       "https://www.hobbylords.co.nz/products/single/hisuian-typhlosion-card-display-gift-set-simplified-chinese-ver-",
       "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024"
@@ -426,9 +427,9 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10158427111719",
       "10341495734567",
-      "10200199889191"
+      "10200199889191",
+      "10158427111719"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -441,6 +442,7 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
+      "8315313553608",
       "8335789654216",
       "8315313553608",
       "8312959107272"
@@ -510,6 +512,7 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
+      "8931072311494",
       "8909649739974",
       "8789885321414",
       "8970819535046",
@@ -643,8 +646,8 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
-      "9014599975069",
-      "9012579074205"
+      "9012579074205",
+      "9014599975069"
     ],
     "zero_streak": 0,
     "warned": false,
