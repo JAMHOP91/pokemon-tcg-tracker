@@ -135,6 +135,22 @@
       "9134948253859",
       "9225965764771",
       "9107945980067",
+      "9136790044835",
+      "9081919176867",
+      "9225966813347",
+      "9101935771811",
+      "8386235957411",
+      "8805645254819",
+      "9136746102947",
+      "9107946176675",
+      "9000085717155",
+      "8565549564067",
+      "9225967239331",
+      "6051069657251",
+      "9054391763107",
+      "7507178979491",
+      "8668035317923",
+      "8952687788195",
       "8850541740195",
       "8693154349219",
       "9136790208675",
@@ -441,9 +457,9 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8335789654216",
       "8315313553608",
-      "8312959107272"
+      "8312959107272",
+      "8335789654216"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -462,8 +478,6 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
-      "10365187621160",
-      "10302410391848",
       "10302497227048",
       "10270182736168",
       "10323223183656",
@@ -643,8 +657,8 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
-      "9014599975069",
-      "9012579074205"
+      "9012579074205",
+      "9014599975069"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -962,8 +976,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
       "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
     ],
     "zero_streak": 0,
