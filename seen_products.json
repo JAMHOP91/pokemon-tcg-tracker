@@ -463,6 +463,7 @@
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
       "10365187621160",
+      "10302497227048",
       "10270182736168",
       "10299295236392",
       "10132850377000",
@@ -541,8 +542,8 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9096634695930",
       "9366286303482",
+      "9096634695930",
       "9294399996154"
     ],
     "zero_streak": 79,
@@ -806,7 +807,7 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9381118279934",
+      "9173828796670",
       "9233032642814",
       "9269784477950",
       "9233072521470",
@@ -962,9 +963,9 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
+      "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298"
     ],
     "zero_streak": 0,
     "warned": false,
