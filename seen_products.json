@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack"
@@ -309,6 +310,8 @@
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
@@ -337,6 +340,7 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8542844682436",
       "8479841648836",
       "8542844682436",
       "8542847107268"
@@ -766,9 +770,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "8063603605588",
+      "10214066389076",
       "10214103613524",
-      "10214066389076"
+      "8063603605588"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -808,7 +812,9 @@
       "9233072521470",
       "9269784477950",
       "9173828796670",
-      "9233032642814"
+      "9233032642814",
+      "9233072521470",
+      "9381118279934"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -950,7 +956,7 @@
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-elite-trainer-box": 160.0,
       "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-booster-pack": 35.0,
       "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-happy-meal-pack-150-unit-sealed-case": 5000.0,
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-booster-pack": 45.0,
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-booster-pack": 40.0,
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box": 170.0,
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle": 240.0,
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-2": 109.0,
