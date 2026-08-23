@@ -314,7 +314,7 @@
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
-      "https://www.collectallday.com/new/jolteon-vmax-premium-collection"
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -439,8 +439,8 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8312959107272",
       "8335789654216",
+      "8312959107272",
       "8315313553608"
     ],
     "zero_streak": 0,
@@ -596,7 +596,6 @@
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
-      "9210168803477",
       "9285822251157",
       "9319727923349",
       "9285795938453",
@@ -766,9 +765,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
       "8063603605588",
-      "10214103613524"
+      "10214103613524",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -782,11 +781,11 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9608224964864",
+      "9188403609856",
       "9366282600704",
-      "9188403282176",
+      "9608224964864",
       "9188403740928",
-      "9188403609856"
+      "9188403282176"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -830,6 +829,7 @@
     "seen_ids": [
       "9530379600149",
       "9537919222037",
+      "9577428123925",
       "9537919516949",
       "9577428123925",
       "9577428353301"
