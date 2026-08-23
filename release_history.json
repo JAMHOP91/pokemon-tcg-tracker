@@ -8206,5 +8206,23 @@
     "timestamp": "2026-08-23T09:10:47.067731+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/hiroshima-box-cardbot-pokemon-center.jpg?v=1759255240"
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Greninja ex Premium Collection",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-08-23T10:40:51.174340+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Greninja-ex-Premium-Collection.png?v=1782974400"
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster",
+    "price": "$11.99",
+    "timestamp": "2026-08-23T10:40:51.174340+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Mega-Zygarde_EN.png?v=1774393148"
   }
 ]
