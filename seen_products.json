@@ -137,6 +137,14 @@
       "9101958414499",
       "9136791978147",
       "8693154349219",
+      "9225967239331",
+      "9225966583971",
+      "9136791978147",
+      "6051069657251",
+      "8850541740195",
+      "9000085717155",
+      "9107945980067",
+      "8565549564067",
       "7409030103203",
       "8850541740195",
       "8565549564067",
@@ -312,7 +320,6 @@
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/burning-shadows-3-pack"
@@ -339,8 +346,8 @@
   "TCG Collector NZ": {
     "seen_ids": [
       "8542847107268",
-      "8542844682436",
-      "8479841648836"
+      "8479841648836",
+      "8542844682436"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -540,6 +547,7 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
+      "9366286303482",
       "9294399996154",
       "9366286303482",
       "9096634695930"
@@ -556,8 +564,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -586,8 +594,8 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/celebration::available::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order::sold_out::View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order)",
+      "https://www.coolshit.co.nz/product/celebration::available::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
       "https://www.coolshit.co.nz/product/celebration::sold_out::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP"
     ],
     "zero_streak": 0,
@@ -624,8 +632,8 @@
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
       "8832667877399",
-      "8774665043991",
-      "8770963537943"
+      "8770963537943",
+      "8774665043991"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -642,8 +650,8 @@
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [
-      "9014599975069",
-      "9012579074205"
+      "9012579074205",
+      "9014599975069"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -961,9 +969,9 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
       "https://www.gameslab.co.nz/products/ULTRA-PRO-Pokemon-Pokeball-Printed-Magnetic-Card-Holder-p826483298",
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -972,8 +980,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
