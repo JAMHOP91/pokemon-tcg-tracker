@@ -12,7 +12,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
       "https://www.coolshit.co.nz/product/premiumcollection",
+      "https://www.coolshit.co.nz/product/celebration",
       "https://www.coolshit.co.nz/product/boosterbundle",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
@@ -440,8 +442,8 @@
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
       "8315313553608",
-      "8312959107272",
-      "8335789654216"
+      "8335789654216",
+      "8312959107272"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -585,8 +587,8 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/celebration::available::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
       "https://www.coolshit.co.nz/product/celebration::sold_out::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
+      "https://www.coolshit.co.nz/product/celebration::available::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order::sold_out::View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order)"
     ],
     "zero_streak": 0,
@@ -598,8 +600,6 @@
     "seen_ids": [
       "9285795938453",
       "9319727923349",
-      "9152299892885",
-      "9268784496789",
       "9285790793877",
       "9210168803477",
       "9285822251157"
@@ -804,6 +804,7 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9233032642814",
       "9269784477950",
       "9173828796670",
       "9233072521470",
