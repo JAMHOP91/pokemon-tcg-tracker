@@ -540,9 +540,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
+      "9294399996154",
       "9366286303482",
-      "9096634695930",
-      "9294399996154"
+      "9096634695930"
     ],
     "zero_streak": 136,
     "warned": true,
@@ -556,8 +556,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -601,6 +601,7 @@
       "9285795938453",
       "9152299892885",
       "9268784496789",
+      "9285795938453",
       "9210168803477",
       "9285822251157",
       "9285790793877"
@@ -829,7 +830,6 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9537919222037",
       "9577428353301",
       "9537919516949",
       "9577428123925",
@@ -972,8 +972,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
