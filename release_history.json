@@ -8143,5 +8143,23 @@
     "timestamp": "2026-08-23T02:10:47.685096+00:00",
     "priority": true,
     "image": "https://assets.bigcartel.com/product_images/427181259/Untitled+design+_17_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution - Perfect Order Booster (Single)",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-single",
+    "price": "$9.99",
+    "timestamp": "2026-08-23T04:10:45.115582+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Meowth_EN_grande.jpg?v=1774554427"
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Phantasmal Flames: Sealed Booster Box (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-scarlet-violet-mega-evolution-phantasmal-flames-sealed-booster-box-english",
+    "price": "$729.99",
+    "timestamp": "2026-08-23T04:10:45.115582+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/MegaEvolutionPhantasmalFlamesBoosterBox_1jpeg.jpg?v=1759350222"
   }
 ]
