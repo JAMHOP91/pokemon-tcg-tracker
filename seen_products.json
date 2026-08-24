@@ -29,6 +29,8 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
+      "8755535773845",
+      "8755462078613",
       "8758360998037",
       "8713055273109",
       "8964116873365",
@@ -286,6 +288,7 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9328351772911",
       "9464484626671",
       "9328364945647",
       "9328351772911",
@@ -317,9 +320,9 @@
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-24T13:01:24.060174+00:00",
     "prices": {}
   },
   "30th Celebration Box - Web Monitor": {
