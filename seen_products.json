@@ -510,6 +510,7 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
+      "8855171334342",
       "8970819535046",
       "8970824843462",
       "8909649739974",
@@ -541,8 +542,8 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [
-      "9294399996154",
       "9366286303482",
+      "9294399996154",
       "9096634695930"
     ],
     "zero_streak": 0,
@@ -557,8 +558,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -611,6 +612,7 @@
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
       "9285795938453",
+      "9285790793877",
       "9152299892885",
       "9285822251157",
       "9285790793877",
