@@ -12,6 +12,8 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/premiumcollection",
+      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
       "https://www.coolshit.co.nz/product/celebration",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
@@ -338,9 +340,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8479841648836",
       "8542847107268",
-      "8542844682436",
-      "8479841648836"
+      "8542844682436"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -425,9 +427,9 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10200199889191",
       "10158427111719",
-      "10341495734567"
+      "10341495734567",
+      "10200199889191"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -823,7 +825,8 @@
       "9233032642814",
       "9233072521470",
       "9381118279934",
-      "9173828796670"
+      "9173828796670",
+      "9233032642814"
     ],
     "zero_streak": 0,
     "warned": false,
