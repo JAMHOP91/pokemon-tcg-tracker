@@ -1,15 +1,27 @@
 {
-  "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order": {
-    "title": "View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order)",
+  "https://www.coolshit.co.nz/product/premiumcollection": {
+    "title": "View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
+    "status": "sold_out"
+  },
+  "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night": {
+    "title": "View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
+    "status": "sold_out"
+  },
+  "https://www.coolshit.co.nz/product/boosterbundle": {
+    "title": "View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP",
     "status": "sold_out"
   },
   "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection": {
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order)",
-    "status": "coming_soon"
+    "title": "View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order) STRICTLY 2PP",
+    "status": "sold_out"
   },
   "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order": {
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order)",
-    "status": "coming_soon"
+    "title": "View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
+    "status": "sold_out"
+  },
+  "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order": {
+    "title": "View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order)",
+    "status": "sold_out"
   },
   "https://www.coolshit.co.nz/product/PokemonTCGLumioseCityMiniTin": {
     "title": "View Pokemon TCG: Lumiose City Mini Tin (sealed case of 10)",
@@ -166,17 +178,5 @@
   "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-poster-collection-pre-order": {
     "title": "View Pokemon TCG: 30th Celebration Sylveon ex Box / Greninja ex Box (Pre-Order) STRICTLY 1PP",
     "status": "sold_out"
-  },
-  "https://www.coolshit.co.nz/product/premiumcollection": {
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night",
-    "status": "coming_soon"
-  },
-  "https://www.coolshit.co.nz/product/boosterbundle": {
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order)",
-    "status": "coming_soon"
-  },
-  "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night": {
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order)",
-    "status": "coming_soon"
   }
 }
