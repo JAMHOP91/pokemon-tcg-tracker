@@ -12,8 +12,8 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-      "https://www.coolshit.co.nz/product/premiumsealedcase"
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -22,6 +22,7 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
+      "8964116873365",
       "8713055273109",
       "8964116873365",
       "7561509896341"
@@ -578,6 +579,7 @@
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
+      "9285822251157",
       "9285795938453",
       "9285822251157",
       "9268784496789",
