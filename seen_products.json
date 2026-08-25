@@ -12,8 +12,8 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -23,8 +23,8 @@
   "The Game Tree NZ": {
     "seen_ids": [
       "8964116873365",
-      "8713055273109",
-      "7561509896341"
+      "7561509896341",
+      "8713055273109"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -271,6 +271,12 @@
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/pokeball-tin-2021",
@@ -299,8 +305,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8479841648836",
-      "8542847107268"
+      "8542847107268",
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -321,6 +327,7 @@
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
+      "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/47232",
@@ -578,7 +585,6 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8832667877399",
       "8774665043991",
       "8888685723671",
       "8770963537943"
@@ -757,6 +763,7 @@
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
       "9530379600149",
+      "9577428353301",
       "9537919516949",
       "9537919222037",
       "9577428353301"
