@@ -1,6 +1,9 @@
 ﻿"""
 JB Hi-Fi NZ - Pokemon TCG.
 Finds product links by URL pattern and reads title from image alt text.
+This selector also picks up unrelated cross-sell/recommendation items
+from elsewhere on the site (vacuums, headphones, etc.), so this
+explicitly requires "pokemon" in the title as a safety net.
 
 JB Hi-Fi's bot protection appears to intermittently block requests from
 cloud/datacenter IPs more than home connections, so this retries via
@@ -41,6 +44,8 @@ def _try_fetch_once() -> list[dict]:
                 continue
             title = (img.get_attribute("alt") or "").strip()
             if not title:
+                continue
+            if "pokemon" not in title.lower() and "pokémon" not in title.lower():
                 continue
             if not is_tcg_product(title):
                 continue
