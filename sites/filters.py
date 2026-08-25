@@ -4,7 +4,9 @@ card products - booster packs, elite trainer boxes, tins, blisters,
 collections - and skip merch (mugs, plush, squishmallows, binders,
 apparel, model kits, card holders), pre-constructed decks (Battle
 Decks, Theme Decks, Tournament Decks, etc.), non-English releases,
-non-TCG board games, and live stream/card-break events.
+non-TCG board games, live stream/card-break events, and specific
+Japanese regional Pokemon Center collection boxes that keep flooding
+alerts with price fluctuations.
 
 Edit EXCLUDE_KEYWORDS to tune what gets filtered out. Matching is
 case-insensitive and checks if the keyword appears anywhere in the title.
@@ -55,6 +57,9 @@ EXCLUDE_KEYWORDS = [
     "board game",
     "stream",
     "card holder",
+    "fukuoka",
+    "hiroshima",
+    "tohoku",
 ]
 
 
@@ -62,6 +67,6 @@ def is_tcg_product(title: str) -> bool:
     """Returns True if the product title looks like an actual TCG
     card product (not merch, not a pre-con deck, not a non-English
     release, not a board game, not a live stream/break event, not a
-    card storage accessory)."""
+    card storage accessory, not a Japanese regional collection box)."""
     title_lower = title.lower()
     return not any(keyword in title_lower for keyword in EXCLUDE_KEYWORDS)
