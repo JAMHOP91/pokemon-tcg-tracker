@@ -8872,5 +8872,14 @@
     "timestamp": "2026-08-26T05:11:06.749255+00:00",
     "priority": false,
     "image": "http://toytime.co.nz/cdn/shop/files/2_3072bdfc-7285-41e0-a5bc-07ef49087202.webp?v=1771450521"
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "Pokemon TCG: Mega Evolution: Ascended Heroes Booster Pack",
+    "url": "https://cardmasters.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-booster-pack",
+    "price": "$20.00",
+    "timestamp": "2026-08-26T07:40:47.764351+00:00",
+    "priority": true,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/Pokemon_TCG_Mega_Evolution_Ascended_Heroes_Booster_Wrap_ca7cf3f6-5a9c-417f-93a0-8b1768a48d1f_1200x800.webp?v=1771910434"
   }
 ]
