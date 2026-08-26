@@ -258,8 +258,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10218488725744",
-      "10070962241776"
+      "10070962241776",
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -283,7 +283,9 @@
       "9388711182575",
       "9328364945647",
       "9328351772911",
-      "9464484921583"
+      "9388711182575",
+      "9328364945647",
+      "9464484626671"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -426,8 +428,8 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8335789654216",
-      "8315313553608"
+      "8315313553608",
+      "8335789654216"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -449,6 +451,7 @@
       "10323223183656",
       "10365187621160",
       "10302497227048",
+      "10302410391848",
       "10132850377000",
       "10302410391848",
       "10299295236392",
@@ -767,6 +770,7 @@
     "seen_ids": [
       "9233032642814",
       "9269784477950",
+      "9173828796670",
       "9381118279934",
       "9173828796670",
       "9233072521470"
@@ -916,8 +920,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
