@@ -12,6 +12,7 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/deltaetb",
       "https://www.coolshit.co.nz/product/3PACKDELTA",
@@ -283,6 +284,8 @@
       "9388711182575",
       "9464484626671",
       "9328364945647",
+      "9464484626671",
+      "9388711182575",
       "9328351772911",
       "9464484921583"
     ],
@@ -427,8 +430,8 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8315313553608",
-      "8335789654216"
+      "8335789654216",
+      "8315313553608"
     ],
     "zero_streak": 0,
     "warned": false,
