@@ -591,7 +591,7 @@
       "9285795938453",
       "9210168803477",
       "9285822251157",
-      "9152299892885"
+      "9285795938453"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -731,8 +731,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "8063603605588",
-      "10214066389076"
+      "10214066389076",
+      "8063603605588"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -746,8 +746,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9608224964864",
-      "9366282600704"
+      "9366282600704",
+      "9608224964864"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -867,6 +867,7 @@
       "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-happy-meal-pack-150-unit-sealed-case",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-charizard-ex-premium-collection",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-blister-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-3-pack-blister-booster",
       "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
@@ -916,8 +917,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -926,8 +927,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
