@@ -1,9 +1,11 @@
 ﻿"""
 TCG NZ - Pokemon TCG. Runs on Wix. Finds products by the confirmed
 data-hook="product-item-name" title element, then walks up to whichever
-link wraps it. Uses domcontentloaded + a short fixed wait instead of
-networkidle, since Wix's background chat/analytics activity can prevent
-networkidle from ever being reached. Uses the shared retry helper.
+link wraps it. They also sell One Piece and other TCGs, so this
+explicitly requires "pokemon" in the title. Uses domcontentloaded + a
+short fixed wait instead of networkidle, since Wix's background
+chat/analytics activity can prevent networkidle from ever being
+reached. Uses the shared retry helper.
 """
 
 from playwright.sync_api import sync_playwright
@@ -31,6 +33,8 @@ def _try_fetch_once() -> list[dict]:
         for title_el in titles:
             title = title_el.inner_text().strip()
             if not title or not is_tcg_product(title):
+                continue
+            if "pokemon" not in title.lower() and "pokémon" not in title.lower():
                 continue
 
             card_handle = title_el.evaluate_handle("el => el.closest('a')")
