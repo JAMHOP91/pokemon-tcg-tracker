@@ -1,15 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box - PRE ORDER - Release Date:  September 16th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box-pre-order-release-date-september-16th-2026",
-    "price": "$229.00",
-    "timestamp": "2026-07-31T07:15:54.804629+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box_EN.jpg?v=1783053252"
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: 30th Celebration Knock Out Collection - PRE ORDER - Release Date:  September 16th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection-pre-order-release-date-september-16th-2026",
     "price": "$49.00",
@@ -8999,6 +8990,16 @@
     "timestamp": "2026-08-27T12:03:37.796731+00:00",
     "priority": false,
     "image": "http://www.metalife.co.nz/cdn/shop/files/gHe6eBN5MZRhnAuAzCCWWbead9QfyLXTGOVZlxP1.jpg?v=1786415245",
+    "limit": null
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Pokeball Tin (Best of 2021 Series)",
+    "url": "https://www.collectallday.com/new/pokeball-tin-2021",
+    "price": "NZ$120.00",
+    "timestamp": "2026-08-27T12:10:54.468250+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67a6fcd3353fc7373aea9a12/1759111658444/Screenshot+2025-02-08+195219.png?format=1500w",
     "limit": null
   }
 ]
