@@ -367,9 +367,9 @@
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/47236"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-27T03:31:06.627885+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -537,9 +537,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -738,8 +738,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "8063603605588",
-      "10214066389076"
+      "10214066389076",
+      "8063603605588"
     ],
     "zero_streak": 0,
     "warned": false,
