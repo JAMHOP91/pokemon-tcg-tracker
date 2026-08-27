@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack"
@@ -16,6 +17,7 @@
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/deltaetb",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/premiumcollection",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
@@ -453,7 +455,12 @@
       "10365187621160",
       "9734074401064",
       "10302410391848",
-      "10302497227048"
+      "10323223183656",
+      "9734074401064",
+      "10302497227048",
+      "10270182736168",
+      "10365187621160",
+      "10299295236392"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -740,8 +747,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
-      "8063603605588"
+      "8063603605588",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -935,8 +942,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -950,6 +957,9 @@
     "seen_ids": [
       "8231321895030",
       "8231326056566",
+      "8231309377654",
+      "8231314292854",
+      "8231321895030",
       "8231316750454",
       "8231312228470",
       "7716056825974",
