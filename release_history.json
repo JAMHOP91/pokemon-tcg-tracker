@@ -1,24 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Knock Out Collection - PRE ORDER - Release Date:  September 16th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection-pre-order-release-date-september-16th-2026",
-    "price": "$39.00",
-    "timestamp": "2026-07-30T01:31:25.180430+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Knock-Out-Collection_EN.jpg?v=1783053480"
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Booster Bundle - PRE ORDER - Release Date:  October 2nd 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-booster-bundle-pre-order-release-date-october-2nd-2026-copy",
-    "price": "$159.00",
-    "timestamp": "2026-07-30T01:31:25.180430+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Booster-Bundle_EN.jpg?v=1783052710"
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: 30th Celebration Tin -  Greninja ex - PRE ORDER - Release Date: December 4th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-tin-greninja-ex-pre-order-release-date-december-4th-2026",
     "price": "$119.00",
@@ -8955,33 +8937,66 @@
     "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682"
   },
   {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Chaos Rising - Booster Box",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
-    "price": "$360.00",
-    "timestamp": "2026-08-27T03:27:09.428321+00:00",
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-08-27T00:40:44.309754+00:00",
     "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254",
-    "limit": null
+    "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682"
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Three Booster Blister",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister",
+    "price": "$31.99",
+    "timestamp": "2026-08-27T00:40:44.309754+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister.jpg?v=1784082727"
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Jolteon VMAX Premium Collection",
+    "url": "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+    "price": "NZ$495.00",
+    "timestamp": "2026-08-27T00:40:44.309754+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67ea524164560f4ad11bdf70/1757999523043/Jolteon+VMAX+Special+Collection.jpg?format=1500w"
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Tech Sticker Collection",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
+    "price": "$40.00",
+    "timestamp": "2026-08-27T00:50:46.591910+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/29551/images/77983/Pokemon-TCG-30th-Celebration-Tech-Sticker-Collection-Lucario_EN__17363.1787791733.220.220.jpg?c=2"
   },
   {
     "site": "Hobby Station - Pokemon TCG",
     "title": "Pok\u00e9mon TCG: 30th Celebration Knock Out Collection",
     "url": "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
-    "price": "$45.00",
-    "timestamp": "2026-08-27T03:27:09.428321+00:00",
+    "price": "$39.13",
+    "timestamp": "2026-08-27T01:03:12.549902+00:00",
     "priority": true,
-    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/29552/images/77987/P12487_10-10667-101_01__39158.1787791956.220.220.jpg?c=2",
-    "limit": "Max purchase: 1 unit"
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/29552/images/77987/P12487_10-10667-101_01__39158.1787791956.220.220.jpg?c=2"
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Chaos Rising - Booster Box",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
+    "price": "$360.00",
+    "timestamp": "2026-08-27T02:03:05.296509+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254"
   },
   {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG 30th Celebration Elite Trainer Box",
     "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box",
     "price": "$369.99",
-    "timestamp": "2026-08-27T03:27:09.428321+00:00",
+    "timestamp": "2026-08-27T03:10:50.537451+00:00",
     "priority": true,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box.png?v=1787562786",
-    "limit": null
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box.png?v=1787562786"
   }
 ]
