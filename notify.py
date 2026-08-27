@@ -11,35 +11,34 @@ TELEGRAM_API_URL = "https://api.telegram.org/bot{token}/sendMessage"
 def send_telegram_message(text: str) -> None:
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
     chat_id = os.environ.get("TELEGRAM_CHAT_ID")
-
     if not token or not chat_id:
         raise RuntimeError("Missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID environment variables.")
-
     url = TELEGRAM_API_URL.format(token=token)
     payload = {"chat_id": chat_id, "text": text, "parse_mode": "HTML", "disable_web_page_preview": False}
     response = requests.post(url, json=payload, timeout=15)
     response.raise_for_status()
 
 
+def _format_line(p: dict) -> str:
+    price = f" - {p['price']}" if p.get("price") else ""
+    limit = f" ⚠️ {p['limit']}" if p.get("limit") else ""
+    return f"- <a href=\"{p['url']}\">{p['title']}</a>{price}{limit}"
+
+
 def notify_new_products(site_name: str, products: list[dict]) -> None:
     if not products:
         return
-
     CHUNK_SIZE = 20
     for i in range(0, len(products), CHUNK_SIZE):
         chunk = products[i:i + CHUNK_SIZE]
         chunk_number = i // CHUNK_SIZE + 1
         total_chunks = (len(products) + CHUNK_SIZE - 1) // CHUNK_SIZE
-
         header = f"NEW: {len(products)} new item(s) on {site_name}"
         if total_chunks > 1:
             header += f" (part {chunk_number}/{total_chunks})"
-
         lines = [header]
         for p in chunk:
-            price = f" - {p['price']}" if p.get("price") else ""
-            lines.append(f"- <a href=\"{p['url']}\">{p['title']}</a>{price}")
-
+            lines.append(_format_line(p))
         send_telegram_message("\n".join(lines))
 
 
@@ -62,21 +61,16 @@ def notify_scraper_recovered(site_name: str) -> None:
 def notify_priority_products(site_name: str, products: list[dict]) -> None:
     if not products:
         return
-
     lines = [f"PRIORITY DROP on {site_name}!"]
     for p in products:
-        price = f" - {p['price']}" if p.get("price") else ""
-        lines.append(f"- <a href=\"{p['url']}\">{p['title']}</a>{price}")
-
+        lines.append(_format_line(p))
     send_telegram_message("\n".join(lines))
 
 
 def notify_price_drops(site_name: str, drops: list[dict]) -> None:
     if not drops:
         return
-
     lines = [f"PRICE DROP on {site_name}!"]
     for d in drops:
         lines.append(f"- <a href=\"{d['url']}\">{d['title']}</a>: {d['old_price']} -> {d['new_price']}")
-
     send_telegram_message("\n".join(lines))

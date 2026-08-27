@@ -8953,5 +8953,35 @@
     "timestamp": "2026-08-26T21:40:47.908484+00:00",
     "priority": false,
     "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682"
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Chaos Rising - Booster Box",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
+    "price": "$360.00",
+    "timestamp": "2026-08-27T03:27:09.428321+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254",
+    "limit": null
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Knock Out Collection",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
+    "price": "$45.00",
+    "timestamp": "2026-08-27T03:27:09.428321+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/29552/images/77987/P12487_10-10667-101_01__39158.1787791956.220.220.jpg?c=2",
+    "limit": "Max purchase: 1 unit"
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG 30th Celebration Elite Trainer Box",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box",
+    "price": "$369.99",
+    "timestamp": "2026-08-27T03:27:09.428321+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box.png?v=1787562786",
+    "limit": null
   }
 ]

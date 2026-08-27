@@ -1,13 +1,15 @@
-"""
+﻿"""
 Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
 Tracks how long each site has been continuously failing and warns based
 on elapsed real time (not raw check count).
 Also tracks each product's last-known price and alerts separately if an
 already-tracked item's price drops on a later check.
+Also fetches each new product's own page once to grab its image (for
+the dashboard) and check for a detectable purchase/order limit, which
+gets shown in the alert itself if found.
 Also writes status.json (site health snapshot) and release_history.json
-(a running feed of finds, including a product image where available)
-for the dashboard.
+(a running feed of finds) for the dashboard.
 """
 
 import json
@@ -163,23 +165,48 @@ def parse_price(price_str):
         return None
 
 
-def fetch_og_image(url: str) -> str | None:
-    """Fetches a product page's og:image meta tag for the dashboard feed.
-    Best-effort only - returns None quickly on any failure."""
+def fetch_product_page_extras(url: str) -> tuple[str | None, str | None]:
+    """Fetches a product page ONCE, extracting both its og:image (for
+    the dashboard) and any detectable purchase/order limit text.
+    Best-effort only - returns (None, None) quickly on any failure.
+    Limit detection covers a BigCommerce-style pattern (confirmed on
+    Hobby Station) plus a few generic phrasings - it will not catch
+    every store's wording, only what's actually detectable."""
     try:
         resp = requests.get(url, timeout=8, headers={"User-Agent": "Mozilla/5.0"})
-        match = re.search(
+        text = resp.text
+
+        image_match = re.search(
             r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
-            resp.text, re.IGNORECASE,
+            text, re.IGNORECASE,
         )
-        if not match:
-            match = re.search(
+        if not image_match:
+            image_match = re.search(
                 r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
-                resp.text, re.IGNORECASE,
+                text, re.IGNORECASE,
             )
-        return match.group(1) if match else None
+        image = image_match.group(1) if image_match else None
+
+        limit = None
+        bigcommerce_match = re.search(
+            r'Maximum Purchase:\s*</dt>\s*<dd[^>]*>([^<]+)</dd>',
+            text, re.IGNORECASE,
+        )
+        if bigcommerce_match:
+            limit = f"Max purchase: {bigcommerce_match.group(1).strip()}"
+        else:
+            generic_match = re.search(
+                r'(limit(?:ed)?\s*(?:of\s*|to\s*)?\d+\s*per\s*(?:customer|person|order|household)'
+                r'|maximum\s*(?:of\s*)?\d+\s*per\s*(?:customer|person|order|household)'
+                r'|purchase\s*limit\s*(?:of\s*)?\d+)',
+                text, re.IGNORECASE,
+            )
+            if generic_match:
+                limit = generic_match.group(1).strip()
+
+        return image, limit
     except Exception:
-        return None
+        return None, None
 
 
 def ping_heartbeat():
@@ -267,6 +294,11 @@ def main():
         site_state["prices"] = prices
 
         if new_products:
+            for p in new_products:
+                image, limit = fetch_product_page_extras(p["url"])
+                p["image"] = image
+                p["limit"] = limit
+
             priority_matches = [p for p in new_products if is_priority_product(p["title"], priority_keywords, priority_exclude_keywords)]
             regular_matches = [p for p in new_products if p not in priority_matches]
 
@@ -285,7 +317,8 @@ def main():
                     "price": p.get("price"),
                     "timestamp": now.isoformat(),
                     "priority": p in priority_matches,
-                    "image": fetch_og_image(p["url"]),
+                    "image": p.get("image"),
+                    "limit": p.get("limit"),
                 })
         else:
             print("  No new products")
