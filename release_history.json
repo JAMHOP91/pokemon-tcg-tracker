@@ -1,15 +1,6 @@
 [
   {
     "site": "Cardtopia NZ",
-    "title": "Saturday Night Stream Bundle - Pokemon Astral Radiance Pitch Black",
-    "url": "https://www.cardtopia.co.nz/products/saturday-night-stream-bundle-pokemon-astral-radiance-pitch-black",
-    "price": "$30.19",
-    "timestamp": "2026-08-01T09:45:59.291122+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/ChatGPTImageAug1_2026_09_40_04PM.png?v=1785577244"
-  },
-  {
-    "site": "Cardtopia NZ",
     "title": "Pokemon Terastal Gathering \u2013 Winner Takes All (Eeveelution SAR Edition)",
     "url": "https://www.cardtopia.co.nz/products/pokemon-terastal-gathering-winner-takes-all-eeveelution-sar-edition",
     "price": "$23.00",
@@ -9004,6 +8995,16 @@
     "timestamp": "2026-08-27T19:41:16.629859+00:00",
     "priority": false,
     "image": "http://otakumart.co.nz/cdn/shop/files/BasicMetalEnergy-50x.jpg?v=1737494522",
+    "limit": null
+  },
+  {
+    "site": "GetThoseMons - Sealed Pokemon TCG",
+    "title": "Pokemon TCG: Lumiose City Mini Tin (Assorted)",
+    "url": "https://getthosemons.co.nz/products/pokemon-tcg-lumiose-city-mini-tin",
+    "price": "$24.99",
+    "timestamp": "2026-08-27T22:40:50.467531+00:00",
+    "priority": false,
+    "image": "http://getthosecards.co.nz/cdn/shop/files/Pokemon-TCG-Lumiose-City-Mini-Tin-Embroar.jpg?v=1780884018",
     "limit": null
   }
 ]
