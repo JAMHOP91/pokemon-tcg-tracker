@@ -1,15 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box - PRE ORDER - Release Date:  September 16th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box-pre-order-release-date-september-16th-2026",
-    "price": "$269.00",
-    "timestamp": "2026-07-31T08:16:04.463062+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box_EN.jpg?v=1783053252"
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: 30th Celebration Knock Out Collection - PRE ORDER - Release Date:  September 16th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection-pre-order-release-date-september-16th-2026",
     "price": "$49.00",
@@ -9001,6 +8992,16 @@
     "timestamp": "2026-08-27T13:10:49.336419+00:00",
     "priority": false,
     "image": "http://otakumart.co.nz/cdn/shop/files/BasicLightningEnergy-50x.jpg?v=1737494320",
+    "limit": null
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon Mega Zygarde ex Premium Collection",
+    "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-08-27T17:10:49.288002+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392",
     "limit": null
   }
 ]
