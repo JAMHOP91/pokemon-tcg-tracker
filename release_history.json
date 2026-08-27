@@ -1,14 +1,5 @@
 [
   {
-    "site": "Cardtopia NZ",
-    "title": "Pokemon Terastal Gathering \u2013 Winner Takes All (Eeveelution SAR Edition)",
-    "url": "https://www.cardtopia.co.nz/products/pokemon-terastal-gathering-winner-takes-all-eeveelution-sar-edition",
-    "price": "$23.00",
-    "timestamp": "2026-08-01T10:16:07.805879+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/ChatGPTImageJun30_2026_08_19_30PM.png?v=1782807658"
-  },
-  {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: 30th Celebration Knock Out Collection - PRE ORDER - Release Date:  September 16th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection-pre-order-release-date-september-16th-2026",
@@ -9005,6 +8996,16 @@
     "timestamp": "2026-08-27T22:40:50.467531+00:00",
     "priority": false,
     "image": "http://getthosecards.co.nz/cdn/shop/files/Pokemon-TCG-Lumiose-City-Mini-Tin-Embroar.jpg?v=1780884018",
+    "limit": null
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising: Checklane Blister",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-checklane-blister",
+    "price": "$11.99",
+    "timestamp": "2026-08-27T23:10:53.542150+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/10-10405-102_grande.jpg?v=1779404721",
     "limit": null
   }
 ]
