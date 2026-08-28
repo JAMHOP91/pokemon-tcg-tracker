@@ -27,6 +27,7 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
+      "8713055273109",
       "7561509896341",
       "8713055273109",
       "8964116873365"
@@ -306,6 +307,8 @@
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
@@ -358,6 +361,8 @@
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/47236",
+      "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/47051",
@@ -801,6 +806,7 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9577428353301",
       "9530379600149",
       "9577428353301",
       "9537919516949",
@@ -938,8 +944,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
