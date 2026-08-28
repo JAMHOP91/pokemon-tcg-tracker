@@ -1,15 +1,6 @@
 [
   {
     "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Lucario ex League Battle Deck",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-lucario-ex-league-battle-deck",
-    "price": "$69.99",
-    "timestamp": "2026-08-04T05:10:54.229033+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck.png?v=1777945461"
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Team Rocket\u2019s Mewtwo ex League Battle Deck",
     "url": "https://ocare.co.nz/products/pokemon-tcg-team-rockets-mewtwo-ex-league-battle-deck",
     "price": "$69.99",
@@ -9019,6 +9010,16 @@
     "timestamp": "2026-08-28T18:10:49.355861+00:00",
     "priority": false,
     "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2106.webp?v=1786436693",
+    "limit": null
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": "$109.99",
+    "timestamp": "2026-08-28T21:10:48.597366+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364",
     "limit": null
   }
 ]
