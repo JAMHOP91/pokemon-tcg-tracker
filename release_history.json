@@ -1,23 +1,5 @@
 [
   {
-    "site": "Hobby Lords - Pokemon",
-    "title": "Pokemon Battle Academy Board Game 2024",
-    "url": "https://www.hobbylords.co.nz/products/single/pokemon-battle-academy-board-game-2024",
-    "price": null,
-    "timestamp": "2026-08-03T03:46:02.703971+00:00",
-    "priority": false,
-    "image": "https://fls-9ed9af97-ba71-4fbd-b8de-969da5133e40.laravel.cloud/testing/product/14106/images/6683b3d120f11.jpeg"
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Pitch Black Booster Box",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-booster-box-pre-order-17-7-2026",
-    "price": "$360.00",
-    "timestamp": "2026-08-04T01:01:31.411244+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/712845506_122203714544471322_1472360028819368492_n.jpg?v=1780891415"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
@@ -9012,6 +8994,26 @@
     "timestamp": "2026-08-28T07:10:56.111065+00:00",
     "priority": false,
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392",
+    "limit": null
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Battle Styles Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-battle-styles-elite-trainer-box-1",
+    "price": "$250.00",
+    "timestamp": "2026-08-28T07:33:59.733367+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2636.jpg?v=1787902522",
+    "limit": null
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Battle Styles Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-battle-styles-elite-trainer-box",
+    "price": "$250.00",
+    "timestamp": "2026-08-28T07:33:59.733367+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2635.jpg?v=1787902429",
     "limit": null
   }
 ]
