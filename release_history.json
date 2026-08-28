@@ -1,15 +1,6 @@
 [
   {
     "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolutions Pitch Black Booster",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster",
-    "price": "$12.99",
-    "timestamp": "2026-08-04T05:10:54.229033+00:00",
-    "priority": true,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504"
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon Mega Zygarde ex Premium Collection",
     "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
     "price": "$99.99",
@@ -9017,6 +9008,16 @@
     "timestamp": "2026-08-28T14:10:48.685022+00:00",
     "priority": true,
     "image": "https://assets.bigcartel.com/product_images/430009425/1.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
+    "price": "$139.99",
+    "timestamp": "2026-08-28T16:10:50.391935+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851",
     "limit": null
   }
 ]
