@@ -17,6 +17,9 @@
       "https://www.coolshit.co.nz/product/premiumcollection",
       "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
       "https://www.coolshit.co.nz/product/deltaetb"
     ],
@@ -27,6 +30,7 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
+      "7561509896341",
       "8964116873365",
       "7561509896341",
       "8713055273109"
@@ -259,8 +263,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
-      "10218488725744"
+      "10218488725744",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -427,8 +431,8 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8335789654216",
-      "8315313553608"
+      "8315313553608",
+      "8335789654216"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -448,6 +452,8 @@
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
       "10323223183656",
+      "10302497227048",
+      "10302410391848",
       "10390752428328",
       "10302410391848",
       "10302497227048",
@@ -501,7 +507,6 @@
       "8970819535046",
       "8855167008966",
       "8909649739974",
-      "8855171334342",
       "8909657637062",
       "8931072311494",
       "8970824843462",
