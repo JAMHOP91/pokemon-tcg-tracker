@@ -1,23 +1,5 @@
 [
   {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Knock Out Collection - PRE ORDER - Release Date:  September 16th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection-pre-order-release-date-september-16th-2026",
-    "price": "$49.00",
-    "timestamp": "2026-08-02T05:16:01.880316+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Knock-Out-Collection_EN.jpg?v=1783053480"
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "MONDAY NIGHT STREAM \u2013 LIVE POKEMON FIGHTING CHAMPIONSHIP 189",
-    "url": "https://www.cardtopia.co.nz/products/monday-night-stream-live-pokemon-fighting-championship-189",
-    "price": "$36.99",
-    "timestamp": "2026-08-02T07:31:06.106229+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/ChatGPTImageAug2_2026_07_21_03PM.png?v=1785655349"
-  },
-  {
     "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG -  Miradidon/Koraidon ex Deluxe Battle Deck",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-miradidon-koraidon-ex-deluxe-battle-deck",
@@ -9006,6 +8988,26 @@
     "timestamp": "2026-08-27T23:10:53.542150+00:00",
     "priority": false,
     "image": "http://popstop.co.nz/cdn/shop/files/10-10405-102_grande.jpg?v=1779404721",
+    "limit": null
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Vaporeon VMAX Premium Collection",
+    "url": "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+    "price": "NZ$600.00",
+    "timestamp": "2026-08-28T01:20:47.440571+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67ea507881e5eb27f0a2afc0/1757999550631/Vaporeon+VMAX+Special+Collection.jpg?format=1500w",
+    "limit": null
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Venusaur VMAX Starter Set",
+    "url": "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+    "price": "NZ$55.00",
+    "timestamp": "2026-08-28T01:20:47.440571+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ff868cd81817a4febd39134/1610115281829/410px-Venusaur_VMAX_Starter_Set.jpg?format=1500w",
     "limit": null
   }
 ]
