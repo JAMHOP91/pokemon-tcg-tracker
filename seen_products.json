@@ -259,8 +259,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
-      "10218488725744"
+      "10218488725744",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -367,9 +367,9 @@
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/46971"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-28T19:01:20.286770+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -744,8 +744,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
-      "8063603605588"
+      "8063603605588",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -928,8 +928,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
