@@ -1,15 +1,6 @@
 [
   {
     "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon Mega Zygarde ex Premium Collection",
-    "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-08-04T05:10:54.229033+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392"
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Lucario ex League Battle Deck",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-lucario-ex-league-battle-deck",
     "price": "$69.99",
@@ -9018,6 +9009,16 @@
     "timestamp": "2026-08-28T16:10:50.391935+00:00",
     "priority": false,
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851",
+    "limit": null
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Obsidian Flames Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-obsidian-flames-elite-trainer-box",
+    "price": "$599.00",
+    "timestamp": "2026-08-28T18:10:49.355861+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2106.webp?v=1786436693",
     "limit": null
   }
 ]
