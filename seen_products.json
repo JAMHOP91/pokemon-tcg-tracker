@@ -259,8 +259,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
-      "10218488725744"
+      "10218488725744",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -358,6 +358,11 @@
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/46971",
+      "https://hobbymaster.co.nz/products/product/46975",
+      "https://hobbymaster.co.nz/products/product/47237",
+      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/45463",
+      "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/47236",
@@ -427,8 +432,8 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8335789654216",
-      "8315313553608"
+      "8315313553608",
+      "8335789654216"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -744,8 +749,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
-      "8063603605588"
+      "8063603605588",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -804,6 +809,7 @@
       "9530379600149",
       "9537919222037",
       "9577428353301",
+      "9537919222037",
       "9537919516949"
     ],
     "zero_streak": 0,
