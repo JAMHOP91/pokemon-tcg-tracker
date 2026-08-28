@@ -1,15 +1,6 @@
 [
   {
     "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Team Rocket\u2019s Mewtwo ex League Battle Deck",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-team-rockets-mewtwo-ex-league-battle-deck",
-    "price": "$69.99",
-    "timestamp": "2026-08-04T05:10:54.229033+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Team-Rocket-s-Mewtwo-ex-League-Battle-Deck.png?v=1769735890"
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG 2025 World Championships Deck",
     "url": "https://ocare.co.nz/products/pokemon-tcg-2025-world-championships-deck",
     "price": "$49.99",
@@ -9021,5 +9012,15 @@
     "priority": false,
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364",
     "limit": null
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-08-28T23:40:49.518065+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682",
+    "limit": "Maximum 1 per person"
   }
 ]
