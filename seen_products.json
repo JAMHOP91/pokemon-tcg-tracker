@@ -355,9 +355,14 @@
   "Hobby Master - Pokemon": {
     "seen_ids": [
       "https://hobbymaster.co.nz/products/product/46974",
+      "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/45878",
+      "https://hobbymaster.co.nz/products/product/47223",
+      "https://hobbymaster.co.nz/products/product/45463",
+      "https://hobbymaster.co.nz/products/product/46971",
+      "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/47232",
@@ -427,8 +432,8 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8315313553608",
-      "8335789654216"
+      "8335789654216",
+      "8315313553608"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -587,6 +592,10 @@
       "https://www.coolshit.co.nz/product/boosterbundle::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/premiumcollection::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/boosterbundle::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/boosterbundle::available::View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/celebration::available::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
+      "https://www.coolshit.co.nz/product/celebration::sold_out::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection::sold_out::View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/celebration::available::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
       "https://www.coolshit.co.nz/product/boosterbundle::available::View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP"
@@ -624,6 +633,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8774665043991",
       "8888685723671",
       "8770963537943",
       "8774665043991",
@@ -744,8 +754,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
-      "8063603605588"
+      "8063603605588",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -938,8 +948,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
