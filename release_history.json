@@ -1,15 +1,6 @@
 [
   {
     "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG 2024 Honolulu World Championships Deck - The 'Don",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-2024-honalulu-world-championships-deck-the-don-1",
-    "price": "$49.99",
-    "timestamp": "2026-08-04T05:10:54.229033+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-world-championships-2024-The-don.jpg?v=1750288700"
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
     "price": "$109.99",
@@ -9027,5 +9018,15 @@
     "priority": false,
     "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Chaos-Rising-Booster-Wrap-Mega-Pyroar_EN-560x1024_grande.jpg?v=1779398996",
     "limit": null
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
+    "price": "$10.99",
+    "timestamp": "2026-08-29T03:40:42.788289+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pitch-black-booster-bundle.png?v=1784072331",
+    "limit": "limit 6 per person"
   }
 ]
