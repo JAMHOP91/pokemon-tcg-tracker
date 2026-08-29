@@ -1,24 +1,6 @@
 [
   {
     "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG 2024 Honolulu World Championships Deck - Crushing Thorn",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-2024-honalulu-world-championships-deck-crushing-thorn-1",
-    "price": "$49.99",
-    "timestamp": "2026-08-04T05:10:54.229033+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-world-championships-2024-CrushingThorn.jpg?v=1750287855"
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG 2024 Honolulu World Championships Deck - Ancient Toolbox",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-2024-honalulu-world-championships-deck-ancient-toolbox-1",
-    "price": "$49.99",
-    "timestamp": "2026-08-04T05:10:54.229033+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-world-championships-2024-ancient-tool-box.jpg?v=1750288537"
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pok\u00e9mon TCG 2024 Honolulu World Championships Deck - The 'Don",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-2024-honalulu-world-championships-deck-the-don-1",
     "price": "$49.99",
@@ -9024,6 +9006,26 @@
     "timestamp": "2026-08-29T01:20:46.150523+00:00",
     "priority": false,
     "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Three-Booster Blister (PRE-ORDER)",
+    "url": "https://www.coolshit.co.nz/product/3PACKDELTA",
+    "price": "NZ$35.00",
+    "timestamp": "2026-08-29T02:10:52.981872+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/430009335/4.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-chaos-rising-booster",
+    "price": "$9.99",
+    "timestamp": "2026-08-29T02:10:52.981872+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Chaos-Rising-Booster-Wrap-Mega-Pyroar_EN-560x1024_grande.jpg?v=1779398996",
     "limit": null
   }
 ]
