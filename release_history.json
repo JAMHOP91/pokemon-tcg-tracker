@@ -1,15 +1,6 @@
 [
   {
     "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$109.99",
-    "timestamp": "2026-08-04T05:10:54.229033+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364"
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG Mega Evolutions 4 Chaos Rising Booster pack X1",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-4-chaos-rising-booster-pack",
     "price": "$10.99",
@@ -9028,5 +9019,15 @@
     "priority": false,
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pitch-black-booster-bundle.png?v=1784072331",
     "limit": "limit 6 per person"
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: Mega Evolutions Perfect Order Elite Trainer Box",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
+    "price": "$170.00",
+    "timestamp": "2026-08-29T06:04:10.613693+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_d799d3085a6a47eeb418065f0f56506f~mv2.avif/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null
   }
 ]
