@@ -259,8 +259,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10218488725744",
-      "10070962241776"
+      "10070962241776",
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -543,6 +543,7 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
@@ -624,10 +625,10 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8832667877399",
-      "8888685723671",
       "8770963537943",
-      "8774665043991"
+      "8888685723671",
+      "8774665043991",
+      "8832667877399"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -939,8 +940,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
