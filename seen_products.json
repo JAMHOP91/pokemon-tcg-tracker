@@ -2,8 +2,8 @@
   "JB Hi-Fi NZ": {
     "seen_ids": [
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack"
     ],
     "zero_streak": 1120,
     "warned": true,
@@ -27,9 +27,9 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
-      "7561509896341",
+      "8964116873365",
       "8713055273109",
-      "8964116873365"
+      "7561509896341"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -259,8 +259,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
-      "10218488725744"
+      "10218488725744",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -624,6 +624,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8770963537943",
       "8888685723671",
       "8770963537943",
       "8832667877399",
@@ -744,8 +745,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
-      "8063603605588"
+      "8063603605588",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -874,6 +875,9 @@
   "Big Potato Collectibles - Pokemon Sealed": {
     "seen_ids": [
       "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-happy-meal-pack-150-unit-sealed-case",
+      "https://www.bigpotato.co.nz/product-page/sealed-pok\u00e9mon-tcg-poke-ball-tin-d21-2021-cosmic-eclipse-vivid-voltage-rebel",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/copy-of-pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
