@@ -12,7 +12,6 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
@@ -100,6 +99,7 @@
       "9231225356451",
       "9136790044835",
       "9231223128227",
+      "9231224963235",
       "9231220015267",
       "9231224963235",
       "9231080587427",
@@ -453,6 +453,11 @@
       "10323223183656",
       "10302497227048",
       "10270182736168",
+      "10365187621160",
+      "9734074401064",
+      "10323223183656",
+      "10302410391848",
+      "10302497227048",
       "10299295236392",
       "10365187621160",
       "10390752428328"
@@ -744,8 +749,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "8063603605588",
-      "10214066389076"
+      "10214066389076",
+      "8063603605588"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -759,8 +764,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9608224964864",
-      "9366282600704"
+      "9366282600704",
+      "9608224964864"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -781,7 +786,7 @@
       "9233072521470",
       "9173828796670",
       "9269784477950",
-      "9233032642814"
+      "9233072521470"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -928,8 +933,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
