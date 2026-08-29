@@ -1,24 +1,6 @@
 [
   {
     "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-08-04T05:10:54.229033+00:00",
-    "priority": true,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pitch-black-booster-bundle.png?v=1784072331"
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "POKEMON TCG Lumiose City Mini Tin",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-lumiose-city-mini-tim",
-    "price": "$29.99",
-    "timestamp": "2026-08-04T05:10:54.229033+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCGLumioseCityMiniTin-Assortment_EN.webp?v=1780543501"
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pok\u00e9mon TCG 2024 Honolulu World Championships Deck - Crushing Thorn",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-2024-honalulu-world-championships-deck-crushing-thorn-1",
     "price": "$49.99",
@@ -9022,6 +9004,26 @@
     "timestamp": "2026-08-29T00:40:50.267143+00:00",
     "priority": false,
     "image": "https://assets.bigcartel.com/product_images/425327193/Untitled+design+_4_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Elite Trainer Box (PRE-ORDER)",
+    "url": "https://www.coolshit.co.nz/product/deltaetb",
+    "price": "NZ$130.00",
+    "timestamp": "2026-08-29T01:20:46.150523+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/430009425/1.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "CHAOS RISING - ELITE TRAINER BOX",
+    "url": "https://hobbymaster.co.nz/products/product/46975",
+    "price": "$200.00 $250.00",
+    "timestamp": "2026-08-29T01:20:46.150523+00:00",
+    "priority": false,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
     "limit": null
   }
 ]
