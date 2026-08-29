@@ -284,7 +284,7 @@
       "9388711182575",
       "9464484921583",
       "9464484626671",
-      "9328364945647"
+      "9328351772911"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -308,6 +308,9 @@
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/burning-shadows-3-pack"
     ],
@@ -427,8 +430,8 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8335789654216",
-      "8315313553608"
+      "8315313553608",
+      "8335789654216"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -802,6 +805,7 @@
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
       "9577428353301",
+      "9537919516949",
       "9537919222037",
       "9537919516949",
       "9530379600149"
@@ -939,8 +943,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
