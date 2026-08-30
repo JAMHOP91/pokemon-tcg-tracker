@@ -1,14 +1,5 @@
 [
   {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG Mega Zygarde ex Premium Collection (Sealed case of 6)",
-    "url": "https://www.coolshit.co.nz/product/premiumsealedcase",
-    "price": "NZ$579.00",
-    "timestamp": "2026-08-05T03:25:38.170702+00:00",
-    "priority": false,
-    "image": "https://assets.bigcartel.com/product_images/426132168/Untitled+design+_2_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
@@ -9049,6 +9040,16 @@
     "timestamp": "2026-08-30T18:10:43.283875+00:00",
     "priority": false,
     "image": "http://animalkingdoms.co.nz/cdn/shop/files/MegaEvolutionPitchBlackBooster-2_1200x1200.jpg?v=1784441647",
+    "limit": null
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon Mega Zygarde ex Premium Collection",
+    "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-08-30T21:10:46.272181+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392",
     "limit": null
   }
 ]
