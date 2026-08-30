@@ -1,15 +1,6 @@
 [
   {
     "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG League Battle Deck - Mega Lucario ex",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-league-battle-deck-mega-lucario-ex",
-    "price": "$69.99",
-    "timestamp": "2026-08-05T00:34:38.214052+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2026-06-18112552.jpg?v=1781738787"
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG Pitch Black Single Pack",
     "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-single-pack",
     "price": "$11.00",
@@ -9038,6 +9029,16 @@
     "timestamp": "2026-08-30T05:40:47.369932+00:00",
     "priority": false,
     "image": "http://otakumart.co.nz/cdn/shop/files/BasicLightningEnergy-50x.jpg?v=1737494320",
+    "limit": null
+  },
+  {
+    "site": "GetThoseMons - Sealed Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Mega Zygarde ex Premium Collection",
+    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-08-30T07:10:47.131712+00:00",
+    "priority": false,
+    "image": "http://getthosecards.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762.jpg?v=1779678921",
     "limit": null
   }
 ]
