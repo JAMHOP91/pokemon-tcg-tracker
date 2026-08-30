@@ -1,23 +1,5 @@
 [
   {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Moonlight Tin - Mega Clefable ex (Pre-order) Release Date: June 5th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex-pre-order-release-date-june-5th-2026",
-    "price": "$56.00",
-    "timestamp": "2026-08-05T01:29:04.105142+00:00",
-    "priority": false,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Moonlit-Tin-Mega-Clefable-Scale_EN-150x150.jpg?v=1775163354"
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order Three Booster Blister",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-three-booster-blister",
-    "price": "$32.99",
-    "timestamp": "2026-08-05T01:43:25.470672+00:00",
-    "priority": true,
-    "image": "http://wpgames.co.nz/cdn/shop/files/182922ca8f264399b9435c8169756594_Original.jpg?v=1774705136"
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
@@ -9043,5 +9025,25 @@
     "priority": false,
     "image": "http://wpgames.co.nz/cdn/shop/files/PitchBlack_BoosterBox.png?v=1784081025",
     "limit": "Maximum 6 per person"
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Psychic Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-psychic-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-08-30T09:41:05.800496+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicPsychicEnergy-50x.jpg?v=1737494476",
+    "limit": null
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Lightning Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-lightning-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-08-30T09:41:05.800496+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicLightningEnergy-50x.jpg?v=1737494320",
+    "limit": null
   }
 ]
