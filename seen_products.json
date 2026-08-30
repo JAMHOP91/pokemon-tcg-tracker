@@ -2,8 +2,8 @@
   "JB Hi-Fi NZ": {
     "seen_ids": [
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack"
     ],
     "zero_streak": 1162,
     "warned": true,
@@ -26,6 +26,7 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
+      "8713055273109",
       "8964116873365",
       "8713055273109",
       "7561509896341"
@@ -57,8 +58,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558378979389",
       "7558377046077",
+      "7558379864125",
       "7558380781629",
       "7558379864125",
       "7558381600829",
@@ -498,6 +499,11 @@
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
       "8970819535046",
+      "8855167008966",
+      "8970824843462",
+      "8789885321414",
+      "8909657637062",
+      "8855171334342",
       "8909649739974",
       "8931072311494",
       "8909657637062",
