@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 1219,
     "warned": true,
@@ -308,7 +308,12 @@
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
-      "https://www.collectallday.com/new/venusaur-vmax-starter-set"
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/pokeball-tin-2021"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -331,8 +336,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8542847107268",
-      "8479841648836"
+      "8479841648836",
+      "8542847107268"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -426,8 +431,8 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8315313553608",
-      "8335789654216"
+      "8335789654216",
+      "8315313553608"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -446,6 +451,8 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
+      "10390752428328",
+      "10302410391848",
       "9734074401064",
       "10302497227048",
       "10323223183656",
@@ -624,8 +631,8 @@
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
       "8888685723671",
-      "8832667877399",
       "8774665043991",
+      "8832667877399",
       "8770963537943"
     ],
     "zero_streak": 0,
@@ -743,8 +750,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "8063603605588",
-      "10214066389076"
+      "10214066389076",
+      "8063603605588"
     ],
     "zero_streak": 0,
     "warned": false,
