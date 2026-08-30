@@ -1,14 +1,5 @@
 [
   {
-    "site": "Hobby Lords - Pokemon",
-    "title": "2025 Pokemon TCG World Championships Deck - Yuya Okita",
-    "url": "https://www.hobbylords.co.nz/products/single/2025-pokemon-tcg-world-championships-deck-yuya-okita",
-    "price": null,
-    "timestamp": "2026-08-05T03:15:01.942173+00:00",
-    "priority": false,
-    "image": "https://fls-9ed9af97-ba71-4fbd-b8de-969da5133e40.laravel.cloud/testing/product/9545/images/S5Nq95NRPOmHxStCBbLNgG6fgzDZbTLsyRKR91jd.webp"
-  },
-  {
     "site": "Cool Shit - Pokemon",
     "title": "View Pok\u00e9mon TCG Mega Zygarde ex Premium Collection (Sealed case of 6)",
     "url": "https://www.coolshit.co.nz/product/premiumsealedcase",
@@ -9048,6 +9039,16 @@
     "timestamp": "2026-08-30T17:40:55.352313+00:00",
     "priority": false,
     "image": "http://otakumart.co.nz/cdn/shop/files/BasicMetalEnergy-50x.jpg?v=1737494522",
+    "limit": null
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolution - Pitch Black Booster Booster - Mega Darkrai ex",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-booster-mega-darkrai-ex",
+    "price": "$10.90",
+    "timestamp": "2026-08-30T18:10:43.283875+00:00",
+    "priority": false,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/MegaEvolutionPitchBlackBooster-2_1200x1200.jpg?v=1784441647",
     "limit": null
   }
 ]
