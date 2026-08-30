@@ -1,14 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG Trainer's Toolkit 2025",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-trainers-toolkit-2025",
-    "price": "$89.99",
-    "timestamp": "2026-08-05T01:11:22.197002+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCGTrainer_sToolkit2025_5d6c0764-efbd-48b1-afdd-72c21552112c.jpg?v=1761343285"
-  },
-  {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Moonlight Tin - Mega Clefable ex (Pre-order) Release Date: June 5th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex-pre-order-release-date-june-5th-2026",
@@ -9042,5 +9033,15 @@
     "priority": false,
     "image": "http://toytime.co.nz/cdn/shop/files/2026-06-26140207.jpg?v=1782439750",
     "limit": null
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-08-30T09:10:47.484894+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PitchBlack_BoosterBox.png?v=1784081025",
+    "limit": "Maximum 6 per person"
   }
 ]
