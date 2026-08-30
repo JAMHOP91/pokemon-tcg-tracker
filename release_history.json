@@ -1,14 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Three Booster Blister",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister",
-    "price": "$31.99",
-    "timestamp": "2026-08-05T00:23:00.593451+00:00",
-    "priority": true,
-    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister.jpg?v=1784082727"
-  },
-  {
     "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG League Battle Deck - Mega Lucario ex",
     "url": "https://toytime.co.nz/products/pokemon-tcg-league-battle-deck-mega-lucario-ex",
@@ -9037,6 +9028,16 @@
     "timestamp": "2026-08-30T03:10:45.706496+00:00",
     "priority": false,
     "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2102.jpg?v=1786436136",
+    "limit": null
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Lightning Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-lightning-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-08-30T05:40:47.369932+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicLightningEnergy-50x.jpg?v=1737494320",
     "limit": null
   }
 ]
