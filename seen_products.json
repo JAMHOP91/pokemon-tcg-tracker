@@ -1,23 +1,23 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
-    "zero_streak": 1266,
+    "zero_streak": 1267,
     "warned": true,
     "first_failure_at": "2026-08-22T02:50:51.150605+00:00",
     "prices": {}
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
-      "https://www.coolshit.co.nz/product/deltaetb",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
       "https://www.coolshit.co.nz/product/3PACKDELTA",
-      "https://www.coolshit.co.nz/product/premiumsealedcase"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/deltaetb"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -26,9 +26,9 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
-      "8713055273109",
       "8964116873365",
-      "7561509896341"
+      "7561509896341",
+      "8713055273109"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -57,13 +57,13 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558377046077",
-      "7558381600829",
       "7558379864125",
-      "7558378979389",
       "7558379405373",
-      "7558377930813",
-      "7558380781629"
+      "7558381600829",
+      "7558378979389",
+      "7558380781629",
+      "7558377046077",
+      "7558377930813"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -88,47 +88,47 @@
   },
   "Card Masters NZ": {
     "seen_ids": [
-      "7409030103203",
-      "9231086387363",
-      "8805645254819",
-      "8668035317923",
-      "9225966583971",
-      "9231080587427",
-      "9231220015267",
-      "9227332452515",
-      "9136790044835",
       "8856349376675",
-      "9227521523875",
-      "9225965764771",
-      "7540284915875",
-      "9231222079651",
-      "9231225356451",
-      "9231080751267",
-      "9225964847267",
-      "9225967042723",
-      "9227332059299",
-      "8952687788195",
-      "9136790274211",
-      "9231223652515",
-      "9107945980067",
-      "9136790208675",
-      "9231221653667",
-      "9107945226403",
-      "9032850505891",
-      "9231224832163",
-      "9231223128227",
-      "9231224963235",
-      "9136746102947",
-      "9231220408483",
-      "9231085863075",
-      "9231223914659",
       "9227332321443",
-      "8850541740195",
-      "9231221948579",
-      "9231223783587",
-      "9136791978147",
+      "9227332452515",
+      "9225966583971",
+      "9107945980067",
+      "9231085863075",
+      "8668035317923",
+      "7409030103203",
+      "9231225356451",
+      "9227332059299",
+      "9225967042723",
+      "9225964847267",
       "6051069657251",
-      "9231228207267"
+      "9136791978147",
+      "9227521523875",
+      "8952687788195",
+      "9231221653667",
+      "9136746102947",
+      "9231086387363",
+      "8850541740195",
+      "9136790274211",
+      "9231223128227",
+      "9231223652515",
+      "8805645254819",
+      "9225965764771",
+      "9231222079651",
+      "9136790044835",
+      "9231228207267",
+      "9136790208675",
+      "9231223783587",
+      "9231220408483",
+      "9107945226403",
+      "7540284915875",
+      "9231220015267",
+      "9231080587427",
+      "9231223914659",
+      "9231224832163",
+      "9032850505891",
+      "9231080751267",
+      "9231224963235",
+      "9231221948579"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -200,34 +200,34 @@
     "seen_ids": [
       "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest"
     ],
-    "zero_streak": 445,
+    "zero_streak": 446,
     "warned": true,
     "first_failure_at": "2026-08-27T20:34:47.010108+00:00",
     "prices": {}
   },
   "TCG NZ": {
     "seen_ids": [
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-phantasmal-flames-booster-box",
-      "https://www.tcgnz.co.nz/product-page/pre-order-pok\u00e9mon-tcg-destined-rivals-booster-box",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-bundle",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-8-5-prismatic-evolutions-2-pack-blister",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-elite-trainer-box",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-heroes-mini-tin",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-booster-box",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-checklane-blister",
-      "https://www.tcgnz.co.nz/product-page/one-piece-card-game-booster-display-royal-blood-op-10",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-elite-trainer-box",
-      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection",
+      "https://www.tcgnz.co.nz/product-page/pre-order-one-piece-booster-box-a-fist-of-divine-speed-op-11",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-enhanced-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pokemon-tcg-team-rocket-tin",
       "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-sv-unova-mini-tin-sealed-box-8-tins",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-chaos-rising-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-elite-trainer-box",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pok\u00e9mon-tcg-destined-rivals-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-box",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-three-booster-blister",
       "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-sv-white-flare-and-black-bolt-elite-trainer-box-set",
-      "https://www.tcgnz.co.nz/product-page/pokemon-tcg-team-rocket-tin",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-enhanced-booster-box",
-      "https://www.tcgnz.co.nz/product-page/pre-order-one-piece-booster-box-a-fist-of-divine-speed-op-11",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-elite-trainer-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-perfect-order-booster-box"
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-checklane-blister",
+      "https://www.tcgnz.co.nz/product-page/one-piece-card-game-booster-display-royal-blood-op-10",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-heroes-mini-tin",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-bundle",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-three-booster-blister",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-phantasmal-flames-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-perfect-order-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-8-5-prismatic-evolutions-2-pack-blister",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -258,8 +258,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10218488725744",
-      "10070962241776"
+      "10070962241776",
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -279,11 +279,11 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9328351772911",
-      "9464484921583",
       "9388711182575",
+      "9464484626671",
       "9328364945647",
-      "9464484626671"
+      "9328351772911",
+      "9464484921583"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -300,15 +300,15 @@
   },
   "Collect All Day": {
     "seen_ids": [
-      "https://www.collectallday.com/new/pokeball-tin-2021",
-      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
-      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
-      "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
-      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
-      "https://www.collectallday.com/new/hidden-fates-tin"
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -353,22 +353,22 @@
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
-      "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/47232",
-      "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/47223",
-      "https://hobbymaster.co.nz/products/product/46975",
-      "https://hobbymaster.co.nz/products/product/46976",
-      "https://hobbymaster.co.nz/products/product/46971",
-      "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/46974",
+      "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/45878",
+      "https://hobbymaster.co.nz/products/product/46975",
+      "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/47237",
-      "https://hobbymaster.co.nz/products/product/46973"
+      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/46976",
+      "https://hobbymaster.co.nz/products/product/45463"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-30T23:01:12.358352+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -426,8 +426,8 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8315313553608",
-      "8335789654216"
+      "8335789654216",
+      "8315313553608"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -446,14 +446,14 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
-      "10302410391848",
-      "10270182736168",
-      "10299295236392",
-      "10323223183656",
-      "10390759014696",
-      "10390752428328",
-      "10302497227048",
       "9734074401064",
+      "10302410391848",
+      "10390759014696",
+      "10323223183656",
+      "10270182736168",
+      "10302497227048",
+      "10299295236392",
+      "10390752428328",
       "10365187621160"
     ],
     "zero_streak": 0,
@@ -498,13 +498,13 @@
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
       "8855171334342",
-      "8970824843462",
-      "8970819535046",
       "8909657637062",
       "8909649739974",
-      "8855167008966",
       "8931072311494",
-      "8789885321414"
+      "8970824843462",
+      "8789885321414",
+      "8855167008966",
+      "8970819535046"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -542,9 +542,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -573,22 +573,22 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::available::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/boosterbundle::available::View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/boosterbundle::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/premiumcollection::sold_out::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::available::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
-      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection::sold_out::View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/boosterbundle::sold_out::View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order::sold_out::View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order)",
-      "https://www.coolshit.co.nz/product/premiumcollection::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/boosterbundle::available::View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::available::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/celebration::available::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
-      "https://www.coolshit.co.nz/product/celebration::sold_out::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP"
+      "https://www.coolshit.co.nz/product/boosterbundle::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order::sold_out::View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order)",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/premiumcollection::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/premiumcollection::sold_out::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::available::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
+      "https://www.coolshit.co.nz/product/celebration::sold_out::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
+      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection::sold_out::View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -597,12 +597,12 @@
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
+      "9268784496789",
       "9152299892885",
-      "9285795938453",
-      "9285822251157",
-      "9210168803477",
       "9345801978005",
-      "9268784496789"
+      "9285795938453",
+      "9210168803477",
+      "9285822251157"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -623,10 +623,10 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8770963537943",
+      "8774665043991",
       "8888685723671",
       "8832667877399",
-      "8774665043991"
+      "8770963537943"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -677,22 +677,22 @@
   },
   "Animal Kingdoms - Pokemon TCG": {
     "seen_ids": [
-      "10035621396720",
+      "10098927075568",
+      "10112184385776",
+      "10098857181424",
       "10171578286320",
-      "10171572912368",
-      "10099042582768",
+      "10112141295856",
+      "9599898976496",
+      "10035621396720",
       "10111548522736",
       "10112186188016",
-      "9982539989232",
-      "10098857181424",
-      "10112184385776",
-      "10171547386096",
-      "10111551209712",
-      "10098927075568",
-      "10112179831024",
       "10171560952048",
-      "10112141295856",
-      "9599898976496"
+      "9982539989232",
+      "10111551209712",
+      "10171572912368",
+      "10112179831024",
+      "10099042582768",
+      "10171547386096"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -777,9 +777,9 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9173828796670",
-      "9269784477950",
       "9233072521470",
+      "9269784477950",
+      "9173828796670",
       "9233032642814"
     ],
     "zero_streak": 0,
@@ -800,8 +800,8 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9537919222037",
       "9530379600149",
+      "9537919222037",
       "9577428353301",
       "9537919516949"
     ],
@@ -822,24 +822,24 @@
   },
   "Sealed & Slabbed - Pokemon Sealed": {
     "seen_ids": [
-      "8185039356022",
+      "8026239369334",
+      "7821725794422",
       "7977019080822",
+      "8069213454454",
       "7831122182262",
       "8171677057142",
-      "8069235998838",
-      "7821725794422",
-      "7977047195766",
-      "8185012945014",
-      "8100504862838",
       "8220955181174",
-      "8026257686646",
-      "7976837546102",
+      "8069235998838",
       "8069235671158",
-      "8069213454454",
       "8069235310710",
-      "8026239369334",
+      "8185012945014",
+      "7976837546102",
+      "8069232033910",
+      "8026257686646",
+      "7977047195766",
       "8220788752502",
-      "8069232033910"
+      "8185039356022",
+      "8100504862838"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -872,28 +872,28 @@
   },
   "Big Potato Collectibles - Pokemon Sealed": {
     "seen_ids": [
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-blister-booster-pack",
-      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-vivid-voltage-booster-pack",
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-booster-pack",
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-3-pack-blister-booster",
-      "https://www.bigpotato.co.nz/product-page/copy-of-pokemon-tcg-sword-shield-evolving-skies-booster-pack",
-      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sun-moon-elite-trainer-box-lunala",
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-2",
-      "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-booster-pack",
       "https://www.bigpotato.co.nz/product-page/copy-of-pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-rebel-clash-booster-pack",
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-scarlet-violet-surging-sparks-booster-pack",
-      "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
-      "https://www.bigpotato.co.nz/product-page/sealed-pok\u00e9mon-tcg-poke-ball-tin-d21-2021-cosmic-eclipse-vivid-voltage-rebel",
-      "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-x-ex-tin",
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
-      "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-happy-meal-pack-150-unit-sealed-case",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-elite-trainer-box",
-      "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-y-ex-tin",
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/sealed-pok\u00e9mon-tcg-poke-ball-tin-d21-2021-cosmic-eclipse-vivid-voltage-rebel",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-scarlet-violet-surging-sparks-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-2",
+      "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-happy-meal-pack-150-unit-sealed-case",
+      "https://www.bigpotato.co.nz/product-page/copy-of-pokemon-tcg-sword-shield-evolving-skies-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-3-pack-blister-booster",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-charizard-ex-premium-collection",
-      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box"
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-vivid-voltage-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-blister-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-x-ex-tin",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sun-moon-elite-trainer-box-lunala",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
+      "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-y-ex-tin",
+      "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-booster-pack"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -928,8 +928,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -938,8 +938,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -951,19 +951,19 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
-      "8231316750454",
-      "8231325270134",
+      "7716056825974",
+      "8231326056566",
+      "8254468653174",
+      "7650220736630",
       "7787228790902",
       "8231315472502",
-      "8231326056566",
-      "7716056825974",
-      "8231312228470",
-      "7650220736630",
-      "8254468882550",
       "8231321895030",
+      "8231314292854",
+      "8231312228470",
+      "8231325270134",
       "8231309377654",
-      "8254468653174",
-      "8231314292854"
+      "8254468882550",
+      "8231316750454"
     ],
     "zero_streak": 0,
     "warned": false,
