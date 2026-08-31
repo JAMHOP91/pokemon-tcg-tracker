@@ -9,7 +9,7 @@ import requests
 from sites.filters import is_tcg_product
 
 
-def get_shopify_products(base_url, collection_handle=None, require_keywords=None, scan_all_pages=False, max_pages=6):
+def get_shopify_products(base_url, collection_handle=None, require_keywords=None, scan_all_pages=False, max_pages=6, include_sold_out=False):
     """
     Fetches Pokemon TCG products from a Shopify store.
 
@@ -19,6 +19,11 @@ def get_shopify_products(base_url, collection_handle=None, require_keywords=None
       with no dedicated collection
     - require_keywords: list of words that must ALL appear in the title
       (case-insensitive) - used for multi-TCG stores to exclude other games
+    - include_sold_out: if True, includes items even with no available
+      variant. Use this for pre-order collections, where a listing
+      existing at all (even already sold out) is itself the valuable
+      signal - otherwise a hyped item that sells out within minutes of
+      listing would never be reported as ever having existed.
     """
     products = []
     require_keywords = require_keywords or []
@@ -47,9 +52,12 @@ def get_shopify_products(base_url, collection_handle=None, require_keywords=None
                 continue
             variants = item.get("variants", [])
             available_variants = [v for v in variants if v.get("available")]
-            if not available_variants:
+            if not available_variants and not include_sold_out:
                 continue
-            cheapest = min(available_variants, key=lambda v: float(v.get("price", 0)))
+            if available_variants:
+                cheapest = min(available_variants, key=lambda v: float(v.get("price", 0)))
+            else:
+                cheapest = variants[0] if variants else {}
             price = cheapest.get("price")
             handle = item.get("handle")
             product_url = f"{base_url}/products/{handle}"

@@ -1,5 +1,6 @@
 ﻿"""
 Magic Red Dragon - Pokemon Pre-Orders. Uses the shared Shopify helper.
+Includes sold-out items - see Otakumart pre-orders for rationale.
 """
 
 from sites.shopify_helper import get_shopify_products
@@ -11,4 +12,4 @@ ALLOW_EMPTY_RESULTS = True
 
 
 def get_current_products() -> list[dict]:
-    return get_shopify_products(BASE_URL, collection_handle=COLLECTION_HANDLE, require_keywords=["pokemon"])
+    return get_shopify_products(BASE_URL, collection_handle=COLLECTION_HANDLE, require_keywords=["pokemon"], include_sold_out=True)

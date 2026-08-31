@@ -1,1733 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-08-05T06:33:03.925962+00:00",
-    "priority": true,
-    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201"
-  },
-  {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: League Battle Deck - Mega Lucario ex *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-mega-lucario-ex-sealed-pre-order-ships-may-22nd",
-    "price": "$71.99",
-    "timestamp": "2026-08-05T07:02:20.233782+00:00",
-    "priority": false,
-    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck_EN.jpg?v=1775450990"
-  },
-  {
-    "site": "Collect All Day",
-    "title": "Hidden Fates Tin",
-    "url": "https://www.collectallday.com/new/hidden-fates-tin",
-    "price": "from NZ$230.00",
-    "timestamp": "2026-08-05T08:13:32.536460+00:00",
-    "priority": false,
-    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ea41518a9fa910a7d7a63ac/1587816618843/480px-CharizardGX_Tin.jpg?format=1500w"
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Lucario ex League Battle Deck",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-lucario-ex-league-battle-deck",
-    "price": "$69.99",
-    "timestamp": "2026-08-05T08:13:32.536460+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck.png?v=1777945461"
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: Mega Greninja ex Premium Collection",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection-pre-order-release-date-17th-july-2026",
-    "price": "$109.00",
-    "timestamp": "2026-08-05T08:18:46.129688+00:00",
-    "priority": false,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731.jpg?v=1777627052"
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "Pokemon Japanese Storm Emeralda Booster Pack",
-    "url": "https://www.cardtopia.co.nz/products/pokemon-japanese-storm-emeralda-booster-pack",
-    "price": "$9.50",
-    "timestamp": "2026-08-05T09:58:37.576616+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/Pokemon-Storm-Emeralda-Booster-Pack-Japanese-TCG.webp?v=1785923821"
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "Pokemon Japanese Storm Emeralda Booster Pack",
-    "url": "https://www.cardtopia.co.nz/products/pokemon-japanese-storm-emeralda-booster-pack",
-    "price": "$9.50",
-    "timestamp": "2026-08-05T10:23:21.907826+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/Pokemon-Storm-Emeralda-Booster-Pack-Japanese-TCG.webp?v=1785923821"
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "Pokemon Japanese Storm Emeralda Booster Pack",
-    "url": "https://www.cardtopia.co.nz/products/pokemon-japanese-storm-emeralda-booster-pack",
-    "price": "$9.50",
-    "timestamp": "2026-08-05T10:26:38.417015+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/Pokemon-Storm-Emeralda-Booster-Pack-Japanese-TCG.webp?v=1785923821"
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: Mega Greninja ex Premium Collection",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection-pre-order-release-date-17th-july-2026",
-    "price": "$109.00",
-    "timestamp": "2026-08-05T10:26:38.417015+00:00",
-    "priority": false,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731.jpg?v=1777627052"
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "Pokemon Japanese Storm Emeralda Booster Pack",
-    "url": "https://www.cardtopia.co.nz/products/pokemon-japanese-storm-emeralda-booster-pack",
-    "price": "$9.50",
-    "timestamp": "2026-08-05T10:44:47.242148+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/Pokemon-Storm-Emeralda-Booster-Pack-Japanese-TCG.webp?v=1785923821"
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Mega Zygarde ex Premium Collection Sealed Case of 6 - Pok\u00e9mon TCG",
-    "url": "https://magicreddragon.co.nz/products/mega-zygarde-ex-premium-collection-sealed-case-of-6-pokemon-tcg-1",
-    "price": "$599.00",
-    "timestamp": "2026-08-05T11:29:14.876819+00:00",
-    "priority": false,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762.jpg?v=1773976433"
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Mega Zygarde ex Premium Collection Sealed Case of 6 - Pok\u00e9mon TCG",
-    "url": "https://magicreddragon.co.nz/products/mega-zygarde-ex-premium-collection-sealed-case-of-6-pokemon-tcg-1",
-    "price": "$599.00",
-    "timestamp": "2026-08-05T11:36:24.994958+00:00",
-    "priority": false,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762.jpg?v=1773976433"
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "Pokemon Japanese Storm Emeralda Booster Pack",
-    "url": "https://www.cardtopia.co.nz/products/pokemon-japanese-storm-emeralda-booster-pack",
-    "price": "$285.00",
-    "timestamp": "2026-08-05T11:39:56.540870+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/Pokemon-Storm-Emeralda-Booster-Pack-Japanese-TCG.webp?v=1785923821"
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Moonlight Tin - Mega Clefable ex (Pre-order) Release Date: June 5th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex-pre-order-release-date-june-5th-2026",
-    "price": "$56.00",
-    "timestamp": "2026-08-05T12:16:08.674925+00:00",
-    "priority": false,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Moonlit-Tin-Mega-Clefable-Scale_EN-150x150.jpg?v=1775163354"
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Pitch Black Booster Box",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-booster-box-pre-order-17-7-2026",
-    "price": "$360.00",
-    "timestamp": "2026-08-05T12:20:55.160853+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/712845506_122203714544471322_1472360028819368492_n.jpg?v=1780891415"
-  },
-  {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 2-Pack Blister Product (Pre-Order)",
-    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-    "price": "NZ$24.00",
-    "timestamp": "2026-08-05T12:49:41.168906+00:00",
-    "priority": false,
-    "image": "https://assets.bigcartel.com/product_images/425327193/Untitled+design+_4_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T13:42:38.669774+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T13:51:31.421669+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "Pokemon Terastal Gathering  booster pack",
-    "url": "https://www.cardtopia.co.nz/products/pokemon-terastal-gathering-winner-takes-all",
-    "price": "$23.99",
-    "timestamp": "2026-08-05T13:56:42.285453+00:00",
-    "priority": false,
-    "image": null
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T13:58:47.181995+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 2025 Pokemon TCG World Championships Deck (Pre Order) Release Date: 19 June 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-2025-pokemon-tcg-world-championships-deck-pre-order-release-date-19-june-2026",
-    "price": "$45.00",
-    "timestamp": "2026-08-05T14:29:26.966377+00:00",
-    "priority": false,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/2025-Pokemon-TCG-World-Championships-Deck-Display_EN.jpg?v=1777627623"
-  },
-  {
-    "site": "Hobby Lords - Pokemon",
-    "title": "2025 Pokemon TCG World Championships Deck - Liao Fu Guan",
-    "url": "https://www.hobbylords.co.nz/products/single/-2025-pokemon-tcg-world-championships-deck-liao-fu-guan",
-    "price": null,
-    "timestamp": "2026-08-05T14:32:54.161081+00:00",
-    "priority": false,
-    "image": "https://fls-9ed9af97-ba71-4fbd-b8de-969da5133e40.laravel.cloud/testing/product/9546/images/wLN3e4esc50E6ozceKx44M064yRPz2c4xPXKzOAS.jpg"
-  },
-  {
-    "site": "Hobby Lords - Pokemon",
-    "title": "Pokemon - Alcove Flip Box - Gallery Series - Frosted Forest",
-    "url": "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
-    "price": null,
-    "timestamp": "2026-08-05T14:32:54.161081+00:00",
-    "priority": false,
-    "image": "https://fls-9ed9af97-ba71-4fbd-b8de-969da5133e40.laravel.cloud/testing/product/10930/images/65e0e5794fbc5.png"
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T14:58:21.488577+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T15:45:28.195571+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Chaos Rising - Booster Box",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
-    "price": "$360.00",
-    "timestamp": "2026-08-05T15:45:28.195571+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254"
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T16:03:04.638290+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "Collect All Day",
-    "title": "Pokeball Tin (Best of 2021 Series)",
-    "url": "https://www.collectallday.com/new/pokeball-tin-2021",
-    "price": "NZ$120.00",
-    "timestamp": "2026-08-05T16:10:09.720560+00:00",
-    "priority": false,
-    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67a6fcd3353fc7373aea9a12/1759111658444/Screenshot+2025-02-08+195219.png?format=1500w"
-  },
-  {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG Mega Zygarde ex Premium Collection (Sealed case of 6)",
-    "url": "https://www.coolshit.co.nz/product/premiumsealedcase",
-    "price": "NZ$579.00",
-    "timestamp": "2026-08-05T16:16:54.736036+00:00",
-    "priority": false,
-    "image": "https://assets.bigcartel.com/product_images/426132168/Untitled+design+_2_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T16:18:41.148599+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T16:46:25.838604+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T17:09:20.126031+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T17:20:00.624341+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "Pok\u00e9mon TCG: MEGA Munix Zero Japanese Booster Pack",
-    "url": "https://www.cardtopia.co.nz/products/pokemon-tcg-mega-munix-zero-japanese-booster-pack",
-    "price": "$7.00",
-    "timestamp": "2026-08-05T17:23:17.868633+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/Untitleddesign-2026-01-21T214646.130.png?v=1768985232"
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T17:32:56.550732+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Scarlet & Violet Anytime, Anywhere Battle Academy Japan Ver.",
-    "url": "https://www.metalife.co.nz/products/pokemon-card-game-scarlet-violet-anytime-anywhere-battle-academy",
-    "price": "$24.80",
-    "timestamp": "2026-08-05T17:34:51.890111+00:00",
-    "priority": false,
-    "image": "http://www.metalife.co.nz/cdn/shop/files/pkm37718_0.jpg?v=1732593483"
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T17:44:43.925664+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG League Battle Deck - Mega Lucario ex",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-league-battle-deck-mega-lucario-ex",
-    "price": "$69.99",
-    "timestamp": "2026-08-05T17:59:44.986690+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2026-06-18112552.jpg?v=1781738787"
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T18:12:43.093056+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T18:27:44.305294+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "Pokemon Chinese Terastal Gathering Booster Box",
-    "url": "https://www.cardtopia.co.nz/products/pokemon-chinese-terastal-gathering-booster-box",
-    "price": "$235.99",
-    "timestamp": "2026-08-05T18:39:17.015422+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/Untitleddesign-2026-06-29T172457.371.png?v=1782710733"
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Yokohama World Championships 2023 Official Deck Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-yokohama-world-championships-2023-deck-box",
-    "price": "$21.99",
-    "timestamp": "2026-08-05T18:39:17.015422+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/SocialMediaPostsConsolidatedDesigns_6.jpg?v=1737248430"
-  },
-  {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: League Battle Deck - Charizard ex *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-charizard-ex-sealed-pre-order-ships-nov-15th",
-    "price": "$71.99",
-    "timestamp": "2026-08-05T18:44:55.542373+00:00",
-    "priority": false,
-    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Charizard-ex-League-Battle-Deck_EN-917x1024.jpg?v=1725010104"
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Mega Zygarde ex Premium Collection Sealed Case of 6 - Pok\u00e9mon TCG",
-    "url": "https://magicreddragon.co.nz/products/mega-zygarde-ex-premium-collection-sealed-case-of-6-pokemon-tcg-1",
-    "price": "$599.00",
-    "timestamp": "2026-08-05T18:44:55.542373+00:00",
-    "priority": false,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762.jpg?v=1773976433"
-  },
-  {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: Mega Zygarde ex Premium Collection *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-zygarde-ex-premium-collection-sealed",
-    "price": "$95.99",
-    "timestamp": "2026-08-05T19:02:16.870819+00:00",
-    "priority": false,
-    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762.jpg?v=1774229117"
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "Japanese Pokemon Mega Dream Ex Booster Pack",
-    "url": "https://www.cardtopia.co.nz/products/japanese-pokemon-mega-dream-ex-booster-pack",
-    "price": "$23.99",
-    "timestamp": "2026-08-05T19:09:26.842772+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/megadreamEX.jpg?v=1764637524"
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T19:09:26.842772+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG 2025 World Championships Deck",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-2025-world-championships-deck",
-    "price": "$49.99",
-    "timestamp": "2026-08-05T19:13:08.925787+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-2025-World-Championships-Deck.jpg?v=1782083911"
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T19:27:52.572817+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Mega Zygarde ex Premium Collection Sealed Case of 6 - Pok\u00e9mon TCG",
-    "url": "https://magicreddragon.co.nz/products/mega-zygarde-ex-premium-collection-sealed-case-of-6-pokemon-tcg-1",
-    "price": "$599.00",
-    "timestamp": "2026-08-05T19:36:45.937071+00:00",
-    "priority": false,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762.jpg?v=1773976433"
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T19:38:41.937521+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T19:44:54.865527+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T19:56:47.296286+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T20:11:32.053497+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Moonlight Tin - Mega Clefable ex (Pre-order) Release Date: June 5th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex-pre-order-release-date-june-5th-2026",
-    "price": "$56.00",
-    "timestamp": "2026-08-05T20:14:51.678342+00:00",
-    "priority": false,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Moonlit-Tin-Mega-Clefable-Scale_EN-150x150.jpg?v=1775163354"
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T20:21:32.881527+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T20:26:50.151245+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T20:34:44.579364+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T20:45:11.831834+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T20:56:50.327834+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Yokohama World Championships 2023 Official Deck Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-yokohama-world-championships-2023-deck-box",
-    "price": "$21.99",
-    "timestamp": "2026-08-05T21:14:46.686441+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/SocialMediaPostsConsolidatedDesigns_6.jpg?v=1737248430"
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T21:21:39.042832+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T21:28:40.742726+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T21:36:37.205778+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T21:45:29.832788+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order)",
-    "url": "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
-    "price": "NZ$99.00",
-    "timestamp": "2026-08-05T21:48:52.108805+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427179522/Untitled+design+_3_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T21:58:47.427579+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T22:23:20.754653+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-08-05T22:23:20.754653+00:00",
-    "priority": true,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399"
-  },
-  {
-    "site": "Parko Cards - Pokemon TCG",
-    "title": "Mega Gallade ex 048/086 Double Rare \u2013 Chaos Rising",
-    "url": "https://parkocards.co.nz/products/mega-gallade-ex-048-086-double-rare-chaos-rising",
-    "price": "$7.70",
-    "timestamp": "2026-08-05T22:34:44.138562+00:00",
-    "priority": false,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731.jpg?v=1777627052"
-  },
-  {
-    "site": "Parko Cards - Pokemon TCG",
-    "title": "Mega Gallade ex 048/086 Double Rare \u2013 Chaos Rising",
-    "url": "https://parkocards.co.nz/products/mega-gallade-ex-048-086-double-rare-chaos-rising",
-    "price": "$7.70",
-    "timestamp": "2026-08-05T22:45:54.354448+00:00",
-    "priority": false,
-    "image": "http://parkocards.co.nz/cdn/shop/files/2320764338.jpg?v=1785830489"
-  },
-  {
-    "site": "Parko Cards - Pokemon TCG",
-    "title": "Ludicolo 095/094 Illustration Rare \u2013 Phantasmal Flames",
-    "url": "https://parkocards.co.nz/products/ludicolo-095-094-illustration-rare-phantasmal-flames",
-    "price": "$6.99",
-    "timestamp": "2026-08-05T22:45:54.354448+00:00",
-    "priority": false,
-    "image": "http://parkocards.co.nz/cdn/shop/files/2320823008.jpg?v=1785830614"
-  },
-  {
-    "site": "Parko Cards - Pokemon TCG",
-    "title": "Mega Charizard X ex 013/094 Double Rare \u2013 Phantasmal Flames",
-    "url": "https://parkocards.co.nz/products/mega-charizard-x-ex-013-094-double-rare-phantasmal-flames",
-    "price": "$9.98",
-    "timestamp": "2026-08-05T22:45:54.354448+00:00",
-    "priority": false,
-    "image": "http://parkocards.co.nz/cdn/shop/files/2320823324.jpg?v=1785831176"
-  },
-  {
-    "site": "Parko Cards - Pokemon TCG",
-    "title": "Mega Lopunny ex 084/094 Double Rare",
-    "url": "https://parkocards.co.nz/products/mega-lopunny-ex-084-094-double-rare",
-    "price": "$4.99",
-    "timestamp": "2026-08-05T22:45:54.354448+00:00",
-    "priority": false,
-    "image": "http://parkocards.co.nz/cdn/shop/files/2320823165.jpg?v=1785831351"
-  },
-  {
-    "site": "Parko Cards - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Zygarde EX Premium Collection",
-    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$130.00",
-    "timestamp": "2026-08-05T22:45:54.354448+00:00",
-    "priority": false,
-    "image": "http://parkocards.co.nz/cdn/shop/files/pokemonmegazygardeex.webp?v=1785818630"
-  },
-  {
-    "site": "Parko Cards - Pokemon TCG",
-    "title": "Pokemon Chaos Rising Booster Pack",
-    "url": "https://parkocards.co.nz/products/pokemon-chaos-rising-booster-pack",
-    "price": "$11.99",
-    "timestamp": "2026-08-05T22:45:54.354448+00:00",
-    "priority": false,
-    "image": "http://parkocards.co.nz/cdn/shop/files/parko-cards-chaos-rising-booster-pack.webp?v=1785818475"
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Zygarde ex Premium Collection",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$99.80",
-    "timestamp": "2026-08-05T22:47:37.905647+00:00",
-    "priority": false,
-    "image": "http://www.metalife.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762_1_800x_d70e02e5-58dc-46a7-ac2c-d69293cfcca2.webp?v=1777863464"
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-08-05T22:55:04.427728+00:00",
-    "priority": true,
-    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201"
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "Pokemon Japanese \u2013 Special BOX \u2013 Pokemon Center Tohoku",
-    "url": "https://www.cardtopia.co.nz/products/pokemon-japanese-special-box-pokemon-center-tohoku",
-    "price": "$449.99",
-    "timestamp": "2026-08-05T23:06:49.579281+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/Untitled-design-2025-08-21T135520.541_ef0d5e42-9ea5-4388-b628-89f9d5ed4e52.png?v=1762289607"
-  },
-  {
-    "site": "30th Celebration Box - Web Monitor",
-    "title": "[Google Alerts] Google Alert - \"Pokemon 30th Celebration\" OR \"Pok\u00e9mon 30th Celebration\"",
-    "url": "https://kill-the-newsletter.com/feeds/owdhr915nykcrg1q62ag/entries/dxn4ientpglolsqqkwgj.html",
-    "price": null,
-    "timestamp": "2026-08-05T23:22:05.396030+00:00",
-    "priority": true,
-    "image": null
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Yokohama World Championships 2023 Official Deck Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-yokohama-world-championships-2023-deck-box",
-    "price": "$21.99",
-    "timestamp": "2026-08-06T00:03:07.227224+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/SocialMediaPostsConsolidatedDesigns_6.jpg?v=1737248430"
-  },
-  {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order)",
-    "url": "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
-    "price": "NZ$99.00",
-    "timestamp": "2026-08-06T00:19:09.539124+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427179522/Untitled+design+_3_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night",
-    "url": "https://www.coolshit.co.nz/product/premiumcollection",
-    "price": "NZ$449.00",
-    "timestamp": "2026-08-06T00:38:35.037734+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427179840/Untitled+design+_7_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order)",
-    "url": "https://www.coolshit.co.nz/product/boosterbundle",
-    "price": "NZ$79.00",
-    "timestamp": "2026-08-06T00:38:35.037734+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427180092/Untitled+design+_9_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order)",
-    "url": "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
-    "price": "NZ$29.00",
-    "timestamp": "2026-08-06T00:38:35.037734+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427180452/Untitled+design+_10_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: League Battle Deck - Dragapult ex *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-dragapult-ex-sealed",
-    "price": "$71.99",
-    "timestamp": "2026-08-06T01:21:57.463180+00:00",
-    "priority": false,
-    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Dragapult-ex-League-Battle-Deck_EN-918x1024.jpg?v=1746048794"
-  },
-  {
-    "site": "Parko Cards - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Zygarde EX Premium Collection",
-    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$130.00",
-    "timestamp": "2026-08-06T01:52:37.129198+00:00",
-    "priority": false,
-    "image": "http://parkocards.co.nz/cdn/shop/files/pokemonmegazygardeex.webp?v=1785818630"
-  },
-  {
-    "site": "Parko Cards - Pokemon TCG",
-    "title": "Pokemon Chaos Rising Booster Pack",
-    "url": "https://parkocards.co.nz/products/pokemon-chaos-rising-booster-pack",
-    "price": "$11.99",
-    "timestamp": "2026-08-06T01:52:37.129198+00:00",
-    "priority": false,
-    "image": "http://parkocards.co.nz/cdn/shop/files/parko-cards-chaos-rising-booster-pack.webp?v=1785818475"
-  },
-  {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order)",
-    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
-    "price": "NZ$360.00",
-    "timestamp": "2026-08-06T02:36:23.587133+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/425269320/17.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Status Watch",
-    "title": "View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order) (status: available)",
-    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
-    "price": "NZ$360.00",
-    "timestamp": "2026-08-06T02:36:23.587133+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/425269320/17.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Parko Cards - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Evolution \u2013 Pitch Black Booster Pack",
-    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-pack",
-    "price": "$8.99",
-    "timestamp": "2026-08-06T02:36:23.587133+00:00",
-    "priority": true,
-    "image": "http://parkocards.co.nz/cdn/shop/files/pitchblack.webp?v=1785983738"
-  },
-  {
-    "site": "Parko Cards - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Greninja ex Premium Collection",
-    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
-    "price": "$85.00",
-    "timestamp": "2026-08-06T02:36:23.587133+00:00",
-    "priority": false,
-    "image": "http://parkocards.co.nz/cdn/shop/files/pokemonmegagreninja.webp?v=1785983222"
-  },
-  {
-    "site": "Collect All Day",
-    "title": "Venusaur VMAX Starter Set",
-    "url": "https://www.collectallday.com/new/venusaur-vmax-starter-set",
-    "price": "NZ$55.00",
-    "timestamp": "2026-08-06T02:42:11.100404+00:00",
-    "priority": false,
-    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ff868cd81817a4febd39134/1610115281829/410px-Venusaur_VMAX_Starter_Set.jpg?format=1500w"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolution - Pitch Black Booster Booster - x36 Boosters SEALED BOX",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-booster-x36-boosters-sealed-box",
-    "price": "$398.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": true,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/MegaEvolutionPitchBlackBooster-5_1200x1200.jpg?v=1784441647"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG Pitch Black Three Booster Blister",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-pitch-black-three-booster-blister",
-    "price": "$32.90",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCGPitchBlackThreeBoosterBlister-1_1200x1200.jpg?v=1784440317"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolution - Pitch Black Booster Booster - Mega Chandelure ex",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-booster-mega-chandelure-ex",
-    "price": "$10.90",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": true,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/MegaEvolutionPitchBlackBooster-3_1200x1200.jpg?v=1784441647"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolution - Pitch Black Booster Booster - Mega Excadrill ex",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-booster-mega-excadrill-ex",
-    "price": "$10.90",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": true,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/MegaEvolutionPitchBlackBooster-1_1200x1200.jpg?v=1784441647"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolution - Pitch Black Booster Booster - Mega Darkrai ex",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-booster-mega-darkrai-ex",
-    "price": "$10.90",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": true,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/MegaEvolutionPitchBlackBooster-2_1200x1200.jpg?v=1784441647"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolution - Pitch Black Booster Booster - Mega Zeraora ex",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-booster-mega-zeraora-ex",
-    "price": "$10.90",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": true,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/MegaEvolutionPitchBlackBooster_1200x1200.jpg?v=1784441647"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG: Perfect Order Booster - Mega Zygarde ex",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-perfect-order-booster-mega-zygarde-ex",
-    "price": "$10.90",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG__Perfect_Order_Booster-1_1200x1200.png?v=1785385807"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG: Perfect Order Booster - Mega Starmie ex",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-perfect-order-booster-mega-starmie-ex",
-    "price": "$10.90",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG__Perfect_Order_Booster_1200x1200.png?v=1785386033"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG: Perfect Order Booster - Meowth ex",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-perfect-order-booster-meowth-ex",
-    "price": "$10.90",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG__Perfect_Order_Booster-2_1200x1200.png?v=1785386336"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG: Perfect Order Booster - Mega Clefable ex",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-perfect-order-booster-mega-clefable-ex",
-    "price": "$10.90",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG__Perfect_Order_Booster-3_1200x1200.png?v=1785386500"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG Mega Moonlight Tin - Mega Clefable ex",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
-    "price": "$58.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCG_MegaMoonlightTin-1_1200x1200.jpg?v=1783841443"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolution - Perfect Order Booster - x36 Boosters SEALED BOX",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-x36-boosters-sealed-box",
-    "price": "$388.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": true,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG_Mega_Evolution_-_Perfect_Order_Booster_-_x36_Boosters_-1_1200x1200.jpg?v=1776157984"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG Mega Greninja ex Premium Collection",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
-    "price": "$99.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCG_MegaGreninjaexPremiumCollection-1_1200x1200.jpg?v=1783838117"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG Lumiose City Mini Tin Set",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-set",
-    "price": "$130.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCG_LumioseCity-MiniTinSet-6_1200x1200.jpg?v=1783856395"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG Mega Zygarde ex Premium Collection",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$98.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCGMegaZygardeexPremiumCollection-1_1200x1200.jpg?v=1779967635"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG Deluxe Battle Deck - Miraidon ex",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-deluxe-battle-deck-miraidon-ex",
-    "price": "$42.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/P9566_699-41272_01_aad26515-d951-451e-aa39-03c646881f1f_1200x1200.png?v=1724929188"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "2024 Pokemon TCG World Championships Deck - Regidrago Vstar",
-    "url": "https://animalkingdoms.co.nz/products/2024-pokemon-tcg-world-championships-deck-regidrago-vstar",
-    "price": "$45.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/2024PokemonTCGWorldChampionshipsDeck-02_1200x1200.jpg?v=1751604297"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "2024 Pokemon TCG World Championships Deck - The 'Don",
-    "url": "https://animalkingdoms.co.nz/products/2024-pokemon-tcg-world-championships-deck-the-don",
-    "price": "$45.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/2024_Pokemon_TCG_World_Championships_Deck-05_1200x1200.jpg?v=1751604374"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "2024 Pokemon TCG World Championships Deck - Ancient Toolbox",
-    "url": "https://animalkingdoms.co.nz/products/2024-pokemon-tcg-world-championships-deck-ancient-toolbox",
-    "price": "$45.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/2024PokemonTCGWorldChampionshipsDeck-08_1200x1200.jpg?v=1751604426"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG - Trainer's Toolkit 2025",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-trainers-toolkit-2025",
-    "price": "$84.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG_-_Trainer_s_Toolkit_2025-3_1200x1200.jpg?v=1755138626"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG - League Battle Deck Miraidon ex",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-league-battle-deck-miraidon-ex",
-    "price": "$68.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/290-85273-2_1200x1200.jpg?v=1699617330"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG - League Battle Deck Origin Forme Palkia VSTAR",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-league-battle-deck-origin-forme-palkia-vstar",
-    "price": "$67.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/P8935_290-85236_01_1200x1200.jpg?v=1684552676"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG ULTRA PRO Full View Deck Box - Morning Meadow",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-ultra-pro-full-view-deck-box-morning-meadow",
-    "price": "$6.90",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/16467_FVDB_PKM_MorningMeadow_Front_1200x1200.jpg?v=1729320427"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG ULTRA PRO Full View Deck Box - Tinkaton",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-ultra-pro-full-view-deck-box-tinkaton",
-    "price": "$6.90",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/16500_FVDB_PKM_Tinkaton_Open_1200x1200.jpg?v=1742117291"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon Alcove Tower Deck Box - Pikachu",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-alcove-tower-deck-box-pikachu",
-    "price": "$92.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/ULTRA_PRO_Pokemon_-_Pikachu_Alcove_Tower_Deck_Box-2_1200x1200.jpg?v=1754039221"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG ULTRA PRO Full View Deck Box - Charmander",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-ultra-pro-full-view-deck-box-charmander",
-    "price": "$8.50",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG_ULTRA_PRO_Full_View_Deck_Box_-_Charmander-2_1200x1200.jpg?v=1754037063"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon Alcove Click Deck Box - Trick Room",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-alcove-click-deck-box-trick-room",
-    "price": "$79.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/16381_Alcove_Click_PKM_TrickRoom_Group_1200x1200.png?v=1725597975"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon Alcove Click Deck Box - Khalos",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-alcove-click-deck-box-khalos",
-    "price": "$55.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/16126_Alcove_Click_PKM_Kalos_2048x_7c880941-2852-4296-8a63-a78330681c5a_1200x1200.png?v=1708309049"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon Alcove Click Deck Box - Johto",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-alcove-click-deck-box-johto",
-    "price": "$79.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/16124_Alcove_ClickBox_PKM_Johto_2048x_7a0313fc-fa71-4f94-b357-f8a2964c2042_1200x1200.png?v=1708308913"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon Alcove Click Deck Box - Alola",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-alcove-click-deck-box-alola",
-    "price": "$55.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/16125_Alcove_Click_PKM_Alola_2048x_5ea03a23-f72e-493b-91b8-441b19ba2aaf_1200x1200.png?v=1708309056"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon Alcove Click Deck Box - Shimmering Skyline",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-alcove-click-deck-box-shimmering-skyline",
-    "price": "$79.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/16203_Alcove_Click_PKM_ShimmeringSkyline_1200x1200.jpg?v=1699615280"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG ULTRA PRO Mega Charizard X Deck Box (100 cards)",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-ultra-pro-mega-charizard-x-deck-box-100-cards",
-    "price": "$9.90",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/16732_1200x1200.jpg?v=1777108961"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG ULTRA PRO Mega Charizard Y Deck Box (100 cards)",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-ultra-pro-mega-charizard-y-deck-box-100-cards",
-    "price": "$9.90",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/16756-1_72d883fd-bc0f-480a-a27e-e94068b90831_1200x1200.jpg?v=1777109424"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon PRO Dual Deck Box - Iono and Bellibolt",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-pro-dual-deck-box-iono-and-bellibolt",
-    "price": "$20.50",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonPRODualDeckBox-IonoandBellibolt-1_1200x1200.jpg?v=1754222961"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG ULTRA PRO Full View Deck Box - Iono and Bellibolt",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-ultra-pro-full-view-deck-box-iono-and-bellibolt",
-    "price": "$8.50",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG_ULTRA_PRO_Full_View_Deck_Box_-_Iono_and_Bellibolt-1_1200x1200.jpg?v=1754222046"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon Neon Kanto Alcove Vault Deck Box",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-neon-kanto-alcove-vault-deck-box",
-    "price": "$139.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonNeonKantoAlcoveVaultDeckBox-1_1200x1200.jpg?v=1754224094"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG Mega Lucario ex League Battle Deck",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-lucario-ex-league-battle-deck",
-    "price": "$59.90",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCG_MegaLucarioexLeagueBattleDeck-1_1200x1200.jpg?v=1779968782"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "2025 Pokemon TCG World Championships Deck - Riley Deck",
-    "url": "https://animalkingdoms.co.nz/products/2025-pokemon-tcg-world-championships-deck-riley-deck",
-    "price": "$45.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/2025PokemonTCGWorldChampionshipsDeck-7_1200x1200.jpg?v=1781870624"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "2025 Pokemon TCG World Championships Deck - Yuya Deck",
-    "url": "https://animalkingdoms.co.nz/products/2025-pokemon-tcg-world-championships-deck-yuya-deck",
-    "price": "$45.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/2025PokemonTCGWorldChampionshipsDeck-1_1200x1200.jpg?v=1781870676"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "2025 Pokemon TCG World Championships Deck - Jose Deck",
-    "url": "https://animalkingdoms.co.nz/products/2025-pokemon-tcg-world-championships-deck-jose-deck",
-    "price": "$45.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/2025PokemonTCGWorldChampionshipsDeck-3_1200x1200.jpg?v=1781870788"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "2025 Pokemon TCG World Championships Deck - Liao Deck",
-    "url": "https://animalkingdoms.co.nz/products/2025-pokemon-tcg-world-championships-deck-liao-deck",
-    "price": "$45.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/2025PokemonTCGWorldChampionshipsDeck-5_1200x1200.jpg?v=1781870858"
-  },
-  {
-    "site": "Game Corner - Pokemon",
-    "title": "Pok\u00e9mon TCG Mega Moonlight Tin (one of each)",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-moonlight-tin-one-of-each",
-    "price": "$110.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Mega_Moonlight_Tin.jpg?v=1780987378"
-  },
-  {
-    "site": "Game Corner - Pokemon",
-    "title": "Pok\u00e9mon TCG Lumiose City Mini Tin (Assorted)",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
-    "price": "$25.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Lumiose_City_Mini_Tin.jpg?v=1780985527"
-  },
-  {
-    "site": "Game Corner - Pokemon",
-    "title": "Pok\u00e9mon TCG Dragapult ex League Battle Deck",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-dragapult-ex-league-battle-deck-preorder-ship-on-may-2-2025",
-    "price": "$57.00",
-    "timestamp": "2026-08-06T02:59:29.260375+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/POKEMON_TCG_Dragapult_ex_League_Battle_Deck.jpg?v=1744874107"
-  },
-  {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Evolution - Perfect Order Booster (Single)",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-single",
-    "price": "$9.99",
-    "timestamp": "2026-08-06T03:13:28.962485+00:00",
-    "priority": true,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Meowth_EN_grande.jpg?v=1774554427"
-  },
-  {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-chaos-rising-booster",
-    "price": "$9.99",
-    "timestamp": "2026-08-06T03:13:28.962485+00:00",
-    "priority": true,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Chaos-Rising-Booster-Wrap-Mega-Pyroar_EN-560x1024_grande.jpg?v=1779398996"
-  },
-  {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
-    "price": "$9.99",
-    "timestamp": "2026-08-06T03:13:28.962485+00:00",
-    "priority": true,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191"
-  },
-  {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising: Checklane Blister",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-checklane-blister",
-    "price": "$11.99",
-    "timestamp": "2026-08-06T03:13:28.962485+00:00",
-    "priority": true,
-    "image": "http://popstop.co.nz/cdn/shop/files/10-10405-102_grande.jpg?v=1779404721"
-  },
-  {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG:  Mega Greninja ex Premium Collection",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
-    "price": "$93.99",
-    "timestamp": "2026-08-06T03:13:28.962485+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731-1_grande.jpg?v=1780869247"
-  },
-  {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pokemon TCG: League Battle Deck Miraidon ex",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-league-battle-deck-miraidon-ex",
-    "price": "$69.99",
-    "timestamp": "2026-08-06T03:13:28.962485+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Miraidon-ex-League-Battle-Deck_EN-919x1024_grande.jpg?v=1765748159"
-  },
-  {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Team Rocket\u2019s Mewtwo ex League Battle Deck",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-team-rockets-mewtwo-ex-league-battle-deck",
-    "price": "$69.99",
-    "timestamp": "2026-08-06T03:13:28.962485+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Team-Rockets-Mewtwo-ex-League-Battle-Deck_EN-918x1024_grande.jpg?v=1765422964"
-  },
-  {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "POK\u00c9MON TCG: Miraidon ex / Koraidon ex Deluxe Battle Deck",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-miraidon-ex-koraidon-ex-deluxe-battle-deck",
-    "price": "$42.99",
-    "timestamp": "2026-08-06T03:13:28.962485+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Koraidon-ex-Deluxe-Battle-DeckEN-7371024-1jpg_grande.jpg?v=1755217356"
-  },
-  {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Lucario ex League Battle Deck",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-lucario-ex-league-battle-deck",
-    "price": "$66.99",
-    "timestamp": "2026-08-06T03:13:28.962485+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck-Front_EN_grande.jpg?v=1776291158"
-  },
-  {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Evolution-Pitch Black Booster Pack",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-pack",
-    "price": "$9.95",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Wrap-Mega-Darkrai_EN-560x1024.jpg?v=1784445114"
-  },
-  {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster Box",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Display_EN-750x1024.jpg?v=1784444621"
-  },
-  {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: 2025 World Championship Deck Yuya Okita",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-2025-world-championship-deck-yuya-okita",
-    "price": "$44.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": false,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/2025-Pokemon-TCG-World-Championships-Deck-Okita_EN.jpg?v=1781574858"
-  },
-  {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: 2025 World Championship Deck Jose Cruz Galindo-Resendiz",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-2025-world-championship-deck-jose-cruz-galindo-resendiz",
-    "price": "$44.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": false,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/2025-Pokemon-TCG-World-Championships-Deck-Galindo-Resendiz_EN.jpg?v=1781574803"
-  },
-  {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: 2025 World Championship Deck Liao Fu Guan",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-2025-world-championship-deck-liao-fu-guan",
-    "price": "$44.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": false,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/2025-Pokemon-TCG-World-Championships-Deck-Liao_EN.jpg?v=1781574743"
-  },
-  {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: 2025 World Championship Deck Riley McKay",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-2025-world-championship-deck-riley-mckay",
-    "price": "$44.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": false,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/2025-Pokemon-TCG-World-Championships-Deck-McKay_EN.jpg?v=1781574643"
-  },
-  {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pokemon TCG: Lumiose City Mini Tin (Assorted)",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-lumiose-city-mini-tin",
-    "price": "$24.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": false,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Lumiose-City-Mini-Tin-Embroar.jpg?v=1780884018"
-  },
-  {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pokemon TCG: Mega Moonlight Tin (Mega Clefable ex)",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
-    "price": "$54.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": false,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Moonlit-Tin-Mega-Clefable_EN.jpg?v=1780883693"
-  },
-  {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pok\u00e9mon TCG Mega Zygarde ex Premium Collection",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": false,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762.jpg?v=1779678921"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Mega Evolution: Perfect Order: Sealed Booster Pack (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-pack-english",
-    "price": "$10.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBooster_2webp.webp?v=1780641519"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pok\u00e9mon: Mega Evolution: Chaos Rising: Sealed Elite Trainer Box (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-chaos-rising-sealed-elite-trainer-box-english",
-    "price": "$159.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/ChaosRisingEliteTrainerBox_1webp.webp?v=1776939037"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pok\u00e9mon: Mega Evolution: Perfect Order: Sealed Booster Bundle (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-bundle-english",
-    "price": "$74.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBoosterBundle_1webp.webp?v=1772701953"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Mega Evolution: Phantasmal Flames: Sealed Booster Box (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-scarlet-violet-mega-evolution-phantasmal-flames-sealed-booster-box-english",
-    "price": "$729.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/MegaEvolutionPhantasmalFlamesBoosterBox_1jpeg.jpg?v=1759350222"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pok\u00e9mon: Mega Evolutions: Mega Charizard X EX: Sealed Ultra Premium Collection (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-scarlet-violet-mega-charizard-x-ex-sealed-ultra-premium-collection-english",
-    "price": "$429.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/UltraPremiumCollectionBox_1webp.webp?v=1758013827"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Mega Evolution: Chaos Rising: Sealed Booster Pack (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-chaos-rising-sealed-booster-pack-english",
-    "price": "$11.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/ChaosRisingBooster_1webp.webp?v=1776939197"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Mega Evolution: Chaos Rising: Sealed 3 Booster Pack (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-chaos-rising-sealed-3-booster-pack-english",
-    "price": "$39.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/ChaosRising3pkBlister_1webp.webp?v=1776938429"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Mega Evolution: Pitch Black: Sealed Booster Box (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-pitch-black-sealed-booster-box-english",
-    "price": "$399.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PitchBlackBoosterBox_1webp.webp?v=1784004797"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Mega Evolution: Perfect Order: Sealed 3 Booster Pack (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-3-booster-pack-english",
-    "price": "$39.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrder3pkBlister_1webp.webp?v=1772703932"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pok\u00e9mon: Mega Evolution: Perfect Order: Sealed Elite Trainer Box (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-elite-trainer-box-english",
-    "price": "$134.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderEliteTrainerBoxjpeg.jpg?v=1772700406"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Scarlet & Violet: Journey Together: Sealed Enhanced Booster Box (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-scarlet-violet-journey-together-sealed-booster-box-english",
-    "price": "$499.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": false,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/JourneyTogetherBoosterBox.webp?v=1785480117"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Sword & Shield: Astral Radiance: Sealed Booster Box (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-scarlet-violet-astral-radiance-sealed-booster-box-english",
-    "price": "$749.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": false,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/AstralRadianceBoosterBoxwebp.webp?v=1785479418"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Scarlet & Violet: Obsidian Flames: Sealed Booster Box (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-scarlet-violet-obsidian-flames-sealed-booster-box-english",
-    "price": "$699.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": false,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/ObsidianFlamesBoosterBoxwebp_7565f637-1241-48c4-8944-3a948eabb4b4.webp?v=1785474298"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pok\u00e9mon: Mega Evolution: Pitch Black: Sealed Booster Bundle (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-pitch-black-sealed-booster-bundle-english",
-    "price": "$74.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PitchBlackBoosterBundle_1webp.webp?v=1784365301"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Mega Evolution: Pitch Black: Sealed 3 Booster Pack (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-pitch-black-sealed-3-booster-pack-english",
-    "price": "$39.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PitchBlack3pkBlister_1webp.webp?v=1784364768"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Scarlet & Violet: Destined Rivals: Sealed Booster Box (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-scarlet-violet-destined-rivals-sealed-booster-box-english",
-    "price": "$949.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": false,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PokemonDestinedRivalsBoosterBox_1webp.webp?v=1782537997"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pok\u00e9mon: Mega Evolution: Lumiose City: Mini Tin: Gallade (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-lumiose-city-mini-tin-gallade-english",
-    "price": "$29.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/LumioseCityMiniTins_Gallade_1webp.webp?v=1780644524"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pok\u00e9mon: Mega Evolution: Lumiose City: Mini Tin: Feraligatr (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-lumiose-city-mini-tin-feraligatr-english",
-    "price": "$29.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/LumioseCityMiniTins_Feraligatr_1webp.webp?v=1780644387"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pok\u00e9mon: Mega Evolution: Lumiose City: Mini Tin: Salamence (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-lumiose-city-mini-tin-salamence-english",
-    "price": "$29.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/LumioseCityMiniTins_Salamence_1webp.webp?v=1780644332"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pok\u00e9mon: Mega Evolution: Lumiose City: Mini Tin: Emboar (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-lumiose-city-mini-tin-emboar-english",
-    "price": "$29.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/LumioseCityMiniTins_Emboar_1webp.webp?v=1780644066"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pok\u00e9mon: Mega Evolution: Lumiose City: Mini Tin: Art Set (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-lumiose-city-mini-tin-art-set-english",
-    "price": "$174.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/LumioseCityMiniTins_ArtSet_1webp.webp?v=1780642788"
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Mega Evolution: Perfect Order: Sealed Booster Box (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-box-english",
-    "price": "$369.99",
-    "timestamp": "2026-08-06T03:19:04.760962+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBoosterBoxjpeg.jpg?v=1772704099"
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Three Booster Blister",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister",
-    "price": "$31.99",
-    "timestamp": "2026-08-06T03:21:04.831449+00:00",
-    "priority": true,
-    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister.jpg?v=1784082727"
-  },
-  {
-    "site": "Parko Cards - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Evolution Perfect Order Booster Pack",
-    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-pack",
-    "price": "$9.50",
-    "timestamp": "2026-08-06T03:44:47.608307+00:00",
-    "priority": true,
-    "image": "http://parkocards.co.nz/cdn/shop/files/pokemonperfectorderboosterpack.webp?v=1785987954"
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
-    "price": "$169.99",
-    "timestamp": "2026-08-06T03:52:10.473031+00:00",
-    "priority": true,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851"
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "Japanese Pokemon Mega Dream Ex Booster Pack",
-    "url": "https://www.cardtopia.co.nz/products/japanese-pokemon-mega-dream-ex-booster-pack",
-    "price": "$23.99",
-    "timestamp": "2026-08-06T03:55:40.705626+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/megadreamEX.jpg?v=1764637524"
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "Pokemon Terastal Gathering  booster pack",
-    "url": "https://www.cardtopia.co.nz/products/pokemon-terastal-gathering-winner-takes-all",
-    "price": "$23.99",
-    "timestamp": "2026-08-06T04:16:21.037168+00:00",
-    "priority": false,
-    "image": null
-  },
-  {
-    "site": "Hobby Station - Pokemon TCG",
-    "title": "Pokemon TCG 2025 World Championships Deck",
-    "url": "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
-    "price": "$42.61",
-    "timestamp": "2026-08-06T04:24:04.177654+00:00",
-    "priority": false,
-    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/28332/images/74502/896924-Product-1-I-639131853003471446__18857.1780635543.220.220.webp?c=2"
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG Lumiose City Mini Tin Set",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-set",
-    "price": "$130.00",
-    "timestamp": "2026-08-06T04:53:09.238056+00:00",
-    "priority": false,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/2025-Pokemon-TCG-World-Championships-Deck-McKay_EN.jpg?v=1781574643"
-  },
-  {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night",
-    "url": "https://www.coolshit.co.nz/product/premiumcollection",
-    "price": "NZ$449.00",
-    "timestamp": "2026-08-06T04:54:48.458598+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427179840/Untitled+design+_7_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolution - Pitch Black Elite Trainer Box - 2x PER PERSON LIMIT",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
-    "price": "$147.00",
-    "timestamp": "2026-08-06T04:54:48.458598+00:00",
-    "priority": true,
-    "image": "http://cardbot.co.nz/cdn/shop/files/10-10416-111-Pitch-Black-ETB-1-1024x976.jpg?v=1784268379"
-  },
-  {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG 2025 World Championships Deck",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-2025-world-championships-deck",
-    "price": "$62.00",
-    "timestamp": "2026-08-06T04:54:48.458598+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/world-cup-bundle_1.png?v=1782098016"
-  },
-  {
-    "site": "Parko Cards - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Greninja ex Premium Collection",
-    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
-    "price": "$85.00",
-    "timestamp": "2026-08-06T05:05:44.045139+00:00",
-    "priority": false,
-    "image": "http://parkocards.co.nz/cdn/shop/files/pokemonmegagreninja.webp?v=1785983222"
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "Saturday Night Stream Bundle - Pokemon Astral Radiance Pitch Black",
-    "url": "https://www.cardtopia.co.nz/products/saturday-night-stream-bundle-pokemon-astral-radiance-pitch-black",
-    "price": "$30.19",
-    "timestamp": "2026-08-06T05:09:30.602374+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/ChatGPTImageAug1_2026_09_40_04PM.png?v=1785577244"
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG Trainer's Toolkit 2025",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-trainers-toolkit-2025",
-    "price": "$89.99",
-    "timestamp": "2026-08-06T05:13:05.692531+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCGTrainer_sToolkit2025_5d6c0764-efbd-48b1-afdd-72c21552112c.jpg?v=1761343285"
-  },
-  {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG 2025 World Championships Deck",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-2025-world-championships-deck",
-    "price": "$62.00",
-    "timestamp": "2026-08-06T06:09:02.914527+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/world-cup-bundle_1.png?v=1782098016"
-  },
-  {
-    "site": "Cardtopia NZ",
-    "title": "Japanese Pokemon Mega Dream Ex Booster Box",
-    "url": "https://www.cardtopia.co.nz/products/boxing-day-special-japanese-pokemon-mega-dream-ex-booster-box",
-    "price": "$255.00",
-    "timestamp": "2026-08-06T06:28:18.218324+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/M2a-bb.webp?v=1763423839"
-  },
-  {
     "site": "Collect All Day",
     "title": "Grimmsnarl VMAX Starter Set",
     "url": "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
@@ -9060,5 +7332,2117 @@
     "priority": false,
     "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191",
     "limit": null
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "Delta Reign Elite Trainer Box | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/delta-reign-elite-trainer-box-pokemon-tcg",
+    "price": "$115.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1.jpg?v=1787291874",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "Delta Reign 3-Booster Blister | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/delta-reign-3-booster-blister-pokemon-tcg",
+    "price": "$30.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/10-10440-120-Delta-Reign-3-Booster-Blister-1.jpg?v=1787291744",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "Delta Reign Booster Bundle | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/delta-reign-booster-bundle-pokemon-tcg",
+    "price": "$60.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/10-10439-109-Delta-Reign-Booster-Bundle-1.jpg?v=1787291612",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "Delta Reign Booster Pack | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/delta-reign-booster-pack-pokemon-tcg",
+    "price": "$10.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-8.jpg?v=1787291471",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "Delta Reign Booster Box | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/delta-reign-booster-box-pokemon-tcg",
+    "price": "$330.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2.jpg?v=1787291333",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "Ascended Heroes Tin (Assorted) | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/ascended-heroes-tin-assorted-pokemon-tcg",
+    "price": "$55.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Ascended-Heroes-Tin.jpg?v=1783061243",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "Mega Forces Tin (Assorted) | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/mega-forces-tin-assorted-pokemon-tcg",
+    "price": "$55.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Forces-Tin.jpg?v=1783060847",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "30th Celebration Tech Sticker Collection\u2014Alolan Exeggutor | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/30th-celebration-tech-sticker-collection-alolan-exeggutor-pokemon-tcg",
+    "price": "$36.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tech-Sticker-Collection-Alolan-Exeggutor_EN.jpg?v=1783060645",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "30th Celebration Tech Sticker Collection\u2014Lucario | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/30th-celebration-tech-sticker-collection-lucario-pokemon-tcg",
+    "price": "$36.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tech-Sticker-Collection-Lucario_EN.jpg?v=1783060596",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "30th Celebration Greninja ex Box | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/30th-celebration-greninja-ex-box-pokemon-tcg",
+    "price": "$55.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Pokemon-ex-Box-Greninja-ex_EN.jpg?v=1783060475",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "30th Celebration Sylveon ex Box | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/30th-celebration-sylveon-ex-box-pokemon-tcg",
+    "price": "$55.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Pokemon-ex-Box-Sylveon-ex_EN.jpg?v=1783060306",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "30th Celebration Knock Out Collection | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/30th-celebration-knock-out-collection-pokemon-tcg",
+    "price": "$24.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Knock-Out-Collection_EN.jpg?v=1783060023",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "30th Celebration Elite Trainer Box | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/30th-celebration-elite-trainer-box-pokemon-tcg",
+    "price": "$120.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box_EN.jpg?v=1783059762",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "30th Celebration Mini Tin (Assorted) | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/30th-celebration-mini-tin-assorted-pokemon-tcg",
+    "price": "$25.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Mini-Tins-Assorted.jpg?v=1783059390",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "30th Celebration Booster Bundle | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/30th-celebration-booster-bundle-pokemon-tcg",
+    "price": "$65.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Booster-Bundle_EN.jpg?v=1783059198",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "30th Celebration Ultra-Premium Collection\u2014Night | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/30th-celebration-ultra-premium-collection-night-pokemon-tcg",
+    "price": "$435.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Ultra-Premium-Collection-Night_EN.jpg?v=1783058612",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "30th Celebration Ultra-Premium Collection\u2014Day | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/30th-celebration-ultra-premium-collection-day-pokemon-tcg",
+    "price": "$435.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Ultra-Premium-Collection-Day_EN.jpg?v=1783058569",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "30th Celebration Ditto Premium Collection | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/30th-celebration-ditto-premium-collection-pokemon-tcg",
+    "price": "$96.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Ditto-Premium-Collection_EN.jpg?v=1783057972",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "30th Celebration Tin\u2014Greninja | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/30th-celebration-tin-greninja-pokemon-tcg",
+    "price": "$65.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://otakumart.co.nz/cdn/shop/files/PokemonTCG-30thCelebrationTin-Greninja.png?v=1783057879",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "30th Celebration Tin\u2014Sylveon | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/30th-celebration-tin-sylveon-pokemon-tcg",
+    "price": "$65.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tin-Day_EN.jpg?v=1783057723",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "Zarude 2-Pack Blister | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/zarude-2-pack-blister-pokemon-tcg",
+    "price": "$25.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/P11446_3D_2pk_Blister_Aug_2026_DoubleWide_Front_EN.jpg?v=1780034557",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: 2-Pack Blister - Pitch black - Chaos rising (PRE-ORDER) Release Date: August 7th 2026",
+    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-2-pack-blister-pitch-black-chaos-rising",
+    "price": "$27.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://magicreddragon.co.nz/cdn/shop/files/P11446_3D_2pk_Blister_Aug_2026_DoubleWide_Front_EN.jpg?v=1780014492",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: 2-Pack Blister (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-2-pack-blister-pre-order",
+    "price": "$19.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/10-10316-105-Pokemon-TCG-2-Pack-Blster-Double-Wide-Q126.jpg?v=1770168466",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Mega ex Box (Limit 1 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-mega-ex-box-limit-1-per-customer-pre-order",
+    "price": "$52.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/70eb2903-351c-4438-aa18-e363bf765a92.webp?v=1769160809",
+    "limit": "Limit 1 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Booster Bundle (Limit 4 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-limit-4-per-customer-pre-order",
+    "price": "$84.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/P11436_ME02pt5_3D_Mega_ex_Box_MEmboar_Left_EN-1024x913.jpg?v=1769158993",
+    "limit": "Limit 4 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Charizard Tin (Limit 2 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-charizard-tin-limit-2-per-customer-pre-order",
+    "price": "$52.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon_TCG_Mega_Charizard_Tin.webp?v=1768369263",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Mini Tin (Assorted) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-mini-tin-assorted-pre-order",
+    "price": "$24.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Mini-Tins-Display_EN-796x1024_1.jpg?v=1768368698",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Elite Trainer Box (Limit 2 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box-limit-2-per-customer-pre-order",
+    "price": "$149.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/10-10315-101-ME-Ascended-Heroes-ETB-4-1024x976_1.jpg?v=1768368335",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet - Black Bolt Tech Sticker Collection (Pre-Order)(Limit 2 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-black-bolt-tech-sticker-collection-pre-orderlimit-2-per-customer",
+    "price": "$39.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Black-Bolt-Tech-Sticker-Blister-Reuniclus_EN-copy.jpg?v=1749638892",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet - Black Bolt Elite Trainer Box (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-black-bolt-elite-trainer-box-pre-order",
+    "price": "$139.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Black-Bolt-Elite-Trainer-Box_EN-1024x976.jpg?v=1748865691",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Checklane Blister (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-checklane-blister-pre-order",
+    "price": "$14.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/POKMON2-557x1024123213.jpg?v=1746444120",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Elite Trainer Box (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box-pre-order",
+    "price": "$150.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/POKEMO1-8-1024x976.jpg?v=1746441953",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Charizard ex Special Collection (Back Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-charizard-ex-special-collection-pre-order",
+    "price": "$89.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Charizard-ex-Special-Collection_EN-1024x790.jpg?v=1744877767",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 9 Journey Together Booster Bundle (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-9-journey-together-booster-bundle-pre-order",
+    "price": "$51.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Journey-Together-Booster-Bundle_EN-761x1024.jpg?v=1743209975",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 9 Journey Together Blisters (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-9-journey-together-blisters-pre-order",
+    "price": "$8.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/6d593621-pok-mon-tcg-scarlet-violet-journey-together-sleeved-booster-pack-10-cards-600.webp?v=1743209685",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 9 Journey Together Three Booster Blister (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-9-journey-together-three-booster-blister-pre-order",
+    "price": "$26.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/pokemon-sv09-journey-together-3-pack-blister-set.jpg?v=1743208176",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 9 Journey Together Checklane Blister (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-9-journey-together-checklane-blister-pre-order",
+    "price": "$14.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/pokemon-sv09-journey-together-checklane-blister-set.jpg?v=1743207595",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Surprise Box (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-surprise-box-pre-order",
+    "price": "$64.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/P10460_SV08pt5_3D_Surprise_Box_Packed_Left_EN-1024x766.jpg?v=1741689533",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Accessory Pouch (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-accessory-pouch-pre-order",
+    "price": "$69.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/P10461_SV08pt5_3D_Accessory_Pouch_Packaging_Left_EN-1024x824.jpg?v=1733134411",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 8 Surging Sparks Booster (Backorder)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-booster-pre-order",
+    "price": "$6.50",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Surging-Sparks-Booster-Display_EN-745x1024.jpg?v=1725680399",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Charizard ex Premium Collection",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-charizard-ex-premium-collection-pre-order",
+    "price": "$74.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/P8977_3D_Charizard_Premium_Coll_Left_EN-1024x983.jpg?v=1692168573",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG 30th Celebration Knock Out Collection (Limit 2 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection-limit-2-per-customer-pre-order",
+    "price": "$49.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Knock-Out-Collection_EN.jpg?v=1786179473",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 3
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: 30th Celebration Sylveon ex Box / Greninja ex Box (Limit 2 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-sylveon-ex-box-greninja-ex-box-limit-2-per-customer-pre-order",
+    "price": "$98.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/30_anniversary_ex-collection_3.webp?v=1786179101",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 1
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG 30th Celebration Tech Sticker Blister (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-tech-sticker-blister-pre-order",
+    "price": "$49.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/pokemon-30th-celebration-english-tech-sticker-collection_700x700_1573dd5b-9b72-45bf-82a7-6b05889533de.webp?v=1786178605",
+    "limit": null,
+    "seen_count": 1
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Forces Tin (Limit 3 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-forces-tin-limit-3-per-customer-pre-order",
+    "price": "$64.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/poke-force-tins.png?v=1785232857",
+    "limit": "Limit 3 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Tin (Limit 3 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-tin-limit-3-per-customer-pre-order",
+    "price": "$59.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/ascended-heroes-tins-stacked_530x_f9f27c0c-616c-456b-aeb5-cbb7c4852a47.webp?v=1785231971",
+    "limit": "Limit 3 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: 2-Pack Blister (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-2-pack-blister-pre-order-1",
+    "price": "$29.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/P11446_3D_2pk_Blister_Aug_2026_DoubleWide_Front_EN.jpg?v=1783813879",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: First Partner Illustration Collection - Series 3 (Limit 2 per Customer)(Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-3-limit-2-per-customer",
+    "price": "$79.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-First-Partner-Illustration-Collection_Series-3_EN.jpg?v=1783813459",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Greninja ex Premium Collection (Limit 2 per Customer)(Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection-limit-2-per-customerpre-order",
+    "price": "$98.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731.jpg?v=1780629419",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution - Pitch Black Elite Trainer Box (Limit 2 per Customer)(Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-limit-2-per-customerpre-order",
+    "price": "$149.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/10-10416-111-Pitch-Black-ETB-1-1024x976.jpg?v=1780629120",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution Pitch Black Booster Bundle (Limit 2 per Customer)(Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-bundle-limit-2-per-customerpre-order",
+    "price": "$69.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Bundle_EN-698x1024.jpg?v=1780628739",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution - Pitch Black Three-Booster Blister (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-three-booster-blister-pre-order",
+    "price": "$32.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Three-Booster-Blister-Front_EN-1024x940.jpg?v=1780628375",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution Pitch Black Booster (Back Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-limit-2-per-customerpre-order",
+    "price": "$359.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Display_EN-750x1024.jpg?v=1780628056",
+    "limit": null,
+    "seen_count": 4
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: First Partner Illustration Collection - Series 2 (Limit 1 per Customer)(Back Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-2-limit-2-per-customer-pre-order",
+    "price": "$79.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-First-Partner-Illustration-Collection_Series-2_EN.jpg?v=1778736234",
+    "limit": "Limit 1 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Moonlight Tin - Mega Clefable (Limit 2 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-gengar-limit-2-per-customer-pre-order-copy",
+    "price": "$49.49",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Moonlit-Tin-Mega-Clefable_EN.jpg?v=1778735886",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Moonlight Tin - Mega Gengar (Limit 2 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-gengar-limit-2-per-customer-pre-order",
+    "price": "$49.49",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Moonlit-Tin-Mega-Gengar_EN.jpg?v=1778735641",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Zygarde ex Premium Collection (On Sale)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection-limit-2-per-customerpre-order",
+    "price": "$84.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762_1.jpg?v=1776757007",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution Chaos Rising Booster Bundle (Limit 2 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-booster-bundle-limit-2-per-customerpre-order",
+    "price": "$65.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Chaos-Rising-Booster-Bundle_EN-697x1024_1.jpg?v=1776756826",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution Chaos Rising 3-Booster Blister",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-3-booster-blister-pre-order",
+    "price": "$32.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/ME4-Chaos-Rising-3-Booster-Blister-2-1024x940_1.jpg?v=1776756439",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution Chaos Rising Elite Trainer Box (Limit 2 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-elite-trainer-box-limit-2-per-customerpre-order",
+    "price": "$149.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Chaos-Rising-Elite-Trainer-Box_EN-1024x976_1.jpg?v=1776756132",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution Chaos Rising Booster (Limit 2 per Customer)(Back Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-booster-limit-2-per-customerpre-order",
+    "price": "$359.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Chaos-Rising-Booster-Display_EN-762x1024_1.jpg?v=1776755406",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Enhanced 2-Pack Blister 2026",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-enhanced-2-pack-blister-2026",
+    "price": "$24.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/P11433_3D_Enhanced_2pk_Blister_Mar2026_Front_EN.jpg?v=1775982926",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: First Partner Illustration Collection - Series 1 (Limit 2 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-1-limit-2-per-customerpre-order",
+    "price": "$39.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-First-Partner-Illustration-Collection-Series-1_EN.jpg?v=1771396168",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Elite Trainer Box (Limit 2 per Customer)(Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-elite-trainer-box-limit-2-per-customerpre-order",
+    "price": "$149.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Elite-Trainer-Box_EN.jpg?v=1771395742",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle (Limit 2 per Customer)(Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-bundle-limit-2-per-customerpre-order",
+    "price": "$59.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Bundle_EN.jpg?v=1771395553",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order 3 - Booster Blister (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-3-booster-blister-pre-order",
+    "price": "$28.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Three-Booster-Blister_EN.jpg?v=1771395216",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster (Limit 1 per Customer)(Back Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-limit-2-per-customerpre-order",
+    "price": "$319.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Display_EN.jpg?v=1771394856",
+    "limit": "Limit 1 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Tech Sticker Collection (Assorted)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-tech-sticker-collection-assorted-pre-order",
+    "price": "$35.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/ascended_heroes_tech-sticker-collection_5.webp?v=1768367663",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Collection - Erika/Larry (Assorted)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-collection-erika-larry-assorted-pre-order",
+    "price": "$21.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/10-10312-120-ME-Ascended-Heroes-Collection-Erika-Larry-1024x940_1.jpg?v=1768367046",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Pokemon Day 2026 Collection (Limit 2 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-pokemon-day-2026-collection-limit-2-per-customer-pre-order",
+    "price": "$32.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/0000_Pokemon-TCG-Pokemon-Day-2026-Collection_EN.jpg?v=1768366381",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG Mega Latias ex Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-latias-ex-box-pre-order",
+    "price": "$49.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Latias-ex-Box_EN-1024x913.jpg?v=1760917352",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: 2025 Trainer's Toolkit (On Sale)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-2025-trainers-toolkit-pre-order",
+    "price": "$74.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Trainers-Toolkit-2025_EN-1024x617.jpg?v=1760917088",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Kangaskhan ex Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-kangaskhan-ex-box-pre-order",
+    "price": "$49.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Kangaskhan-ex-Box_EN-1024x913.jpg?v=1760607131",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Venusaur ex Premium Collection",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-venusaur-ex-premium-collection-pre-order",
+    "price": "$94.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Venusaur-ex-Premium-Collection-Box_EN-1024x742.jpg?v=1760606889",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Poke Ball Tin - 2025 (Assorted)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-poke-ball-tin-2025-assortedpre-order",
+    "price": "$34.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Poke-Ball-Tin-Q4-Display_FR-1024x529.jpg?v=1760487345",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Collector Chest (Dec 2025)(Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-collector-chest-dec-2025pre-order",
+    "price": "$69.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Collector-Chest-2025_EN-1002x1024.jpg?v=1760487098",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Enhanced 2-Pack Blisters 2025",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-enhanced-2-pack-blisters-2025-pre-order",
+    "price": "$25.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/P10442_3D_Enhanced_2pk_Blister_Oct_2025_Front_EN-1024x940.jpg?v=1760486704",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG Blooming Waters Premium Collection (Limit 1 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-blooming-waters-premium-collection-pre-order",
+    "price": "$399.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/0005_Pokemon-TCG-Blooming-Waters-Premium-Collection_EN-1024x1024.jpg?v=1760006065",
+    "limit": "Limit 1 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG Scarlet & Violet 10 Destined Rivals Build & Battle Box (Back Order)(Limit 2 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-10-destined-rivals-build-battle-box-back-orderlimit-2-per-customer",
+    "price": "$69.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/POKEMO1-7-761x1024.jpg?v=1760005722",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG Mega Evolutions 2 Phantasmal Flames Three Booster Blister (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-2-phantasmal-flames-three-booster-blister-pre-order",
+    "price": "$33.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/2_308965_e.webp?v=1759920458",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG Mega Evolutions 2 Phantasmal Flames Booster Bundle (Pre-Order)(Limit 2 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-2-phantasmal-flames-booster-bundle-pre-orderlimit-2-per-customer",
+    "price": "$79.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Phantasmal-Flames-Booster-Bundle_EN-762x1024_1.jpg?v=1759919927",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG Mega Evolutions 2 Phantasmal Flames Elite Trainer Box (Limit 2 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-2-phantasmal-flames-elite-trainer-box-pre-orderlimit-2-per-customer",
+    "price": "$169.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Phantasmal-Flames-Elite-Trainer-Box_EN-1024x976.jpg?v=1759919620",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG Mega Evolutions 2 Phantasmal Flames Booster Box (Pre-Order)(Limit 2 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-2-phantasmal-flames-booster-box-pre-orderlimit-2-per-customer",
+    "price": "$429.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Phantasmal-Flames-Booster-Display_EN-748x1024.jpg?v=1759919194",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Charizard X ex Ultra Premium Collection",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection-pre-orderlimit-2-per-customer",
+    "price": "$279.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Charizard-X-ex-Ultra-Premium-Collection_EN-1024x722.jpg?v=1759918753",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 1 Booster Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-1-booster-box",
+    "price": "$374.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Booster-Display-Left_EN-775x1024.jpg?v=1757486673",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG Mega Evolutions 1 Booster Bundle (Pre-Order)(Limit 2 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-1-booster-bundle-pre-orderlimit-2-per-customer",
+    "price": "$64.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Booster-Bundle_EN-762x1024.jpg?v=1756612784",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG Mega Evolutions 1 Elite Trainer Box (Pre-Order)(Limit 2 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-1-elite-trainer-box-pre-orderlimit-2-per-customer",
+    "price": "$139.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/2df76d64-1e86-4bda-bf62-2d97602a894b.webp?v=1756612483",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG Mega Evolutions 1 Three booster blister (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-1-three-booster-blister-pre-order",
+    "price": "$29.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/PKU10050_web_front__02253.jpg?v=1756611945",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG Mega Evolutions 1 Enhance Booster Box (Limit 2 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-1-enhance-booster-box-pre-orderlimit-2-per-customer",
+    "price": "$359.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Booster-Display_EN-750x1024.jpg?v=1756610957",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Holiday 2025 Calendar",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-holiday-2025-calendar",
+    "price": "$113.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Holiday-Calendar-2025_EN-1024x458.jpg?v=1755589646",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Team Rocket Tin",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-team-rocket-tin-pre-order",
+    "price": "$64.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/team-rocket-high.webp?v=1754563923",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet - White Flare Tech Sticker Collection (Limit 2 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-black-bolt-tech-sticker-collection-pre-orderlimit-2-per-customer-copy",
+    "price": "$39.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-White-Flare-Tech-Sticker-Blister-Gothitelle_EN-copy.jpg?v=1749639069",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Unova Victini Illustration Collection (Limit 2 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-unova-victini-illustration-collection-pre-orderlimit-2-per-customer",
+    "price": "$62.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Unova-Victini-Illustration-Collection_EN-1024x912.jpg?v=1749638453",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet - White Flare Booster Bundle",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-white-flare-booster-bundle-pre-orderlimit-2-per-customer",
+    "price": "$84.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-White-Flare-Booster-Bundle_EN-1-762x1024.jpg?v=1749638116",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet - Black Bolt Booster Bundle",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-black-bolt-booster-bundle-pre-orderlimit-2-per-customer",
+    "price": "$84.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Black-Bolt-Booster-Bundle_EN-762x1024.jpg?v=1749637564",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Unova Mini Tin (Assorted)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-unova-mini-tin-assortedpre-order",
+    "price": "$24.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/P10425_SV10pt5_3D_Mini_Tins_Display_Left_EN-805x1024.jpg?v=1748866942",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet\u2014 White Flare Elite Trainer Box",
+    "url": "https://www.playx.co.nz/products/scarlet-violet-white-flare-elite-trainer-box-pre-order",
+    "price": "$139.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-White-Flare-Elite-Trainer-Box_EN-1024x976.jpg?v=1748866549",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Three booster blister",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-three-booster-blister-pre-order",
+    "price": "$32.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/POKEMO2-8-1024x940asdsada.jpg?v=1746444664",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Booster Bundle",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-booster-bundle-pre-order",
+    "price": "$64.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/POKEMO3-7-761x1024.jpg?v=1746443063",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Blisters",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-blisters-pre-order",
+    "price": "$11.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Destined-Rivals-Sleeved-Boosters_EN-1-958x1024.jpg?v=1746442467",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Booster Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-booster-box-pre-order",
+    "price": "$342.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/10-1012-748x1024.jpg?v=1746439820",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Iono's Bellibolt ex Premium Collection",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-ionos-bellibolt-ex-premium-collection-pre-order",
+    "price": "$89.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Ionos-Bellibolt-ex-Premium-Collection_EN-1024x742.jpg?v=1744877502",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Hop's Zacian ex Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-hops-zacian-ex-box",
+    "price": "$51.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Hops-Zacian-ex-Box4-1024x912.jpg?v=1744800089",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Stacking Tin (assorted)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-stacking-tin-assorted",
+    "price": "$35.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Stacking-Tin-Q1-2025-3-1024x885.jpg?v=1744799765",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-prismatic-evolutions-super-premium-collection-pre-order",
+    "price": "$299.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Prismatic-Evolutions-Super-Premium-Collection_EN-1024x572.jpg?v=1741390463",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 9 Journey Together Booster Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-9-journey-together-booster-box-pre-order",
+    "price": "$288.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/SV9-Journey-Together-Boosters-2-746x1024.jpg?v=1741389879",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Mini Tin (Assorted)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-mini-tin-assorted",
+    "price": "$29.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/P10408_SV08pt5_3D_Mini_Tins_Display_Left_EN-804x1024_1024x1024_2x_13ef115c-302e-4215-9c0b-60541c7f391c.jpg?v=1739681087",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions 2-PK Blister",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-2-pk-blister-pre-order",
+    "price": "$19.50",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/POKEMO2-2-1024x941.jpg?v=1733134149",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Booster Bundle",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-booster-bundle-pre-order",
+    "price": "$54.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/POKEMO4-761x1024.jpg?v=1733133769",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Elite Trainer Box (Limit 1 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-elite-trainer-box-pre-order",
+    "price": "$149.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Prismatic-Evolutions-Elite-Trainer-Box_EN-1024x975.jpg?v=1731408161",
+    "limit": "Limit 1 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Tech Sticker Collection (Back-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-tech-sticker-blister-pre-order",
+    "price": "$54.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/pokemon-scarlet-and-violet-prismatic-evolutions-tech-sticker-collection-box.webp?v=1731406466",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: 2024 Trainer's Toolkit (On Sale)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-2024-trainers-toolkit-pre-order",
+    "price": "$64.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Trainers-Toolkit-2024_EN-1024x617.jpg?v=1725684843",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Bloodmoon Ursaluna ex Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-bloodmoon-ursaluna-ex-box-pre-order",
+    "price": "$39.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Bloodmoon-Ursaluna-ex-Box_EN-1024x913.jpg?v=1725684656",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Grand Adventure Collection (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-grand-adventure-collection-pre-order",
+    "price": "$34.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Grand-Adventure-Collection_EN-1024x913.jpg?v=1725684443",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: November 2024 Collectors Chest",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-november-2024-collectors-chest-pre-order",
+    "price": "$58.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Collector-Chest-Fall-24_EN-2-1003x1024.jpg?v=1725683705",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Ogerpon ex Premium Collection",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-ogerpon-ex-premium-collection-pre-order",
+    "price": "$75.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Ogerpon-ex-Premium-Collection_EN-1024x943.jpg?v=1725683157",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Poke Ball Tin - Series 9 (Assorted)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-poke-ball-tin-series-9-assortedpre-order",
+    "price": "$28.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Poke-Ball-Tin-Q4-2024-Display_EN-1024x529.jpg?v=1725682827",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 8 Surging Sparks Blisters (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-blisters-pre-order",
+    "price": "$6.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon_TCG_Scarlet_and_Violet_8_Surging_Sparks_Blister.webp?v=1725682308",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 8 Surging Sparks Booster Bundle (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-booster-bundle-pre-order",
+    "price": "$38.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Surging-Sparks-Booster-Bundle_EN-893x1024.jpg?v=1725678489",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 8 Surging Sparks Checklane Blister",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-checklane-blister-pre-order",
+    "price": "$11.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Midwest_Cards_640_x_640_px_1__71605.jpg?v=1725674082",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 8 Surging Sparks Elite Trainer Box (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-elite-trainer-box-pre-order",
+    "price": "$84.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Surging-Sparks-Elite-Trainer-Box_EN-1024x975.jpg?v=1725673732",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 8 Surging Sparks Three Booster Blister (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-three-booster-blister-pre-order",
+    "price": "$23.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon_TCG_Scarlet_and_Violet_8_Surging_Sparks_Three_Booster_Blister.webp?v=1725672546",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Ultra Premium Collection - Terapagos ex",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-ultra-premium-collection-terapagos-ex-pre-order",
+    "price": "$239.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Terapagos-ex-Ultra-Premium-Collection_EN-1024x722.jpg?v=1725672132",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: 2024 Collectors Chest",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-2024-collectors-chest",
+    "price": "$44.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Collector-Chest-Back-to-School-2024_EN-1003x1024.jpg?v=1724829456",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Trick or Trade BOOster Bundle (2024)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-trick-or-trade-booster-bundle-2024-pre-order",
+    "price": "$29.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Trick-or-Trade-BOOster-Bundle-2024-35ct_EN-1024x486.jpg?v=1722428862",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Charizard ex Super-Premium Collection",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-charizard-ex-super-premium-collection-pre-order",
+    "price": "$149.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/P9574_3D_Charizard_ex_SPC_Figurine_Front_GEN-961x1024.jpg?v=1722428493",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Build & Battle Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-build-battle-box-pre-order",
+    "price": "$39.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Stellar-Crown-Build-and-Battle-Box_EN-761x1024.jpg?v=1722428141",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Holiday Calendar (2024)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-holiday-calendar-2024-pre-order",
+    "price": "$84.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Holiday-Calendar-2024_EN-1024x458.jpg?v=1722427767",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Blisters",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-blisters-pre-order",
+    "price": "$6.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/P9507_190-85900_01.jpg?v=1722427507",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Booster",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-booster-pre-order",
+    "price": "$6.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Stellar-Crown-Booster-Display_EN-745x1024.jpg?v=1722426602",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Booster Bundle",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-booster-bundle-pre-order",
+    "price": "$39.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Stellar-Crown-Booster-Bundle_EN-893x1024.jpg?v=1722426257",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Checklane Blister",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-checklane-blister-pre-order",
+    "price": "$9.50",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/POSV07CL_f_500x_f6a92a7b-fbae-44a0-ad66-a9de522d5c89.webp?v=1722425958",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Elite Trainer Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-elite-trainer-box-pre-order",
+    "price": "$94.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Stellar-Crown-Elite-Trainer-Box_EN-1024x975.jpg?v=1722425573",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Three Booster Blister",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-three-booster-blister",
+    "price": "$25.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/unnamed_500x_067527f3-2f7b-47ee-b508-04eb5ebffd50.webp?v=1722424083",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable Kingambit Illustration Collection",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-kingambit-illustration-collection",
+    "price": "$36.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Shrouded-Fable-Kingambit-Illustration-Collection_EN-821x1024.jpg?v=1722423552",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable Mini Tin (Assorted)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-mini-tin-assorted",
+    "price": "$16.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Shrouded-Fable-Mini-Tin-Display_EN-796x1024.jpg?v=1722423403",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable Kingdra/Greninja ex Special Collection",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-kingdra-greninja-ex-special-collection",
+    "price": "$54.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/POKEMON_TCG_Scarlet_and_Violet_6.5_Shrouded_Fable_Kingdra_Greninja_ex_Special_Collection.webp?v=1722422967",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable 3 Pack Blister",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-3-pack-blister",
+    "price": "$22.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Shrouded-Fable-3-Pack-Blister_EN-1024x940.jpg?v=1722422667",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable Elite Trainer Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-elite-trainer-box",
+    "price": "$84.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Shrouded-Fable-Elite-Trainer-Box_EN-1024x975.jpg?v=1722422428",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Palafin ex Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-palafin-ex-box",
+    "price": "$36.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Palafin-ex-Box-Right_EN-1024x922.jpg?v=1722422123",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Eraser Blister 2024",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-eraser-blister-2024",
+    "price": "$17.50",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/BacktoSchoolEraserBlister-1000x1000w.jpg?v=1722421970",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Paradox Clash Tin (In stock)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-paradox-clash-tin-pre-order",
+    "price": "$39.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/e0681a_73f7528ac8f64f388041ff0bd589f2d7_mv2.webp?v=1711192018",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Blisters",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-blisters-pre-order",
+    "price": "$6.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/pokemon_twilight_masquerade_4_1_grande_2d33cd82-f51b-4a0b-a9f4-fd3712d7694d.webp?v=1711191711",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Booster",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-booster-pre-order",
+    "price": "$6.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Twilight-Masquerade-Booster-Display_EN-763x1024.jpg?v=1711191197",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Booster Bundle",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-booster-bundle-pre-order",
+    "price": "$39.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Twilight-Masquerade-Booster-Bundle-Outer-Sleeve_EN-893x1024.jpg?v=1711190871",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Build & Battle Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-build-battle-box-pre-order",
+    "price": "$39.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/POKEMO2-761x1024.jpg?v=1711190527",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Checklane Blister",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-checklane-blister-pre-order",
+    "price": "$10.49",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/pokemon-sv06-twilight-masquerade-checklane-blister-set.jpg?v=1711190174",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Elite Trainer Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-elite-trainer-box-pre-order",
+    "price": "$81.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Twilight-Masquerade-Elite-Trainer-Box_EN-1024x975.jpg?v=1711189708",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Three Booster Blister",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-three-booster-blister-pre-order",
+    "price": "$19.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/X_twilight-masquerade-3-pack-blister0718.jpg?v=1711173795",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Vibrant Paldea Mini Tin",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-vibrant-paldea-mini-tin-assorted",
+    "price": "$15.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Vibrant-Paldea-Mini-Tins-Display_EN-796x1024.jpg?v=1711172795",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Armarouge ex Premium Collection",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-armarouge-ex-premium-collection",
+    "price": "$59.50",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Armarouge-ex-Premium-Collection_EN-1024x983.jpg?v=1708744230",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Booster Bundle",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-booster-bundle-pre-order-1",
+    "price": "$40.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Grafaiai ex Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-grafaiai-ex-box-pre-order",
+    "price": "$32.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Build & Battle Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-build-battle-box-pre-order",
+    "price": "$31.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Temporal-Forces-Build-Battle-Box_EN-1-761x1024.jpg?v=1706606381",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Iono Premium Tournament Collection",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-iono-premium-tournament-collection-pre-order",
+    "price": "$74.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Three booster blister",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-three-booster-blister-pre-order",
+    "price": "$23.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Elite Trainer Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-elite-trainer-box-pre-order",
+    "price": "$67.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Checklane Blister",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-checklane-blister-pre-order",
+    "price": "$10.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Booster",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-booster-pre-order",
+    "price": "$5.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Blister",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-blister-pre-order",
+    "price": "$6.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Paldea Adventure Chest",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-paldea-adventure-chest-pre-order",
+    "price": "$89.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Stacking Tin 2024",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-stacking-tin-2024-pre-order",
+    "price": "$22.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Crown Zenith Premium Collection - Pikachu VMAX",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-crown-zenith-premium-collection-pikachu-vmax",
+    "price": "$69.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Roaring Moon/ Iron Valiant ex Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-roaring-moon-iron-valiant-ex-box",
+    "price": "$30.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mabosstiff ex Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mabosstiff-ex-box-pre-order",
+    "price": "$26.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Combined Powers Premium Collection",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-combined-powers-premium-collection-pre-order",
+    "price": "$90.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 4.5 Paldean Fates Booster Bundle Set",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-5-paldean-fates-booster-bundle-set-pre-order",
+    "price": "$49.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 4.5 Paldean Fates Elite Trainer Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-5-paldean-fates-elite-trainer-box-pre-order",
+    "price": "$84.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 4.5 Paldean Fates Mini Tin (Assorted)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-5-paldean-fates-mini-tin-assorted",
+    "price": "$18.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 4.5 Paldean Fates Premium Collection",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-5-paldean-fates-premium-collection-pre-order",
+    "price": "$94.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 4.5 Paldean Fates Tech Sticker Blister",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-5-paldean-fates-tech-sticker-blister-pre-order",
+    "price": "$32.50",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 4.5 Paldean Fates Tin",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-5-paldean-fates-tin",
+    "price": "$56.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Trading Card Game Classic Collection (Stock Arrived)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-trading-card-game-classic-pre-order",
+    "price": "$639.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: November 2023 Collectors Chest (On Sale!)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-november-2023-collectors-chest-pre-order",
+    "price": "$42.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 4 Paradox Rift Build & Battle Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-paradox-rift-build-battle-box-pre-order",
+    "price": "$26.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 4 Paradox Rift Booster",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-paradox-rift-booster-pre-order",
+    "price": "$7.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 4 Paradox Rift Booster Bundle",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-paradox-rift-booster-bundle-pre-order",
+    "price": "$40.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 4 Paradox Rift Elite Trainer Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-paradox-rift-elite-trainer-box-pre-order",
+    "price": "$84.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Pokeball Tin 2023 (On Sale!)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-pokeball-tin-2023-assorted-pre-order",
+    "price": "$22.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Poke-Ball-Tin-Q3-2023-Display_EN-1024x529.jpg?v=1692611194",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Paldea Partners Tin",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-paldea-partners-tin-pre-order",
+    "price": "$39.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Holiday 2023 Calendar (On Sale!)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-holiday-2023-calendar-pre-order",
+    "price": "$54.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Pencil Tin (On Sale!)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-pencil-tin-pre-order",
+    "price": "$13.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 151 Elite Trainer Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-151-elite-trainer-box-pre-order",
+    "price": "$89.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 151 Collection - Zapdos ex",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-151-collection-zapdos-ex-pre-order",
+    "price": "$39.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 151 Collection - Alakazam ex",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-151-collection-alakazam-ex-pre-order",
+    "price": "$39.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 151 Booster Bundle Set (Back-Order)(Limit 2 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-151-booster-bundle-set-pre-order",
+    "price": "$98.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 151 Mini Tin (Assorted)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-151-mini-tin-assorted-pre-order",
+    "price": "$20.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Scarlet & Violet 151 Ultra-Premium Collection",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-151-ultra-premium-collection-pre-order",
+    "price": "$246.50",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Cyclizar ex Box",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-cyclizar-ex-box",
+    "price": "$26.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "TCG Collector NZ - Pre-Orders",
+    "title": "Pokemon TCG: Mega Forces Tin *Sealed* (PRE-ORDER, SHIPS OCT)",
+    "url": "https://tcgcollectornz.com/products/pokemon-mega-forces-tin",
+    "price": "$60.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Forces-Tin-Mega-Dragonite-ex-Front_EN.jpg?v=1782462382",
+    "limit": "limited to 1 per household",
+    "seen_count": 0
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "PRE - ORDER Pokemon TCG 30th Celebration Knock Out Collection",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-30th-celebration-knock-out-collection",
+    "price": "$26.00",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": true,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1200_72510dbb-cf9c-4635-949c-a5a2bae3543d_1200x1200.webp?v=1785832155",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Cardtopia - Pre-Orders",
+    "title": "PRE-ORDER : Pokemon TCG: Pok\u00e9mon Day 2026 Collection",
+    "url": "https://www.cardtopia.co.nz/products/pre-order-pokemon-tcg-pokemon-day-2026-collection",
+    "price": "$36.99",
+    "timestamp": "2026-08-31T22:54:32.861118+00:00",
+    "priority": false,
+    "image": "http://www.cardtopia.co.nz/cdn/shop/files/CopyofCopyofCopyofPFCBackground_600x600px_600x600px.png?v=1768298119",
+    "limit": null,
+    "seen_count": 0
   }
 ]
