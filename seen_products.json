@@ -26,8 +26,8 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
-      "7561509896341",
       "8713055273109",
+      "7561509896341",
       "8964116873365"
     ],
     "zero_streak": 0,
@@ -354,10 +354,10 @@
   "Hobby Master - Pokemon": {
     "seen_ids": [
       "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/46976",
-      "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/46974",
@@ -756,8 +756,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9366282600704",
-      "9608224964864"
+      "9608224964864",
+      "9366282600704"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -936,8 +936,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
