@@ -1,14 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-08-05T03:52:57.900221+00:00",
-    "priority": true,
-    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201"
-  },
-  {
     "site": "Otakumart - Pokemon TCG",
     "title": "50x Basic Psychic Energy | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/50x-basic-psychic-energy-pokemon-tcg",
@@ -9050,6 +9041,16 @@
     "timestamp": "2026-08-30T21:10:46.272181+00:00",
     "priority": false,
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392",
+    "limit": null
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Three-Booster Blister (PRE-ORDER)",
+    "url": "https://www.coolshit.co.nz/product/3PACKDELTA",
+    "price": "NZ$35.00",
+    "timestamp": "2026-08-31T03:10:47.297931+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/430009335/4.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
     "limit": null
   }
 ]
