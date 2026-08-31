@@ -26,8 +26,8 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
-      "8964116873365",
       "8713055273109",
+      "8964116873365",
       "7561509896341"
     ],
     "zero_streak": 0,
@@ -598,6 +598,9 @@
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
       "9345801978005",
+      "9268784496789",
+      "9285795938453",
+      "9210168803477",
       "9152299892885",
       "9285795938453",
       "9210168803477",
@@ -928,8 +931,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
     ],
     "zero_streak": 0,
     "warned": false,
