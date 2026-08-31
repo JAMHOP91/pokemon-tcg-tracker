@@ -366,9 +366,9 @@
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/46975"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-08-31T00:31:09.833853+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -426,8 +426,8 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "8335789654216",
-      "8315313553608"
+      "8315313553608",
+      "8335789654216"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -758,8 +758,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9608224964864",
-      "9366282600704"
+      "9366282600704",
+      "9608224964864"
     ],
     "zero_streak": 0,
     "warned": false,
