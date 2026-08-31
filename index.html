@@ -182,6 +182,7 @@
     vertical-align: middle;
   }
   .limit-badge { display: block; color: var(--red); font-size: 11px; font-weight: 600; margin-top: 4px; }
+  .seen-badge { display: block; color: var(--muted); font-size: 11px; margin-top: 2px; }
   .empty { color: var(--muted); font-size: 14px; text-align: center; padding: 20px; }
   .footer { text-align: center; color: var(--muted); font-size: 12px; margin-top: 40px; }
 </style>
@@ -369,6 +370,7 @@ function renderFeed(searchTerm) {
           <a href="${item.url}" target="_blank">${item.title}</a>${item.priority ? '<span class="badge">PRIORITY</span>' : ''}
           <div class="sub">${item.site} - ${timeAgo(item.timestamp)}</div>
           ${item.limit ? `<span class="limit-badge">⚠️ ${item.limit}</span>` : ""}
+          ${item.seen_count > 0 ? `<span class="seen-badge">🔁 Seen ${item.seen_count}x before</span>` : ""}
         </div>
         ${item.price ? `<div class="price">${item.price}</div>` : ''}
       </div>
