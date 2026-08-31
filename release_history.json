@@ -1,14 +1,5 @@
 [
   {
-    "site": "Hobby Station - Pokemon TCG",
-    "title": "Pokemon TCG 2025 World Championships Deck",
-    "url": "https://hobbystation.co.nz/pokemon-tcg-2025-world-championships-deck-og4f/",
-    "price": "$42.61",
-    "timestamp": "2026-08-05T05:07:37.152658+00:00",
-    "priority": false,
-    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/28332/images/74502/896924-Product-1-I-639131853003471446__18857.1780635543.220.220.webp?c=2"
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
@@ -9055,6 +9046,16 @@
     "timestamp": "2026-08-31T10:10:48.471418+00:00",
     "priority": false,
     "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster box 36 packs",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-box-36-packs",
+    "price": "$379.99",
+    "timestamp": "2026-08-31T11:10:58.522275+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
     "limit": null
   }
 ]
