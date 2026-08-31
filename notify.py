@@ -20,9 +20,13 @@ def send_telegram_message(text: str) -> None:
 
 
 def _format_line(p: dict) -> str:
+    url = p.get("url", "")
+    title = p.get("title", "")
     price = f" - {p['price']}" if p.get("price") else ""
     limit = f" ⚠️ {p['limit']}" if p.get("limit") else ""
-    return f"- <a href=\"{p['url']}\">{p['title']}</a>{price}{limit}"
+    seen_count = p.get("seen_count", 0)
+    seen_note = f" (seen {seen_count}x before)" if seen_count > 0 else ""
+    return f'- <a href="{url}">{title}</a>{price}{limit}{seen_note}'
 
 
 def notify_new_products(site_name: str, products: list[dict]) -> None:

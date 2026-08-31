@@ -1,33 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Tin -  Greninja ex - PRE ORDER - Release Date: December 4th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-tin-greninja-ex-pre-order-release-date-december-4th-2026",
-    "price": "$119.00",
-    "timestamp": "2026-07-30T01:31:25.180430+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tin-Scale-150x150.jpg?v=1783046757"
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Charizard ex Special Collection",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-charizard-ex-special-collection",
-    "price": "$99.80",
-    "timestamp": "2026-07-31T05:01:27.675849+00:00",
-    "priority": false,
-    "image": "http://www.metalife.co.nz/cdn/shop/files/91MTy13zCoL._AC_SL1500.jpg?v=1785122656"
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box - PRE ORDER - Release Date:  September 16th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box-pre-order-release-date-september-16th-2026",
-    "price": "$229.00",
-    "timestamp": "2026-07-31T07:15:54.804629+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box_EN.jpg?v=1783053252"
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: 30th Celebration Knock Out Collection - PRE ORDER - Release Date:  September 16th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection-pre-order-release-date-september-16th-2026",
     "price": "$49.00",
@@ -8998,5 +8971,38 @@
     "timestamp": "2026-08-27T03:10:50.537451+00:00",
     "priority": true,
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box.png?v=1787562786"
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: Mega Evolutions Perfect Order Elite Trainer Box",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
+    "price": "$170.00",
+    "timestamp": "2026-08-31T21:45:11.469681+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_d799d3085a6a47eeb418065f0f56506f~mv2.avif/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 1
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Battle Styles Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-battle-styles-elite-trainer-box-1",
+    "price": "$250.00",
+    "timestamp": "2026-08-31T21:45:11.469681+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2636.jpg?v=1787902522",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Battle Styles Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-battle-styles-elite-trainer-box",
+    "price": "$250.00",
+    "timestamp": "2026-08-31T21:45:11.469681+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2635.jpg?v=1787902429",
+    "limit": null,
+    "seen_count": 0
   }
 ]

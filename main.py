@@ -298,6 +298,7 @@ def main():
                 image, limit = fetch_product_page_extras(p["url"])
                 p["image"] = image
                 p["limit"] = limit
+                p["seen_count"] = sum(1 for h in history if h.get("url") == p["url"])
 
             priority_matches = [p for p in new_products if is_priority_product(p["title"], priority_keywords, priority_exclude_keywords)]
             regular_matches = [p for p in new_products if p not in priority_matches]
@@ -319,6 +320,7 @@ def main():
                     "priority": p in priority_matches,
                     "image": p.get("image"),
                     "limit": p.get("limit"),
+                    "seen_count": p.get("seen_count", 0),
                 })
         else:
             print("  No new products")
