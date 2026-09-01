@@ -17,7 +17,10 @@
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
+      "https://www.coolshit.co.nz/product/3PACKDELTA",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/deltaetb"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1011,10 +1014,10 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8888685723671",
       "8774665043991",
-      "8770963537943",
       "8832667877399",
-      "8888685723671"
+      "8770963537943"
     ],
     "zero_streak": 0,
     "warned": false,
