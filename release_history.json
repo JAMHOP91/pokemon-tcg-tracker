@@ -1,15 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG 30th Celebration Tech Sticker Blister (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-tech-sticker-blister-pre-order",
-    "price": "$49.99",
-    "timestamp": "2026-08-09T11:00:25.701310+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/pokemon-30th-celebration-english-tech-sticker-collection_700x700_1573dd5b-9b72-45bf-82a7-6b05889533de.webp?v=1786178605"
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG 30th Celebration Elite Trainer Box (Limit 2 per Customer) (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box-limit-2-per-customer-pre-order",
     "price": "$349.99",
@@ -9840,5 +9831,16 @@
     "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67ea524164560f4ad11bdf70/1757999523043/Jolteon+VMAX+Special+Collection.jpg?format=1500w",
     "limit": null,
     "seen_count": 5
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Chaos Rising - Booster Box",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
+    "price": "$360.00",
+    "timestamp": "2026-09-01T19:10:55.412923+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254",
+    "limit": null,
+    "seen_count": 7
   }
 ]
