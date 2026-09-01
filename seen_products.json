@@ -26,9 +26,9 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
-      "8713055273109",
       "8964116873365",
-      "7561509896341"
+      "7561509896341",
+      "8713055273109"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -62,6 +62,7 @@
       "7558377046077",
       "7558377930813",
       "7558381600829",
+      "7558377046077",
       "7558378979389",
       "7558380781629"
     ],
@@ -457,8 +458,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10341495734567",
-      "10232830624039"
+      "10232830624039",
+      "10341495734567"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -932,8 +933,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
@@ -1343,6 +1344,10 @@
       "8254468653174",
       "8231312228470",
       "7716056825974",
+      "7650220736630",
+      "8231325270134",
+      "8231315472502",
+      "8231309377654",
       "8231321895030",
       "8231325270134",
       "7787228790902",
