@@ -1,14 +1,5 @@
 [
   {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG 30th Celebration Elite Trainer Box (Limit 2 per Customer) (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box-limit-2-per-customer-pre-order",
-    "price": "$349.99",
-    "timestamp": "2026-08-09T11:00:25.701310+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box_EN.jpg?v=1786177437"
-  },
-  {
     "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
     "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
@@ -9842,5 +9833,16 @@
     "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254",
     "limit": null,
     "seen_count": 7
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Mega Evolution Ascended Heroes Tin",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-tin",
+    "price": "$99.99",
+    "timestamp": "2026-09-01T22:33:47.128596+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Tin.png?v=1788221320",
+    "limit": "Limit of 3 per customer",
+    "seen_count": 0
   }
 ]
