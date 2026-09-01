@@ -1,14 +1,5 @@
 [
   {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Zygarde ex Premium Collection",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$99.80",
-    "timestamp": "2026-08-09T10:38:15.049458+00:00",
-    "priority": false,
-    "image": "http://www.metalife.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762_1_800x_d70e02e5-58dc-46a7-ac2c-d69293cfcca2.webp?v=1777863464"
-  },
-  {
     "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG 30th Celebration Knock Out Collection (Limit 2 per Customer) (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection-limit-2-per-customer-pre-order",
@@ -9834,5 +9825,16 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pitch-black-booster-bundle.png?v=1784072331",
     "limit": "limit 6 per person",
     "seen_count": 15
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - 30th Anniversary Celebration Elite Trainer Box [PRE-ORDER]",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-30th-anniversary-celebration-elite-trainer-box",
+    "price": "$278.00",
+    "timestamp": "2026-09-01T05:32:51.564552+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/s-l1600_49b59dc5-d437-4ab4-9664-5fffc3375909.webp?v=1785290141",
+    "limit": null,
+    "seen_count": 0
   }
 ]
