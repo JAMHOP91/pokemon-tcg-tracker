@@ -1,15 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: 30th Celebration Sylveon ex Box / Greninja ex Box (Limit 2 per Customer) (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-sylveon-ex-box-greninja-ex-box-limit-2-per-customer-pre-order",
-    "price": "$98.99",
-    "timestamp": "2026-08-09T11:00:25.701310+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/30_anniversary_ex-collection_3.webp?v=1786179101"
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG 30th Celebration Tech Sticker Blister (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-tech-sticker-blister-pre-order",
     "price": "$49.99",
@@ -9838,5 +9829,16 @@
     "image": "http://toytime.co.nz/cdn/shop/files/2026-06-08161636.jpg?v=1780892221",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Jolteon VMAX Premium Collection",
+    "url": "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+    "price": "NZ$495.00",
+    "timestamp": "2026-09-01T11:11:00.804271+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67ea524164560f4ad11bdf70/1757999523043/Jolteon+VMAX+Special+Collection.jpg?format=1500w",
+    "limit": null,
+    "seen_count": 5
   }
 ]
