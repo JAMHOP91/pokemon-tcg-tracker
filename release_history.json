@@ -1,14 +1,5 @@
 [
   {
-    "site": "Hobby Station - Pokemon TCG",
-    "title": "Pokemon TCG Mega Zygarde ex Premium Collection (Sealed)",
-    "url": "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-    "price": "$86.09 $77.39",
-    "timestamp": "2026-08-09T12:57:49.550458+00:00",
-    "priority": false,
-    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/27949/images/72888/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762_1_800x_d70e02e5-58dc-46a7-ac2c-d69293cfcc__44842.1778199769.220.220.jpg?c=2"
-  },
-  {
     "site": "Pop Stop - Pokemon TCG",
     "title": "Pok\u00e9mon TCG:  Mega Greninja ex Premium Collection",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
@@ -9878,5 +9869,16 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Base_Mega_Evolution_Perfect_Order_Booster_Box.jpg?v=1772363677",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Fusion Strike Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-fusion-strike-elite-trainer-box",
+    "price": "$650.00",
+    "timestamp": "2026-09-02T16:11:22.002254+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2102.jpg?v=1786436136",
+    "limit": null,
+    "seen_count": 2
   }
 ]
