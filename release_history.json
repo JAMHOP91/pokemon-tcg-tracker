@@ -1,14 +1,5 @@
 [
   {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising: Checklane Blister",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-checklane-blister",
-    "price": "$11.99",
-    "timestamp": "2026-08-09T12:50:29.884453+00:00",
-    "priority": true,
-    "image": "http://popstop.co.nz/cdn/shop/files/10-10405-102_grande.jpg?v=1779404721"
-  },
-  {
     "site": "Hobby Station - Pokemon TCG",
     "title": "Pokemon TCG Mega Zygarde ex Premium Collection (Sealed)",
     "url": "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
@@ -9876,5 +9867,16 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Mega_Evolution_Ascended_Heroes_Booster_Bundle.jpg?v=1766019915",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG Mega Evolution Perfect Order Booster Box",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box-preorder-ship-on-march-27-2026",
+    "price": "$320.00",
+    "timestamp": "2026-09-02T14:41:35.846962+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Base_Mega_Evolution_Perfect_Order_Booster_Box.jpg?v=1772363677",
+    "limit": null,
+    "seen_count": 3
   }
 ]
