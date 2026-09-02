@@ -9,6 +9,15 @@ import requests
 from sites.filters import is_tcg_product
 
 
+def _normalize(text):
+    """Lowercases and strips the accent from e so "Pokemon" and
+    "Pokémon" always compare as equal - Python's .lower() alone does
+    NOT strip accents, so a plain "pokemon" keyword would otherwise
+    never match the officially correct accented spelling most stores
+    actually use, silently filtering out nearly everything."""
+    return text.lower().replace("é", "e")
+
+
 def get_shopify_products(base_url, collection_handle=None, require_keywords=None, scan_all_pages=False, max_pages=6, include_sold_out=False):
     """
     Fetches Pokemon TCG products from a Shopify store.
@@ -18,7 +27,8 @@ def get_shopify_products(base_url, collection_handle=None, require_keywords=None
       site-wide product feed across multiple pages instead, for stores
       with no dedicated collection
     - require_keywords: list of words that must ALL appear in the title
-      (case-insensitive) - used for multi-TCG stores to exclude other games
+      (case-insensitive, accent-insensitive) - used for multi-TCG
+      stores to exclude other games
     - include_sold_out: if True, includes items even with no available
       variant. Use this for pre-order collections, where a listing
       existing at all (even already sold out) is itself the valuable
@@ -48,7 +58,7 @@ def get_shopify_products(base_url, collection_handle=None, require_keywords=None
             title = item.get("title", "")
             if not is_tcg_product(title):
                 continue
-            if any(kw.lower() not in title.lower() for kw in require_keywords):
+            if any(_normalize(kw) not in _normalize(title) for kw in require_keywords):
                 continue
             variants = item.get("variants", [])
             available_variants = [v for v in variants if v.get("available")]
