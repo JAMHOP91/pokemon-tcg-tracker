@@ -1,14 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
-    "price": "$612.00",
-    "timestamp": "2026-08-09T11:10:13.647931+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/fukuoka-box-cardbot-pokemon-center.jpg?v=1759255295"
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolutions - Pitch Black Booster Bundle",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-bundle",
@@ -9843,6 +9834,17 @@
     "priority": true,
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Tin.png?v=1788221320",
     "limit": "Limit of 3 per customer",
+    "seen_count": 0
+  },
+  {
+    "site": "TCG Culture - Pokemon",
+    "title": "Pokemon TCG: Mega Evolution Ascended Heroes Mini Tin",
+    "url": "https://tcgculture.com/products/pokemon-tcg-mega-evolution-ascended-heroes-mini-tin",
+    "price": "$64.99",
+    "timestamp": "2026-09-02T02:04:11.661177+00:00",
+    "priority": true,
+    "image": "http://tcgculture.com/cdn/shop/files/PokemonTCG-MegaEvolutionAscendedHeroesMiniTin_1024x1024.png?v=1769115554",
+    "limit": null,
     "seen_count": 0
   }
 ]
