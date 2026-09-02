@@ -27,8 +27,8 @@
   "The Game Tree NZ": {
     "seen_ids": [
       "7561509896341",
-      "8713055273109",
-      "8964116873365"
+      "8964116873365",
+      "8713055273109"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1002,7 +1002,8 @@
       "9285795938453",
       "9152299892885",
       "9355769708693",
-      "9285822251157"
+      "9285795938453",
+      "9268784496789"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1186,7 +1187,7 @@
       "9233032642814",
       "9269784477950",
       "9173828796670",
-      "9381118279934"
+      "9269784477950"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1207,8 +1208,8 @@
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
       "9537919222037",
-      "9530379600149",
-      "9537919516949"
+      "9537919516949",
+      "9530379600149"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1292,6 +1293,11 @@
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-2",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
+      "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-x-ex-tin",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-3-pack-blister-booster",
+      "https://www.bigpotato.co.nz/product-page/sealed-pok\u00e9mon-tcg-poke-ball-tin-d21-2021-cosmic-eclipse-vivid-voltage-rebel",
       "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-blister-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-y-ex-tin",
@@ -1343,8 +1349,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
