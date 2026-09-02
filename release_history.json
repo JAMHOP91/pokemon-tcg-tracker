@@ -1,14 +1,5 @@
 [
   {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pokemon TCG: Mega Moonlight Tin (Mega Clefable ex)",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
-    "price": "$54.99",
-    "timestamp": "2026-08-09T11:55:23.052998+00:00",
-    "priority": false,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Moonlit-Tin-Mega-Clefable_EN.jpg?v=1780883693"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Lucario ex League Battle Deck",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-lucario-ex-league-battle-deck",
@@ -9864,5 +9855,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Greninja-ex-Premium-Collection.png?v=1782974400",
     "limit": null,
     "seen_count": 8
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG Mega Moonlight Tin (one of each)",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-moonlight-tin-one-of-each",
+    "price": "$110.00",
+    "timestamp": "2026-09-02T12:20:49.654237+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Mega_Moonlight_Tin.jpg?v=1780987378",
+    "limit": null,
+    "seen_count": 0
   }
 ]
