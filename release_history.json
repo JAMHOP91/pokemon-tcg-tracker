@@ -1,14 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Booster Bundle",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-bundle",
-    "price": "$69.99",
-    "timestamp": "2026-08-09T11:21:13.426651+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/booster-bundle-en.jpg?v=1784081064"
-  },
-  {
     "site": "Cool Shit - Pokemon",
     "title": "View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order)",
     "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
@@ -9844,6 +9835,17 @@
     "timestamp": "2026-09-02T02:04:11.661177+00:00",
     "priority": true,
     "image": "http://tcgculture.com/cdn/shop/files/PokemonTCG-MegaEvolutionAscendedHeroesMiniTin_1024x1024.png?v=1769115554",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "TCG Culture - Pokemon",
+    "title": "Pokemon TCG: Scarlet & Violet Prismatic Evolutions Mini Tin",
+    "url": "https://tcgculture.com/products/pokemon-tcg-scarlet-violet-prismatic-evolutions-mini-tin",
+    "price": "$74.99",
+    "timestamp": "2026-09-02T02:10:57.498403+00:00",
+    "priority": false,
+    "image": "http://tcgculture.com/cdn/shop/files/PokemonTCG-Scarlet_VioletPrismaticEvolutionsMiniTin-Espeon_1024x1024.webp?v=1788314461",
     "limit": null,
     "seen_count": 0
   }
