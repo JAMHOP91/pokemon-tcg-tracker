@@ -26,6 +26,7 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
+      "7561509896341",
       "8713055273109",
       "7561509896341",
       "8964116873365"
@@ -366,9 +367,9 @@
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/47232"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-02T05:01:16.988798+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -1197,8 +1198,8 @@
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
       "9530379600149",
-      "9537919222037",
-      "9537919516949"
+      "9537919516949",
+      "9537919222037"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1333,8 +1334,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1357,6 +1358,8 @@
       "8231314292854",
       "8231316750454",
       "8231321895030",
+      "8231316750454",
+      "8231325270134",
       "8254468653174",
       "8231312228470"
     ],
