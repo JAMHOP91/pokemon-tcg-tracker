@@ -14,6 +14,7 @@
     "seen_ids": [
       "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/deltaetb",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
       "https://www.coolshit.co.nz/product/deltaetb",
@@ -258,8 +259,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
-      "10218488725744"
+      "10218488725744",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
