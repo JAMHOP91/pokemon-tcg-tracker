@@ -1,14 +1,5 @@
 [
   {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order)",
-    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
-    "price": "NZ$69.99",
-    "timestamp": "2026-08-09T11:30:07.480947+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427181259/Untitled+design+_17_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
@@ -9848,5 +9839,16 @@
     "image": "http://tcgculture.com/cdn/shop/files/PokemonTCG-Scarlet_VioletPrismaticEvolutionsMiniTin-Espeon_1024x1024.webp?v=1788314461",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - 30th Anniversary Celebration Knock Out Collection [PRE-ORDER]",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-30th-anniversary-celebration-knock-out-collection",
+    "price": "$44.80",
+    "timestamp": "2026-09-02T02:40:47.079790+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/gHe6eBN5MZRhnAuAzCCWWbead9QfyLXTGOVZlxP1.jpg?v=1786415245",
+    "limit": null,
+    "seen_count": 1
   }
 ]
