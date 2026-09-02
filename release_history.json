@@ -4,15 +4,6 @@
     "title": "Pokemon TCG Mega Lucario ex League Battle Deck",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-lucario-ex-league-battle-deck",
     "price": "$69.99",
-    "timestamp": "2026-08-09T12:02:31.835539+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck.png?v=1777945461"
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Lucario ex League Battle Deck",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-lucario-ex-league-battle-deck",
-    "price": "$69.99",
     "timestamp": "2026-08-09T12:28:31.545417+00:00",
     "priority": false,
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck.png?v=1777945461"
@@ -9866,5 +9857,16 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Mega_Moonlight_Tin.jpg?v=1780987378",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Three Booster Blister",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister",
+    "price": "$31.99",
+    "timestamp": "2026-09-02T12:40:48.255589+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister.jpg?v=1784082727",
+    "limit": "Maximum 6 per person",
+    "seen_count": 8
   }
 ]
