@@ -1,8 +1,8 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack"
     ],
     "zero_streak": 1603,
@@ -26,9 +26,9 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
-      "7561509896341",
+      "8713055273109",
       "8964116873365",
-      "8713055273109"
+      "7561509896341"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -63,7 +63,11 @@
       "7558380781629",
       "7558377930813",
       "7558378979389",
-      "7558379864125"
+      "7558379405373",
+      "7558377046077",
+      "7558380781629",
+      "7558379864125",
+      "7558381600829"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1139,8 +1143,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
-      "8063603605588"
+      "8063603605588",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1234,7 +1238,15 @@
       "8185012945014",
       "7821725794422",
       "8069235310710",
-      "8026257686646"
+      "8220788752502",
+      "8100504862838",
+      "8069235998838",
+      "8220955181174",
+      "8026239369334",
+      "7821725794422",
+      "7976837546102",
+      "7831122182262",
+      "7977019080822"
     ],
     "zero_streak": 0,
     "warned": false,
