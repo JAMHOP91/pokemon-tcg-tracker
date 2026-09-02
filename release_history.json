@@ -1,23 +1,5 @@
 [
   {
-    "site": "Otakumart - Pokemon TCG",
-    "title": "50x Basic Fighting Energy | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/50x-basic-fighting-energy-pokemon-tcg",
-    "price": "$3.00",
-    "timestamp": "2026-08-09T12:45:07.670645+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/BasicFightingEnergy-50x.jpg?v=1737494406"
-  },
-  {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: 2025 World Championship Deck Yuya Okita",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-2025-world-championship-deck-yuya-okita",
-    "price": "$44.99",
-    "timestamp": "2026-08-09T12:45:07.670645+00:00",
-    "priority": false,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/2025-Pokemon-TCG-World-Championships-Deck-Okita_EN.jpg?v=1781574858"
-  },
-  {
     "site": "Pop Stop - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolutions - Chaos Rising: Checklane Blister",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-checklane-blister",
@@ -9870,6 +9852,28 @@
     "timestamp": "2026-09-02T12:51:02.888629+00:00",
     "priority": true,
     "image": "http://gamecorner.co.nz/cdn/shop/files/704152_in_1000x1000_322a8fa7-e776-44b5-93ec-79dd091fee58.jpg?v=1788351732",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG Mega Evolution Pitch Black ETB",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-etb-preorder-ship-on-july-17-2026",
+    "price": "$120.00",
+    "timestamp": "2026-09-02T13:21:51.656354+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME05_Pitch_Black_Elite_Trainer_Box.jpg?v=1777873130",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG ME02.5 Ascended Heroes Booster Bundle",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-pre-order-ship-on-february-20-2026",
+    "price": "$150.00",
+    "timestamp": "2026-09-02T13:21:51.656354+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Mega_Evolution_Ascended_Heroes_Booster_Bundle.jpg?v=1766019915",
     "limit": null,
     "seen_count": 0
   }
