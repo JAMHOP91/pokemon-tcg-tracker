@@ -331,8 +331,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8542847107268",
-      "8479841648836"
+      "8479841648836",
+      "8542847107268"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -457,8 +457,8 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10341495734567",
-      "10232830624039"
+      "10232830624039",
+      "10341495734567"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -831,7 +831,11 @@
       "10365187621160",
       "10364546351400",
       "10390759014696",
-      "10390752428328"
+      "10302410391848",
+      "10299295236392",
+      "9734074401064",
+      "10302497227048",
+      "10365187621160"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1154,8 +1158,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9608224964864",
-      "9366282600704"
+      "9366282600704",
+      "9608224964864"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1323,8 +1327,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
     ],
     "zero_streak": 0,
     "warned": false,
