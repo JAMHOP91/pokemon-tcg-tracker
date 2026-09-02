@@ -1,23 +1,5 @@
 [
   {
-    "site": "Mr Tofu Card Store - Pokemon TCG",
-    "title": "(Pre-Order) Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box CASE",
-    "url": "https://mrtofu.store/products/pre-order-pokemon-tcg-30th-celebration-elite-trainer-box-case",
-    "price": "$3500.00",
-    "timestamp": "2026-08-09T11:55:23.052998+00:00",
-    "priority": true,
-    "image": "http://mrtofu.store/cdn/shop/files/4cb399b3-2b91-40ca-97f4-e24cd2945b3a.png?v=1786276418"
-  },
-  {
-    "site": "Parko Cards - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Greninja ex Premium Collection",
-    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
-    "price": "$85.00",
-    "timestamp": "2026-08-09T11:55:23.052998+00:00",
-    "priority": false,
-    "image": "http://parkocards.co.nz/cdn/shop/files/pokemonmegagreninja.webp?v=1785983222"
-  },
-  {
     "site": "GetThoseMons - Sealed Pokemon TCG",
     "title": "Pokemon TCG: Mega Moonlight Tin (Mega Clefable ex)",
     "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
@@ -9860,5 +9842,27 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364",
     "limit": null,
     "seen_count": 10
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "MEGA VENUSAUR EX PREMIUM COLLECTION",
+    "url": "https://hobbymaster.co.nz/products/product/45878",
+    "price": "$161.00",
+    "timestamp": "2026-09-02T10:41:15.697378+00:00",
+    "priority": false,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 1
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Greninja ex Premium Collection",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-09-02T10:41:15.697378+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Greninja-ex-Premium-Collection.png?v=1782974400",
+    "limit": null,
+    "seen_count": 8
   }
 ]
