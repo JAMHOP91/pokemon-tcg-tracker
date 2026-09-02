@@ -1,4 +1,4 @@
-﻿"""
+"""
 Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
 Tracks how long each site has been continuously failing and warns based
@@ -63,6 +63,7 @@ from sites import gameslab
 from sites import goblingames
 from sites import razorleaf
 from sites import coolshit_watchlist
+from sites import redlinetrading
 
 STATE_FILE = Path(__file__).parent / "seen_products.json"
 STATUS_FILE = Path(__file__).parent / "status.json"
@@ -112,6 +113,7 @@ SITES = [
     (goblingames.SITE_NAME, goblingames),
     (razorleaf.SITE_NAME, razorleaf),
     (coolshit_watchlist.SITE_NAME, coolshit_watchlist),
+    (redlinetrading.SITE_NAME, redlinetrading),
 ]
 
 DEFAULT_FAILURE_THRESHOLD_MINUTES = 90
