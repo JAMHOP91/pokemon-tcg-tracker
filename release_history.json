@@ -1,15 +1,6 @@
 [
   {
     "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-08-09T13:43:36.163570+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399"
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
     "title": "POKEMON TCG Lumiose City Mini Tin",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-lumiose-city-mini-tim",
     "price": "$29.99",
@@ -9886,5 +9877,16 @@
     "image": "https://assets.bigcartel.com/product_images/430009263/3.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Greninja ex Premium Collection",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-greninja-ex-premium-collection-pre-order-3-7-2026",
+    "price": "$106.00",
+    "timestamp": "2026-09-02T22:40:45.445146+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-06-08161636.jpg?v=1780892221",
+    "limit": null,
+    "seen_count": 4
   }
 ]
