@@ -1,23 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Lucario ex League Battle Deck",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-lucario-ex-league-battle-deck",
-    "price": "$69.99",
-    "timestamp": "2026-08-09T12:28:31.545417+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck.png?v=1777945461"
-  },
-  {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
-    "price": "$612.00",
-    "timestamp": "2026-08-09T12:32:10.330818+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/fukuoka-box-cardbot-pokemon-center.jpg?v=1759255295"
-  },
-  {
     "site": "Otakumart - Pokemon TCG",
     "title": "50x Basic Fighting Energy | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/50x-basic-fighting-energy-pokemon-tcg",
@@ -9868,5 +9850,27 @@
     "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister.jpg?v=1784082727",
     "limit": "Maximum 6 per person",
     "seen_count": 8
+  },
+  {
+    "site": "Game Corner - Pokemon Pre-Orders",
+    "title": "Pokemon TCG 30th Celebration Elite Trainer Box Preorder, ship on September 16 2026",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box",
+    "price": "$200.00",
+    "timestamp": "2026-09-02T12:51:02.888629+00:00",
+    "priority": true,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/30th-celebration-elite-trainer-box-169-en.png?v=1787042029",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Game Corner - Pokemon Pre-Orders",
+    "title": "Pokemon TCG 30th Celebration Knock Out Collection",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection",
+    "price": "$30.00",
+    "timestamp": "2026-09-02T12:51:02.888629+00:00",
+    "priority": true,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/704152_in_1000x1000_322a8fa7-e776-44b5-93ec-79dd091fee58.jpg?v=1788351732",
+    "limit": null,
+    "seen_count": 0
   }
 ]
