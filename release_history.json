@@ -1,14 +1,5 @@
 [
   {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: League Battle Deck - Mega Lucario ex *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-league-battle-deck-mega-lucario-ex-sealed-pre-order-ships-may-22nd",
-    "price": "$71.99",
-    "timestamp": "2026-08-09T13:17:17.543959+00:00",
-    "priority": false,
-    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck_EN.jpg?v=1775450990"
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
@@ -9884,5 +9875,16 @@
     "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191",
     "limit": null,
     "seen_count": 10
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: Mega Evolution\u2014 Delta Reign Booster Bundle (PRE-ORDER)",
+    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+    "price": "NZ$69.00",
+    "timestamp": "2026-09-02T19:10:54.391277+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/430009263/3.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 1
   }
 ]
