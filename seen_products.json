@@ -27,8 +27,8 @@
   "The Game Tree NZ": {
     "seen_ids": [
       "8713055273109",
-      "7561509896341",
-      "8964116873365"
+      "8964116873365",
+      "7561509896341"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -366,9 +366,9 @@
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/46971"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-02T17:31:03.888654+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -443,8 +443,8 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10288263495764",
-      "10276187308116"
+      "10276187308116",
+      "10288263495764"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1027,7 +1027,8 @@
       "8832667877399",
       "8888685723671",
       "8770963537943",
-      "8774665043991"
+      "8774665043991",
+      "8832667877399"
     ],
     "zero_streak": 0,
     "warned": false,
