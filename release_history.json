@@ -1,15 +1,6 @@
 [
   {
     "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "POKEMON TCG Lumiose City Mini Tin",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-lumiose-city-mini-tim",
-    "price": "$29.99",
-    "timestamp": "2026-08-09T13:51:07.083006+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCGLumioseCityMiniTin-Assortment_EN.webp?v=1780543501"
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
     "price": "$10.99",
@@ -9888,5 +9879,16 @@
     "image": "http://toytime.co.nz/cdn/shop/files/2026-06-08161636.jpg?v=1780892221",
     "limit": null,
     "seen_count": 4
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG Mega Evolution Pitch Black ETB",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-etb-preorder-ship-on-july-17-2026",
+    "price": "$120.00",
+    "timestamp": "2026-09-02T23:11:09.810123+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME05_Pitch_Black_Elite_Trainer_Box.jpg?v=1777873130",
+    "limit": null,
+    "seen_count": 1
   }
 ]
