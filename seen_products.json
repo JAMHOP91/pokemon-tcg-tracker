@@ -17,7 +17,11 @@
       "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order"
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/deltaetb",
+      "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/3PACKDELTA"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -147,6 +151,17 @@
       "9136790274211",
       "6051069657251",
       "9225967042723",
+      "9225964847267",
+      "9231080587427",
+      "9231222079651",
+      "9136746102947",
+      "9136790044835",
+      "9225966583971",
+      "9231223914659",
+      "9231223652515",
+      "9231086387363",
+      "9231223128227",
+      "7409030103203",
       "9136790208675",
       "9231225356451",
       "7540284915875",
@@ -936,6 +951,7 @@
     "seen_ids": [
       "9215569133731",
       "9215139872931",
+      "9134942748835",
       "9228412158115",
       "9228422611107",
       "9134942748835"
@@ -1151,6 +1167,7 @@
   },
   "Animal Kingdoms - Pokemon TCG": {
     "seen_ids": [
+      "10111548522736",
       "10112186188016",
       "9982539989232",
       "10111551209712",
