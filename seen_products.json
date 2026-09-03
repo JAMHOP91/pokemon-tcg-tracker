@@ -502,6 +502,10 @@
       "10267173421351",
       "10349982744871",
       "10341495734567",
+      "10267143930151",
+      "10267157922087",
+      "10267125383463",
+      "10344954954023",
       "10344958034215",
       "10261316305191",
       "10267122204967",
@@ -1015,6 +1019,7 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/"
@@ -1097,6 +1102,7 @@
     "seen_ids": [
       "8774665043991",
       "8935491436567",
+      "8888685723671",
       "8770963537943",
       "8832667877399",
       "8888685723671"
@@ -1279,8 +1285,8 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9537919222037",
       "9530379600149",
+      "9537919222037",
       "9537919516949"
     ],
     "zero_streak": 0,
@@ -1416,8 +1422,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
