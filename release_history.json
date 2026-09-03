@@ -1,14 +1,5 @@
 [
   {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution Pitch Black Booster (Back Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-limit-2-per-customerpre-order",
-    "price": "$359.99",
-    "timestamp": "2026-08-10T21:35:45.928584+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Display_EN-750x1024.jpg?v=1780628056"
-  },
-  {
     "site": "Big Potato Collectibles - Pokemon Sealed",
     "title": "Pokemon TCG: Ascended Heroes Booster Pack",
     "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-booster-pack",
@@ -10088,5 +10079,16 @@
     "image": "http://otakumart.co.nz/cdn/shop/files/BasicDarknessEnergy-50x.jpg?v=1737494343",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-09-03T21:41:44.506138+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201",
+    "limit": null,
+    "seen_count": 5
   }
 ]
