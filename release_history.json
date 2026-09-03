@@ -1,14 +1,5 @@
 [
   {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Greninja ex Premium Collection",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-greninja-ex-premium-collection-pre-order-3-7-2026",
-    "price": "$106.00",
-    "timestamp": "2026-08-10T21:20:46.481368+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2026-06-08161636.jpg?v=1780892221"
-  },
-  {
     "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution Pitch Black Booster (Back Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-limit-2-per-customerpre-order",
@@ -10086,5 +10077,16 @@
     "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ff868ce81817a4febd3916d/1610115283113/411px-Blastoise_VMAX_Starter_Set.jpg?format=1500w",
     "limit": null,
     "seen_count": 4
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Darkness Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-darkness-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-09-03T18:10:54.023739+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicDarknessEnergy-50x.jpg?v=1737494343",
+    "limit": null,
+    "seen_count": 0
   }
 ]
