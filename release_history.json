@@ -1,14 +1,5 @@
 [
   {
-    "site": "Big Potato Collectibles - Pokemon Sealed",
-    "title": "Pokemon TCG: Ascended Heroes Booster Pack",
-    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-booster-pack",
-    "price": "$29.00",
-    "timestamp": "2026-08-10T22:05:02.887697+00:00",
-    "priority": false,
-    "image": "https://static.wixstatic.com/media/beffc4_6ba57c29f6db41f486a704fe7b174938~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp"
-  },
-  {
     "site": "Hobby Station - Pokemon TCG",
     "title": "Pokemon TCG Mega Zygarde ex Premium Collection (Sealed)",
     "url": "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
@@ -10090,5 +10081,16 @@
     "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201",
     "limit": null,
     "seen_count": 5
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
+    "price": "$9.99",
+    "timestamp": "2026-09-03T22:40:43.822705+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191",
+    "limit": null,
+    "seen_count": 10
   }
 ]
