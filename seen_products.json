@@ -1,8 +1,8 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack"
     ],
     "zero_streak": 1714,
@@ -953,8 +953,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7651030859822",
-      "7506199085102"
+      "7506199085102",
+      "7651030859822"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1407,8 +1407,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1417,8 +1417,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,

@@ -1,14 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Greninja ex Premium Collection",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-08-10T15:25:51.505313+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Greninja-ex-Premium-Collection.png?v=1782974400"
-  },
-  {
     "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution Pitch Black Booster (Back Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-limit-2-per-customerpre-order",
@@ -10074,5 +10065,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/Pokemon-RTC-PhantasmalFlames-ETB.png?v=1788233777",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG ME2.5 Ascended Heroes  Collectors Tin PRE ORDER",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-ascended-heroes-collectors-tin",
+    "price": "$89.99",
+    "timestamp": "2026-09-03T02:01:11.384065+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Ascended-Heroes-Collectors-Tin.avif?v=1788302926",
+    "limit": null,
+    "seen_count": 0
   }
 ]
