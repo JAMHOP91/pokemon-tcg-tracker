@@ -2,8 +2,8 @@
   "JB Hi-Fi NZ": {
     "seen_ids": [
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack"
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle"
     ],
     "zero_streak": 1777,
     "warned": true,
@@ -496,6 +496,15 @@
       "10341495734567",
       "10344954954023",
       "10232830624039",
+      "10267160871207",
+      "10267143930151",
+      "10261316305191",
+      "10261316895015",
+      "10267122204967",
+      "10267173421351",
+      "10267162444071",
+      "10261317288231",
+      "10341495734567",
       "10351898296615",
       "10267160871207",
       "10349982744871",
@@ -953,8 +962,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7506199085102",
-      "7651030859822"
+      "7651030859822",
+      "7506199085102"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1015,8 +1024,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/"
     ],
     "zero_streak": 0,
@@ -1278,9 +1287,9 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9537919516949",
+      "9530379600149",
       "9537919222037",
-      "9530379600149"
+      "9537919516949"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1479,6 +1488,10 @@
       "15163507376498",
       "15173429166450",
       "15139609837938",
+      "15139613802866",
+      "15163507376498",
+      "15139611083122",
+      "15139628351858",
       "15139615244658",
       "15173438570866",
       "15139613802866",
