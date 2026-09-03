@@ -23,5 +23,10 @@
     "name": "Pokemon Center NZ",
     "url": "https://www.pokemoncenter.com/en-nz/category/trading-card-game?sort=launch_date%2Bdesc&category=tcg-cards&availability=true",
     "note": "Official store - blocks automated access"
+  },
+  {
+    "name": "Hobby Lords",
+    "url": "https://www.hobbylords.co.nz/shop/brand/pokemon",
+    "note": "Recently added Cloudflare protection - blocks automated access"
   }
 ]

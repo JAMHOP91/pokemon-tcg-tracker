@@ -1,4 +1,4 @@
-"""
+﻿"""
 Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
 Tracks how long each site has been continuously failing and warns based
@@ -26,7 +26,6 @@ from sites import coolshit
 from sites import thegametree
 from sites import otakumart
 from sites import cardmasters
-from sites import hobbylords
 from sites import tcgnz
 from sites import cardtopia
 from sites import wpgames
@@ -76,7 +75,6 @@ SITES = [
     (thegametree.SITE_NAME, thegametree),
     (otakumart.SITE_NAME, otakumart),
     (cardmasters.SITE_NAME, cardmasters),
-    (hobbylords.SITE_NAME, hobbylords),
     (tcgnz.SITE_NAME, tcgnz),
     (cardtopia.SITE_NAME, cardtopia),
     (wpgames.SITE_NAME, wpgames),
