@@ -1,15 +1,6 @@
 [
   {
     "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order)",
-    "url": "https://www.coolshit.co.nz/product/boosterbundle",
-    "price": "NZ$79.00",
-    "timestamp": "2026-08-11T06:07:51.918462+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427180092/Untitled+design+_9_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Pokemon",
     "title": "View Pok\u00e9mon TCG: 2-Pack Blister Product (Pre-Order)",
     "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
     "price": "NZ$24.00",
@@ -10124,5 +10115,16 @@
     "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "PRE ORDER - Pok\u00e9mon 30th Anniversary Celebration Elite Trainer Box",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-30th-anniversary-celebration-elite-trainer-box",
+    "price": "$140.00",
+    "timestamp": "2026-09-04T21:40:51.817487+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1600_1_9ee170af-c4ef-4811-8bd1-5aba8a901dcb_1200x1208.webp?v=1785772310",
+    "limit": null,
+    "seen_count": 3
   }
 ]
