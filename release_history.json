@@ -1,14 +1,5 @@
 [
   {
-    "site": "Parko Cards - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Evolution Perfect Order Booster Pack",
-    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-pack",
-    "price": "$9.50",
-    "timestamp": "2026-08-11T02:05:43.885237+00:00",
-    "priority": false,
-    "image": "http://parkocards.co.nz/cdn/shop/files/pokemonperfectorderboosterpack.webp?v=1785987954"
-  },
-  {
     "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG Chaos Rising - Booster Box",
     "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
@@ -10099,6 +10090,17 @@
     "priority": true,
     "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Ascended-Heroes-Tin-Mega-Feraligatr_EN.jpg?v=1782462681",
     "limit": "limited to 1 per household",
+    "seen_count": 0
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Booster Bundle",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle",
+    "price": "$240.00",
+    "timestamp": "2026-09-04T04:03:25.915292+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/beffc4_2979dd07faa94145afde3e8ca324fbfe~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
     "seen_count": 0
   }
 ]
