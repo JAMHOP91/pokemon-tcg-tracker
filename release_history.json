@@ -1,15 +1,6 @@
 [
   {
     "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Chaos Rising - Booster Box",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
-    "price": "$360.00",
-    "timestamp": "2026-08-11T02:55:43.252324+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254"
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG Greninja ex Premium Collection",
     "url": "https://toytime.co.nz/products/pokemon-tcg-greninja-ex-premium-collection-pre-order-3-7-2026",
     "price": "$106.00",
@@ -10102,5 +10093,16 @@
     "image": "https://static.wixstatic.com/media/beffc4_2979dd07faa94145afde3e8ca324fbfe~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG:  Mega Greninja ex Premium Collection",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
+    "price": "$93.99",
+    "timestamp": "2026-09-04T04:40:53.124783+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731-1_grande.jpg?v=1780869247",
+    "limit": null,
+    "seen_count": 9
   }
 ]
