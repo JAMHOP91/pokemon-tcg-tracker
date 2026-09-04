@@ -386,7 +386,8 @@
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/47232",
-      "https://hobbymaster.co.nz/products/product/46974",
+      "https://hobbymaster.co.nz/products/product/47236",
+      "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/46973"
     ],
@@ -1162,6 +1163,10 @@
       "10111551209712",
       "10098927075568",
       "10035621396720",
+      "10171547386096",
+      "10112184385776",
+      "10112141295856",
+      "10111548522736",
       "9599898976496",
       "10171547386096",
       "10112141295856",
@@ -1237,8 +1242,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9608224964864",
-      "9366282600704"
+      "9366282600704",
+      "9608224964864"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1279,6 +1284,7 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9537919222037",
       "9530379600149",
       "9537919222037",
       "9537919516949"
