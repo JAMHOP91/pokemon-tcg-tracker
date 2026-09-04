@@ -1,14 +1,5 @@
 [
   {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising: Checklane Blister",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-checklane-blister",
-    "price": "$11.99",
-    "timestamp": "2026-08-11T00:51:48.663330+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/10-10405-102_grande.jpg?v=1779404721"
-  },
-  {
     "site": "Parko Cards - Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Mega Evolution Perfect Order Booster Pack",
     "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-pack",
@@ -10098,5 +10089,16 @@
     "image": "http://otakumart.co.nz/cdn/shop/files/BasicPsychicEnergy-50x.jpg?v=1737494476",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "TCG Collector NZ - Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution: Ascended Heroes Tin *Sealed* (PRE-ORDER, SHIPS AUG 28TH)",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-ascended-heroes-tin-sealed-pre-order-ships-aug-28th",
+    "price": "$60.00",
+    "timestamp": "2026-09-04T02:10:55.799182+00:00",
+    "priority": true,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Ascended-Heroes-Tin-Mega-Feraligatr_EN.jpg?v=1782462681",
+    "limit": "limited to 1 per household",
+    "seen_count": 0
   }
 ]
