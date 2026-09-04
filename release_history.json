@@ -1,23 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Hiroshima 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-hiroshima-2025-special-collection-box",
-    "price": "$490.00",
-    "timestamp": "2026-08-11T04:50:50.313285+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/hiroshima-box-cardbot-pokemon-center.jpg?v=1759255240"
-  },
-  {
-    "site": "TCG NZ",
-    "title": "Box Set: White Flare and Black Bolt Elite Trainer",
-    "url": "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-sv-white-flare-and-black-bolt-elite-trainer-box-set",
-    "price": "$250.00",
-    "timestamp": "2026-08-11T05:21:23.443635+00:00",
-    "priority": false,
-    "image": "https://static.wixstatic.com/media/f9a8f0_6bbf494b8ddc49939af62641d840681d~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp"
-  },
-  {
     "site": "TCG NZ",
     "title": "One Piece Card Game: Booster Display \u2013 Royal Blood [OP-10]",
     "url": "https://www.tcgnz.co.nz/product-page/one-piece-card-game-booster-display-royal-blood-op-10",
@@ -10118,5 +10100,27 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Mega_Moonlight_Tin.jpg?v=1780987378",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Perfect Order Booster Box",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster-pre-order-27-03-2026",
+    "price": "$340.00",
+    "timestamp": "2026-09-04T19:10:53.282210+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2_3072bdfc-7285-41e0-a5bc-07ef49087202.webp?v=1771450521",
+    "limit": null,
+    "seen_count": 3
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Chaos Rising - Booster Box",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
+    "price": "$360.00",
+    "timestamp": "2026-09-04T19:10:53.282210+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254",
+    "limit": null,
+    "seen_count": 5
   }
 ]
