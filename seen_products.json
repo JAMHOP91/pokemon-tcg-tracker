@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack"
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle"
     ],
     "zero_streak": 1861,
     "warned": true,
@@ -970,6 +970,8 @@
     "seen_ids": [
       "8789885321414",
       "8909657637062",
+      "8970819535046",
+      "8855171334342",
       "8909649739974",
       "8855171334342",
       "8855167008966",
@@ -1279,9 +1281,9 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9537919222037",
       "9537919516949",
-      "9530379600149"
+      "9530379600149",
+      "9537919222037"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1309,6 +1311,8 @@
       "8220788752502",
       "8220955181174",
       "8100504862838",
+      "8171677057142",
+      "8220788752502",
       "8026257686646",
       "8185012945014",
       "8069235310710",
@@ -1430,6 +1434,7 @@
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
       "8231321895030",
+      "8231325270134",
       "8231316750454",
       "8254468653174",
       "7787228790902",
