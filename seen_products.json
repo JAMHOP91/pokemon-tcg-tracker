@@ -13,7 +13,6 @@
   "Cool Shit - Pokemon": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/deltaetb",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/3PACKDELTA",
@@ -282,8 +281,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
-      "10218488725744"
+      "10218488725744",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -329,7 +328,8 @@
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
-      "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set"
@@ -893,6 +893,11 @@
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
       "10302410391848",
+      "10270182736168",
+      "10299295236392",
+      "10365187621160",
+      "10302497227048",
+      "10323223183656",
       "10390759014696",
       "9734074401064",
       "10299295236392",
@@ -971,6 +976,7 @@
       "8909657637062",
       "8855171334342",
       "8855167008966",
+      "8909657637062",
       "8789885321414",
       "8970824843462",
       "8970819535046",
