@@ -1,23 +1,5 @@
 [
   {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pokemon TCG: Lumiose City Mini Tin (Assorted)",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-lumiose-city-mini-tin",
-    "price": "$24.99",
-    "timestamp": "2026-08-11T03:05:42.269332+00:00",
-    "priority": false,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Lumiose-City-Mini-Tin-Embroar.jpg?v=1780884018"
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Chaos Rising - Booster Box",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
-    "price": "$360.00",
-    "timestamp": "2026-08-11T03:20:56.244271+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
@@ -10108,5 +10090,27 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
     "limit": null,
     "seen_count": 8
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "Delta Reign Booster Bundle | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/delta-reign-booster-bundle-pokemon-tcg",
+    "price": "$60.00",
+    "timestamp": "2026-09-04T07:10:53.367250+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/10-10439-109-Delta-Reign-Booster-Bundle-1.jpg?v=1787291612",
+    "limit": null,
+    "seen_count": 2
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Greninja ex Premium Collection",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-greninja-ex-premium-collection-pre-order-3-7-2026",
+    "price": "$106.00",
+    "timestamp": "2026-09-04T07:10:53.367250+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-06-08161636.jpg?v=1780892221",
+    "limit": null,
+    "seen_count": 3
   }
 ]
