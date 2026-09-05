@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack"
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle"
     ],
     "zero_streak": 2089,
     "warned": true,
@@ -324,6 +324,8 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
@@ -896,6 +898,8 @@
       "10323223183656",
       "10302410391848",
       "10302497227048",
+      "10323223183656",
+      "10302410391848",
       "10299295236392",
       "10270182736168",
       "9734074401064",
@@ -971,6 +975,7 @@
       "8909657637062",
       "8855167008966",
       "8909649739974",
+      "8789885321414",
       "8970819535046",
       "8855171334342",
       "8931072311494",
@@ -1017,9 +1022,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1070,7 +1075,6 @@
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
       "9152299892885",
-      "9268784496789",
       "9285795938453",
       "9210168803477",
       "9285822251157"
