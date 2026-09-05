@@ -84,6 +84,8 @@
       "7558378979389",
       "7558379405373",
       "7558379864125",
+      "7558381600829",
+      "7558378979389",
       "7558377930813",
       "7558377046077",
       "7558380781629",
@@ -303,6 +305,8 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9464484921583",
+      "9328351772911",
       "9328364945647",
       "9464484626671",
       "9328351772911",
@@ -355,8 +359,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8479841648836",
-      "8542847107268"
+      "8542847107268",
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -390,9 +394,9 @@
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/47237"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-05T17:31:01.740720+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -955,8 +959,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7506199085102",
-      "7651030859822"
+      "7651030859822",
+      "7506199085102"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1415,8 +1419,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
