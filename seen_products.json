@@ -122,6 +122,8 @@
       "9107945226403",
       "9227332059299",
       "8952687788195",
+      "9136791978147",
+      "9231220408483",
       "9231225356451",
       "9231086387363",
       "9107945980067",
@@ -303,6 +305,7 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9328351772911",
       "9464484921583",
       "9328364945647",
       "9464484626671",
@@ -331,8 +334,9 @@
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
-      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
-      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
+      "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -355,8 +359,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8542847107268",
-      "8479841648836"
+      "8479841648836",
+      "8542847107268"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -955,8 +959,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7506199085102",
-      "7651030859822"
+      "7651030859822",
+      "7506199085102"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1220,6 +1224,7 @@
       "10170375307348",
       "7853389774932",
       "8063603605588",
+      "10170375307348",
       "10214066389076",
       "10214103613524"
     ],
