@@ -325,6 +325,7 @@
   "Collect All Day": {
     "seen_ids": [
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/pokeball-tin-2021",
@@ -467,8 +468,8 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10276187308116",
-      "10288263495764"
+      "10288263495764",
+      "10276187308116"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -936,6 +937,8 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
+      "9215569133731",
+      "9228422611107",
       "9228412158115",
       "9228422611107",
       "9134942748835",
@@ -1278,9 +1281,9 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9537919222037",
+      "9537919516949",
       "9530379600149",
-      "9537919516949"
+      "9537919222037"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1306,6 +1309,12 @@
       "8026257686646",
       "7976837546102",
       "8220788752502",
+      "8069235671158",
+      "8100504862838",
+      "8069235310710",
+      "8026257686646",
+      "8069232033910",
+      "7977047195766",
       "7977019080822",
       "8026239369334",
       "8069213454454",
