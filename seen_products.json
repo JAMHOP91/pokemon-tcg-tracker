@@ -923,8 +923,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631863279812",
-      "8631859577028"
+      "8631859577028",
+      "8631863279812"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1217,6 +1217,7 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
+      "10170375307348",
       "10214066389076",
       "8063603605588",
       "10170375307348",
@@ -1317,7 +1318,14 @@
       "8185039356022",
       "8026239369334",
       "7977019080822",
-      "8069235998838"
+      "8220955181174",
+      "8220788752502",
+      "8026239369334",
+      "8069235998838",
+      "8100504862838",
+      "7821725794422",
+      "8069213454454",
+      "8026257686646"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1407,8 +1415,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
