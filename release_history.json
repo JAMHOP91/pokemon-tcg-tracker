@@ -1,23 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
-    "price": "$613.00",
-    "timestamp": "2026-08-11T08:25:47.761079+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/fukuoka-box-cardbot-pokemon-center.jpg?v=1759255295"
-  },
-  {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Hiroshima 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-hiroshima-2025-special-collection-box",
-    "price": "$491.00",
-    "timestamp": "2026-08-11T10:50:46.202544+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/hiroshima-box-cardbot-pokemon-center.jpg?v=1759255240"
-  },
-  {
     "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Lumiose City Mini Tin (Assorted)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted-pre-order",
@@ -10132,5 +10114,27 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Bundle_EN-698x1024_1200x1760.jpg?v=1780022064",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG Lumiose City Mini Tin Set",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-set",
+    "price": "$130.00",
+    "timestamp": "2026-09-05T05:40:44.849717+00:00",
+    "priority": false,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCG_LumioseCity-MiniTinSet-6_1200x1200.jpg?v=1783856395",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG - Trainer's Toolkit 2025",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-trainers-toolkit-2025",
+    "price": "$84.00",
+    "timestamp": "2026-09-05T05:40:44.849717+00:00",
+    "priority": false,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG_-_Trainer_s_Toolkit_2025-3_1200x1200.jpg?v=1755138626",
+    "limit": null,
+    "seen_count": 0
   }
 ]
