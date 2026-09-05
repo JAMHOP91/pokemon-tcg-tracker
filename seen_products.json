@@ -16,6 +16,9 @@
       "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/3PACKDELTA",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/deltaetb",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
     ],
@@ -355,8 +358,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8542847107268",
-      "8479841648836"
+      "8479841648836",
+      "8542847107268"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -390,9 +393,9 @@
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/46975"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-05T08:31:01.381166+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -893,6 +896,11 @@
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
       "10365187621160",
+      "10270182736168",
+      "9734074401064",
+      "10364546351400",
+      "10302497227048",
+      "10323223183656",
       "10390759014696",
       "10270182736168",
       "10299295236392",
@@ -1072,8 +1080,9 @@
       "9210168803477",
       "9285795938453",
       "9152299892885",
+      "9268784496789",
       "9285822251157",
-      "9268784496789"
+      "9285795938453"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1220,6 +1229,7 @@
       "7853389774932",
       "10214066389076",
       "10170375307348",
+      "7853389774932",
       "8063603605588"
     ],
     "zero_streak": 0,
@@ -1236,8 +1246,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9366282600704",
-      "9608224964864"
+      "9608224964864",
+      "9366282600704"
     ],
     "zero_streak": 0,
     "warned": false,
