@@ -13,6 +13,8 @@
   "Cool Shit - Pokemon": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/deltaetb",
@@ -324,6 +326,10 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/pokeball-tin-2021",
@@ -386,6 +392,7 @@
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/45463"
@@ -496,6 +503,9 @@
       "10267122204967",
       "10267147239719",
       "10341495734567",
+      "10261313487143",
+      "10344954954023",
+      "10267157922087",
       "10267156316455",
       "10267157922087",
       "10267160871207",
@@ -1095,6 +1105,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8774665043991",
       "8770963537943",
       "8774665043991",
       "8888685723671",
@@ -1216,11 +1227,11 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214103613524",
-      "8063603605588",
-      "10170375307348",
       "10214066389076",
-      "7853389774932"
+      "10170375307348",
+      "7853389774932",
+      "8063603605588",
+      "10214103613524"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1307,6 +1318,13 @@
       "7976837546102",
       "8069235671158",
       "8026239369334",
+      "7831122182262",
+      "8069235671158",
+      "7977019080822",
+      "8171677057142",
+      "8069235310710",
+      "7976837546102",
+      "8069232033910",
       "7977047195766",
       "8026257686646",
       "8069235998838",
