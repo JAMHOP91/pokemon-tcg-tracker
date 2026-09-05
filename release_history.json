@@ -1,14 +1,5 @@
 [
   {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order)",
-    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
-    "price": "NZ$69.99",
-    "timestamp": "2026-08-11T11:50:46.645564+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427181259/Untitled+design+_17_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
     "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG Perfect Order Single Pack",
     "url": "https://toytime.co.nz/products/pokemon-tcg-perfect-order-single-pack",
@@ -10137,6 +10128,17 @@
     "priority": false,
     "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682",
     "limit": "Maximum 1 per person",
+    "seen_count": 11
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
+    "price": "$9.99",
+    "timestamp": "2026-09-05T06:20:47.758789+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191",
+    "limit": null,
     "seen_count": 11
   }
 ]
