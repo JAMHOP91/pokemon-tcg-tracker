@@ -282,8 +282,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10218488725744",
-      "10070962241776"
+      "10070962241776",
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -390,9 +390,9 @@
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/46976"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-05T09:01:14.075419+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -467,8 +467,8 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10276187308116",
-      "10288263495764"
+      "10288263495764",
+      "10276187308116"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -897,6 +897,7 @@
       "10299295236392",
       "10302410391848",
       "10270182736168",
+      "10390759014696",
       "10323223183656",
       "10390759014696",
       "9734074401064",
@@ -1070,7 +1071,8 @@
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
       "9210168803477",
-      "9285795938453",
+      "9152299892885",
+      "9268784496789",
       "9285822251157",
       "9268784496789",
       "9152299892885"
