@@ -1,14 +1,5 @@
 [
   {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Lumiose City Mini Tin",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
-    "price": "$28.60",
-    "timestamp": "2026-08-12T02:40:48.025877+00:00",
-    "priority": false,
-    "image": "http://www.metalife.co.nz/cdn/shop/files/475077-Product-6-I-639106834204565919.webp?v=1779063289"
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
@@ -10166,5 +10157,16 @@
     "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254",
     "limit": null,
     "seen_count": 6
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG:  Mega Greninja ex Premium Collection",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
+    "price": "$93.99",
+    "timestamp": "2026-09-06T11:40:48.473918+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731-1_grande.jpg?v=1780869247",
+    "limit": null,
+    "seen_count": 10
   }
 ]
