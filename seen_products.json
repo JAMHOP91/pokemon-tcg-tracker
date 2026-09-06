@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
@@ -282,8 +283,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10218488725744",
-      "10070962241776"
+      "10070962241776",
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -388,7 +389,7 @@
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/46971",
-      "https://hobbymaster.co.nz/products/product/46976"
+      "https://hobbymaster.co.nz/products/product/47237"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -899,8 +900,13 @@
       "9734074401064",
       "10302497227048",
       "10299295236392",
+      "9734074401064",
+      "10390759014696",
       "10323223183656",
-      "10365187621160"
+      "10365187621160",
+      "10364546351400",
+      "10302497227048",
+      "10270182736168"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -938,6 +944,7 @@
     "seen_ids": [
       "9215139872931",
       "9215569133731",
+      "9228422611107",
       "9228412158115",
       "9228422611107",
       "9134942748835"
@@ -955,8 +962,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7506199085102",
-      "7651030859822"
+      "7651030859822",
+      "7506199085102"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1413,8 +1420,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
