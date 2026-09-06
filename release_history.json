@@ -1,14 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-08-11T21:10:52.784889+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399"
-  },
-  {
     "site": "Parko Cards - Pokemon TCG",
     "title": "Pokemon TCG Mega Expansion M5 Abyss Eye Booster Box",
     "url": "https://parkocards.co.nz/products/abyss-eye-pokemon-booster-box",
@@ -10150,5 +10141,16 @@
     "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG Mega Moonlight Tin (one of each)",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-moonlight-tin-one-of-each",
+    "price": "$110.00",
+    "timestamp": "2026-09-06T00:10:44.122354+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Mega_Moonlight_Tin.jpg?v=1780987378",
+    "limit": null,
+    "seen_count": 2
   }
 ]
