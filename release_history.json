@@ -1,14 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG Trainer's Toolkit 2025",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-trainers-toolkit-2025",
-    "price": "$89.99",
-    "timestamp": "2026-08-12T04:35:47.543535+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCGTrainer_sToolkit2025_5d6c0764-efbd-48b1-afdd-72c21552112c.jpg?v=1761343285"
-  },
-  {
     "site": "GetThoseMons - Sealed Pokemon TCG",
     "title": "Pokemon TCG: Lumiose City Mini Tin (Assorted)",
     "url": "https://getthosemons.co.nz/products/pokemon-tcg-lumiose-city-mini-tin",
@@ -10170,5 +10161,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
     "limit": null,
     "seen_count": 5
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Battle Styles Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-battle-styles-elite-trainer-box-1",
+    "price": "$260.00",
+    "timestamp": "2026-09-06T15:10:53.738828+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2636.jpg?v=1787902522",
+    "limit": null,
+    "seen_count": 1
   }
 ]
