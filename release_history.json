@@ -1,14 +1,5 @@
 [
   {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pokemon TCG: Lumiose City Mini Tin (Assorted)",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-lumiose-city-mini-tin",
-    "price": "$24.99",
-    "timestamp": "2026-08-12T07:55:50.112464+00:00",
-    "priority": false,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Lumiose-City-Mini-Tin-Embroar.jpg?v=1780884018"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
@@ -10172,5 +10163,16 @@
     "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2636.jpg?v=1787902522",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "CHAOS RISING - MEGA ZYGARDE EX PREMIUM COLLECTION",
+    "url": "https://hobbymaster.co.nz/products/product/46976",
+    "price": "$150.00 $200.00",
+    "timestamp": "2026-09-06T15:40:44.530633+00:00",
+    "priority": false,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 0
   }
 ]
