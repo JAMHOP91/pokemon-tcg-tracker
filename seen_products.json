@@ -923,8 +923,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631859577028",
-      "8631863279812"
+      "8631863279812",
+      "8631859577028"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1016,9 +1016,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1072,7 +1072,10 @@
       "9285795938453",
       "9268784496789",
       "9152299892885",
-      "9285822251157"
+      "9285822251157",
+      "9285795938453",
+      "9210168803477",
+      "9268784496789"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1253,7 +1256,6 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9269784477950",
       "9381118279934",
       "9173828796670",
       "9233032642814"
