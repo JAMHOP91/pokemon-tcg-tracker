@@ -1,15 +1,6 @@
 [
   {
     "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-08-12T04:35:47.543535+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pitch-black-booster-bundle.png?v=1784072331"
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG Trainer's Toolkit 2025",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-trainers-toolkit-2025",
     "price": "$89.99",
@@ -10168,5 +10159,16 @@
     "image": "http://popstop.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731-1_grande.jpg?v=1780869247",
     "limit": null,
     "seen_count": 10
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions Pitch Black Booster",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster",
+    "price": "$12.99",
+    "timestamp": "2026-09-06T12:10:44.934943+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
+    "limit": null,
+    "seen_count": 5
   }
 ]
