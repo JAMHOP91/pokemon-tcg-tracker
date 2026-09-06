@@ -329,6 +329,7 @@
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/pokeball-tin-2021",
@@ -923,8 +924,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631859577028",
-      "8631863279812"
+      "8631863279812",
+      "8631859577028"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1153,6 +1154,10 @@
       "10171547386096",
       "9982539989232",
       "10111548522736",
+      "10035621396720",
+      "10111551209712",
+      "10099042582768",
+      "10112179831024",
       "10171572912368",
       "10098927075568",
       "10171578286320",
