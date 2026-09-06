@@ -1,14 +1,5 @@
 [
   {
-    "site": "Parko Cards - Pokemon TCG",
-    "title": "Pokemon TCG Mega Expansion M5 Abyss Eye Booster Pack",
-    "url": "https://parkocards.co.nz/products/pokemon-m5-abyss-eye-booster-pack",
-    "price": "$6.95",
-    "timestamp": "2026-08-11T21:34:46.404024+00:00",
-    "priority": false,
-    "image": "http://parkocards.co.nz/cdn/shop/files/AbyssEyeBoosterPack.webp?v=1786483851"
-  },
-  {
     "site": "Hobby Lords - Pokemon",
     "title": "Pokemon - Alcove Flip Box - Gallery Series - Frosted Forest",
     "url": "https://www.hobbylords.co.nz/products/single/pokemon-alcove-flip-box-gallery-series-frosted-forest",
@@ -10154,5 +10145,16 @@
     "image": "http://wpgames.co.nz/cdn/shop/files/182922ca8f264399b9435c8169756594_Original.jpg?v=1774705136",
     "limit": null,
     "seen_count": 9
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
+    "price": "$9.99",
+    "timestamp": "2026-09-06T02:40:45.030562+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191",
+    "limit": null,
+    "seen_count": 12
   }
 ]
