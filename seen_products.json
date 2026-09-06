@@ -17,6 +17,10 @@
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/deltaetb",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
       "https://www.coolshit.co.nz/product/3PACKDELTA"
     ],
     "zero_streak": 0,
@@ -390,9 +394,9 @@
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/45878"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-06T11:01:14.850311+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -972,6 +976,7 @@
       "8970824843462",
       "8970819535046",
       "8789885321414",
+      "8970824843462",
       "8855171334342",
       "8909657637062",
       "8931072311494"
@@ -1413,8 +1418,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
