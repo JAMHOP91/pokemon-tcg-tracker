@@ -38,6 +38,7 @@
       "7330088353941",
       "7439125512341",
       "7330099200149",
+      "7439107129493",
       "8713055273109",
       "8964116873365",
       "7330100445333"
@@ -83,6 +84,7 @@
     "seen_ids": [
       "7558380781629",
       "7558377046077",
+      "7558379405373",
       "7558381600829",
       "7558379864125",
       "7558379405373",
@@ -246,6 +248,7 @@
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-chaos-rising-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-checklane-blister",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-bundle",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-perfect-order-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-8-5-prismatic-evolutions-2-pack-blister",
       "https://www.tcgnz.co.nz/product-page/pre-order-pok\u00e9mon-tcg-destined-rivals-booster-box",
       "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-sv-white-flare-and-black-bolt-elite-trainer-box-set",
@@ -282,8 +285,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10218488725744",
-      "10070962241776"
+      "10070962241776",
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -467,8 +470,8 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10276187308116",
-      "10288263495764"
+      "10288263495764",
+      "10276187308116"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1235,8 +1238,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9366282600704",
-      "9608224964864"
+      "9608224964864",
+      "9366282600704"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1414,8 +1417,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
