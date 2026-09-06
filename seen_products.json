@@ -282,8 +282,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
-      "10218488725744"
+      "10218488725744",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -355,8 +355,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8542847107268",
-      "8479841648836"
+      "8479841648836",
+      "8542847107268"
     ],
     "zero_streak": 49,
     "warned": true,
@@ -467,8 +467,8 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10288263495764",
-      "10276187308116"
+      "10276187308116",
+      "10288263495764"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1016,9 +1016,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1095,6 +1095,7 @@
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
       "8774665043991",
+      "8832667877399",
       "8888685723671",
       "8770963537943",
       "8832667877399"
@@ -1234,8 +1235,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9366282600704",
-      "9608224964864"
+      "9608224964864",
+      "9366282600704"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1253,10 +1254,10 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9233032642814",
-      "9269784477950",
       "9173828796670",
-      "9381118279934"
+      "9381118279934",
+      "9269784477950",
+      "9233032642814"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1413,8 +1414,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
