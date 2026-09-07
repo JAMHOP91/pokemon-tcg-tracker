@@ -1,14 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-08-12T12:50:45.975924+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399"
-  },
-  {
     "site": "Big Potato Collectibles - Pokemon Sealed",
     "title": "Pokemon TCG: Mega Evolutions - Chaos Rising: Elite Trainer Box",
     "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-elite-trainer-box",
@@ -10180,5 +10171,16 @@
     "image": "https://assets.bigcartel.com/product_images/430009305/2.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Chaos Rising Single Pack",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-single-pack",
+    "price": "$11.00",
+    "timestamp": "2026-09-07T01:40:45.105389+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/pok10407a-01.png?v=1784500570",
+    "limit": null,
+    "seen_count": 6
   }
 ]
