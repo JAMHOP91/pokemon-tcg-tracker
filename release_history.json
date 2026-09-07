@@ -1,14 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "POKEMON TCG Lumiose City Mini Tin",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-lumiose-city-mini-tim",
-    "price": "$29.99",
-    "timestamp": "2026-08-12T15:20:52.669852+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCGLumioseCityMiniTin-Assortment_EN.webp?v=1780543501"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Greninja ex Premium Collection",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
@@ -10186,5 +10177,16 @@
     "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103649.jpg?v=1776812402",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG Lumiose City Mini Tin (Assorted)",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
+    "price": "$25.00",
+    "timestamp": "2026-09-07T04:10:48.216130+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Lumiose_City_Mini_Tin.jpg?v=1780985527",
+    "limit": null,
+    "seen_count": 0
   }
 ]
