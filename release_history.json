@@ -1,14 +1,5 @@
 [
   {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pokemon TCG: Lumiose City Mini Tin (Assorted)",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-lumiose-city-mini-tin",
-    "price": "$24.99",
-    "timestamp": "2026-08-12T14:50:52.809749+00:00",
-    "priority": false,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Lumiose-City-Mini-Tin-Embroar.jpg?v=1780884018"
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "POKEMON TCG Lumiose City Mini Tin",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-lumiose-city-mini-tim",
@@ -10184,5 +10175,16 @@
     "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682",
     "limit": "Maximum 1 per person",
     "seen_count": 11
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Zygarde ex Premium Collection",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection-pre-order-22-05-26",
+    "price": "$99.00",
+    "timestamp": "2026-09-07T03:10:43.203371+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103649.jpg?v=1776812402",
+    "limit": null,
+    "seen_count": 1
   }
 ]
