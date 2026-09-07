@@ -1,14 +1,5 @@
 [
   {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: Mega Evolution: Perfect Order Booster Box *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-perfect-order-booster-box-sealed-pre-order-ships-apr-10th-copy",
-    "price": "$360.00",
-    "timestamp": "2026-08-12T23:25:57.694109+00:00",
-    "priority": false,
-    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Display_EN.jpg?v=1768528572"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
@@ -10210,5 +10201,16 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2__1_-removebg-preview_1200x1648.png?v=1787289747",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Sword & Shield: Astral Radiance: Sealed Booster Box (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-scarlet-violet-astral-radiance-sealed-booster-box-english",
+    "price": "$749.99",
+    "timestamp": "2026-09-07T23:10:43.963610+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/AstralRadianceBoosterBoxwebp.webp?v=1785479418",
+    "limit": null,
+    "seen_count": 0
   }
 ]
