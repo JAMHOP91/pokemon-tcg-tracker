@@ -712,9 +712,9 @@
       "8198101532872",
       "8052574126280"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-07T04:01:15.732300+00:00",
     "prices": {
       "8320457048264": 359.99,
       "8319521259720": 44.99,
@@ -923,8 +923,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631863279812",
-      "8631859577028"
+      "8631859577028",
+      "8631863279812"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -955,12 +955,12 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7651030859822",
-      "7506199085102"
+      "7506199085102",
+      "7651030859822"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-07T04:01:15.732300+00:00",
     "prices": {
       "7506199085102": 64.99,
       "7651030859822": 74.99
@@ -972,6 +972,8 @@
       "8789885321414",
       "8909649739974",
       "8909657637062",
+      "8931072311494",
+      "8855171334342",
       "8970824843462",
       "8855171334342",
       "8970819535046",
@@ -1048,6 +1050,9 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/boosterbundle::available::View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::available::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/premiumcollection::sold_out::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/boosterbundle::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/premiumcollection::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
@@ -1219,7 +1224,8 @@
       "8063603605588",
       "10170375307348",
       "10214103613524",
-      "10214066389076"
+      "8063603605588",
+      "10170375307348"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1483,6 +1489,13 @@
       "15139609837938",
       "15163471200626",
       "15139628351858",
+      "15139613802866",
+      "15139615244658",
+      "15139611083122",
+      "15173429166450",
+      "15163507376498",
+      "15163471200626",
+      "15139609837938",
       "15173456462194"
     ],
     "zero_streak": 0,
