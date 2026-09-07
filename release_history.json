@@ -1,14 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Hiroshima 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-hiroshima-2025-special-collection-box",
-    "price": "$492.00",
-    "timestamp": "2026-08-12T19:38:27.545062+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/hiroshima-box-cardbot-pokemon-center.jpg?v=1759255240"
-  },
-  {
     "site": "Pop Stop - Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
@@ -10198,5 +10189,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
     "limit": null,
     "seen_count": 7
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon - Mega dream winner takes all - SAR edition",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-mega-dream-winner-takes-all-sar-edition",
+    "price": "$23.99",
+    "timestamp": "2026-09-07T08:01:15.350117+00:00",
+    "priority": false,
+    "image": "http://www.cardtopia.co.nz/cdn/shop/files/Title_30.png?v=1781675809",
+    "limit": null,
+    "seen_count": 0
   }
 ]
