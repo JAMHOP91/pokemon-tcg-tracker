@@ -1,14 +1,5 @@
 [
   {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pok\u00e9mon: Mega Evolution: Lumiose City: Mini Tin: Art Set (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-lumiose-city-mini-tin-art-set-english",
-    "price": "$174.99",
-    "timestamp": "2026-08-12T17:35:45.625517+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/LumioseCityMiniTins_ArtSet_1webp.webp?v=1780642788"
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
@@ -10192,5 +10183,16 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pitch-black-booster-bundle.png?v=1784072331",
     "limit": "limit 6 per person",
     "seen_count": 13
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Tech Sticker Collection - Alolan Exeggutor - PRE ORDER - Release Date:  September 16th 2026",
+    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-tech-sticker-collection-pre-order-release-date-september-16th-2026",
+    "price": "$59.00",
+    "timestamp": "2026-09-07T06:10:54.342163+00:00",
+    "priority": true,
+    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tech-Sticker-Collection-Alolan-Exeggutor_EN-150x150.jpg?v=1783055338",
+    "limit": null,
+    "seen_count": 2
   }
 ]
