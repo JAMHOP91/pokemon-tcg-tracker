@@ -303,6 +303,7 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9464484921583",
       "9388711182575",
       "9464484921583",
       "9328351772911",
@@ -385,6 +386,8 @@
       "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/46976",
+      "https://hobbymaster.co.nz/products/product/47232",
+      "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/47051",
@@ -413,6 +416,7 @@
       "7915173249085",
       "7915175608381",
       "7915210571837",
+      "7915233247293",
       "7964213051453",
       "7915239145533",
       "7889660346429",
@@ -467,8 +471,8 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10288263495764",
-      "10276187308116"
+      "10276187308116",
+      "10288263495764"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1094,6 +1098,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8832667877399",
       "8774665043991",
       "8832667877399",
       "8770963537943",
