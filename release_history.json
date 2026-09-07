@@ -1,14 +1,5 @@
 [
   {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pok\u00e9mon: Mega Evolution: Chaos Rising: Sealed Elite Trainer Box (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-chaos-rising-sealed-elite-trainer-box-english",
-    "price": "$159.99",
-    "timestamp": "2026-08-12T20:17:49.374022+00:00",
-    "priority": false,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/ChaosRisingEliteTrainerBox_1webp.webp?v=1776939037"
-  },
-  {
     "site": "Collect All Day",
     "title": "Pokeball Tin (Best of 2021 Series)",
     "url": "https://www.collectallday.com/new/pokeball-tin-2021",
@@ -10202,6 +10193,17 @@
     "timestamp": "2026-09-07T15:40:53.274900+00:00",
     "priority": true,
     "image": "https://assets.bigcartel.com/product_images/430009335/4.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 4
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG Mega Evolution Perfect Order Booster Box",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box-preorder-ship-on-march-27-2026",
+    "price": "$320.00",
+    "timestamp": "2026-09-07T16:10:45.910987+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Base_Mega_Evolution_Perfect_Order_Booster_Box.jpg?v=1772363677",
     "limit": null,
     "seen_count": 4
   }
