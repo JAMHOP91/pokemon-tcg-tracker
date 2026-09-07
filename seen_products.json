@@ -82,6 +82,7 @@
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
       "7558379405373",
+      "7558378979389",
       "7558379864125",
       "7558377046077",
       "7558378979389",
@@ -304,6 +305,8 @@
   "WP Games - Pokemon TCG": {
     "seen_ids": [
       "9328364945647",
+      "9464484921583",
+      "9464484626671",
       "9328351772911",
       "9388711182575",
       "9464484626671",
@@ -355,8 +358,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8479841648836",
-      "8542847107268"
+      "8542847107268",
+      "8479841648836"
     ],
     "zero_streak": 154,
     "warned": true,
@@ -1216,7 +1219,6 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
       "10214103613524",
       "10170375307348",
       "8063603605588"
@@ -1312,6 +1314,7 @@
       "8220788752502",
       "8220955181174",
       "7977019080822",
+      "8185039356022",
       "7831122182262",
       "8100504862838",
       "7977047195766"
@@ -1404,8 +1407,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
     ],
     "zero_streak": 0,
     "warned": false,
