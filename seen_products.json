@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
@@ -13,6 +14,7 @@
   "Cool Shit - Pokemon": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/3PACKDELTA",
@@ -304,11 +306,11 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9328351772911",
       "9388711182575",
-      "9328364945647",
       "9464484921583",
-      "9464484626671",
-      "9328351772911"
+      "9328364945647",
+      "9464484626671"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -938,6 +940,7 @@
     "seen_ids": [
       "9134942748835",
       "9215569133731",
+      "9134942748835",
       "9228422611107",
       "9228412158115",
       "9215139872931"
@@ -969,6 +972,9 @@
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
       "8970819535046",
+      "8789885321414",
+      "8909649739974",
+      "8931072311494",
       "8909657637062",
       "8970824843462",
       "8855167008966",
