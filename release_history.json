@@ -1,14 +1,5 @@
 [
   {
-    "site": "Otakumart - Pokemon TCG",
-    "title": "50x Basic Grass Energy | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/50x-basic-grass-energy-pokemon-tcg",
-    "price": "$3.00",
-    "timestamp": "2026-08-12T19:38:27.545062+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/BasicGrassEnergy-50x.jpg?v=1737492505"
-  },
-  {
     "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Hiroshima 2025 Special Collection Box",
     "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-hiroshima-2025-special-collection-box",
@@ -10196,5 +10187,16 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Lumiose_City_Mini_Tin.jpg?v=1780985527",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions Pitch Black Booster",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster",
+    "price": "$12.99",
+    "timestamp": "2026-09-07T07:10:46.930018+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
+    "limit": null,
+    "seen_count": 7
   }
 ]
