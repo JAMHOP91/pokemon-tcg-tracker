@@ -1,14 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order Three Booster Blister",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-three-booster-blister",
-    "price": "$32.99",
-    "timestamp": "2026-08-12T19:41:01.954592+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/182922ca8f264399b9435c8169756594_Original.jpg?v=1774705136"
-  },
-  {
     "site": "Sealed & Slabbed - Pokemon Sealed",
     "title": "Pok\u00e9mon: Mega Evolution: Chaos Rising: Sealed Elite Trainer Box (English)",
     "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-chaos-rising-sealed-elite-trainer-box-english",
@@ -10200,6 +10191,17 @@
     "timestamp": "2026-09-07T09:10:44.826374+00:00",
     "priority": false,
     "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1600_1_9ee170af-c4ef-4811-8bd1-5aba8a901dcb_1200x1208.webp?v=1785772310",
+    "limit": null,
+    "seen_count": 4
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Three-Booster Blister (PRE-ORDER)",
+    "url": "https://www.coolshit.co.nz/product/3PACKDELTA",
+    "price": "NZ$35.00",
+    "timestamp": "2026-09-07T15:40:53.274900+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/430009335/4.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
     "limit": null,
     "seen_count": 4
   }
