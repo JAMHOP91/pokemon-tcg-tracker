@@ -1,14 +1,5 @@
 [
   {
-    "site": "Big Potato Collectibles - Pokemon Sealed",
-    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising: Elite Trainer Box",
-    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-elite-trainer-box",
-    "price": "$160.00",
-    "timestamp": "2026-08-12T13:25:57.548340+00:00",
-    "priority": false,
-    "image": "https://static.wixstatic.com/media/beffc4_230fe6c1cc7d4d798d65a45ec60ee62a~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp"
-  },
-  {
     "site": "GetThoseMons - Sealed Pokemon TCG",
     "title": "Pokemon TCG: Lumiose City Mini Tin (Assorted)",
     "url": "https://getthosemons.co.nz/products/pokemon-tcg-lumiose-city-mini-tin",
@@ -10182,5 +10173,16 @@
     "image": "http://toytime.co.nz/cdn/shop/files/pok10407a-01.png?v=1784500570",
     "limit": null,
     "seen_count": 6
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-09-07T02:10:58.019588+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682",
+    "limit": "Maximum 1 per person",
+    "seen_count": 11
   }
 ]
