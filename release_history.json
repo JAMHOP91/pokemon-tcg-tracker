@@ -1,15 +1,6 @@
 [
   {
     "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon Mega Zygarde ex Premium Collection",
-    "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-08-12T23:50:48.589335+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392"
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Greninja ex Premium Collection",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
     "price": "$99.99",
@@ -10220,5 +10211,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
     "limit": null,
     "seen_count": 7
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "PRE - ORDER Pokemon TCG 30th Celebration Knock Out Collection",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-30th-celebration-knock-out-collection",
+    "price": "$26.00",
+    "timestamp": "2026-09-08T07:10:53.743060+00:00",
+    "priority": true,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1200_72510dbb-cf9c-4635-949c-a5a2bae3543d_1200x1200.webp?v=1785832155",
+    "limit": null,
+    "seen_count": 2
   }
 ]
