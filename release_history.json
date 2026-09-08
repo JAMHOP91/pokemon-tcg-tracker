@@ -1,14 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Tohoku 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-tohoku-2025-special-collection-box",
-    "price": "$370.00",
-    "timestamp": "2026-08-13T05:55:47.775254+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/tohoku-box-cardbot-pokemon-center.jpg?v=1759255193"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Greninja ex Premium Collection",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
@@ -10234,6 +10225,17 @@
     "timestamp": "2026-09-08T20:40:46.228681+00:00",
     "priority": true,
     "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Pokemon-ex-Box-Greninja-ex_EN.jpg?v=1783060475",
+    "limit": null,
+    "seen_count": 2
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box - PRE ORDER - Release Date:  September 16th 2026",
+    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box-pre-order-release-date-september-16th-2026",
+    "price": "$299.00",
+    "timestamp": "2026-09-08T21:10:46.716468+00:00",
+    "priority": true,
+    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box_EN.jpg?v=1783053252",
     "limit": null,
     "seen_count": 2
   }
