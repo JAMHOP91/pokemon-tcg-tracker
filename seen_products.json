@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 2449,
     "warned": true,
@@ -15,6 +15,8 @@
       "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/deltaetb",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
@@ -40,7 +42,11 @@
       "7439123284117",
       "8713055273109",
       "7330099200149",
-      "8964116873365"
+      "8964116873365",
+      "7439125512341",
+      "7561509896341",
+      "7330101624981",
+      "7330088353941"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -120,6 +126,35 @@
       "9231224963235",
       "9231224832163",
       "9227332059299",
+      "9136746102947",
+      "9227521523875",
+      "8668035317923",
+      "9225965764771",
+      "9231223783587",
+      "8805645254819",
+      "9231228207267",
+      "9231080587427",
+      "8856349376675",
+      "9032850505891",
+      "9227332321443",
+      "9231222079651",
+      "9225967042723",
+      "9227332452515",
+      "9107945980067",
+      "9231085863075",
+      "9231221948579",
+      "9231223914659",
+      "9231223652515",
+      "9231220015267",
+      "7540284915875",
+      "9231224963235",
+      "6051069657251",
+      "8850541740195",
+      "9107945226403",
+      "9136791978147",
+      "9231223128227",
+      "9231086387363",
+      "7409030103203",
       "9225964847267",
       "9227332452515",
       "9231223783587",
@@ -304,11 +339,11 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9464484626671",
-      "9388711182575",
-      "9328351772911",
       "9464484921583",
-      "9328364945647"
+      "9328364945647",
+      "9328351772911",
+      "9388711182575",
+      "9464484626671"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -325,6 +360,9 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
@@ -356,8 +394,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8542847107268",
-      "8479841648836"
+      "8479841648836",
+      "8542847107268"
     ],
     "zero_streak": 286,
     "warned": true,
@@ -1096,6 +1134,7 @@
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
       "8832667877399",
+      "8888685723671",
       "8770963537943",
       "8888685723671",
       "8774665043991"
