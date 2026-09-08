@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle"
     ],
     "zero_streak": 2515,
     "warned": true,
@@ -35,6 +35,11 @@
       "8713055273109",
       "7439107129493",
       "7330103165077",
+      "7330099200149",
+      "7561509896341",
+      "7330101330069",
+      "7330088353941",
+      "8713055273109",
       "8964116873365",
       "7439123284117",
       "7330101002389",
@@ -85,6 +90,8 @@
       "7558379864125",
       "7558379405373",
       "7558381600829",
+      "7558377930813",
+      "7558380781629",
       "7558377046077",
       "7558377930813",
       "7558380781629"
@@ -893,6 +900,9 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
+      "10323223183656",
+      "9734074401064",
+      "10270182736168",
       "10365187621160",
       "10299295236392",
       "10364546351400",
@@ -969,6 +979,7 @@
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
       "8855171334342",
+      "8789885321414",
       "8909657637062",
       "8970819535046",
       "8931072311494",
@@ -1017,9 +1028,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1157,6 +1168,7 @@
       "10111551209712",
       "10112141295856",
       "10099042582768",
+      "10171560952048",
       "10112184385776",
       "9982539989232",
       "10171547386096",
@@ -1277,6 +1289,7 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9537919222037",
       "9530379600149",
       "9537919222037",
       "9537919516949"
@@ -1475,6 +1488,7 @@
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
       "15173438570866",
+      "15139615244658",
       "15139628351858",
       "15163471200626",
       "15139615244658",
