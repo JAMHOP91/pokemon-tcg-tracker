@@ -1,23 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Three Booster Blister",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister",
-    "price": "$31.99",
-    "timestamp": "2026-08-13T03:50:51.466463+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister.jpg?v=1784082727"
-  },
-  {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: Mega Evolution: Perfect Order Booster Box *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-perfect-order-booster-box-sealed-pre-order-ships-apr-10th-copy",
-    "price": "$360.00",
-    "timestamp": "2026-08-13T04:50:48.604969+00:00",
-    "priority": false,
-    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Display_EN.jpg?v=1768528572"
-  },
-  {
     "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Tohoku 2025 Special Collection Box",
     "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-tohoku-2025-special-collection-box",
@@ -10232,5 +10214,27 @@
     "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201",
     "limit": null,
     "seen_count": 9
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Elite Trainer Box (PRE-ORDER)",
+    "url": "https://www.coolshit.co.nz/product/deltaetb",
+    "price": "NZ$130.00",
+    "timestamp": "2026-09-08T20:40:46.228681+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/430009425/1.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 5
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "30th Celebration Greninja ex Box | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/30th-celebration-greninja-ex-box-pokemon-tcg",
+    "price": "$55.00",
+    "timestamp": "2026-09-08T20:40:46.228681+00:00",
+    "priority": true,
+    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Pokemon-ex-Box-Greninja-ex_EN.jpg?v=1783060475",
+    "limit": null,
+    "seen_count": 2
   }
 ]
