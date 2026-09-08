@@ -13,6 +13,8 @@
   "Cool Shit - Pokemon": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/3PACKDELTA",
+      "https://www.coolshit.co.nz/product/deltaetb",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/deltaetb",
@@ -282,9 +284,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10070962241776",
       "10218488725744",
-      "10202363330800",
-      "10070962241776"
+      "10202363330800"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -923,8 +925,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631863279812",
-      "8631859577028"
+      "8631859577028",
+      "8631863279812"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -955,8 +957,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7651030859822",
-      "7506199085102"
+      "7506199085102",
+      "7651030859822"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1073,7 +1075,9 @@
       "9285822251157",
       "9268784496789",
       "9285795938453",
-      "9210168803477"
+      "9152299892885",
+      "9210168803477",
+      "9268784496789"
     ],
     "zero_streak": 0,
     "warned": false,
