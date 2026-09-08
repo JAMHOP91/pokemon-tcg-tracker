@@ -1,14 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
-    "price": "$169.99",
-    "timestamp": "2026-08-12T23:25:57.694109+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851"
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
@@ -10212,5 +10203,16 @@
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/AstralRadianceBoosterBoxwebp.webp?v=1785479418",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Redline Trading - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG - Scarlet & Violet - Twilight Masquerade - Elite Trainer Box (Pokemon Center ETB)",
+    "url": "https://redlinetrading.co.nz/products/scarlet-violet-twilight-masquerade-elite-trainer-box-pokemon-center",
+    "price": "$299.90",
+    "timestamp": "2026-09-08T02:40:46.368409+00:00",
+    "priority": false,
+    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/TwilightmasqueradePCETB.jpg?v=1788232804",
+    "limit": null,
+    "seen_count": 2
   }
 ]
