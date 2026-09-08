@@ -1,14 +1,5 @@
 [
   {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Zygarde ex Premium Collection",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$99.80",
-    "timestamp": "2026-08-13T01:25:40.826143+00:00",
-    "priority": false,
-    "image": "http://www.metalife.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762_1_800x_d70e02e5-58dc-46a7-ac2c-d69293cfcca2.webp?v=1777863464"
-  },
-  {
     "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG 30th Celebration Elite Trainer Box (Limit 2 per Customer) (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box-limit-2-per-customer-pre-order",
@@ -10228,5 +10219,16 @@
     "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191",
     "limit": null,
     "seen_count": 13
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black Booster Bundle",
+    "url": "https://cardmasters.co.nz/products/pre-prder-pokemon-tcg-mega-evolution-pitch-black-booster-bundle",
+    "price": "$65.00",
+    "timestamp": "2026-09-08T17:10:46.971101+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Bundle_EN-698x1024_1200x1760.jpg?v=1780022064",
+    "limit": null,
+    "seen_count": 3
   }
 ]
