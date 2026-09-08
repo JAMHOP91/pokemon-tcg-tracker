@@ -1,14 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-08-12T23:40:44.778245+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pitch-black-booster-bundle.png?v=1784072331"
-  },
-  {
     "site": "Pop Stop - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-chaos-rising-booster",
@@ -10214,5 +10205,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/TwilightmasqueradePCETB.jpg?v=1788232804",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG Mega Moonlight Tin (one of each)",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-moonlight-tin-one-of-each",
+    "price": "$110.00",
+    "timestamp": "2026-09-08T05:40:44.219143+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Mega_Moonlight_Tin.jpg?v=1780987378",
+    "limit": null,
+    "seen_count": 3
   }
 ]
