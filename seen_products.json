@@ -18,6 +18,7 @@
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/premiumcollection",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX"
     ],
     "zero_streak": 0,
@@ -508,6 +509,8 @@
       "10261316469031",
       "10267174994215",
       "10267125383463",
+      "10232830624039",
+      "10261313487143",
       "10267173421351",
       "10261316305191",
       "10344954954023",
@@ -1073,6 +1076,8 @@
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
       "9268784496789",
+      "9152299892885",
+      "9210168803477",
       "9285822251157",
       "9152299892885",
       "9285795938453",
@@ -1406,8 +1411,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1416,8 +1421,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
