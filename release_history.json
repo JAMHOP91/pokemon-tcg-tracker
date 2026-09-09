@@ -1,14 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon Mega Zygarde ex Premium Collection",
-    "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-08-13T20:10:54.979236+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392"
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
@@ -10272,5 +10263,16 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1600_1_9ee170af-c4ef-4811-8bd1-5aba8a901dcb_1200x1208.webp?v=1785772310",
     "limit": null,
     "seen_count": 5
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pokemon TCG: Sword and Shield - Evolving Skies Elite Trainer Box (Sylveon, Espeon, Glaceon, Vaporeon)",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-sword-and-shield-evolving-skies-elite-trainer-box-sylveon-espeon-glaceon-vaporeon",
+    "price": "$89.99",
+    "timestamp": "2026-09-09T23:50:43.364061+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/e7697f84cef7924114aae8f1d3c0ddfd1491eb46jpg_grande.jpg?v=1755145732",
+    "limit": null,
+    "seen_count": 0
   }
 ]
