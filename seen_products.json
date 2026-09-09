@@ -1,8 +1,8 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack"
     ],
     "zero_streak": 2608,
@@ -357,8 +357,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8479841648836",
-      "8542847107268"
+      "8542847107268",
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -896,7 +896,10 @@
     "seen_ids": [
       "10364546351400",
       "10302410391848",
-      "10270182736168",
+      "10364546351400",
+      "10323223183656",
+      "9734074401064",
+      "10365187621160",
       "10302497227048",
       "10365187621160",
       "10299295236392",
@@ -1018,6 +1021,7 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
@@ -1255,10 +1259,10 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9173828796670",
-      "9233032642814",
+      "9381118279934",
       "9269784477950",
-      "9381118279934"
+      "9233032642814",
+      "9173828796670"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1278,9 +1282,9 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9537919516949",
       "9530379600149",
-      "9537919222037"
+      "9537919222037",
+      "9537919516949"
     ],
     "zero_streak": 0,
     "warned": false,
