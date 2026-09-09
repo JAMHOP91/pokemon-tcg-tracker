@@ -1,14 +1,5 @@
 [
   {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-chaos-rising-booster",
-    "price": "$9.99",
-    "timestamp": "2026-08-13T11:05:38.861828+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Chaos-Rising-Booster-Wrap-Mega-Pyroar_EN-560x1024_grande.jpg?v=1779398996"
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolution - Perfect Order Three Booster Blister",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-three-booster-blister",
@@ -10252,5 +10243,16 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Lumiose_City_Mini_Tin.jpg?v=1780985527",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Zygarde ex Premium Collection",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": "$99.80",
+    "timestamp": "2026-09-09T07:10:45.146620+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762_1_800x_d70e02e5-58dc-46a7-ac2c-d69293cfcca2.webp?v=1777863464",
+    "limit": null,
+    "seen_count": 4
   }
 ]
