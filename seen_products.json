@@ -29,6 +29,8 @@
     "seen_ids": [
       "7330088353941",
       "7330099200149",
+      "7330103165077",
+      "7439107129493",
       "8964116873365",
       "7439084388501",
       "7439125512341",
@@ -285,6 +287,7 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10070962241776",
       "10202363330800",
       "10070962241776",
       "10218488725744"
@@ -307,11 +310,11 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9464484921583",
       "9388711182575",
-      "9328364945647",
+      "9328351772911",
+      "9464484921583",
       "9464484626671",
-      "9328351772911"
+      "9328364945647"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -901,6 +904,7 @@
       "9734074401064",
       "10270182736168",
       "10302497227048",
+      "10302410391848",
       "10299295236392",
       "10302410391848",
       "10364546351400"
@@ -958,8 +962,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7651030859822",
-      "7506199085102"
+      "7506199085102",
+      "7651030859822"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1237,8 +1241,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9608224964864",
-      "9366282600704"
+      "9366282600704",
+      "9608224964864"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1261,9 +1265,9 @@
       "9173828796670",
       "9269784477950"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-09T14:01:19.345081+00:00",
     "prices": {
       "9173828796670": 9.99,
       "9233032642814": 9.99,
@@ -1406,8 +1410,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
     ],
     "zero_streak": 0,
     "warned": false,
