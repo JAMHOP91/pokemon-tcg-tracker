@@ -1,14 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order Three Booster Blister",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-three-booster-blister",
-    "price": "$32.99",
-    "timestamp": "2026-08-13T12:11:32.747461+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/182922ca8f264399b9435c8169756594_Original.jpg?v=1774705136"
-  },
-  {
     "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Lumiose City Mini Tin (Assorted)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted-pre-order",
@@ -10254,5 +10245,16 @@
     "image": "http://www.metalife.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762_1_800x_d70e02e5-58dc-46a7-ac2c-d69293cfcca2.webp?v=1777863464",
     "limit": null,
     "seen_count": 4
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "Moltres & Zapdos & Articuno GX - PSA 10",
+    "url": "https://cardmasters.co.nz/products/moltres-zapdos-articuno-gx-psa-11",
+    "price": "$800.00",
+    "timestamp": "2026-09-09T07:32:59.384969+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/IMG_8018_1200x1973.png?v=1788938540",
+    "limit": null,
+    "seen_count": 0
   }
 ]
