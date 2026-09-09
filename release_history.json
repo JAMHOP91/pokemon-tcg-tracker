@@ -4,15 +4,6 @@
     "title": "Pokemon Mega Zygarde ex Premium Collection",
     "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
     "price": "$99.99",
-    "timestamp": "2026-08-13T19:06:28.585206+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392"
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon Mega Zygarde ex Premium Collection",
-    "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-    "price": "$99.99",
     "timestamp": "2026-08-13T20:10:54.979236+00:00",
     "priority": false,
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392"
@@ -10270,5 +10261,16 @@
     "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Chaos-Rising-Booster-Display_EN-762x1024.jpg?v=1774217735",
     "limit": "LIMITED TO 1 PER HOUSEHOLD",
     "seen_count": 0
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "PRE ORDER - Pok\u00e9mon 30th Anniversary Celebration Elite Trainer Box",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-30th-anniversary-celebration-elite-trainer-box",
+    "price": "$140.00",
+    "timestamp": "2026-09-09T23:11:05.279399+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1600_1_9ee170af-c4ef-4811-8bd1-5aba8a901dcb_1200x1208.webp?v=1785772310",
+    "limit": null,
+    "seen_count": 5
   }
 ]
