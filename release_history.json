@@ -1,14 +1,5 @@
 [
   {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Lumiose City Mini Tin (Assorted)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted-pre-order",
-    "price": "$23.99",
-    "timestamp": "2026-08-13T12:17:40.447588+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Lumiose-City-Mini-Tin-Display_EN.jpg?v=1778735064"
-  },
-  {
     "site": "GetThoseMons - Sealed Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Mega Evolution-Pitch Black Booster Pack",
     "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-pack",
@@ -10254,6 +10245,17 @@
     "timestamp": "2026-09-09T07:32:59.384969+00:00",
     "priority": false,
     "image": "https://cardmasters.co.nz/cdn/shop/files/IMG_8018_1200x1973.png?v=1788938540",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG: Perfect Order Booster - Mega Clefable ex",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-perfect-order-booster-mega-clefable-ex",
+    "price": "$10.90",
+    "timestamp": "2026-09-09T08:10:44.400827+00:00",
+    "priority": false,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG__Perfect_Order_Booster-3_1200x1200.png?v=1785386500",
     "limit": null,
     "seen_count": 0
   }
