@@ -1,14 +1,5 @@
 [
   {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order)",
-    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
-    "price": "NZ$360.00",
-    "timestamp": "2026-08-14T02:10:56.427548+00:00",
-    "priority": false,
-    "image": "https://assets.bigcartel.com/product_images/425269320/17.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
     "site": "Games Lab - Pokemon TCG",
     "title": "Squishmallow: 10 Inch W4 Pokemon - Teddiursa",
     "url": "https://www.gameslab.co.nz/products/Squishmallow-10-Inch-W4-Pokemon-Teddiursa-p651277251",
@@ -10294,5 +10285,16 @@
     "image": "http://www.metalife.co.nz/cdn/shop/files/692939_in_1000x1000_732x1000_d083202d-bb52-4dd4-84cf-3a31218c6540.jpg?v=1780627003",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Vaporeon VMAX Premium Collection",
+    "url": "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+    "price": "NZ$600.00",
+    "timestamp": "2026-09-10T22:10:50.994431+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67ea507881e5eb27f0a2afc0/1757999550631/Vaporeon+VMAX+Special+Collection.jpg?format=1500w",
+    "limit": null,
+    "seen_count": 2
   }
 ]
