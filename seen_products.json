@@ -393,12 +393,15 @@
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/46971",
+      "https://hobbymaster.co.nz/products/product/47236",
+      "https://hobbymaster.co.nz/products/product/47232",
+      "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/47236"
     ],
     "zero_streak": 2,
     "warned": false,
-    "first_failure_at": "2026-09-10T08:21:05.090617+00:00",
+    "first_failure_at": null,
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -928,8 +931,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631863279812",
-      "8631859577028"
+      "8631859577028",
+      "8631863279812"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1222,8 +1225,8 @@
   "Game Corner - Pokemon": {
     "seen_ids": [
       "8063603605588",
-      "10214066389076",
-      "10170375307348"
+      "10170375307348",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1259,6 +1262,7 @@
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
       "9173828796670",
+      "6922042638486",
       "9381118279934",
       "6922042638486",
       "9269784477950",
@@ -1479,6 +1483,8 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15163471200626",
+      "15139628351858",
       "15139609837938",
       "15163507376498",
       "15139613802866",
