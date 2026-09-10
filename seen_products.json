@@ -83,6 +83,8 @@
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
       "7558378979389",
+      "7558377046077",
+      "7558379864125",
       "7558381600829",
       "7558377046077",
       "7558380781629",
@@ -928,8 +930,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631859577028",
-      "8631863279812"
+      "8631863279812",
+      "8631859577028"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -960,8 +962,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7651030859822",
-      "7506199085102"
+      "7506199085102",
+      "7651030859822"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1022,9 +1024,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1283,9 +1285,9 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9537919516949",
+      "9530379600149",
       "9537919222037",
-      "9530379600149"
+      "9537919516949"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1420,8 +1422,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1444,7 +1446,9 @@
       "7787228790902",
       "8231312228470",
       "8231315472502",
-      "8231326056566"
+      "8254468882550",
+      "8231309377654",
+      "7716056825974"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1479,6 +1483,11 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15139628351858",
+      "15139609837938",
+      "15163471200626",
+      "15173429166450",
+      "15173456462194",
       "15163507376498",
       "15173429166450",
       "15173438570866",
