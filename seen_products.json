@@ -285,9 +285,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10070962241776",
       "10202363330800",
-      "10218488725744",
-      "10070962241776"
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -390,7 +390,6 @@
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/46975",
-      "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/46971",
@@ -904,8 +903,10 @@
       "9734074401064",
       "10299295236392",
       "10323223183656",
-      "10270182736168",
-      "10302410391848"
+      "10364546351400",
+      "10302410391848",
+      "10299295236392",
+      "10270182736168"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -928,8 +929,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631863279812",
-      "8631859577028"
+      "8631859577028",
+      "8631863279812"
     ],
     "zero_streak": 0,
     "warned": false,
