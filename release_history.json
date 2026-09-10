@@ -1,14 +1,5 @@
 [
   {
-    "site": "Games Lab - Pokemon TCG",
-    "title": "Squishmallow: 10 Inch W4 Pokemon - Teddiursa",
-    "url": "https://www.gameslab.co.nz/products/Squishmallow-10-Inch-W4-Pokemon-Teddiursa-p651277251",
-    "price": null,
-    "timestamp": "2026-08-14T02:42:48.282604+00:00",
-    "priority": false,
-    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/651277251/5669965759.jpg"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster",
@@ -10296,5 +10287,16 @@
     "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67ea507881e5eb27f0a2afc0/1757999550631/Vaporeon+VMAX+Special+Collection.jpg?format=1500w",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "PRE ORDER - Pok\u00e9mon 30th Anniversary Celebration Elite Trainer Box",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-30th-anniversary-celebration-elite-trainer-box",
+    "price": "$140.00",
+    "timestamp": "2026-09-10T23:40:47.485748+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1600_1_9ee170af-c4ef-4811-8bd1-5aba8a901dcb_1200x1208.webp?v=1785772310",
+    "limit": null,
+    "seen_count": 6
   }
 ]
