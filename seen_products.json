@@ -942,6 +942,7 @@
   "Card Masters - Pre-Orders": {
     "seen_ids": [
       "9228412158115",
+      "9134942748835",
       "9215569133731",
       "9134942748835",
       "9215139872931",
@@ -979,6 +980,8 @@
       "8909649739974",
       "8931072311494",
       "8970824843462",
+      "8909649739974",
+      "8909657637062",
       "8970819535046",
       "8909657637062"
     ],
@@ -1074,8 +1077,6 @@
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
-      "9268784496789",
-      "9285822251157",
       "9285795938453",
       "9152299892885",
       "9210168803477"
@@ -1410,8 +1411,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
       "https://www.gameslab.co.nz/products/Perfect-Order-Single-Blister-Pack-p797932400",
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
@@ -1421,8 +1422,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
