@@ -18,7 +18,9 @@
       "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
-      "https://www.coolshit.co.nz/product/deltaetb"
+      "https://www.coolshit.co.nz/product/deltaetb",
+      "https://www.coolshit.co.nz/product/premiumcollection",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -285,9 +287,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10218488725744",
       "10202363330800",
-      "10070962241776"
+      "10070962241776",
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -928,8 +930,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631863279812",
-      "8631859577028"
+      "8631859577028",
+      "8631863279812"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -960,8 +962,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7506199085102",
-      "7651030859822"
+      "7651030859822",
+      "7506199085102"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1264,9 +1266,9 @@
       "9269784477950",
       "9381118279934"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-10T22:31:05.670408+00:00",
     "prices": {
       "9173828796670": 9.99,
       "9233032642814": 9.99,
