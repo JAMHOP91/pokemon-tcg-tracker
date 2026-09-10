@@ -1,15 +1,6 @@
 [
   {
     "site": "Games Lab - Pokemon TCG",
-    "title": "Squishmallow: 10 Inch W4 Pokemon - Teddiursa",
-    "url": "https://www.gameslab.co.nz/products/Squishmallow-10-Inch-W4-Pokemon-Teddiursa-p651277251",
-    "price": null,
-    "timestamp": "2026-08-14T01:55:39.693736+00:00",
-    "priority": false,
-    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/651277251/5669965759.jpg"
-  },
-  {
-    "site": "Games Lab - Pokemon TCG",
     "title": "Squishmallow: 10 Inch W4 Pokemon - Clefairy",
     "url": "https://www.gameslab.co.nz/products/Squishmallow-10-Inch-W4-Pokemon-Clefairy-p651254787",
     "price": null,
@@ -10284,5 +10275,16 @@
     "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG: Sword and Shield Elite Trainer Box - Zamazenta",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-sword-and-shield-elite-trainer-box-zamazenta",
+    "price": "$350.00",
+    "timestamp": "2026-09-10T10:10:54.660389+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2104.jpg?v=1786436317",
+    "limit": null,
+    "seen_count": 2
   }
 ]
