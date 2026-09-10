@@ -1,14 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-08-13T20:25:52.069511+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pitch-black-booster-bundle.png?v=1784072331"
-  },
-  {
     "site": "GetThoseMons - Sealed Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Mega Evolution-Pitch Black Booster Pack",
     "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-pack",
@@ -10272,6 +10263,17 @@
     "timestamp": "2026-09-09T23:50:43.364061+00:00",
     "priority": false,
     "image": "http://popstop.co.nz/cdn/shop/files/e7697f84cef7924114aae8f1d3c0ddfd1491eb46jpg_grande.jpg?v=1755145732",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Games Lab - Pokemon TCG",
+    "title": "Perfect Order: Single Blister Pack",
+    "url": "https://www.gameslab.co.nz/products/Perfect-Order-Single-Blister-Pack-p797932400",
+    "price": null,
+    "timestamp": "2026-09-10T02:32:55.789190+00:00",
+    "priority": false,
+    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/797932400/5729697676.jpg",
     "limit": null,
     "seen_count": 0
   }
