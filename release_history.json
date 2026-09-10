@@ -1,15 +1,6 @@
 [
   {
     "site": "Games Lab - Pokemon TCG",
-    "title": "Pokemon Perfect Order Booster Box",
-    "url": "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
-    "price": null,
-    "timestamp": "2026-08-14T01:55:39.693736+00:00",
-    "priority": false,
-    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/826516024/5682520509.jpg"
-  },
-  {
-    "site": "Games Lab - Pokemon TCG",
     "title": "Pokemon Mega Zygarde ex Premium Collection",
     "url": "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
     "price": null,
@@ -10290,5 +10281,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
     "limit": null,
     "seen_count": 9
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "PRE ORDER - Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Elite Trainer Box",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box",
+    "price": "$130.00",
+    "timestamp": "2026-09-10T20:40:46.437016+00:00",
+    "priority": true,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1_1200x1144.jpg?v=1787290166",
+    "limit": null,
+    "seen_count": 2
   }
 ]
