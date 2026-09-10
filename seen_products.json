@@ -1,8 +1,8 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack"
     ],
     "zero_streak": 2718,
@@ -88,7 +88,12 @@
       "7558378979389",
       "7558380781629",
       "7558381600829",
-      "7558379405373"
+      "7558377930813",
+      "7558380781629",
+      "7558377046077",
+      "7558379405373",
+      "7558378979389",
+      "7558379864125"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -311,7 +316,10 @@
       "9464484626671",
       "9388711182575",
       "9328364945647",
-      "9328351772911"
+      "9464484921583",
+      "9328351772911",
+      "9388711182575",
+      "9464484626671"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -392,6 +400,7 @@
       "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/47051"
@@ -1239,8 +1248,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9366282600704",
-      "9608224964864"
+      "9608224964864",
+      "9366282600704"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1306,6 +1315,8 @@
     "seen_ids": [
       "8026239369334",
       "8185039356022",
+      "8069235998838",
+      "8171677057142",
       "8100504862838",
       "7976837546102",
       "8026257686646",
@@ -1410,8 +1421,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1437,6 +1448,10 @@
       "8231312228470",
       "8231309377654",
       "8231315472502",
+      "8254468653174",
+      "8254468882550",
+      "8231309377654",
+      "8231312228470",
       "7787228790902",
       "8254468882550",
       "8231314292854",
