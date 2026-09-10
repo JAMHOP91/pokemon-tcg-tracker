@@ -15,6 +15,8 @@
       "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/premiumcollection",
+      "https://www.coolshit.co.nz/product/deltaetb",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
       "https://www.coolshit.co.nz/product/deltaetb",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
@@ -928,8 +930,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631863279812",
-      "8631859577028"
+      "8631859577028",
+      "8631863279812"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -960,8 +962,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7651030859822",
-      "7506199085102"
+      "7506199085102",
+      "7651030859822"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1060,6 +1062,9 @@
       "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/premiumcollection::sold_out::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/boosterbundle::sold_out::View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::available::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/celebration::available::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
       "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection::sold_out::View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order) STRICTLY 2PP",
