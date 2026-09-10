@@ -1,14 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG Prismatic Evolutions Mini-Tin Display (8 Mini-Tins)",
-    "url": "https://cardbot.co.nz/products/sv8-5-mt",
-    "price": "$591.00",
-    "timestamp": "2026-08-14T01:47:47.898227+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/P10408_SV08pt5_3D_Mini_Tins_Display_Front_EN-820x1024.jpg?v=1786671301"
-  },
-  {
     "site": "Games Lab - Pokemon TCG",
     "title": "Squishmallow: 10 Inch W4 Pokemon - Teddiursa",
     "url": "https://www.gameslab.co.nz/products/Squishmallow-10-Inch-W4-Pokemon-Teddiursa-p651277251",
@@ -10282,5 +10273,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
     "limit": null,
     "seen_count": 8
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "PITCH BLACK: THREE BOOSTER BLISTER",
+    "url": "https://hobbymaster.co.nz/products/product/47236",
+    "price": "$50.00",
+    "timestamp": "2026-09-10T09:41:09.780060+00:00",
+    "priority": false,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 0
   }
 ]
