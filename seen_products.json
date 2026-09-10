@@ -119,6 +119,8 @@
       "9231080751267",
       "9107945226403",
       "9227332321443",
+      "9231225356451",
+      "9231224832163",
       "9032850505891",
       "9231228207267",
       "9136790274211",
@@ -388,6 +390,8 @@
       "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/46975",
+      "https://hobbymaster.co.nz/products/product/47223",
+      "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/45878",
@@ -904,7 +908,11 @@
       "10270182736168",
       "10302497227048",
       "10364546351400",
+      "10299295236392",
+      "10302497227048",
       "10323223183656",
+      "10302410391848",
+      "10270182736168",
       "10365187621160"
     ],
     "zero_streak": 0,
@@ -941,7 +949,8 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9215139872931",
+      "9134942748835",
+      "9215569133731",
       "9228422611107",
       "9134942748835",
       "9215569133731",
@@ -960,8 +969,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7651030859822",
-      "7506199085102"
+      "7506199085102",
+      "7651030859822"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1023,8 +1032,8 @@
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
