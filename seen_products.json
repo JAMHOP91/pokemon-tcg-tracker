@@ -361,7 +361,8 @@
       "8542847107268",
       "8584002666692",
       "8542844682436",
-      "8479841648836"
+      "8542847107268",
+      "8584002666692"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -959,12 +960,12 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7651030859822",
-      "7506199085102"
+      "7506199085102",
+      "7651030859822"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-11T06:31:00.141387+00:00",
     "prices": {
       "7506199085102": 64.99,
       "7651030859822": 74.99
@@ -1009,9 +1010,9 @@
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-11T06:31:00.141387+00:00",
     "prices": {
       "9096634695930": 329.99,
       "9294396063994": 119.99,
