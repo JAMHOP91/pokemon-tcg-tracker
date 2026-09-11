@@ -285,6 +285,7 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10218488725744",
       "10070962241776",
       "10218488725744",
       "10202363330800"
@@ -359,6 +360,7 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8584002666692",
       "8542847107268",
       "8479841648836",
       "8542844682436",
@@ -945,7 +947,9 @@
       "9215139872931",
       "9134942748835",
       "9228412158115",
-      "9215569133731"
+      "9215139872931",
+      "9134942748835",
+      "9228422611107"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1054,6 +1058,10 @@
   "Cool Shit - Status Watch": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/premiumcollection::sold_out::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/boosterbundle::sold_out::View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/celebration::available::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
+      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection::sold_out::View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::available::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/boosterbundle::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
@@ -1221,9 +1229,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "8063603605588",
+      "10214066389076",
       "10170375307348",
-      "10214066389076"
+      "8063603605588"
     ],
     "zero_streak": 0,
     "warned": false,
