@@ -394,9 +394,9 @@
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/47236"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-11T22:31:02.637559+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -1237,8 +1237,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9608224964864",
-      "9366282600704"
+      "9366282600704",
+      "9608224964864"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1257,7 +1257,6 @@
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
       "9269784477950",
-      "9381118279934",
       "6922042638486",
       "9233032642814",
       "9173828796670"
@@ -1438,6 +1437,7 @@
       "8231314292854",
       "8231309377654",
       "8231312228470",
+      "7716056825974",
       "8231316750454",
       "8254468882550",
       "8254468653174",
