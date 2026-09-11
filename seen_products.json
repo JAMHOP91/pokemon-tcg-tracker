@@ -84,6 +84,7 @@
     "seen_ids": [
       "7558380781629",
       "7558377930813",
+      "7558381600829",
       "7558378979389",
       "7558379864125",
       "7558381600829"
@@ -283,9 +284,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10218488725744",
       "10070962241776",
-      "10202363330800",
-      "10218488725744"
+      "10202363330800"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -381,6 +382,10 @@
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
+      "https://hobbymaster.co.nz/products/product/46976",
+      "https://hobbymaster.co.nz/products/product/45878",
+      "https://hobbymaster.co.nz/products/product/46971",
+      "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/45878",
@@ -471,8 +476,8 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10288263495764",
-      "10276187308116"
+      "10276187308116",
+      "10288263495764"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -958,8 +963,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7651030859822",
-      "7506199085102"
+      "7506199085102",
+      "7651030859822"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1020,8 +1025,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
@@ -1074,6 +1079,7 @@
     "seen_ids": [
       "9285795938453",
       "9285822251157",
+      "9268784496789",
       "9210168803477",
       "9268784496789",
       "9152299892885"
@@ -1153,6 +1159,7 @@
   },
   "Animal Kingdoms - Pokemon TCG": {
     "seen_ids": [
+      "10112179831024",
       "10112186188016",
       "10112179831024",
       "10112141295856",
@@ -1373,7 +1380,21 @@
       "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
-      "https://www.bigpotato.co.nz/product-page/copy-of-pokemon-tcg-sword-shield-evolving-skies-booster-pack"
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle",
+      "https://www.bigpotato.co.nz/product-page/copy-of-pokemon-tcg-sword-shield-evolving-skies-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-scarlet-violet-surging-sparks-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-rebel-clash-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-vivid-voltage-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/copy-of-pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/sealed-pok\u00e9mon-tcg-poke-ball-tin-d21-2021-cosmic-eclipse-vivid-voltage-rebel",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-blister-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-happy-meal-pack-150-unit-sealed-case",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-charizard-ex-premium-collection",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-2"
     ],
     "zero_streak": 0,
     "warned": false,
