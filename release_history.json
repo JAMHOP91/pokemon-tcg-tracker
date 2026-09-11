@@ -1,14 +1,5 @@
 [
   {
-    "site": "Card Masters NZ",
-    "title": "100 Pokemon Cards + Bonus",
-    "url": "https://cardmasters.co.nz/products/100-pokemon-cards-bonus",
-    "price": "$10.00",
-    "timestamp": "2026-08-14T06:05:59.907253+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/products/100-pokemon-cards-bonus-401398_1200x762.jpg?v=1703483467"
-  },
-  {
     "site": "Cool Shit - Pokemon",
     "title": "View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order)",
     "url": "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
@@ -10310,5 +10301,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Greninja-ex-Premium-Collection.png?v=1782974400",
     "limit": null,
     "seen_count": 6
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Evolution: Chaos Rising Booster Box *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-chaos-rising-booster-box-sealed-pre-order-ships-may-22nd",
+    "price": "$360.00",
+    "timestamp": "2026-09-11T14:41:25.482422+00:00",
+    "priority": false,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Chaos-Rising-Booster-Display_EN-762x1024.jpg?v=1774217735",
+    "limit": "LIMITED TO 1 PER HOUSEHOLD",
+    "seen_count": 1
   }
 ]
