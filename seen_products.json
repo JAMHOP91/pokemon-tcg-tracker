@@ -1237,8 +1237,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9608224964864",
-      "9366282600704"
+      "9366282600704",
+      "9608224964864"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1281,6 +1281,7 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9530379600149",
       "9537919222037",
       "9530379600149",
       "9537919516949"
@@ -1420,8 +1421,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
