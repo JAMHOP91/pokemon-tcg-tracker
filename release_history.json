@@ -1,14 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Collection Box 2025 Bundle",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-collection-box-2025-bundle",
-    "price": "$1229.00",
-    "timestamp": "2026-08-14T03:50:55.434702+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/PKM-CENTRE-2025-BUNDLE_1.png?v=1772599783"
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
@@ -10304,5 +10295,16 @@
     "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister.jpg?v=1784082727",
     "limit": "Maximum 6 per person",
     "seen_count": 8
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "PRE ORDER - Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Elite Trainer Box",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box",
+    "price": "$130.00",
+    "timestamp": "2026-09-11T05:40:49.921255+00:00",
+    "priority": true,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1_1200x1144.jpg?v=1787290166",
+    "limit": null,
+    "seen_count": 3
   }
 ]
