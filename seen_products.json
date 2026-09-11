@@ -82,11 +82,11 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558381600829",
+      "7558379864125",
       "7558380781629",
       "7558377930813",
       "7558378979389",
-      "7558379864125"
+      "7558381600829"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -283,9 +283,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10202363330800",
       "10218488725744",
-      "10070962241776"
+      "10070962241776",
+      "10202363330800"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1020,6 +1020,7 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/"
