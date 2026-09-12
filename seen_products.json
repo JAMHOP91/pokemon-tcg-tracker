@@ -283,8 +283,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
       "10202363330800",
+      "10070962241776",
       "10218488725744"
     ],
     "zero_streak": 0,
@@ -394,9 +394,9 @@
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/47223"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-12T19:01:25.135930+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -943,7 +943,10 @@
       "9215569133731",
       "9215139872931",
       "9134942748835",
-      "9228422611107"
+      "9215569133731",
+      "9228422611107",
+      "9215139872931",
+      "9228412158115"
     ],
     "zero_streak": 0,
     "warned": false,
