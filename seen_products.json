@@ -1072,7 +1072,6 @@
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
-      "9285795938453",
       "9210168803477",
       "9285822251157",
       "9152299892885",
@@ -1160,6 +1159,7 @@
       "10098857181424",
       "10035621396720",
       "9599898976496",
+      "10112186188016",
       "10112184385776",
       "10171578286320",
       "10112141295856",
@@ -1219,9 +1219,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10170375307348",
       "10214066389076",
-      "8063603605588"
+      "8063603605588",
+      "10170375307348"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1408,7 +1408,6 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
       "https://www.gameslab.co.nz/products/Perfect-Order-Single-Blister-Pack-p797932400",
       "https://www.gameslab.co.nz/products/Mega-Greninja-ex-Premium-Collection-p840321361",
       "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024"
@@ -1433,6 +1432,14 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
+      "8231312228470",
+      "8231315472502",
+      "8231314292854",
+      "8231321895030",
+      "8231325270134",
+      "8254468882550",
+      "8231309377654",
+      "7716056825974",
       "8231316750454",
       "7787228790902",
       "8231309377654",
