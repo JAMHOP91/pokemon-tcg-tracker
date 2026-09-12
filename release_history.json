@@ -1,14 +1,5 @@
 [
   {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - 2025 Pokemon TCG World Championships",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-2025-pokemon-tcg-world-championships",
-    "price": "$44.80",
-    "timestamp": "2026-08-14T15:05:47.233772+00:00",
-    "priority": false,
-    "image": "http://www.metalife.co.nz/cdn/shop/files/476432-Product-0-I-639131923803786868.webp?v=1782189387"
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolution - Perfect Order Three Booster Blister",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-three-booster-blister",
@@ -10342,5 +10333,16 @@
     "image": "https://assets.bigcartel.com/product_images/430009263/3.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": "$109.99",
+    "timestamp": "2026-09-12T23:41:04.719222+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364",
+    "limit": null,
+    "seen_count": 9
   }
 ]
