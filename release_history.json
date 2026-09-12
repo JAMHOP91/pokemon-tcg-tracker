@@ -1,14 +1,5 @@
 [
   {
-    "site": "TCG Collector NZ",
-    "title": "Pokemon TCG: Mega Evolution: Perfect Order Booster Box *Sealed*",
-    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-perfect-order-booster-box-sealed-pre-order-ships-apr-10th-copy",
-    "price": "$360.00",
-    "timestamp": "2026-08-14T13:50:46.416855+00:00",
-    "priority": false,
-    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Display_EN.jpg?v=1768528572"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
@@ -10338,5 +10329,16 @@
     "image": "http://otakumart.co.nz/cdn/shop/files/BasicPsychicEnergy-50x.jpg?v=1737494476",
     "limit": null,
     "seen_count": 4
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: 2-Pack Blister Product (Pre-Order)",
+    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+    "price": "NZ$24.00",
+    "timestamp": "2026-09-12T22:10:45.170964+00:00",
+    "priority": false,
+    "image": "https://assets.bigcartel.com/product_images/425327193/Untitled+design+_4_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 3
   }
 ]
