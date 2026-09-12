@@ -1,14 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster box 36 packs",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-box-36-packs",
-    "price": "$379.99",
-    "timestamp": "2026-08-14T10:48:13.682227+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon Mega Zygarde ex Premium Collection",
     "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
@@ -10322,6 +10313,17 @@
     "timestamp": "2026-09-12T03:40:48.639837+00:00",
     "priority": false,
     "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/832752708/5798246075.jpg",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG: Perfect Order Booster - Mega Starmie ex",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-perfect-order-booster-mega-starmie-ex",
+    "price": "$10.90",
+    "timestamp": "2026-09-12T04:40:47.166330+00:00",
+    "priority": false,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG__Perfect_Order_Booster_1200x1200.png?v=1785386033",
     "limit": null,
     "seen_count": 0
   }
