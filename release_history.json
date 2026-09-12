@@ -1,15 +1,6 @@
 [
   {
     "site": "Pop Stop - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
-    "price": "$9.99",
-    "timestamp": "2026-08-14T10:11:31.165021+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191"
-  },
-  {
-    "site": "Pop Stop - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolutions - Chaos Rising: Checklane Blister",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-checklane-blister",
     "price": "$11.99",
@@ -10318,5 +10309,16 @@
     "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191",
     "limit": null,
     "seen_count": 14
+  },
+  {
+    "site": "Redline Trading - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG - Mega Evolutions - Phantasmal Flames - Elite Trainer Box",
+    "url": "https://redlinetrading.co.nz/products/pokemon-tcg-mega-evolutions-phantasmal-flames-elite-trainer-box",
+    "price": "$284.90",
+    "timestamp": "2026-09-12T00:40:53.271662+00:00",
+    "priority": true,
+    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/Pokemon-RTC-PhantasmalFlames-ETB.png?v=1788233777",
+    "limit": null,
+    "seen_count": 2
   }
 ]
