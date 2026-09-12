@@ -1,14 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Tohoku 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-tohoku-2025-special-collection-box",
-    "price": "$368.00",
-    "timestamp": "2026-08-14T12:10:50.270589+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/tohoku-box-cardbot-pokemon-center.jpg?v=1759255193"
-  },
-  {
     "site": "TCG Collector NZ",
     "title": "Pokemon TCG: Mega Evolution: Perfect Order Booster Box *Sealed*",
     "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-perfect-order-booster-box-sealed-pre-order-ships-apr-10th-copy",
@@ -10336,5 +10327,16 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
     "limit": null,
     "seen_count": 8
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Psychic Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-psychic-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-09-12T21:10:49.408072+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicPsychicEnergy-50x.jpg?v=1737494476",
+    "limit": null,
+    "seen_count": 4
   }
 ]
