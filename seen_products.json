@@ -18,7 +18,11 @@
       "https://www.coolshit.co.nz/product/deltaetb",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/premiumcollection",
-      "https://www.coolshit.co.nz/product/DELTABOOSTERBOX"
+      "https://www.coolshit.co.nz/product/3PACKDELTA",
+      "https://www.coolshit.co.nz/product/deltaetb",
+      "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -43,9 +47,9 @@
       "7330101330069",
       "7439125512341"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-12T00:31:10.161317+00:00",
     "prices": {
       "8713055273109": 29.88,
       "8745246556309": 33.88,
@@ -85,8 +89,8 @@
       "7558377930813",
       "7558379864125",
       "7558378979389",
-      "7558381600829",
-      "7558380781629"
+      "7558380781629",
+      "7558381600829"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -424,6 +428,8 @@
       "7915155521597",
       "7915175608381",
       "7915173249085",
+      "7915239145533",
+      "7889660346429",
       "7964213051453",
       "7964217802813",
       "7915168563261",
@@ -978,7 +984,12 @@
       "8970819535046",
       "8909649739974",
       "8789885321414",
-      "8855167008966"
+      "8970824843462",
+      "8855167008966",
+      "8909649739974",
+      "8855171334342",
+      "8970819535046",
+      "8909657637062"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1487,7 +1498,11 @@
       "15163471200626",
       "15173429166450",
       "15163507376498",
-      "15139609837938"
+      "15173438570866",
+      "15139613802866",
+      "15139628351858",
+      "15163471200626",
+      "15139615244658"
     ],
     "zero_streak": 0,
     "warned": false,
