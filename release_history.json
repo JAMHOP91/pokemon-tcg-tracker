@@ -1,14 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon Mega Zygarde ex Premium Collection",
-    "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-08-14T11:03:14.341092+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392"
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolution - Perfect Order Three Booster Blister",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-three-booster-blister",
@@ -10326,5 +10317,16 @@
     "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG__Perfect_Order_Booster_1200x1200.png?v=1785386033",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View          Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Booster (PRE-ORDER)",
+    "url": "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
+    "price": "NZ$359.00",
+    "timestamp": "2026-09-12T05:10:47.299662+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/430009305/2.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 2
   }
 ]
