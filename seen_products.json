@@ -33,6 +33,10 @@
       "7330103165077",
       "8964116873365",
       "7330101330069",
+      "8713055273109",
+      "7330088353941",
+      "7439125512341",
+      "7439123284117",
       "7330101002389",
       "7439123284117",
       "7439084388501",
@@ -283,9 +287,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10218488725744",
+      "10202363330800",
       "10070962241776",
-      "10202363330800"
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -394,9 +398,9 @@
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/47223"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-12T11:31:03.106677+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -926,8 +930,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631859577028",
-      "8631863279812"
+      "8631863279812",
+      "8631859577028"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1051,6 +1055,9 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/premiumcollection::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection::sold_out::View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/celebration::available::View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::available::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/premiumcollection::sold_out::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
