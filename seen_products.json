@@ -18,7 +18,7 @@
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
       "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
+      "https://www.coolshit.co.nz/product/deltaetb"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -283,9 +283,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
       "10202363330800",
-      "10218488725744"
+      "10218488725744",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -939,6 +939,7 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
+      "9228412158115",
       "9134942748835",
       "9228422611107",
       "9215139872931",
@@ -1237,8 +1238,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9366282600704",
-      "9608224964864"
+      "9608224964864",
+      "9366282600704"
     ],
     "zero_streak": 0,
     "warned": false,
