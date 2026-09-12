@@ -1,14 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
-    "price": "$169.99",
-    "timestamp": "2026-08-14T14:40:51.345042+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851"
-  },
-  {
     "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG - 2025 Pokemon TCG World Championships",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-2025-pokemon-tcg-world-championships",
@@ -10338,6 +10329,17 @@
     "timestamp": "2026-09-12T22:10:45.170964+00:00",
     "priority": false,
     "image": "https://assets.bigcartel.com/product_images/425327193/Untitled+design+_4_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 3
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: Mega Evolution\u2014 Delta Reign Booster Bundle (PRE-ORDER)",
+    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+    "price": "NZ$69.00",
+    "timestamp": "2026-09-12T22:40:51.195434+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/430009263/3.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
     "limit": null,
     "seen_count": 3
   }
