@@ -1,15 +1,6 @@
 [
   {
     "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order Three Booster Blister",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-three-booster-blister",
-    "price": "$32.99",
-    "timestamp": "2026-08-14T11:50:47.981471+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/182922ca8f264399b9435c8169756594_Original.jpg?v=1774705136"
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster Box",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-booster-box",
     "price": "$359.99",
@@ -10328,5 +10319,16 @@
     "image": "https://assets.bigcartel.com/product_images/430009305/2.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Games Lab - Pokemon TCG",
+    "title": "Pokemon Perfect Order Booster Box",
+    "url": "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
+    "price": null,
+    "timestamp": "2026-09-12T05:40:47.394208+00:00",
+    "priority": false,
+    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/826516024/5682520509.jpg",
+    "limit": "LIMIT 2 PER ORDER",
+    "seen_count": 0
   }
 ]
