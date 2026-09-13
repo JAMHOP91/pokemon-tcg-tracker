@@ -1,14 +1,5 @@
 [
   {
-    "site": "Game Corner - Pokemon",
-    "title": "Pok\u00e9mon TCG Mega Evolution Perfect Order Booster Box",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box-preorder-ship-on-march-27-2026",
-    "price": "$320.00",
-    "timestamp": "2026-08-14T16:19:38.915314+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Base_Mega_Evolution_Perfect_Order_Booster_Box.jpg?v=1772363677"
-  },
-  {
     "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Hiroshima 2025 Special Collection Box",
     "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-hiroshima-2025-special-collection-box",
@@ -10346,5 +10337,16 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
     "limit": null,
     "seen_count": 4
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Sword & Shield Evolving Skies UMBREON Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-evolving-skies-elite-trainer-box",
+    "price": "$1100.00",
+    "timestamp": "2026-09-13T03:20:45.643415+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-0959.webp?v=1781918813",
+    "limit": null,
+    "seen_count": 0
   }
 ]
