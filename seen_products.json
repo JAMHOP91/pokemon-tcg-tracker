@@ -897,6 +897,8 @@
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
       "10364546351400",
+      "10323223183656",
+      "10365187621160",
       "10299295236392",
       "10302497227048",
       "10365187621160",
@@ -926,8 +928,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631863279812",
-      "8631859577028"
+      "8631859577028",
+      "8631863279812"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1021,8 +1023,8 @@
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1097,6 +1099,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8770963537943",
       "8832667877399",
       "8770963537943",
       "8774665043991",
@@ -1478,6 +1481,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15173429166450",
+      "15139609837938",
+      "15139615244658",
       "15139613802866",
       "15163507376498",
       "15173456462194",
