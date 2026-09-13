@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle"
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack"
     ],
     "zero_streak": 3225,
     "warned": true,
@@ -357,8 +357,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8584002666692",
       "8542847107268",
+      "8584002666692",
       "8479841648836",
       "8542844682436"
     ],
@@ -926,8 +926,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631859577028",
-      "8631863279812"
+      "8631863279812",
+      "8631859577028"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -958,8 +958,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7506199085102",
-      "7651030859822"
+      "7651030859822",
+      "7506199085102"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1099,6 +1099,7 @@
     "seen_ids": [
       "8770963537943",
       "8888685723671",
+      "8832667877399",
       "8774665043991",
       "8832667877399"
     ],
@@ -1160,6 +1161,7 @@
       "10099042582768",
       "10111551209712",
       "10171578286320",
+      "10111548522736",
       "10171547386096",
       "9982539989232",
       "10035621396720",
@@ -1218,8 +1220,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10170375307348",
       "10214066389076",
+      "10170375307348",
       "8063603605588"
     ],
     "zero_streak": 0,
@@ -1279,9 +1281,9 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9530379600149",
       "9537919516949",
-      "9537919222037",
-      "9530379600149"
+      "9537919222037"
     ],
     "zero_streak": 0,
     "warned": false,
