@@ -305,6 +305,8 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9464484921583",
+      "9328351772911",
       "9388711182575",
       "9328351772911",
       "9464484626671",
@@ -357,9 +359,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8542844682436",
       "8542847107268",
       "8479841648836",
+      "8542844682436",
       "8584002666692"
     ],
     "zero_streak": 0,
@@ -1237,8 +1239,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9608224964864",
-      "9366282600704"
+      "9366282600704",
+      "9608224964864"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1280,6 +1282,7 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9537919222037",
       "9537919516949",
       "9537919222037",
       "9530379600149"
@@ -1410,6 +1413,8 @@
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
       "https://www.gameslab.co.nz/products/Perfect-Order-Single-Blister-Pack-p797932400",
       "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/Perfect-Order-Single-Blister-Pack-p797932400",
       "https://www.gameslab.co.nz/products/Mega-Greninja-ex-Premium-Collection-p840321361"
     ],
     "zero_streak": 0,
