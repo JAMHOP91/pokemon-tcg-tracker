@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle"
     ],
     "zero_streak": 3195,
     "warned": true,
@@ -43,9 +43,9 @@
       "7561509896341",
       "7330101002389"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-13T18:31:14.340941+00:00",
     "prices": {
       "8713055273109": 29.88,
       "8745246556309": 33.88,
@@ -1255,10 +1255,10 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9173828796670",
-      "9233032642814",
+      "9381118279934",
       "9269784477950",
-      "9381118279934"
+      "9173828796670",
+      "9233032642814"
     ],
     "zero_streak": 0,
     "warned": false,
