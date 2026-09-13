@@ -1020,9 +1020,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1152,6 +1152,11 @@
   },
   "Animal Kingdoms - Pokemon TCG": {
     "seen_ids": [
+      "10112186188016",
+      "10171578286320",
+      "10111548522736",
+      "9982539989232",
+      "10098927075568",
       "10035621396720",
       "10171572912368",
       "10111551209712",
@@ -1255,10 +1260,10 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9173828796670",
-      "9381118279934",
+      "9269784477950",
       "9233032642814",
-      "9269784477950"
+      "9173828796670",
+      "9381118279934"
     ],
     "zero_streak": 0,
     "warned": false,
