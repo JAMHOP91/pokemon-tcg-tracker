@@ -940,6 +940,7 @@
   "Card Masters - Pre-Orders": {
     "seen_ids": [
       "9215569133731",
+      "9228422611107",
       "9228412158115",
       "9215139872931",
       "9134942748835",
@@ -1098,10 +1099,10 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8774665043991",
       "8832667877399",
+      "8770963537943",
       "8888685723671",
-      "8770963537943"
+      "8774665043991"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1219,8 +1220,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
       "8063603605588",
+      "10214066389076",
       "10170375307348"
     ],
     "zero_streak": 0,
@@ -1407,6 +1408,7 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
       "https://www.gameslab.co.nz/products/Mega-Greninja-ex-Premium-Collection-p840321361",
       "https://www.gameslab.co.nz/products/Perfect-Order-Single-Blister-Pack-p797932400",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
