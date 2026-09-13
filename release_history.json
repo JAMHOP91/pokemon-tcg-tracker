@@ -1,23 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Tohoku 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-tohoku-2025-special-collection-box",
-    "price": "$369.00",
-    "timestamp": "2026-08-14T20:25:41.556409+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/tohoku-box-cardbot-pokemon-center.jpg?v=1759255193"
-  },
-  {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Evolution - Perfect Order Booster (Single)",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-single",
-    "price": "$9.99",
-    "timestamp": "2026-08-14T20:55:43.620787+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Meowth_EN_grande.jpg?v=1774554427"
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolutions - Pitch Black Three Booster Blister",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister",
@@ -10358,5 +10340,27 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Mega-Zygarde_EN.png?v=1774393148",
     "limit": null,
     "seen_count": 10
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
+    "price": "$9.99",
+    "timestamp": "2026-09-13T21:40:50.917820+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191",
+    "limit": null,
+    "seen_count": 14
+  },
+  {
+    "site": "Redline Trading - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG - Mega Charizard X ex - Ultra Premium Collection",
+    "url": "https://redlinetrading.co.nz/products/mega-charizard-x-ex-ultra-premium-collection",
+    "price": "$399.90",
+    "timestamp": "2026-09-13T21:40:50.917820+00:00",
+    "priority": false,
+    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/RTC-MegaCharizardEX-UPC.png?v=1788234042",
+    "limit": null,
+    "seen_count": 2
   }
 ]
