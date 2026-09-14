@@ -1,14 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-08-15T00:33:07.083475+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pitch-black-booster-bundle.png?v=1784072331"
-  },
-  {
     "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Collection Box 2025 Bundle",
     "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-collection-box-2025-bundle",
@@ -10370,5 +10361,16 @@
     "image": "https://static.wixstatic.com/media/beffc4_68ad1dbad10a4953952f740905d87eba~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "PRE - ORDER Pokemon TCG 30th Celebration Knock Out Collection",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-30th-celebration-knock-out-collection",
+    "price": "$26.00",
+    "timestamp": "2026-09-14T01:40:53.880584+00:00",
+    "priority": true,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1200_72510dbb-cf9c-4635-949c-a5a2bae3543d_1200x1200.webp?v=1785832155",
+    "limit": null,
+    "seen_count": 6
   }
 ]
