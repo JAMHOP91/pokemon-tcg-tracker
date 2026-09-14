@@ -1,14 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-08-15T07:50:54.453469+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201"
-  },
-  {
     "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG Prismatic Evolutions Mini-Tin Display (8 Mini-Tins)",
     "url": "https://cardbot.co.nz/products/sv8-5-mt",
@@ -10390,5 +10381,16 @@
     "image": "https://assets.bigcartel.com/product_images/430009305/2.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Metal Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-metal-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-09-14T10:40:55.493091+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicMetalEnergy-50x.jpg?v=1737494522",
+    "limit": null,
+    "seen_count": 2
   }
 ]
