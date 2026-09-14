@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
     ],
     "zero_streak": 3369,
     "warned": true,
@@ -82,6 +82,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
+      "7558380781629",
+      "7558377930813",
       "7558378979389",
       "7558377930813",
       "7558379864125",
@@ -284,8 +286,8 @@
   "Cardtopia NZ": {
     "seen_ids": [
       "10070962241776",
-      "10202363330800",
-      "10218488725744"
+      "10218488725744",
+      "10202363330800"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -410,9 +412,9 @@
       "https://hobbymaster.co.nz/products/product/47429",
       "https://hobbymaster.co.nz/products/product/46976"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-14T23:31:06.095425+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -1450,8 +1452,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
