@@ -12,6 +12,7 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
       "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/deltaetb",
@@ -359,6 +360,7 @@
     "seen_ids": [
       "8584002666692",
       "8479841648836",
+      "8542844682436",
       "8542847107268",
       "8542844682436"
     ],
@@ -471,8 +473,8 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10276187308116",
-      "10288263495764"
+      "10288263495764",
+      "10276187308116"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -897,6 +899,7 @@
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
       "10270182736168",
+      "10302410391848",
       "10302497227048",
       "10299295236392",
       "10365187621160",
@@ -1020,6 +1023,7 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/"
@@ -1157,6 +1161,17 @@
       "10099042582768",
       "10111548522736",
       "10171547386096",
+      "10112186188016",
+      "10112179831024",
+      "10098927075568",
+      "10171578286320",
+      "10112184385776",
+      "10171560952048",
+      "10111551209712",
+      "10112141295856",
+      "10035621396720",
+      "9599898976496",
+      "9982539989232",
       "10171572912368",
       "10171578286320",
       "10098927075568",
@@ -1236,8 +1251,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9366282600704",
-      "9608224964864"
+      "9608224964864",
+      "9366282600704"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1255,10 +1270,10 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9233032642814",
       "9173828796670",
+      "9269784477950",
       "9381118279934",
-      "9269784477950"
+      "9233032642814"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1315,6 +1330,7 @@
       "8185039356022",
       "8026257686646",
       "7977047195766",
+      "8069235671158",
       "8100504862838",
       "8220955181174"
     ],
