@@ -1,14 +1,5 @@
 [
   {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolution - Pitch Black Booster Booster - Mega Chandelure ex",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-booster-mega-chandelure-ex",
-    "price": "$10.90",
-    "timestamp": "2026-08-15T05:20:52.923487+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/MegaEvolutionPitchBlackBooster-3_1200x1200.jpg?v=1784441647"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon Mega Zygarde ex Premium Collection",
     "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
@@ -10380,5 +10371,16 @@
     "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG Mega Zygarde ex Premium Collection (Sealed case of 6)",
+    "url": "https://www.coolshit.co.nz/product/premiumsealedcase",
+    "price": "NZ$579.00",
+    "timestamp": "2026-09-14T06:40:49.402539+00:00",
+    "priority": false,
+    "image": "https://assets.bigcartel.com/product_images/426132168/Untitled+design+_2_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 2
   }
 ]
