@@ -387,6 +387,7 @@
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/46974",
+      "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/47237",
@@ -470,8 +471,8 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10276187308116",
-      "10288263495764"
+      "10288263495764",
+      "10276187308116"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -957,8 +958,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7651030859822",
-      "7506199085102"
+      "7506199085102",
+      "7651030859822"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1217,9 +1218,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10170375307348",
+      "10214066389076",
       "8063603605588",
-      "10214066389076"
+      "10170375307348"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1481,6 +1482,11 @@
       "15163507376498",
       "15173456462194",
       "15163471200626",
+      "15173429166450",
+      "15139628351858",
+      "15163507376498",
+      "15139611083122",
+      "15139615244658",
       "15139609837938",
       "15173438570866",
       "15139615244658",
