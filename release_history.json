@@ -1,14 +1,5 @@
 [
   {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night",
-    "url": "https://www.coolshit.co.nz/product/premiumcollection",
-    "price": "NZ$449.00",
-    "timestamp": "2026-08-15T17:51:05.565531+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427179840/Untitled+design+_7_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
     "site": "Game Corner - Pokemon",
     "title": "Pok\u00e9mon TCG Mega Evolution Perfect Order Booster Box",
     "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box-preorder-ship-on-march-27-2026",
@@ -10420,5 +10411,16 @@
     "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-30th-celebration-bundle-11-etb-chaos-rising-booster-box.jpg?v=1789402962",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Chaos Rising Single Pack",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-single-pack",
+    "price": "$11.00",
+    "timestamp": "2026-09-14T21:10:49.481556+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/pok10407a-01.png?v=1784500570",
+    "limit": null,
+    "seen_count": 6
   }
 ]
