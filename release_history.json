@@ -1,23 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-08-15T02:03:14.718420+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201"
-  },
-  {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
-    "price": "$9.99",
-    "timestamp": "2026-08-15T02:47:52.750277+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191"
-  },
-  {
     "site": "Pop Stop - Pokemon TCG",
     "title": "Pok\u00e9mon TCG:  Mega Greninja ex Premium Collection",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
@@ -10374,5 +10356,27 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1200_72510dbb-cf9c-4635-949c-a5a2bae3543d_1200x1200.webp?v=1785832155",
     "limit": null,
     "seen_count": 7
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "30TH CELEBRATION TECH STICKER COLLECTION [LUCARIO]",
+    "url": "https://hobbymaster.co.nz/products/product/47425",
+    "price": "$105.00 $120.00",
+    "timestamp": "2026-09-14T05:10:46.641268+00:00",
+    "priority": true,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "30TH CELEBRATION TECH STICKER COLLECTION [ALOLAN EXEGGUTOR]",
+    "url": "https://hobbymaster.co.nz/products/product/47426",
+    "price": "$105.00 $120.00",
+    "timestamp": "2026-09-14T05:10:46.641268+00:00",
+    "priority": true,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 0
   }
 ]
