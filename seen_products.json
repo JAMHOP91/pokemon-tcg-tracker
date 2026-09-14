@@ -357,9 +357,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8479841648836",
+      "8542844682436",
       "8584002666692",
-      "8542844682436"
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -396,9 +396,9 @@
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/47426"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-14T18:01:38.859591+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -941,11 +941,11 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9215139872931",
-      "9215569133731",
       "9134942748835",
+      "9228422611107",
+      "9215569133731",
       "9228412158115",
-      "9228422611107"
+      "9215139872931"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1219,9 +1219,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
       "8063603605588",
-      "10170375307348"
+      "10170375307348",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1407,8 +1407,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
       "https://www.gameslab.co.nz/products/Perfect-Order-Single-Blister-Pack-p797932400",
       "https://www.gameslab.co.nz/products/Mega-Greninja-ex-Premium-Collection-p840321361"
     ],
