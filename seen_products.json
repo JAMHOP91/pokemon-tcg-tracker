@@ -17,6 +17,8 @@
       "https://www.coolshit.co.nz/product/deltaetb",
       "https://www.coolshit.co.nz/product/premiumcollection",
       "https://www.coolshit.co.nz/product/3PACKDELTA",
+      "https://www.coolshit.co.nz/product/deltaetb",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order"
     ],
@@ -307,6 +309,7 @@
     "seen_ids": [
       "9464484921583",
       "9388711182575",
+      "9464484921583",
       "9464484626671",
       "9328364945647",
       "9328351772911"
@@ -415,6 +418,7 @@
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [
+      "7964206039101",
       "7964215935037",
       "7915168563261",
       "7964217802813",
@@ -1419,8 +1423,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
