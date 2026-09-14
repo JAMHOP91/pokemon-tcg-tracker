@@ -309,7 +309,10 @@
       "9464484626671",
       "9328364945647",
       "9328351772911",
-      "9388711182575"
+      "9328364945647",
+      "9388711182575",
+      "9464484921583",
+      "9464484626671"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -357,9 +360,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8542844682436",
+      "8584002666692",
       "8479841648836",
-      "8584002666692"
+      "8542844682436"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -473,8 +476,8 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10288263495764",
-      "10276187308116"
+      "10276187308116",
+      "10288263495764"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1237,8 +1240,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9608224964864",
-      "9366282600704"
+      "9366282600704",
+      "9608224964864"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1256,10 +1259,10 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9173828796670",
       "9381118279934",
+      "9233032642814",
       "9269784477950",
-      "9233032642814"
+      "9173828796670"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1408,6 +1411,7 @@
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
       "https://www.gameslab.co.nz/products/Perfect-Order-Single-Blister-Pack-p797932400",
+      "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
       "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
       "https://www.gameslab.co.nz/products/Mega-Greninja-ex-Premium-Collection-p840321361"
