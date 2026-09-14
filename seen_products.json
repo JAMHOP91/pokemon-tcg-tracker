@@ -16,6 +16,9 @@
       "https://www.coolshit.co.nz/product/deltaetb",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/3PACKDELTA",
+      "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
+      "https://www.coolshit.co.nz/product/deltaetb",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/premiumcollection",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX"
@@ -357,9 +360,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8479841648836",
       "8584002666692",
-      "8542844682436"
+      "8542844682436",
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -976,6 +979,7 @@
       "8970824843462",
       "8909649739974",
       "8855171334342",
+      "8909649739974",
       "8970819535046",
       "8855167008966",
       "8931072311494",
@@ -1220,8 +1224,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "8063603605588",
       "10170375307348",
+      "8063603605588",
       "10214066389076"
     ],
     "zero_streak": 0,
