@@ -1,14 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG Prismatic Evolutions Mini-Tin Display (8 Mini-Tins)",
-    "url": "https://cardbot.co.nz/products/sv8-5-mt",
-    "price": "$589.00",
-    "timestamp": "2026-08-15T07:50:54.453469+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/P10408_SV08pt5_3D_Mini_Tins_Display_Front_EN-820x1024.jpg?v=1786671301"
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
@@ -10392,5 +10383,16 @@
     "image": "http://otakumart.co.nz/cdn/shop/files/BasicMetalEnergy-50x.jpg?v=1737494522",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
+    "price": "$9.99",
+    "timestamp": "2026-09-14T13:41:01.920972+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191",
+    "limit": null,
+    "seen_count": 14
   }
 ]
