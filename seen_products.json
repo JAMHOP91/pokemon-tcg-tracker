@@ -13,6 +13,7 @@
   "Cool Shit - Pokemon": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/deltaetb",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/3PACKDELTA",
@@ -39,6 +40,7 @@
       "7561509896341",
       "7330100445333",
       "7330101002389",
+      "8713055273109",
       "7330103165077",
       "7330101330069",
       "8964116873365"
@@ -423,6 +425,9 @@
       "7915155521597",
       "7915173249085",
       "7915260149821",
+      "7915230330941",
+      "7915173249085",
+      "7915166564413",
       "7964215935037",
       "7915185373245",
       "7915200413757",
@@ -928,8 +933,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631863279812",
-      "8631859577028"
+      "8631859577028",
+      "8631863279812"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1152,6 +1157,10 @@
   },
   "Animal Kingdoms - Pokemon TCG": {
     "seen_ids": [
+      "9982539989232",
+      "10112179831024",
+      "9599898976496",
+      "10171578286320",
       "10171560952048",
       "10171572912368",
       "10171578286320",
