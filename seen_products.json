@@ -1,8 +1,8 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle"
     ],
     "zero_streak": 3294,
@@ -1001,9 +1001,9 @@
     "seen_ids": [
       "9814982197488"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-14T11:01:33.428926+00:00",
     "prices": {
       "9814982197488": 36.99
     }
@@ -1102,11 +1102,13 @@
       "8770963537943",
       "8774665043991",
       "8888685723671",
-      "8832667877399"
+      "8770963537943",
+      "8832667877399",
+      "8774665043991"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-14T11:01:33.428926+00:00",
     "prices": {
       "8888685723671": 10.99,
       "8847851880471": 29.99,
@@ -1257,6 +1259,7 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9269784477950",
       "9173828796670",
       "9233032642814",
       "9269784477950",
@@ -1281,9 +1284,9 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9530379600149",
+      "9537919516949",
       "9537919222037",
-      "9537919516949"
+      "9530379600149"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1446,9 +1449,9 @@
       "8231325270134",
       "8231314292854"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-14T11:01:33.428926+00:00",
     "prices": {
       "7716056825974": 420.0,
       "7650220736630": 280.0,
@@ -1491,9 +1494,9 @@
       "15173456462194",
       "15139615244658"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-14T11:01:33.428926+00:00",
     "prices": {
       "15173456462194": 45.0,
       "15173438570866": 75.0,
