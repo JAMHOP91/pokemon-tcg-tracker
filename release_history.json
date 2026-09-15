@@ -1,15 +1,6 @@
 [
   {
     "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG Prismatic Evolutions Mini-Tin Display (8 Mini-Tins)",
-    "url": "https://cardbot.co.nz/products/sv8-5-mt",
-    "price": "$589.00",
-    "timestamp": "2026-08-16T05:49:38.412042+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/P10408_SV08pt5_3D_Mini_Tins_Display_Front_EN-820x1024.jpg?v=1786671301"
-  },
-  {
-    "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Collection Box 2025 Bundle",
     "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-collection-box-2025-bundle",
     "price": "$1227.00",
@@ -10438,5 +10429,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851",
     "limit": null,
     "seen_count": 6
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pokemon TCG Mega Zygarde ex Premium Collection (Sealed)",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+    "price": "$86.09 $77.39",
+    "timestamp": "2026-09-15T12:10:47.338241+00:00",
+    "priority": false,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/27949/images/72888/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762_1_800x_d70e02e5-58dc-46a7-ac2c-d69293cfcc__44842.1778199769.220.220.jpg?c=2",
+    "limit": null,
+    "seen_count": 0
   }
 ]
