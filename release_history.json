@@ -1,23 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster box 36 packs",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-box-36-packs",
-    "price": "$379.99",
-    "timestamp": "2026-08-15T19:40:51.745622+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399"
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster box 36 packs",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-box-36-packs",
-    "price": "$379.99",
-    "timestamp": "2026-08-16T04:35:40.925656+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399"
-  },
-  {
     "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Collection Box 2025 Bundle",
     "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-collection-box-2025-bundle",
@@ -10428,5 +10410,27 @@
     "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/RTC-MegaCharizardEX-UPC.png?v=1788234042",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: 30th Celebration Bundle 12: 1x 30th Celebration Knock Out Collection + 2x Lumiose City Mini Tin (Pre-order)",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-30th-celebration-bundle-12-knock-out-collection-lumiose-city-mini-tins",
+    "price": "$79.99",
+    "timestamp": "2026-09-15T02:20:54.895264+00:00",
+    "priority": true,
+    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-30th-celebration-bundle-12-knock-out-collection-lumiose-city-mini-tins.jpg?v=1789438433",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "WP Games - Pre-Orders",
+    "title": "Pokemon TCG: 30th Celebration Bundle 12: 1x 30th Celebration Knock Out Collection + 2x Lumiose City Mini Tin (Pre-order)",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-30th-celebration-bundle-12-knock-out-collection-lumiose-city-mini-tins",
+    "price": "$79.99",
+    "timestamp": "2026-09-15T02:20:54.895264+00:00",
+    "priority": true,
+    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-30th-celebration-bundle-12-knock-out-collection-lumiose-city-mini-tins.jpg?v=1789438433",
+    "limit": null,
+    "seen_count": 1
   }
 ]
