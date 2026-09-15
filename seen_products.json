@@ -964,8 +964,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631859577028",
-      "8631863279812"
+      "8631863279812",
+      "8631859577028"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1058,6 +1058,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-greninja-ex-box/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-sylveon-ex-box/",
@@ -1196,6 +1198,7 @@
       "10171578286320",
       "10098927075568",
       "10111548522736",
+      "10112186188016",
       "10171560952048",
       "10111551209712",
       "10035621396720",
@@ -1458,8 +1461,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
