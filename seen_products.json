@@ -347,6 +347,7 @@
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
@@ -1258,6 +1259,7 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
+      "10170375307348",
       "10214066389076",
       "10170375307348",
       "8063603605588"
@@ -1276,8 +1278,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9366282600704",
-      "9608224964864"
+      "9608224964864",
+      "9366282600704"
     ],
     "zero_streak": 0,
     "warned": false,
