@@ -1,23 +1,5 @@
 [
   {
-    "site": "TCG NZ",
-    "title": "Pok\u00e9mon TCG Destined Rivals Booster Box",
-    "url": "https://www.tcgnz.co.nz/product-page/pre-order-pok\u00e9mon-tcg-destined-rivals-booster-box",
-    "price": "$1,000.00",
-    "timestamp": "2026-08-16T09:05:39.465668+00:00",
-    "priority": false,
-    "image": "https://static.wixstatic.com/media/f9a8f0_92a94fd7600944d6b603230fca0cfcb7~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp"
-  },
-  {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 2-Pack Blister Product (Pre-Order)",
-    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-    "price": "NZ$24.00",
-    "timestamp": "2026-08-16T09:55:41.678263+00:00",
-    "priority": false,
-    "image": "https://assets.bigcartel.com/product_images/425327193/Untitled+design+_4_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
     "site": "Collect All Day",
     "title": "Venusaur VMAX Starter Set",
     "url": "https://www.collectallday.com/new/venusaur-vmax-starter-set",
@@ -10450,5 +10432,27 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
     "limit": null,
     "seen_count": 10
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
+    "price": "$139.99",
+    "timestamp": "2026-09-15T14:10:47.705564+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851",
+    "limit": null,
+    "seen_count": 7
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-chaos-rising-booster",
+    "price": "$9.99",
+    "timestamp": "2026-09-15T14:10:47.705564+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Chaos-Rising-Booster-Wrap-Mega-Pyroar_EN-560x1024_grande.jpg?v=1779398996",
+    "limit": null,
+    "seen_count": 3
   }
 ]
