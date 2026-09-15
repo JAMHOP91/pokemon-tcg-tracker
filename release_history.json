@@ -1,15 +1,6 @@
 [
   {
     "site": "Otakumart - Pokemon TCG",
-    "title": "50x Basic Fire Energy | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/50x-basic-fire-energy-pokemon-tcg",
-    "price": "$3.00",
-    "timestamp": "2026-08-16T12:35:43.742325+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/BasicFireEnergy-50x.jpg?v=1737494230"
-  },
-  {
-    "site": "Otakumart - Pokemon TCG",
     "title": "50x Basic Psychic Energy | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/50x-basic-psychic-energy-pokemon-tcg",
     "price": "$3.00",
@@ -10462,5 +10453,16 @@
     "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ff868cd81817a4febd39134/1610115281829/410px-Venusaur_VMAX_Starter_Set.jpg?format=1500w",
     "limit": null,
     "seen_count": 4
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "CHAOS RISING - MEGA ZYGARDE EX PREMIUM COLLECTION",
+    "url": "https://hobbymaster.co.nz/products/product/46976",
+    "price": "$150.00 $200.00",
+    "timestamp": "2026-09-15T18:10:49.309663+00:00",
+    "priority": false,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 1
   }
 ]
