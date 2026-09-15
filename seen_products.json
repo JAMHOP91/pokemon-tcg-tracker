@@ -245,7 +245,11 @@
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-perfect-order-booster-box",
       "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-elite-trainer-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-perfect-order-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-enhanced-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pok\u00e9mon-tcg-destined-rivals-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-chaos-rising-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-phantasmal-flames-booster-box",
       "https://www.tcgnz.co.nz/product-page/pre-order-one-piece-booster-box-a-fist-of-divine-speed-op-11",
       "https://www.tcgnz.co.nz/product-page/pre-order-pok\u00e9mon-tcg-destined-rivals-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-bundle",
@@ -342,7 +346,6 @@
   },
   "Collect All Day": {
     "seen_ids": [
-      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
@@ -1014,6 +1017,10 @@
       "8909649739974",
       "8855167008966",
       "8855171334342",
+      "8970819535046",
+      "8855167008966",
+      "8789885321414",
+      "8909649739974",
       "8970824843462",
       "8931072311494",
       "8909657637062"
