@@ -410,9 +410,9 @@
       "https://hobbymaster.co.nz/products/product/47429",
       "https://hobbymaster.co.nz/products/product/46975"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-15T01:31:00.868871+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -960,8 +960,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631863279812",
-      "8631859577028"
+      "8631859577028",
+      "8631863279812"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1250,9 +1250,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "8063603605588",
+      "10170375307348",
       "10214066389076",
-      "10170375307348"
+      "8063603605588"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1312,8 +1312,8 @@
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
       "9537919222037",
-      "9537919516949",
-      "9530379600149"
+      "9530379600149",
+      "9537919516949"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1450,8 +1450,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
