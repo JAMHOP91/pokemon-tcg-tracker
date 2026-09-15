@@ -1,24 +1,6 @@
 [
   {
     "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Collection Box 2025 Bundle",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-collection-box-2025-bundle",
-    "price": "$1227.00",
-    "timestamp": "2026-08-16T05:17:47.077519+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/PKM-CENTRE-2025-BUNDLE_1.png?v=1772599783"
-  },
-  {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG Mega Zygarde ex Premium Collection (Sealed case of 6)",
-    "url": "https://www.coolshit.co.nz/product/premiumsealedcase",
-    "price": "NZ$579.00",
-    "timestamp": "2026-08-16T05:42:51.734482+00:00",
-    "priority": false,
-    "image": "https://assets.bigcartel.com/product_images/426132168/Untitled+design+_2_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Tohoku 2025 Special Collection Box",
     "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-tohoku-2025-special-collection-box",
     "price": "$368.00",
@@ -10432,5 +10414,27 @@
     "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-30th-celebration-bundle-12-knock-out-collection-lumiose-city-mini-tins.jpg?v=1789438433",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pokemon TCG: 30th Celebration Sylveon ex Box",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-sylveon-ex-box/",
+    "price": "$65.22",
+    "timestamp": "2026-09-15T03:50:44.077607+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/29555/images/77998/Pokemon-TCG-30th-Celebration-Pokemon-ex-Box-Sylveon-ex_EN__17902.1787792897.220.220.jpg?c=2",
+    "limit": "Max purchase: 1 unit",
+    "seen_count": 0
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pokemon TCG: 30th Celebration Greninja ex Box",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-greninja-ex-box/",
+    "price": "$65.22",
+    "timestamp": "2026-09-15T03:50:44.077607+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/29554/images/77996/30thGreninjaEx_1000x_5009679d-398c-4384-91ae-feb8516ac7be__33653.1787792894.220.220.webp?c=2",
+    "limit": "Max purchase: 1 unit",
+    "seen_count": 0
   }
 ]
