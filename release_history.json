@@ -1,23 +1,5 @@
 [
   {
-    "site": "Collect All Day",
-    "title": "Venusaur VMAX Starter Set",
-    "url": "https://www.collectallday.com/new/venusaur-vmax-starter-set",
-    "price": "NZ$55.00",
-    "timestamp": "2026-08-16T09:55:41.678263+00:00",
-    "priority": false,
-    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ff868cd81817a4febd39134/1610115281829/410px-Venusaur_VMAX_Starter_Set.jpg?format=1500w"
-  },
-  {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Evolution-Pitch Black Booster Pack",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-pack",
-    "price": "$9.95",
-    "timestamp": "2026-08-16T10:20:54.996791+00:00",
-    "priority": false,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Wrap-Mega-Darkrai_EN-560x1024.jpg?v=1784445114"
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
@@ -10454,5 +10436,27 @@
     "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Chaos-Rising-Booster-Wrap-Mega-Pyroar_EN-560x1024_grande.jpg?v=1779398996",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon Center TCG: Fusion Strike Elite Trainer Box",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
+    "price": "$990.00",
+    "timestamp": "2026-09-15T14:40:55.319267+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_c98074ce6da545c4933fad6a4f770f23~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Games Lab - Pokemon TCG",
+    "title": "Pokemon TCG Cup - Season 1",
+    "url": "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
+    "price": null,
+    "timestamp": "2026-09-15T14:40:55.319267+00:00",
+    "priority": false,
+    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/864829764/6253651603.jpg",
+    "limit": null,
+    "seen_count": 0
   }
 ]
