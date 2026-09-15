@@ -287,9 +287,9 @@
       "10218488725744",
       "10070962241776"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-15T09:01:17.301628+00:00",
     "prices": {
       "10176981205232": 30.19,
       "10076303622384": 235.99,
@@ -319,9 +319,9 @@
       "9619081134319",
       "9619081855215"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-15T09:01:17.301628+00:00",
     "prices": {
       "8540499149039": 21.99,
       "9328351772911": 359.99,
@@ -377,9 +377,9 @@
       "8584002666692",
       "8479841648836"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-15T09:01:17.301628+00:00",
     "prices": {
       "8542844682436": 360.0,
       "8479841648836": 360.0,
@@ -453,9 +453,9 @@
       "7964217802813",
       "7889660346429"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-15T09:01:17.301628+00:00",
     "prices": {
       "7964217802813": 115.0,
       "7964215935037": 30.0,
@@ -492,9 +492,9 @@
       "9619080511727",
       "9619082182895"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-15T09:01:17.301628+00:00",
     "prices": {
       "9619080151279": 249.99,
       "9619080216815": 144.99,
@@ -512,9 +512,9 @@
       "10288263495764",
       "10276187308116"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-15T09:01:17.301628+00:00",
     "prices": {
       "10276187308116": 230.0,
       "10288263495764": 35.0
@@ -522,9 +522,9 @@
   },
   "Collectors Guild - Pokemon Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-15T09:01:17.301628+00:00",
     "prices": {}
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
@@ -552,9 +552,9 @@
       "10344958034215",
       "10267125383463"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-15T09:01:17.301628+00:00",
     "prices": {
       "10200199889191": 45.0,
       "10158427111719": 56.0,
@@ -754,9 +754,9 @@
       "8243865551048",
       "7591711801544"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-15T09:01:17.301628+00:00",
     "prices": {
       "8320457048264": 359.99,
       "8319521259720": 44.99,
@@ -943,9 +943,9 @@
       "10364546351400",
       "10299295236392"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-15T09:01:17.301628+00:00",
     "prices": {
       "10302497227048": 148.0,
       "10132850377000": 10.8,
@@ -967,9 +967,9 @@
       "8631863279812",
       "8631859577028"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-15T09:01:17.301628+00:00",
     "prices": {
       "8631859577028": 60.0,
       "8631863279812": 60.0
@@ -983,9 +983,9 @@
       "9215139872931",
       "9228412158115"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-15T09:01:17.301628+00:00",
     "prices": {
       "9215569133731": 32.0,
       "9228422611107": 130.0,
@@ -996,12 +996,12 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7506199085102",
-      "7651030859822"
+      "7651030859822",
+      "7506199085102"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-15T09:01:17.301628+00:00",
     "prices": {
       "7506199085102": 64.99,
       "7651030859822": 74.99
@@ -1018,9 +1018,9 @@
       "8789885321414",
       "8855167008966"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-15T09:01:17.301628+00:00",
     "prices": {
       "8931072311494": 9.99,
       "8970824843462": 11.0,
@@ -1037,18 +1037,18 @@
     "seen_ids": [
       "9814982197488"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-15T09:01:17.301628+00:00",
     "prices": {
       "9814982197488": 36.99
     }
   },
   "Mr Tofu Card Store - Pokemon TCG": {
     "seen_ids": [],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-15T09:01:17.301628+00:00",
     "prices": {
       "9096634695930": 329.99,
       "9294396063994": 119.99,
@@ -1276,8 +1276,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9608224964864",
-      "9366282600704"
+      "9366282600704",
+      "9608224964864"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1319,8 +1319,8 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9537919516949",
       "9537919222037",
+      "9537919516949",
       "9530379600149"
     ],
     "zero_streak": 0,
@@ -1524,6 +1524,7 @@
       "15139609837938",
       "15173456462194",
       "15139613802866",
+      "15139615244658",
       "15173429166450",
       "15139615244658",
       "15139611083122"
