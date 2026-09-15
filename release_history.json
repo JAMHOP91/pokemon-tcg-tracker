@@ -1,14 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolutions Pitch Black Booster",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster",
-    "price": "$12.99",
-    "timestamp": "2026-08-16T13:17:51.858714+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504"
-  },
-  {
     "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG Chaos Rising - Booster Box",
     "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
@@ -10466,5 +10457,16 @@
     "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Chaos-Rising-Booster-Wrap-Mega-Pyroar_EN-560x1024_grande.jpg?v=1779398996",
     "limit": null,
     "seen_count": 4
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "#30 Togepi - Pok\u00e9mon League (January 2001) - WotC Black Star Promo (LP+)",
+    "url": "https://thegametree.co.nz/products/30-togepi-pokemon-league-january-2001-wotc-black-star-promo",
+    "price": "$41.88",
+    "timestamp": "2026-09-15T19:40:51.805520+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/products/30_Togepi.png?v=1642993715",
+    "limit": null,
+    "seen_count": 2
   }
 ]
