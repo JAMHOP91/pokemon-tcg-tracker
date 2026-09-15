@@ -1,41 +1,5 @@
 [
   {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Chaos Rising - Booster Box",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
-    "price": "$360.00",
-    "timestamp": "2026-08-16T13:35:40.660375+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254"
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-08-16T14:25:44.986751+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201"
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-08-16T14:25:44.986751+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/PitchBlack_BoosterBox.png?v=1784081025"
-  },
-  {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night",
-    "url": "https://www.coolshit.co.nz/product/premiumcollection",
-    "price": "NZ$449.00",
-    "timestamp": "2026-08-16T14:47:11.712104+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427179840/Untitled+design+_7_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
     "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG Prismatic Evolutions Mini-Tin Display (8 Mini-Tins)",
     "url": "https://cardbot.co.nz/products/sv8-5-mt",
@@ -10468,5 +10432,49 @@
     "image": "http://thegametree.co.nz/cdn/shop/products/30_Togepi.png?v=1642993715",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - 30th Celebration Single Card",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-30th-celebration-single-card",
+    "price": "$278.00",
+    "timestamp": "2026-09-15T22:21:22.473800+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-30th-celebration-pikachu-ex-150-128-official.webp?v=1789451628",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG 30th Celebration Knock Out Collection",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection",
+    "price": "$49.99",
+    "timestamp": "2026-09-15T22:21:22.473800+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Knock-Out-Collection.png?v=1787566850",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Sylveon ex Box / Greninja ex Box",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-sylveon-ex-box-greninja-ex-box",
+    "price": "$99.99",
+    "timestamp": "2026-09-15T22:21:22.473800+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Sylveon-ex-Box-Greninja-ex-Box.png?v=1787564274",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG 30th Celebration Tech Sticker Collection",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-tech-sticker-collection",
+    "price": "$89.99",
+    "timestamp": "2026-09-15T22:21:22.473800+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tech-Sticker-Collection.png?v=1787563682",
+    "limit": null,
+    "seen_count": 0
   }
 ]
