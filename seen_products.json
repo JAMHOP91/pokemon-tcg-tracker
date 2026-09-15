@@ -29,7 +29,9 @@
     "seen_ids": [
       "7330101624981",
       "7330100445333",
-      "7330099691669",
+      "8713055273109",
+      "7439084388501",
+      "7330101624981",
       "7439107129493",
       "7439125512341",
       "7330101002389",
@@ -373,9 +375,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8542844682436",
+      "8479841648836",
       "8584002666692",
-      "8479841648836"
+      "8542844682436"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1445,6 +1447,7 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
+      "https://www.gameslab.co.nz/products/Perfect-Order-Single-Blister-Pack-p797932400",
       "https://www.gameslab.co.nz/products/Mega-Greninja-ex-Premium-Collection-p840321361",
       "https://www.gameslab.co.nz/products/Perfect-Order-Single-Blister-Pack-p797932400",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
