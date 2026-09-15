@@ -402,7 +402,10 @@
       "https://hobbymaster.co.nz/products/product/47425",
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/47223",
-      "https://hobbymaster.co.nz/products/product/46976",
+      "https://hobbymaster.co.nz/products/product/47236",
+      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/47232",
+      "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/47429",
       "https://hobbymaster.co.nz/products/product/46975",
@@ -482,6 +485,7 @@
   },
   "WP Games - Pre-Orders": {
     "seen_ids": [
+      "9619081855215",
       "9619080741103",
       "9619080151279",
       "9619082182895",
@@ -1319,8 +1323,8 @@
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
       "9530379600149",
-      "9537919222037",
-      "9537919516949"
+      "9537919516949",
+      "9537919222037"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1445,6 +1449,7 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
+      "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
       "https://www.gameslab.co.nz/products/Perfect-Order-Single-Blister-Pack-p797932400",
       "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
       "https://www.gameslab.co.nz/products/Mega-Greninja-ex-Premium-Collection-p840321361",
