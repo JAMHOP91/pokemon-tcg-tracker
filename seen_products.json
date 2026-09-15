@@ -83,6 +83,7 @@
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
       "7558377930813",
+      "7558379864125",
       "7558380781629",
       "7558379864125",
       "7558381600829",
@@ -488,6 +489,7 @@
       "9619081134319",
       "9619080741103",
       "9619080511727",
+      "9620812234991",
       "9619080151279",
       "9619081855215",
       "9619081527535"
@@ -1115,7 +1117,8 @@
       "9210168803477",
       "9152299892885",
       "9268784496789",
-      "9285795938453"
+      "9152299892885",
+      "9285822251157"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1138,8 +1141,8 @@
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
       "8770963537943",
-      "8832667877399",
       "8888685723671",
+      "8832667877399",
       "8774665043991"
     ],
     "zero_streak": 0,
@@ -1276,8 +1279,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9608224964864",
-      "9366282600704"
+      "9366282600704",
+      "9608224964864"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1446,6 +1449,7 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
+      "https://www.gameslab.co.nz/products/Perfect-Order-Single-Blister-Pack-p797932400",
       "https://www.gameslab.co.nz/products/Pokemon-Perfect-Order-Booster-Box-p826516024",
       "https://www.gameslab.co.nz/products/Perfect-Order-Single-Blister-Pack-p797932400",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
