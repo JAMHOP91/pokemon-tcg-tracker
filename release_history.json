@@ -1,14 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-08-16T19:07:07.996715+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/PitchBlack_BoosterBox.png?v=1784081025"
-  },
-  {
     "site": "Pop Stop - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolutions - Chaos Rising: Checklane Blister",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-checklane-blister",
@@ -10490,5 +10481,16 @@
     "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/840321361/5811466491.jpg",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Games Lab - Pokemon TCG",
+    "title": "Pokemon Mega Zygarde ex Premium Collection",
+    "url": "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+    "price": null,
+    "timestamp": "2026-09-16T11:40:46.237552+00:00",
+    "priority": false,
+    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/832752708/5798246075.jpg",
+    "limit": null,
+    "seen_count": 1
   }
 ]
