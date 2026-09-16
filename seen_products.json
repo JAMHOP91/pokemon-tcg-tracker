@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle"
     ],
     "zero_streak": 3649,
     "warned": true,
@@ -507,8 +507,8 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10276187308116",
-      "10288263495764"
+      "10288263495764",
+      "10276187308116"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1014,6 +1014,7 @@
       "8909649739974",
       "8789885321414",
       "8909657637062",
+      "8970819535046",
       "8931072311494",
       "8855171334342",
       "8970824843462"
@@ -1263,9 +1264,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
       "8063603605588",
-      "10170375307348"
+      "10170375307348",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1324,9 +1325,9 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9537919516949",
       "9537919222037",
-      "9530379600149",
-      "9537919516949"
+      "9530379600149"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1463,8 +1464,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1480,6 +1481,11 @@
       "8231325270134",
       "8231316750454",
       "8231314292854",
+      "8231316750454",
+      "7716056825974",
+      "8254468653174",
+      "8231315472502",
+      "8083552370806",
       "8231312228470",
       "8254468653174",
       "8083552370806",
