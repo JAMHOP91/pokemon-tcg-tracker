@@ -1,15 +1,6 @@
 [
   {
     "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster box 36 packs",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-box-36-packs",
-    "price": "$379.99",
-    "timestamp": "2026-08-16T19:57:40.814052+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399"
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
     "price": "$10.99",
@@ -10496,5 +10487,16 @@
     "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "#42 Pok\u00e9mon Tower  - Pok\u00e9mon League (January 2002) - WotC Black Star Promo (LP+)",
+    "url": "https://thegametree.co.nz/products/42-pokemon-tower-pokemon-league-january-2002-wotc-black-star-promo",
+    "price": "$29.88",
+    "timestamp": "2026-09-16T23:10:42.740259+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/products/42_Pokemon_Tower.png?v=1642993843",
+    "limit": null,
+    "seen_count": 2
   }
 ]
