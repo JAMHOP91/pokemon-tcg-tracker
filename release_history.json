@@ -1,14 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Collection Box 2025 Bundle",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-collection-box-2025-bundle",
-    "price": "$1227.00",
-    "timestamp": "2026-08-16T15:39:27.319896+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/PKM-CENTRE-2025-BUNDLE_1.png?v=1772599783"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster",
@@ -10480,5 +10471,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box.png?v=1787562786",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "PRE ORDER - Pok\u00e9mon 30th Anniversary Celebration Elite Trainer Box",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-30th-anniversary-celebration-elite-trainer-box",
+    "price": "$170.00",
+    "timestamp": "2026-09-16T01:20:44.126650+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1600_1_9ee170af-c4ef-4811-8bd1-5aba8a901dcb_1200x1208.webp?v=1785772310",
+    "limit": null,
+    "seen_count": 8
   }
 ]
