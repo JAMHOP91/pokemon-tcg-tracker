@@ -1,14 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster",
-    "price": "$11.99",
-    "timestamp": "2026-08-16T15:43:14.774672+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Mega-Zygarde_EN.png?v=1774393148"
-  },
-  {
     "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG Chaos Rising Single Pack",
     "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-single-pack",
@@ -10482,5 +10473,16 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1600_1_9ee170af-c4ef-4811-8bd1-5aba8a901dcb_1200x1208.webp?v=1785772310",
     "limit": null,
     "seen_count": 8
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pokemon TCG Mega Zygarde ex Premium Collection (Sealed)",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+    "price": "$86.09 $77.39",
+    "timestamp": "2026-09-16T01:40:46.637587+00:00",
+    "priority": false,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/27949/images/72888/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762_1_800x_d70e02e5-58dc-46a7-ac2c-d69293cfcc__44842.1778199769.220.220.jpg?c=2",
+    "limit": null,
+    "seen_count": 2
   }
 ]
