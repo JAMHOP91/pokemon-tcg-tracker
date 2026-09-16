@@ -40,7 +40,8 @@
       "7330101002389",
       "7439107129493",
       "7330099691669",
-      "7330101624981"
+      "7330099200149",
+      "7561509896341"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -282,9 +283,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10218488725744",
       "10070962241776",
-      "10202363330800"
+      "10202363330800",
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -440,6 +441,9 @@
       "7915260149821",
       "7964213051453",
       "7915233247293",
+      "7964213051453",
+      "7915173249085",
+      "7915166564413",
       "7964206039101",
       "7915173249085",
       "7915220828221",
@@ -964,8 +968,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631863279812",
-      "8631859577028"
+      "8631859577028",
+      "8631863279812"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -996,8 +1000,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7651030859822",
-      "7506199085102"
+      "7506199085102",
+      "7651030859822"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1059,8 +1063,8 @@
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-greninja-ex-box/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-greninja-ex-box/"
     ],
     "zero_streak": 0,
     "warned": false,
