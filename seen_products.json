@@ -1109,6 +1109,7 @@
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
+      "9268784496789",
       "9345821311125",
       "9345801978005",
       "9285795938453",
@@ -1147,9 +1148,9 @@
       "8770963537943",
       "8774665043991"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-16T15:01:22.287690+00:00",
     "prices": {
       "8888685723671": 10.99,
       "8847851880471": 29.99,
@@ -1267,9 +1268,9 @@
       "8063603605588",
       "10214066389076"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-16T15:01:22.287690+00:00",
     "prices": {
       "10214103613524": 110.0,
       "10214066389076": 25.0,
@@ -1451,6 +1452,7 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
       "https://www.gameslab.co.nz/products/Mega-Greninja-ex-Premium-Collection-p840321361",
       "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
