@@ -286,9 +286,9 @@
       "10070962241776",
       "10202363330800"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-17T07:31:07.232948+00:00",
     "prices": {
       "10176981205232": 30.19,
       "10076303622384": 235.99,
@@ -1010,8 +1010,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7651030859822",
-      "7506199085102"
+      "7506199085102",
+      "7651030859822"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1072,9 +1072,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-greninja-ex-box/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-greninja-ex-box/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tech-sticker-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
