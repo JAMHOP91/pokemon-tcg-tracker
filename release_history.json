@@ -1,15 +1,6 @@
 [
   {
     "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolution Perfect Order Booster",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster",
-    "price": "$10.80",
-    "timestamp": "2026-08-16T23:35:14.763748+00:00",
-    "priority": false,
-    "image": "http://www.metalife.co.nz/cdn/shop/files/Perfect-Order-Booster-Box-scaled.webp?v=1768953563"
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG - 2025 Pokemon TCG World Championships",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-2025-pokemon-tcg-world-championships",
     "price": "$44.80",
@@ -10514,6 +10505,17 @@
     "timestamp": "2026-09-17T06:40:48.351443+00:00",
     "priority": false,
     "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/797932400/5729697676.jpg",
+    "limit": null,
+    "seen_count": 1
+  },
+  {
+    "site": "Games Lab - Pokemon TCG",
+    "title": "Pokemon TCG Cup - Season 1",
+    "url": "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
+    "price": null,
+    "timestamp": "2026-09-17T07:10:48.864978+00:00",
+    "priority": false,
+    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/864829764/6255413828.jpg",
     "limit": null,
     "seen_count": 1
   }
