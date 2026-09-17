@@ -1,50 +1,5 @@
 [
   {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pokemon TCG: Mega Moonlight Tin (Mega Clefable ex)",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
-    "price": "$54.99",
-    "timestamp": "2026-08-16T20:12:31.893301+00:00",
-    "priority": false,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Moonlit-Tin-Mega-Clefable_EN.jpg?v=1780883693"
-  },
-  {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order)",
-    "url": "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
-    "price": "NZ$99.00",
-    "timestamp": "2026-08-16T20:50:50.326320+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427179522/Untitled+design+_3_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order)",
-    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
-    "price": "NZ$69.99",
-    "timestamp": "2026-08-16T20:50:50.326320+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427181259/Untitled+design+_17_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG Prismatic Evolutions Mini-Tin Display (8 Mini-Tins)",
-    "url": "https://cardbot.co.nz/products/sv8-5-mt",
-    "price": "$589.00",
-    "timestamp": "2026-08-16T21:05:46.257868+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/P10408_SV08pt5_3D_Mini_Tins_Display_Front_EN-820x1024.jpg?v=1786671301"
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Perfect Order Single Pack",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-perfect-order-single-pack",
-    "price": "$9.99",
-    "timestamp": "2026-08-16T22:05:56.809256+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2026-06-26140207.jpg?v=1782439750"
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster Box",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-booster-box",
@@ -10504,5 +10459,60 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
     "limit": null,
     "seen_count": 4
+  },
+  {
+    "site": "TCG Collector NZ - Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution: 30th Celebration Ultra Premium Collection Day/Night *RANDOM CHOICE* *Sealed* (PRE-ORDER, SHIPS NOV 6TH)",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-30th-celebration-ultra-premium-collection-day-night-sealed-pre-order-ships-nov-6th",
+    "price": "$260.00",
+    "timestamp": "2026-09-17T05:01:10.961704+00:00",
+    "priority": true,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-30th-Celebration-Ultra-Premium-Collection-Night_EN.jpg?v=1783050498",
+    "limit": "limited to 1 per household",
+    "seen_count": 0
+  },
+  {
+    "site": "TCG Collector NZ - Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution: 30th Celebration Ditto Premium Collection *Sealed* (PRE-ORDER, SHIPS NOV 6TH)",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-30th-celebration-ditto-premium-collection-sealed-pre-order-ships-nov-6th",
+    "price": "$105.00",
+    "timestamp": "2026-09-17T05:01:10.961704+00:00",
+    "priority": true,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-30th-Celebration-Ditto-Premium-Collection_EN.jpg?v=1783048929",
+    "limit": "limited to 1 per household",
+    "seen_count": 0
+  },
+  {
+    "site": "TCG Collector NZ - Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution: 30th Celebration Booster Bundle *Sealed* (PRE-ORDER, SHIPS OCT 2ND)",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-30th-celebration-booster-bundle-sealed-pre-order-ships-oct-2nd",
+    "price": "$80.00",
+    "timestamp": "2026-09-17T05:01:10.961704+00:00",
+    "priority": true,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-30th-Celebration-Booster-Bundle_EN_8898d74d-fca4-48ec-8edd-cee8773798d4.jpg?v=1783053954",
+    "limit": "limited to 1 per household",
+    "seen_count": 0
+  },
+  {
+    "site": "TCG Collector NZ - Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution: 30th Celebration Tin *Sealed* (PRE-ORDER, SHIPS DEC 4TH)",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-30th-celebration-tin-sealed-pre-order-ships-dec-4th",
+    "price": "$70.00",
+    "timestamp": "2026-09-17T05:01:10.961704+00:00",
+    "priority": true,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tin-Scale.jpg?v=1783048420",
+    "limit": "limited to 1 per household",
+    "seen_count": 0
+  },
+  {
+    "site": "TCG Collector NZ - Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution: 30th Celebration Mini-Tin *Sealed* (PRE-ORDER, SHIPS OCT 2ND)",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-30th-celebration-mini-tin-sealed-pre-order-ships-oct-2nd",
+    "price": "$30.00",
+    "timestamp": "2026-09-17T05:01:10.961704+00:00",
+    "priority": true,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon_TCG_30th_Celebration_Mini_Tin_Night_Zapdos.jpg?v=1783051159",
+    "limit": "limited to 1 per household",
+    "seen_count": 0
   }
 ]
