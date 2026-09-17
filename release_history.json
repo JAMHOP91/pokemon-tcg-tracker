@@ -1,14 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-08-16T20:02:59.022465+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399"
-  },
-  {
     "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG - Lumiose City Mini Tin",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
@@ -10498,5 +10489,16 @@
     "image": "http://thegametree.co.nz/cdn/shop/products/42_Pokemon_Tower.png?v=1642993843",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Evolution: Chaos Rising Booster Bundle *Sealed*",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-chaos-rising-booster-bundle-sealed-pre-order-ships-may-22nd",
+    "price": "$65.00",
+    "timestamp": "2026-09-17T00:10:47.744077+00:00",
+    "priority": false,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Chaos-Rising-Booster-Bundle_EN-697x1024.jpg?v=1774218010",
+    "limit": "limited to 1 Per Household",
+    "seen_count": 0
   }
 ]
