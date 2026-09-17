@@ -1,14 +1,5 @@
 [
   {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - 2025 Pokemon TCG World Championships",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-2025-pokemon-tcg-world-championships",
-    "price": "$44.80",
-    "timestamp": "2026-08-17T00:50:49.241505+00:00",
-    "priority": false,
-    "image": "http://www.metalife.co.nz/cdn/shop/files/476432-Product-0-I-639131923803786868.webp?v=1782189387"
-  },
-  {
     "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
     "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
@@ -10518,5 +10509,16 @@
     "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/864829764/6255413828.jpg",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pok\u00e9mon: Mega Evolution: Lumiose City: Mini Tin: Salamence (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-lumiose-city-mini-tin-salamence-english",
+    "price": "$26.99",
+    "timestamp": "2026-09-17T08:11:15.709890+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/LumioseCityMiniTins_Salamence_1webp.webp?v=1780644332",
+    "limit": null,
+    "seen_count": 0
   }
 ]
