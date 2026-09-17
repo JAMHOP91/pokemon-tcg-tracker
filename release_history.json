@@ -4,24 +4,6 @@
     "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
     "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
     "price": "$613.00",
-    "timestamp": "2026-08-17T01:05:39.364991+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/fukuoka-box-cardbot-pokemon-center.jpg?v=1759255295"
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolution Pitch Black Booster",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster",
-    "price": "$11.80",
-    "timestamp": "2026-08-17T01:48:08.636207+00:00",
-    "priority": false,
-    "image": "http://www.metalife.co.nz/cdn/shop/files/692939_in_1000x1000_732x1000_d083202d-bb52-4dd4-84cf-3a31218c6540.jpg?v=1780627003"
-  },
-  {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
-    "price": "$613.00",
     "timestamp": "2026-08-17T02:05:42.910719+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/fukuoka-box-cardbot-pokemon-center.jpg?v=1759255295"
@@ -10518,6 +10500,28 @@
     "timestamp": "2026-09-17T08:11:15.709890+00:00",
     "priority": true,
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/LumioseCityMiniTins_Salamence_1webp.webp?v=1780644332",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "30TH CELEBRATION SYLVEON EX BOX",
+    "url": "https://hobbymaster.co.nz/products/product/47427",
+    "price": "$190.00 $200.00",
+    "timestamp": "2026-09-17T10:06:21.979742+00:00",
+    "priority": true,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "30TH CELEBRATION GRENINJA EX BOX",
+    "url": "https://hobbymaster.co.nz/products/product/47428",
+    "price": "$160.00 $180.00",
+    "timestamp": "2026-09-17T10:06:21.979742+00:00",
+    "priority": true,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
     "limit": null,
     "seen_count": 0
   }
