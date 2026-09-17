@@ -1,14 +1,5 @@
 [
   {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Zygarde ex Premium Collection",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$99.80",
-    "timestamp": "2026-08-16T20:12:31.893301+00:00",
-    "priority": false,
-    "image": "http://www.metalife.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762_1_800x_d70e02e5-58dc-46a7-ac2c-d69293cfcca2.webp?v=1777863464"
-  },
-  {
     "site": "GetThoseMons - Sealed Pokemon TCG",
     "title": "Pokemon TCG: Mega Moonlight Tin (Mega Clefable ex)",
     "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
@@ -10502,5 +10493,16 @@
     "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Bundle_EN-698x1024.jpg?v=1777783903",
     "limit": "limited to 1 Per Household",
     "seen_count": 0
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
+    "price": "$10.99",
+    "timestamp": "2026-09-17T03:40:43.128939+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
+    "limit": null,
+    "seen_count": 4
   }
 ]
