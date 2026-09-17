@@ -1,14 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-08-16T23:05:42.941734+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682"
-  },
-  {
     "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolution Perfect Order Booster",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster",
@@ -10514,5 +10505,16 @@
     "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon_TCG_30th_Celebration_Mini_Tin_Night_Zapdos.jpg?v=1783051159",
     "limit": "limited to 1 per household",
     "seen_count": 0
+  },
+  {
+    "site": "Games Lab - Pokemon TCG",
+    "title": "Perfect Order: Single Blister Pack",
+    "url": "https://www.gameslab.co.nz/products/Perfect-Order-Single-Blister-Pack-p797932400",
+    "price": null,
+    "timestamp": "2026-09-17T06:40:48.351443+00:00",
+    "priority": false,
+    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/797932400/5729697676.jpg",
+    "limit": null,
+    "seen_count": 1
   }
 ]
