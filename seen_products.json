@@ -1158,7 +1158,9 @@
       "8774665043991",
       "8832667877399",
       "8888685723671",
-      "8770963537943"
+      "8770963537943",
+      "8774665043991",
+      "8832667877399"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1469,7 +1471,7 @@
       "https://www.gameslab.co.nz/products/Perfect-Order-Single-Blister-Pack-p797932400",
       "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
       "https://www.gameslab.co.nz/products/Mega-Greninja-ex-Premium-Collection-p840321361",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1478,8 +1480,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
