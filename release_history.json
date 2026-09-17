@@ -1,14 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
-    "price": "$613.00",
-    "timestamp": "2026-08-17T02:05:42.910719+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/fukuoka-box-cardbot-pokemon-center.jpg?v=1759255295"
-  },
-  {
     "site": "Cool Shit - Pokemon",
     "title": "View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order)",
     "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
@@ -10522,6 +10513,17 @@
     "timestamp": "2026-09-17T10:06:21.979742+00:00",
     "priority": true,
     "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Fire Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-fire-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-09-17T10:41:07.669555+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicFireEnergy-50x.jpg?v=1737494230",
     "limit": null,
     "seen_count": 0
   }
