@@ -342,6 +342,7 @@
   "Collect All Day": {
     "seen_ids": [
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/pokeball-tin-2021",
@@ -993,6 +994,7 @@
   "Card Masters - Pre-Orders": {
     "seen_ids": [
       "9228422611107",
+      "9215139872931",
       "9134942748835",
       "9215569133731",
       "9228412158115",
@@ -1011,8 +1013,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7506199085102",
-      "7651030859822"
+      "7651030859822",
+      "7506199085102"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1276,9 +1278,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10170375307348",
+      "10214066389076",
       "8063603605588",
-      "10214066389076"
+      "10170375307348"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1305,7 +1307,7 @@
       "9554478235904": 147.0,
       "9493316403456": 62.0,
       "9462326690048": 49.0,
-      "9366282600704": 1015.0,
+      "9366282600704": 1014.0,
       "9188403740928": 613.0,
       "9188403609856": 490.0,
       "9188403282176": 368.0,
