@@ -344,6 +344,8 @@
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/pokeball-tin-2021",
@@ -513,8 +515,8 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10288263495764",
-      "10276187308116"
+      "10276187308116",
+      "10288263495764"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -939,6 +941,8 @@
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
       "10364546351400",
+      "10365187621160",
+      "10390752428328",
       "9734074401064",
       "10302497227048",
       "10299295236392",
@@ -1160,10 +1164,10 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8774665043991",
       "8888685723671",
-      "8832667877399",
-      "8770963537943"
+      "8770963537943",
+      "8774665043991",
+      "8832667877399"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1368,6 +1372,7 @@
       "8185012945014",
       "8069213454454",
       "7977047195766",
+      "8100504862838",
       "8069235310710",
       "7977019080822",
       "8069235671158",
