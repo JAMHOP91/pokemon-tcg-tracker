@@ -1,23 +1,5 @@
 [
   {
-    "site": "Cool Shit - Status Watch",
-    "title": "View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order) (status: sold out)",
-    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
-    "price": "NZ$360.00",
-    "timestamp": "2026-08-17T08:40:47.789731+00:00",
-    "priority": false,
-    "image": "https://assets.bigcartel.com/product_images/425269320/17.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-08-17T08:55:47.017991+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster",
@@ -10542,5 +10524,27 @@
     "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-7977.webp?v=1744788713",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Mini Tin Full Case (10 Tins)",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-mini-tin-full-case-10-tins/",
+    "price": "$399.13",
+    "timestamp": "2026-09-18T02:50:45.921703+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/29891/images/79109/P11458_10-10465-176_01__97795.1789699749.220.220.jpg?c=2",
+    "limit": "Limited 1 per customer",
+    "seen_count": 0
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Booster Bundle",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+    "price": "$86.09",
+    "timestamp": "2026-09-18T02:50:45.921703+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/29889/images/79095/P11460_10-10451-115_01__28487.1789699709.220.220.jpg?c=2",
+    "limit": "Limited 1 per customer",
+    "seen_count": 0
   }
 ]
