@@ -1,14 +1,5 @@
 [
   {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pok\u00e9mon TCG Mega Zygarde ex Premium Collection",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-08-17T08:35:44.440162+00:00",
-    "priority": false,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762.jpg?v=1779678921"
-  },
-  {
     "site": "Cool Shit - Status Watch",
     "title": "View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (Pre-Order) (status: sold out)",
     "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
@@ -10538,6 +10529,17 @@
     "timestamp": "2026-09-17T21:41:18.282680+00:00",
     "priority": false,
     "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/832752708/5798246075.jpg",
+    "limit": null,
+    "seen_count": 2
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Lost Origin Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-sword-shield-lost-origin-elite-trainer-box",
+    "price": "$420.00",
+    "timestamp": "2026-09-18T00:41:11.640352+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-7977.webp?v=1744788713",
     "limit": null,
     "seen_count": 2
   }
