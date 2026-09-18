@@ -84,6 +84,7 @@
       "7558381600829",
       "7558378979389",
       "7558380781629",
+      "7558381600829",
       "7558379864125",
       "7558377930813"
     ],
@@ -342,6 +343,8 @@
   "Collect All Day": {
     "seen_ids": [
       "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
@@ -1025,6 +1028,7 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
+      "8909649739974",
       "8909657637062",
       "8970824843462",
       "8970819535046",
@@ -1342,8 +1346,8 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9530379600149",
       "9537919516949",
+      "9530379600149",
       "9537919222037"
     ],
     "zero_streak": 0,
