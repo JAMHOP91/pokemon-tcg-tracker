@@ -1,14 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster",
-    "price": "$11.99",
-    "timestamp": "2026-08-17T09:55:57.068502+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Mega-Zygarde_EN.png?v=1774393148"
-  },
-  {
     "site": "Big Potato Collectibles - Pokemon Sealed",
     "title": "Pok\u00e9mon TCG: Mega Evolutions Pitch Black Elite Trainer Box",
     "url": "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
@@ -10546,5 +10537,16 @@
     "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/29889/images/79095/P11460_10-10451-115_01__28487.1789699709.220.220.jpg?c=2",
     "limit": "Limited 1 per customer",
     "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Metal Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-metal-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-09-18T03:40:52.657502+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicMetalEnergy-50x.jpg?v=1737494522",
+    "limit": null,
+    "seen_count": 3
   }
 ]
