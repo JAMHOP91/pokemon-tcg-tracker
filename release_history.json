@@ -1,15 +1,6 @@
 [
   {
     "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Collection Box 2025 Bundle",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-collection-box-2025-bundle",
-    "price": "$1228.00",
-    "timestamp": "2026-08-17T13:35:48.369531+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/PKM-CENTRE-2025-BUNDLE_1.png?v=1772599783"
-  },
-  {
-    "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
     "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
     "price": "$614.00",
@@ -10554,5 +10545,16 @@
     "image": "http://toytime.co.nz/cdn/shop/files/2026-06-08161636.jpg?v=1780892221",
     "limit": null,
     "seen_count": 4
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-09-18T19:20:49.936000+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201",
+    "limit": null,
+    "seen_count": 8
   }
 ]
