@@ -342,6 +342,11 @@
   "Collect All Day": {
     "seen_ids": [
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
@@ -1012,8 +1017,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7506199085102",
-      "7651030859822"
+      "7651030859822",
+      "7506199085102"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1343,8 +1348,8 @@
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
       "9537919222037",
-      "9537919516949",
-      "9530379600149"
+      "9530379600149",
+      "9537919516949"
     ],
     "zero_streak": 0,
     "warned": false,
