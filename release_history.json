@@ -1,14 +1,5 @@
 [
   {
-    "site": "Big Potato Collectibles - Pokemon Sealed",
-    "title": "Pok\u00e9mon TCG: Mega Evolutions Pitch Black Elite Trainer Box",
-    "url": "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
-    "price": "$149.00",
-    "timestamp": "2026-08-17T10:55:41.165145+00:00",
-    "priority": false,
-    "image": "https://static.wixstatic.com/media/beffc4_317364bc4d294a999f167545754fdc53~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg"
-  },
-  {
     "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
     "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
@@ -10548,5 +10539,16 @@
     "image": "http://otakumart.co.nz/cdn/shop/files/BasicMetalEnergy-50x.jpg?v=1737494522",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "30TH CELEBRATION ELITE TRAINER BOX",
+    "url": "https://hobbymaster.co.nz/products/product/47423",
+    "price": "$399.00 $450.00",
+    "timestamp": "2026-09-18T03:50:43.393881+00:00",
+    "priority": true,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 0
   }
 ]
