@@ -17,7 +17,8 @@
       "https://www.coolshit.co.nz/product/deltaetb",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-      "https://www.coolshit.co.nz/product/DELTABOOSTERBOX"
+      "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -283,8 +284,8 @@
   "Cardtopia NZ": {
     "seen_ids": [
       "10202363330800",
-      "10070962241776",
-      "10218488725744"
+      "10218488725744",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -513,8 +514,8 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10276187308116",
-      "10288263495764"
+      "10288263495764",
+      "10276187308116"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1032,7 +1033,13 @@
       "8789885321414",
       "8931072311494",
       "8855171334342",
-      "8970819535046"
+      "8931072311494",
+      "8909649739974",
+      "8909657637062",
+      "8789885321414",
+      "8970819535046",
+      "8970824843462",
+      "8855167008966"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1130,6 +1137,7 @@
     "seen_ids": [
       "9345814397077",
       "9345821311125",
+      "9152299892885",
       "9210168803477",
       "9268784496789",
       "9345801978005",
