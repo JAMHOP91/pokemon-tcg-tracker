@@ -316,7 +316,8 @@
       "9328364945647",
       "9619081527535",
       "9619080511727",
-      "9328351772911"
+      "9619080216815",
+      "9388711182575"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -344,6 +345,7 @@
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
@@ -417,9 +419,9 @@
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/46976"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-09-18T19:05:30.706434+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -1320,8 +1322,8 @@
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
       "9173828796670",
-      "9269784477950",
-      "9233032642814"
+      "9233032642814",
+      "9269784477950"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1480,8 +1482,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
