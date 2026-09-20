@@ -1,23 +1,5 @@
 [
   {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Chaos Rising Single Pack",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-single-pack",
-    "price": "$11.00",
-    "timestamp": "2026-08-17T14:50:56.542115+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/pok10407a-01.png?v=1784500570"
-  },
-  {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Evolution - Perfect Order Booster (Single)",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-single",
-    "price": "$9.99",
-    "timestamp": "2026-08-17T16:20:45.995453+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Meowth_EN_grande.jpg?v=1774554427"
-  },
-  {
     "site": "Pop Stop - Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
@@ -10560,5 +10542,27 @@
     "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/Pokemon-RTC-PhantasmalFlames-ETB.png?v=1788233777",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG 30th Celebration Mini Tin (Assorted) (Limit 10 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-mini-tin-assorted-limit-10-per-customer-pre-order",
+    "price": "$39.99",
+    "timestamp": "2026-09-20T00:01:25.699770+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG_-30th-Celebration-Mini-Tins-2_00e10ffe-2663-40dd-b5cf-5fbe96518455.png?v=1789706572",
+    "limit": "Limit 10 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG 30th Celebration Booster Bundle (Limit 4 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-booster-bundle-limit-4-per-customer-pre-order",
+    "price": "$89.99",
+    "timestamp": "2026-09-20T00:01:25.699770+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Booster-Bundle_EN.jpg?v=1789706009",
+    "limit": "Limit 4 per Customer",
+    "seen_count": 0
   }
 ]
