@@ -1,59 +1,5 @@
 [
   {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
-    "price": "$9.99",
-    "timestamp": "2026-08-17T16:20:45.995453+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191"
-  },
-  {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
-    "price": "$614.00",
-    "timestamp": "2026-08-17T19:05:47.020734+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/fukuoka-box-cardbot-pokemon-center.jpg?v=1759255295"
-  },
-  {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising: Checklane Blister",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-checklane-blister",
-    "price": "$11.99",
-    "timestamp": "2026-08-17T19:35:43.673690+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/10-10405-102_grande.jpg?v=1779404721"
-  },
-  {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Collection Box 2025 Bundle",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-collection-box-2025-bundle",
-    "price": "$1228.00",
-    "timestamp": "2026-08-17T19:50:45.963922+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/PKM-CENTRE-2025-BUNDLE_1.png?v=1772599783"
-  },
-  {
-    "site": "JB Hi-Fi NZ",
-    "title": "Pokemon TCG: Scarlet & Violet - Shrouded Fable Booster Bundle",
-    "url": "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
-    "price": null,
-    "timestamp": "2026-08-17T21:15:55.047542+00:00",
-    "priority": false,
-    "image": "http://www.jbhifi.co.nz/cdn/shop/files/439604-Product-0-I-639220230006969931_1024x1024.jpg"
-  },
-  {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG:  Mega Greninja ex Premium Collection",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
-    "price": "$93.99",
-    "timestamp": "2026-08-18T07:23:02.752980+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731-1_grande.jpg?v=1780869247"
-  },
-  {
     "site": "Cool Shit - Pokemon",
     "title": "View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order)",
     "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
@@ -10563,6 +10509,72 @@
     "priority": true,
     "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Booster-Bundle_EN.jpg?v=1789706009",
     "limit": "Limit 4 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Scarlet & Violet - Journey Together Blister Booster Pack",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-scarlet-violet-journey-together-blister-booster-pack",
+    "price": "$16.99",
+    "timestamp": "2026-09-21T01:31:16.619837+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/JourneyTogether_SLEEVED_Pack_4_750x_9430f76d-26de-4444-878b-4a2c4ec420ff.png?v=1766786989",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Elite Trainer Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-elite-trainer-box",
+    "price": "$139.99",
+    "timestamp": "2026-09-21T01:31:16.619837+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/72554906-IMG-000.jpg?v=1774703399",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-bundle",
+    "price": "$64.99",
+    "timestamp": "2026-09-21T01:31:16.619837+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/5f23187d4fc04b61b38c92238c458bac_Large_815a1ac9-0378-4e65-bdd2-425c1640ac16.jpg?v=1774704851",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Checklane Blister Booster Pack",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-checklane-blister-booster-pack",
+    "price": "$12.99",
+    "timestamp": "2026-09-21T01:31:16.619837+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/8a6065ca1d5041afa20abee7c8c1d2a9_Original.jpg?v=1779326709",
+    "limit": "Maximum 6 per person",
+    "seen_count": 0
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Elite Trainer Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
+    "price": "$139.99",
+    "timestamp": "2026-09-21T01:31:16.619837+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/elite-trainer-box-en.jpg?v=1784081063",
+    "limit": "Maximum 1 per person",
+    "seen_count": 0
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Booster Bundle",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-bundle",
+    "price": "$69.99",
+    "timestamp": "2026-09-21T01:31:16.619837+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/booster-bundle-en.jpg?v=1784081064",
+    "limit": "Maximum 1 per person",
     "seen_count": 0
   }
 ]
