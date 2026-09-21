@@ -1,50 +1,5 @@
 [
   {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order)",
-    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
-    "price": "NZ$69.99",
-    "timestamp": "2026-08-18T08:40:54.243640+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427181259/Untitled+design+_17_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Big Potato Collectibles - Pokemon Sealed",
-    "title": "Sealed Pok\u00e9mon TCG: Poke Ball Tin D21 2021 Cosmic Eclipse Vivid Voltage Rebel",
-    "url": "https://www.bigpotato.co.nz/product-page/sealed-pok\u00e9mon-tcg-poke-ball-tin-d21-2021-cosmic-eclipse-vivid-voltage-rebel",
-    "price": "$990.00",
-    "timestamp": "2026-08-18T09:10:51.087659+00:00",
-    "priority": false,
-    "image": "https://static.wixstatic.com/media/beffc4_d4e28d31023c4c41a60921ce6a7482a3~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg"
-  },
-  {
-    "site": "Card Masters NZ",
-    "title": "MEGA DRAGONITE ex MEGA ULTRA RARE - PSA 10",
-    "url": "https://cardmasters.co.nz/products/mega-dragonite-ex-mega-ultra-rare-psa-10",
-    "price": "$1100.00",
-    "timestamp": "2026-08-18T09:40:51.376097+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/KTIUOMrAE0yfHWjkis7K4w_1200x2015.jpg?v=1787045968"
-  },
-  {
-    "site": "Card Masters NZ",
-    "title": "PALKIA VSTAR ALTERNATE VSTAR UNIVERSE - PSA 10",
-    "url": "https://cardmasters.co.nz/products/palkia-vstar-alternate-vstar-universe-psa-10",
-    "price": "$280.00",
-    "timestamp": "2026-08-18T09:50:53.366517+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/bQeKCNfmakm4dpCoQXT4zg_852c050b-9601-4b86-b95b-aab950cc6866_1200x2012.jpg?v=1787046465"
-  },
-  {
-    "site": "Card Masters NZ",
-    "title": "PIKACHU ex HYPER RARE - PSA 10",
-    "url": "https://cardmasters.co.nz/products/pikachu-ex-hyper-rare-psa-10",
-    "price": "$670.00",
-    "timestamp": "2026-08-18T09:50:53.366517+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/JpAb1qVI7EW9aZYYrpXhkg_1200x2012.jpg?v=1787046309"
-  },
-  {
     "site": "Card Masters NZ",
     "title": "MEGA DRAGONITE ex MEGA ATTACK RARE - PSA 10",
     "url": "https://cardmasters.co.nz/products/mega-dragonite-ex-mega-attack-rare-psa-10",
@@ -10575,6 +10530,61 @@
     "priority": false,
     "image": "http://wpgames.co.nz/cdn/shop/files/booster-bundle-en.jpg?v=1784081064",
     "limit": "Maximum 1 per person",
+    "seen_count": 0
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Tin - Greninja ex- PRE ORDER",
+    "url": "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-greninja-ex-pre-order",
+    "price": null,
+    "timestamp": "2026-09-21T22:07:35.083370+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/6f86e7_7a8d757d6d634679a51630731ff47233~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Tin - Sylveon ex - PRE ORDER",
+    "url": "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-sylveon-ex-pre-order",
+    "price": null,
+    "timestamp": "2026-09-21T22:07:35.083370+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/6f86e7_13f3e75411e34b9c934c798230a8e623~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Night - PRE ORDER",
+    "url": "https://www.magicreddragon.co.nz/product-page/copy-of-pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-night-pre-order",
+    "price": null,
+    "timestamp": "2026-09-21T22:07:35.083370+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/6f86e7_109e93d96d6147d8a12eb6d4e42e39d1~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day - PRE ORDER",
+    "url": "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-day-pre-order",
+    "price": null,
+    "timestamp": "2026-09-21T22:07:35.083370+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/6f86e7_7ca4d915715543f49507c0da03607651~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection - PRE ORDER",
+    "url": "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-ditto-premium-collection-pre-order",
+    "price": null,
+    "timestamp": "2026-09-21T22:07:35.083370+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/6f86e7_aa36261e0b594e3c83f21da06a7992f6~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
     "seen_count": 0
   }
 ]
