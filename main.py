@@ -345,3 +345,107 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+def main():
+    state = load_state()
+    priority_keywords = load_priority_keywords()
+    priority_exclude_keywords = load_priority_exclude_keywords()
+    history = load_history()
+    status = {}
+    now = datetime.now(timezone.utc)
+
+    for site_name, site_module in SITES:
+        print(f"Checking {site_name}...")
+        site_state = get_site_state(state, site_name)
+        seen_ids = set(site_state["seen_ids"])
+        allow_empty = getattr(site_module, "ALLOW_EMPTY_RESULTS", False)
+        threshold_minutes = getattr(site_module, "FAILURE_THRESHOLD_MINUTES", DEFAULT_FAILURE_THRESHOLD_MINUTES)
+
+        try:
+            current_products = site_module.get_current_products()
+            fetch_failed = False
+        except Exception as e:
+            print(f"  Failed to check {site_name}: {e}")
+            current_products = None
+            fetch_failed = True
+
+        if fetch_failed or (not current_products and not allow_empty):
+            if site_state["zero_streak"] == 0 or not site_state.get("first_failure_at"):
+                site_state["first_failure_at"] = now.isoformat()
+            site_state["zero_streak"] += 1
+
+            first_failure_at = datetime.fromisoformat(site_state["first_failure_at"])
+            elapsed_minutes = (now - first_failure_at).total_seconds() / 60
+            print(f"  No products found (failing for {elapsed_minutes:.0f} min)")
+
+            if elapsed_minutes >= threshold_minutes and not site_state["warned"]:
+                notify_scraper_warning(site_name, int(elapsed_minutes))
+                site_state["warned"] = True
+
+            status[site_name] = {
+                "last_checked": now.isoformat(),
+                "healthy": False,
+                "failing_minutes": round(elapsed_minutes),
+            }
+            state[site_name] = site_state
+            continue
+
+        if site_state["warned"]:
+            notify_scraper_recovered(site_name)
+        site_state["zero_streak"] = 0
+        site_state["warned"] = False
+        site_state["first_failure_at"] = None
+
+        current_products = current_products or []
+        current_ids = {p["id"] for p in current_products}
+        new_products = [p for p in current_products if p["id"] not in seen_ids]
+
+        if new_products:
+            for p in new_products:
+                image, limit = fetch_product_page_extras(p["url"])
+                p["image"] = image
+                p["limit"] = limit
+                p["seen_count"] = sum(1 for h in history if h.get("url") == p["url"])
+
+            priority_matches = [p for p in new_products if is_priority_product(p["title"], priority_keywords, priority_exclude_keywords)]
+            regular_matches = [p for p in new_products if p not in priority_matches]
+
+            print(f"  Found {len(new_products)} new product(s)")
+            if priority_matches:
+                print(f"    {len(priority_matches)} matched priority keywords!")
+                notify_priority_products(site_name, priority_matches)
+            if regular_matches:
+                notify_new_products(site_name, regular_matches)
+
+            for p in new_products:
+                history.append({
+                    "site": site_name,
+                    "title": p["title"],
+                    "url": p["url"],
+                    "price": p.get("price"),
+                    "timestamp": now.isoformat(),
+                    "priority": p in priority_matches,
+                    "image": p.get("image"),
+                    "limit": p.get("limit"),
+                    "seen_count": p.get("seen_count", 0),
+                })
+        else:
+            print("  No new products")
+
+        status[site_name] = {
+            "last_checked": now.isoformat(),
+            "healthy": True,
+            "failing_minutes": 0,
+        }
+        site_state["seen_ids"] = list(current_ids)
+        state[site_name] = site_state
+
+    save_state(state)
+    save_history(history)
+    save_status({"generated_at": now.isoformat(), "sites": status})
+    ping_heartbeat()
+
+
+if __name__ == "__main__":
+    main()
