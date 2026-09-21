@@ -56,6 +56,7 @@ EXCLUDE_KEYWORDS = [
     "battle academy",
     "board game",
     "stream",
+    "winner takes all",
     "card holder",
     "fukuoka",
     "hiroshima",
