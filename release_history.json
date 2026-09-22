@@ -1,23 +1,5 @@
 [
   {
-    "site": "Card Masters NZ",
-    "title": "PIKACHU & ZEKROM GX TAG TEAM GX ALL STARS - PSA 10",
-    "url": "https://cardmasters.co.nz/products/pikachu-zekrom-gx-tag-team-gx-all-stars-psa-10",
-    "price": "$360.00",
-    "timestamp": "2026-08-18T10:03:22.146601+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/UGTCMrMCGUS-ioDaU87oyA_1200x2012.jpg?v=1787046658"
-  },
-  {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising: Checklane Blister",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-checklane-blister",
-    "price": "$11.99",
-    "timestamp": "2026-08-18T11:40:48.435198+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/10-10405-102_grande.jpg?v=1779404721"
-  },
-  {
     "site": "Pop Stop - Pokemon TCG",
     "title": "Pok\u00e9mon TCG:  Mega Greninja ex Premium Collection",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
@@ -10596,5 +10578,27 @@
     "image": "https://static.wixstatic.com/media/6f86e7_aa36261e0b594e3c83f21da06a7992f6~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Lumiose City Mini Tin",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-lumiose-city-mini-tin",
+    "price": "$22.99",
+    "timestamp": "2026-09-22T14:01:45.082930+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-lumiose-city-mini-tin.jpg?v=1790002947",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Moonlit Tin",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-moonlit-tin",
+    "price": "$53.99",
+    "timestamp": "2026-09-22T14:01:45.082930+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-moonlight-tin.png?v=1790085483",
+    "limit": null,
+    "seen_count": 0
   }
 ]
