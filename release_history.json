@@ -1,14 +1,5 @@
 [
   {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG:  Mega Greninja ex Premium Collection",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
-    "price": "$93.99",
-    "timestamp": "2026-08-18T11:40:48.435198+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731-1_grande.jpg?v=1780869247"
-  },
-  {
     "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG Chaos Rising Single Pack",
     "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-single-pack",
@@ -10598,6 +10589,17 @@
     "timestamp": "2026-09-22T14:01:45.082930+00:00",
     "priority": false,
     "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-moonlight-tin.png?v=1790085483",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Greninja ex Premium Collection",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-09-22T14:31:52.102710+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-greninja-ex-premium-collection.png?v=1790002954",
     "limit": null,
     "seen_count": 0
   }
