@@ -1,14 +1,5 @@
 [
   {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Chaos Rising Single Pack",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-single-pack",
-    "price": "$11.00",
-    "timestamp": "2026-08-18T13:10:59.875294+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/pok10407a-01.png?v=1784500570"
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolutions - Pitch Black Three Booster Blister",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister",
@@ -10602,5 +10593,16 @@
     "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-greninja-ex-premium-collection.png?v=1790002954",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "WP Games - Pre-Orders",
+    "title": "Pokemon TCG: 30th Celebration Bundle 10: 1x 30th Celebration Ex Box + 1x Chaos Rising Booster Box (Pre-order)",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-30th-celebration-bundle-10-ex-box-chaos-rising-booster-box",
+    "price": "$429.99",
+    "timestamp": "2026-09-23T07:01:45.574570+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-30th-celebration-bundle-10-ex-box-chaos-rising-booster-box.jpg?v=1789402961",
+    "limit": null,
+    "seen_count": 2
   }
 ]
