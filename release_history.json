@@ -1,32 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Three Booster Blister",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister",
-    "price": "$31.99",
-    "timestamp": "2026-08-18T15:43:10.328983+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister.jpg?v=1784082727"
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-08-18T16:42:29.899579+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682"
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Pitch Black Booster Box",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-booster-box-pre-order-17-7-2026",
-    "price": "$360.00",
-    "timestamp": "2026-08-18T21:11:23.101671+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/712845506_122203714544471322_1472360028819368492_n.jpg?v=1780891415"
-  },
-  {
     "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG Prismatic Evolutions Mini-Tin Display (8 Mini-Tins)",
     "url": "https://cardbot.co.nz/products/sv8-5-mt",
@@ -10604,5 +10577,38 @@
     "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-30th-celebration-bundle-10-ex-box-chaos-rising-booster-box.jpg?v=1789402961",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: 30th Celebration Elite Trainer Box",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-elite-trainer-box",
+    "price": "$399.00",
+    "timestamp": "2026-09-24T03:01:23.342673+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/beffc4_9ced55e80b9249929be6abef45806232~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: Ascended Heroes Mega Feraligatr Tin",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-mega-feraligatr-tin",
+    "price": "$125.00",
+    "timestamp": "2026-09-24T03:01:23.342673+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_afbef18a069848bba8adc71178e78d48~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: Ascended Heroes Mega Emboar Tin",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-mega-emboar-tin",
+    "price": "$125.00",
+    "timestamp": "2026-09-24T03:01:23.342673+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_da877fbd420b4b44b2faa18cd4b4ac7f~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 0
   }
 ]
