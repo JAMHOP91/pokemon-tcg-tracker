@@ -1,14 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG Prismatic Evolutions Mini-Tin Display (8 Mini-Tins)",
-    "url": "https://cardbot.co.nz/products/sv8-5-mt",
-    "price": "$591.00",
-    "timestamp": "2026-08-18T22:40:52.679398+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/P10408_SV08pt5_3D_Mini_Tins_Display_Front_EN-820x1024.jpg?v=1786671301"
-  },
-  {
     "site": "Razor Leaf - Pokemon TCG",
     "title": "Pokemon TCG - Sword & Shield Lost Origin Elite Trainer Box",
     "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-sword-shield-lost-origin-elite-trainer-box",
@@ -10608,6 +10599,17 @@
     "timestamp": "2026-09-24T03:01:23.342673+00:00",
     "priority": false,
     "image": "https://static.wixstatic.com/media/beffc4_da877fbd420b4b44b2faa18cd4b4ac7f~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Games Lab - Pokemon TCG",
+    "title": "Pokemon TCG: Pitch Black - Booster Box",
+    "url": "https://www.gameslab.co.nz/products/Pokemon-TCG-Pitch-Black-Booster-Box-p840321514",
+    "price": null,
+    "timestamp": "2026-09-24T05:01:20.981300+00:00",
+    "priority": false,
+    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/840321514/5809603985.jpg",
     "limit": null,
     "seen_count": 0
   }
