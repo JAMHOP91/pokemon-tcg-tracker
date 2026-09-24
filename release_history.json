@@ -1,15 +1,6 @@
 [
   {
     "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Sword & Shield Lost Origin Elite Trainer Box",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-sword-shield-lost-origin-elite-trainer-box",
-    "price": "$420.00",
-    "timestamp": "2026-08-19T03:59:01.910647+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-7977.webp?v=1744788713"
-  },
-  {
-    "site": "Razor Leaf - Pokemon TCG",
     "title": "Pokemon TCG - Sword and Shield Astral Radiance Elite Trainer Box",
     "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-sword-and-shield-astral-radiance-elite-trainer-box",
     "price": "$280.00",
@@ -10610,6 +10601,17 @@
     "timestamp": "2026-09-24T05:01:20.981300+00:00",
     "priority": false,
     "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/840321514/5809603985.jpg",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: First Partner Illustration Collection - Series 3",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-3",
+    "price": "$129.00",
+    "timestamp": "2026-09-24T23:01:22.649951+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_c7ae2ab0da224d02b2f1a21ced27bd12~mv2.avif/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 0
   }
