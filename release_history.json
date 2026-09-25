@@ -1,15 +1,6 @@
 [
   {
     "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Sword and Shield Astral Radiance Elite Trainer Box",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-sword-and-shield-astral-radiance-elite-trainer-box",
-    "price": "$280.00",
-    "timestamp": "2026-08-19T03:59:01.910647+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/Astral_Radiance_Elite_Trainer_Box.webp?v=1737617772"
-  },
-  {
-    "site": "Razor Leaf - Pokemon TCG",
     "title": "Pokemon TCG - Silver Tempest Elite Trainer Box",
     "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-silver-tempest-elite-trainer-box",
     "price": "$350.00",
@@ -10614,5 +10605,16 @@
     "image": "https://static.wixstatic.com/media/beffc4_c7ae2ab0da224d02b2f1a21ced27bd12~mv2.avif/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Booster Bundle",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+    "price": "$94.78",
+    "timestamp": "2026-09-25T03:31:12.029822+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/29889/images/79095/P11460_10-10451-115_01__28487.1789699709.220.220.jpg?c=2",
+    "limit": "Max purchase: 1 unit",
+    "seen_count": 1
   }
 ]
