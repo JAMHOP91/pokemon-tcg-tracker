@@ -1,15 +1,6 @@
 [
   {
     "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Silver Tempest Elite Trainer Box",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-silver-tempest-elite-trainer-box",
-    "price": "$350.00",
-    "timestamp": "2026-08-19T03:59:01.910647+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-8005.jpg?v=1745035586"
-  },
-  {
-    "site": "Razor Leaf - Pokemon TCG",
     "title": "Pokemon TCG - Paldea Evolved Elite Trainer Box",
     "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-paldea-evolved-elite-trainer-box",
     "price": "$450.00",
@@ -10616,5 +10607,16 @@
     "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/29889/images/79095/P11460_10-10451-115_01__28487.1789699709.220.220.jpg?c=2",
     "limit": "Max purchase: 1 unit",
     "seen_count": 1
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "[PRE-ORDER] Pokemon TCG - 30th Celebration Mini Tin",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-30th-celebration-mini-tin",
+    "price": "$48.00",
+    "timestamp": "2026-09-25T04:31:08.973444+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/upload-1789789225525.webp?v=1789789227",
+    "limit": null,
+    "seen_count": 0
   }
 ]
