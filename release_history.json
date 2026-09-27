@@ -1,15 +1,6 @@
 [
   {
     "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Paldea Evolved Elite Trainer Box",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-paldea-evolved-elite-trainer-box",
-    "price": "$450.00",
-    "timestamp": "2026-08-19T03:59:01.910647+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2107.webp?v=1786436851"
-  },
-  {
-    "site": "Razor Leaf - Pokemon TCG",
     "title": "Pokemon TCG - Sword & Shield Chilling Reign Elite Trainer Box Ice Rider Calyrex",
     "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-chilling-reign-elite-trainer-box",
     "price": "$295.00",
@@ -10616,6 +10607,17 @@
     "timestamp": "2026-09-25T04:31:08.973444+00:00",
     "priority": true,
     "image": "http://www.metalife.co.nz/cdn/shop/files/upload-1789789225525.webp?v=1789789227",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "POKEMON TCG Lumiose City Mini Tin",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-lumiose-city-mini-tim",
+    "price": "$29.99",
+    "timestamp": "2026-09-27T22:01:28.044383+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCGLumioseCityMiniTin-Assortment_EN.webp?v=1780543501",
     "limit": null,
     "seen_count": 0
   }
