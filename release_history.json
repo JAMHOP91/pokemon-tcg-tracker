@@ -1,15 +1,6 @@
 [
   {
     "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Sword & Shield Chilling Reign Elite Trainer Box Ice Rider Calyrex",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-chilling-reign-elite-trainer-box",
-    "price": "$295.00",
-    "timestamp": "2026-08-19T03:59:01.910647+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-8846.jpg?v=1753223744"
-  },
-  {
-    "site": "Razor Leaf - Pokemon TCG",
     "title": "Pokemon TCG - Crown Zenith Elite Trainer Box",
     "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-crown-zenith-elite-trainer-box",
     "price": "$630.00",
@@ -10620,5 +10611,16 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCGLumioseCityMiniTin-Assortment_EN.webp?v=1780543501",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG 30th Celebration Knock Out Collection",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection",
+    "price": "$50.00",
+    "timestamp": "2026-09-28T11:01:32.404461+00:00",
+    "priority": true,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/704152_in_1000x1000_322a8fa7-e776-44b5-93ec-79dd091fee58.jpg?v=1788351732",
+    "limit": null,
+    "seen_count": 1
   }
 ]
