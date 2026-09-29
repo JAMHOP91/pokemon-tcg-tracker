@@ -1,15 +1,6 @@
 [
   {
     "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Sword & Shield Chilling Reign Elite Trainer Box Shadow Rider Calyrex",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-sword-shield-chilling-reign-elite-trainer-box-calyrex",
-    "price": "$295.00",
-    "timestamp": "2026-08-19T03:59:01.910647+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2117.webp?v=1786437839"
-  },
-  {
-    "site": "Razor Leaf - Pokemon TCG",
     "title": "Pokemon TCG - Pokemon Go Elite Trainer Box",
     "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-pokemon-go-elite-trainer-box",
     "price": "$285.00",
@@ -10624,6 +10615,17 @@
     "timestamp": "2026-09-29T05:01:30.576904+00:00",
     "priority": true,
     "image": "http://cardbot.co.nz/cdn/shop/files/Diceset.jpg?v=1790655416",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG MEGA Special Card Set Mega Gallade ex",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-mega-gengar-ex-starter-deck-japanese-copy",
+    "price": "$64.00",
+    "timestamp": "2026-09-29T22:31:07.053172+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/PokemonTradingCardGameMEGASpecialCardSetMegaGalladeex.jpg?v=1790649640",
     "limit": null,
     "seen_count": 0
   }
