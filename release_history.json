@@ -1,15 +1,6 @@
 [
   {
     "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Crown Zenith Elite Trainer Box",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-crown-zenith-elite-trainer-box",
-    "price": "$630.00",
-    "timestamp": "2026-08-19T03:59:01.910647+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2121.webp?v=1786439001"
-  },
-  {
-    "site": "Razor Leaf - Pokemon TCG",
     "title": "Pokemon TCG - Shining Fates Elite Trainer Box",
     "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-shining-fates-elite-trainer-box",
     "price": "$310.00",
@@ -10622,5 +10613,16 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/704152_in_1000x1000_322a8fa7-e776-44b5-93ec-79dd091fee58.jpg?v=1788351732",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG 30th Celebration ETB",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box",
+    "price": "$260.00",
+    "timestamp": "2026-09-29T02:31:14.289781+00:00",
+    "priority": true,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/30th-celebration-elite-trainer-box-169-en.png?v=1787042029",
+    "limit": null,
+    "seen_count": 2
   }
 ]
