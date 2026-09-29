@@ -1,15 +1,6 @@
 [
   {
     "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Shining Fates Elite Trainer Box",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-shining-fates-elite-trainer-box",
-    "price": "$310.00",
-    "timestamp": "2026-08-19T03:59:01.910647+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2119.webp?v=1786437968"
-  },
-  {
-    "site": "Razor Leaf - Pokemon TCG",
     "title": "Pokemon TCG - Sword & Shield Chilling Reign Elite Trainer Box Shadow Rider Calyrex",
     "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-sword-shield-chilling-reign-elite-trainer-box-calyrex",
     "price": "$295.00",
@@ -10624,5 +10615,16 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/30th-celebration-elite-trainer-box-169-en.png?v=1787042029",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG 30th Celebration Dice and Coin Set",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-30th-celebration-dice-and-coin-set",
+    "price": "$7.00",
+    "timestamp": "2026-09-29T05:01:30.576904+00:00",
+    "priority": true,
+    "image": "http://cardbot.co.nz/cdn/shop/files/Diceset.jpg?v=1790655416",
+    "limit": null,
+    "seen_count": 0
   }
 ]
