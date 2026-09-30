@@ -1,15 +1,6 @@
 [
   {
     "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Pokemon Go Elite Trainer Box",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-pokemon-go-elite-trainer-box",
-    "price": "$285.00",
-    "timestamp": "2026-08-19T03:59:01.910647+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2116.webp?v=1786437582"
-  },
-  {
-    "site": "Razor Leaf - Pokemon TCG",
     "title": "Pokemon TCG - Brilliant Stars Elite Trainer Box",
     "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-brilliant-stars-elite-trainer-box",
     "price": "$350.00",
@@ -10626,6 +10617,17 @@
     "timestamp": "2026-09-29T22:31:07.053172+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/PokemonTradingCardGameMEGASpecialCardSetMegaGalladeex.jpg?v=1790649640",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Pitch Black Single Card",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-pitch-black-single-card",
+    "price": "$286.00",
+    "timestamp": "2026-09-30T02:01:28.262171+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-pitch-black-mega-darkrai-ex-116-084-card.png?v=1790732069",
     "limit": null,
     "seen_count": 0
   }
