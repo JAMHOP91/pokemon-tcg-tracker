@@ -1,15 +1,6 @@
 [
   {
     "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Obsidian Flames Elite Trainer Box",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-obsidian-flames-elite-trainer-box",
-    "price": "$620.00",
-    "timestamp": "2026-08-19T03:59:01.910647+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2106.webp?v=1786436693"
-  },
-  {
-    "site": "Razor Leaf - Pokemon TCG",
     "title": "Pokemon TCG: Sword and Shield Elite Trainer Box - Zacian",
     "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-sword-and-shield-elite-trainer-box-zacian",
     "price": "$350.00",
@@ -10632,6 +10623,17 @@
     "timestamp": "2026-09-30T02:31:11.344616+00:00",
     "priority": true,
     "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: 30th Celebration Tech Sticker Collection",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-poster-collection",
+    "price": "$149.00",
+    "timestamp": "2026-09-30T11:01:31.827500+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/beffc4_7d388e02c7724691b852d2cf483b6759~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 0
   }
