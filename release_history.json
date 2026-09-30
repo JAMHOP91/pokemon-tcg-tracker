@@ -1,41 +1,5 @@
 [
   {
-    "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG: Sword and Shield Elite Trainer Box - Zacian",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-sword-and-shield-elite-trainer-box-zacian",
-    "price": "$350.00",
-    "timestamp": "2026-08-19T03:59:01.910647+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2105.webp?v=1786436550"
-  },
-  {
-    "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG: Sword and Shield Elite Trainer Box - Zamazenta",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-sword-and-shield-elite-trainer-box-zamazenta",
-    "price": "$350.00",
-    "timestamp": "2026-08-19T03:59:01.910647+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2104.jpg?v=1786436317"
-  },
-  {
-    "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Fusion Strike Elite Trainer Box",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-fusion-strike-elite-trainer-box",
-    "price": "$670.00",
-    "timestamp": "2026-08-19T03:59:01.910647+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2102.jpg?v=1786436136"
-  },
-  {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Evolution - Perfect Order Booster (Single)",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-single",
-    "price": "$9.99",
-    "timestamp": "2026-08-19T09:41:15.298927+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Meowth_EN_grande.jpg?v=1774554427"
-  },
-  {
     "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Tohoku 2025 Special Collection Box",
     "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-tohoku-2025-special-collection-box",
@@ -10635,6 +10599,50 @@
     "priority": true,
     "image": "https://static.wixstatic.com/media/beffc4_7d388e02c7724691b852d2cf483b6759~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "JB Hi-Fi NZ",
+    "title": "Pokemon TCG - 30th Celebration: ex Box (Assorted Styles)",
+    "url": "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
+    "price": null,
+    "timestamp": "2026-09-30T23:01:30.429074+00:00",
+    "priority": true,
+    "image": "http://www.jbhifi.co.nz/cdn/shop/files/480015-Product-0-I-639185705402349933_1024x1024.jpg",
+    "limit": "Limit 1 per order",
+    "seen_count": 0
+  },
+  {
+    "site": "JB Hi-Fi NZ",
+    "title": "Pokemon TCG - 30th Celebration: Sticker Blister (Assorted Styles)",
+    "url": "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-sticker-blister-assorted-styles",
+    "price": null,
+    "timestamp": "2026-09-30T23:01:30.429074+00:00",
+    "priority": true,
+    "image": "http://www.jbhifi.co.nz/cdn/shop/files/480018-Product-0-I-639185666403485838_1024x1024.jpg",
+    "limit": "Limit 1 per order",
+    "seen_count": 0
+  },
+  {
+    "site": "JB Hi-Fi NZ",
+    "title": "Pokemon TCG - 30th Celebration: Elite Trainer Box",
+    "url": "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
+    "price": null,
+    "timestamp": "2026-09-30T23:01:30.429074+00:00",
+    "priority": true,
+    "image": "http://www.jbhifi.co.nz/cdn/shop/files/480019-Product-0-I-639185710802293735_1024x1024.jpg",
+    "limit": "Limit 1 per order",
+    "seen_count": 0
+  },
+  {
+    "site": "JB Hi-Fi NZ",
+    "title": "Pokemon TCG - 30th Celebration: Knock Out Collection",
+    "url": "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-knock-out-collection",
+    "price": null,
+    "timestamp": "2026-09-30T23:01:30.429074+00:00",
+    "priority": true,
+    "image": "http://www.jbhifi.co.nz/cdn/shop/files/480016-Product-0-I-639185705402811336_1024x1024.jpg",
+    "limit": "Limit 1 per order",
     "seen_count": 0
   }
 ]
