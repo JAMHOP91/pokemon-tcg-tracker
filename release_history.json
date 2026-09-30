@@ -1,24 +1,6 @@
 [
   {
     "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Brilliant Stars Elite Trainer Box",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-brilliant-stars-elite-trainer-box",
-    "price": "$350.00",
-    "timestamp": "2026-08-19T03:59:01.910647+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2114.jpg?v=1786437428"
-  },
-  {
-    "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Champion's Path Elite Trainer Box",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-champions-path-elite-trainer-box",
-    "price": "$450.00",
-    "timestamp": "2026-08-19T03:59:01.910647+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2110.jpg?v=1786437041"
-  },
-  {
-    "site": "Razor Leaf - Pokemon TCG",
     "title": "Pokemon TCG - Obsidian Flames Elite Trainer Box",
     "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-obsidian-flames-elite-trainer-box",
     "price": "$620.00",
@@ -10628,6 +10610,28 @@
     "timestamp": "2026-09-30T02:01:28.262171+00:00",
     "priority": false,
     "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-pitch-black-mega-darkrai-ex-116-084-card.png?v=1790732069",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "30TH CELEBRATION MINI TIN (ASSORTED)",
+    "url": "https://hobbymaster.co.nz/products/product/47431",
+    "price": "$65.00 $75.00",
+    "timestamp": "2026-09-30T02:31:11.344616+00:00",
+    "priority": true,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "30TH CELEBRATION BOOSTER BUNDLE",
+    "url": "https://hobbymaster.co.nz/products/product/47432",
+    "price": "$170.00 $200.00",
+    "timestamp": "2026-09-30T02:31:11.344616+00:00",
+    "priority": true,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
     "limit": null,
     "seen_count": 0
   }
