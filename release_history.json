@@ -1,41 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster",
-    "price": "$11.99",
-    "timestamp": "2026-08-20T04:10:49.354567+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Mega-Zygarde_EN.png?v=1774393148"
-  },
-  {
-    "site": "Card Masters NZ",
-    "title": "CLASSIC VENUSAUR - PSA 10",
-    "url": "https://cardmasters.co.nz/products/classic-venusaur-psa-10",
-    "price": "$200.00",
-    "timestamp": "2026-08-20T06:03:45.975017+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/OUkpvLBV_kapMhbp1DPL2g_1_1200x2005.jpg?v=1787205477"
-  },
-  {
-    "site": "Card Masters NZ",
-    "title": "KYUREM ex SPECIAL ILLUSTRATION RARE - PSA 10",
-    "url": "https://cardmasters.co.nz/products/kyurem-ex-special-illustration-rare-psa-10",
-    "price": "$350.00",
-    "timestamp": "2026-08-20T06:03:45.975017+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/GpiG-mCiFkycocHhZurowA_1200x2008.jpg?v=1787205376"
-  },
-  {
-    "site": "Card Masters NZ",
-    "title": "GOTHITELLE WHT TECH STICKER COLLECTION - PSA 10",
-    "url": "https://cardmasters.co.nz/products/gothitelle-wht-tech-sticker-collection-psa-10",
-    "price": "$80.00",
-    "timestamp": "2026-08-20T06:03:45.975017+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/B1eiU0WNk6K3nAZ0Ogobw_1200x2005.jpg?v=1787205290"
-  },
-  {
     "site": "Card Masters NZ",
     "title": "CHARIZARD V BRILLIANT STARS - PSA 10",
     "url": "https://cardmasters.co.nz/products/charizard-v-brilliant-stars-psa-10",
@@ -10652,6 +10616,50 @@
     "timestamp": "2026-10-01T05:31:09.858617+00:00",
     "priority": false,
     "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME05_Pitch_Black_Booster_Box.jpg?v=1777870840",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "2025 Pokemon Mega Charizard X EX 023 Black Star Promo Ultra Premium Collection PSA 10",
+    "url": "https://cardbot.co.nz/products/2025-pokemon-mega-charizard-x-ex-023-black-star-promo-ultra-premium-collection-psa-10-164062481",
+    "price": "$379.00",
+    "timestamp": "2026-10-01T06:01:30.654378+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/Dwhi3n8B6UetC3pOD32_TQ.jpg?v=1790833768",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "2025 Pokemon Mega Charizard X EX 023 Black Star Promo Ultra Premium Collection PSA 10",
+    "url": "https://cardbot.co.nz/products/2025-pokemon-mega-charizard-x-ex-023-black-star-promo-ultra-premium-collection-psa-10-163032561",
+    "price": "$379.00",
+    "timestamp": "2026-10-01T06:01:30.654378+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/V7db84DEm0SSBgBk3s4Q5w.jpg?v=1790833653",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "2025 Pokemon Oricorio EX 024 Black Star Promo Ultra Premium Collection PSA 10",
+    "url": "https://cardbot.co.nz/products/2025-pokemon-oricorio-ex-024-black-star-promo-ultra-premium-collection-psa-10-163032756",
+    "price": "$253.00",
+    "timestamp": "2026-10-01T06:01:30.654378+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/lLCh6z-4PUmUFd9SRu5BJQ.jpg?v=1790833647",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "2025 Pokemon Mega Charizard X EX 023 Black Star Promo Ultra Premium Collection PSA 10",
+    "url": "https://cardbot.co.nz/products/2025-pokemon-mega-charizard-x-ex-023-black-star-promo-ultra-premium-collection-psa-10-147948469",
+    "price": "$379.00",
+    "timestamp": "2026-10-01T06:01:30.654378+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/OO5TbUt8p0m-IoqZYlJwGQ.jpg?v=1790833643",
     "limit": null,
     "seen_count": 0
   }
