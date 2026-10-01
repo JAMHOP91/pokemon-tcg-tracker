@@ -1,23 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG Prismatic Evolutions Mini-Tin Display (8 Mini-Tins)",
-    "url": "https://cardbot.co.nz/products/sv8-5-mt",
-    "price": "$587.00",
-    "timestamp": "2026-08-20T17:40:49.482578+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/P10408_SV08pt5_3D_Mini_Tins_Display_Front_EN-820x1024.jpg?v=1786671301"
-  },
-  {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pokemon TCG: Mega Moonlight Tin (Mega Clefable ex)",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
-    "price": "$54.99",
-    "timestamp": "2026-08-20T17:40:49.482578+00:00",
-    "priority": false,
-    "image": "http://getthosemons.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Moonlit-Tin-Mega-Clefable_EN.jpg?v=1780883693"
-  },
-  {
     "site": "Pop Stop - Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Mega Evolution - Perfect Order Booster (Single)",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-single",
@@ -10664,5 +10646,27 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Mega_Evolution_Ascended_Heroes_Booster_Bundle.jpg?v=1766019915",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG 30th Celebration Mini Tin",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-mini-tin",
+    "price": "$69.99",
+    "timestamp": "2026-10-01T20:31:07.804655+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Mini-Tin.jpg?v=1790819697",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Mega Evolution 2-Pack Blister \u2013 Zarude",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-2-pack-blister-zarude",
+    "price": "$34.99",
+    "timestamp": "2026-10-01T20:31:07.804655+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-2-Pack-Blister-Zarude.jpg?v=1790809018",
+    "limit": null,
+    "seen_count": 0
   }
 ]
