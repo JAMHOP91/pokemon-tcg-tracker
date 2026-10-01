@@ -1,15 +1,6 @@
 [
   {
     "site": "Cool Shit - Status Watch",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP (status: available)",
-    "url": "https://www.coolshit.co.nz/product/celebration",
-    "price": "NZ$299.00",
-    "timestamp": "2026-08-19T22:40:51.243500+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427180668/Untitled+design+_12_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Status Watch",
     "title": "View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP (status: sold out)",
     "url": "https://www.coolshit.co.nz/product/celebration",
     "price": "NZ$299.00",
@@ -10648,5 +10639,16 @@
     "image": "https://static.wixstatic.com/media/6f86e7_a49de549929b4817822f89f203bb19f4~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG ME03 Perfect Order Booster Box",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box-preorder-ship-on-march-27-2026",
+    "price": "$320.00",
+    "timestamp": "2026-10-01T05:01:23.389805+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Base_Mega_Evolution_Perfect_Order_Booster_Box.jpg?v=1772363677",
+    "limit": null,
+    "seen_count": 3
   }
 ]
