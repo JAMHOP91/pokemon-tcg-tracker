@@ -1,14 +1,5 @@
 [
   {
-    "site": "Hobby Master - Pokemon",
-    "title": "PITCH BLACK: BOOSTER BOX",
-    "url": "https://hobbymaster.co.nz/products/product/47223",
-    "price": "$430.00",
-    "timestamp": "2026-08-20T21:40:46.700978+00:00",
-    "priority": false,
-    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg"
-  },
-  {
     "site": "Collect All Day",
     "title": "Venusaur VMAX Starter Set",
     "url": "https://www.collectallday.com/new/venusaur-vmax-starter-set",
@@ -10669,6 +10660,17 @@
     "priority": true,
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCG-Megaevolutions2packBlister.jpg?v=1790806747",
     "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "JB Hi-Fi NZ",
+    "title": "Pokemon TCG Mega Evolution 2.5 Ascended Heroes Focused Fighters Premium Collection",
+    "url": "https://www.jbhifi.co.nz/products/pokemon-tcg-pokemon-tcg-mega-evolution-2-5-ascended-heroes-focused-fighters-premium-collection",
+    "price": null,
+    "timestamp": "2026-10-01T23:01:23.730933+00:00",
+    "priority": true,
+    "image": "http://www.jbhifi.co.nz/cdn/shop/files/487931-Product-0-I-639264270602540896_1024x1024.jpg",
+    "limit": "Limit 1 per order",
     "seen_count": 0
   }
 ]
