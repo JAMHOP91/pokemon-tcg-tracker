@@ -1,14 +1,5 @@
 [
   {
-    "site": "Card Masters NZ",
-    "title": "CHARIZARD V BRILLIANT STARS - PSA 10",
-    "url": "https://cardmasters.co.nz/products/charizard-v-brilliant-stars-psa-10",
-    "price": "$420.00",
-    "timestamp": "2026-08-20T11:20:53.582929+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/OWv5QiAymEyQXlSrOEOWqw_1200x2024.jpg?v=1787224635"
-  },
-  {
     "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG Prismatic Evolutions Mini-Tin Display (8 Mini-Tins)",
     "url": "https://cardbot.co.nz/products/sv8-5-mt",
@@ -10662,5 +10653,16 @@
     "image": "http://cardbot.co.nz/cdn/shop/files/OO5TbUt8p0m-IoqZYlJwGQ.jpg?v=1790833643",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG ME02.5 Ascended Heroes Booster Bundle",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-pre-order-ship-on-february-20-2026",
+    "price": "$160.00",
+    "timestamp": "2026-10-01T06:31:10.661440+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Mega_Evolution_Ascended_Heroes_Booster_Bundle.jpg?v=1766019915",
+    "limit": null,
+    "seen_count": 1
   }
 ]
