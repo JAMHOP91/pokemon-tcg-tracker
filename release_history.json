@@ -1,14 +1,5 @@
 [
   {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Evolution - Perfect Order Booster (Single)",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-single",
-    "price": "$9.99",
-    "timestamp": "2026-08-20T18:11:02.465912+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Meowth_EN_grande.jpg?v=1774554427"
-  },
-  {
     "site": "Hobby Master - Pokemon",
     "title": "PITCH BLACK: BOOSTER BOX",
     "url": "https://hobbymaster.co.nz/products/product/47223",
@@ -10666,6 +10657,17 @@
     "timestamp": "2026-10-01T20:31:07.804655+00:00",
     "priority": true,
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-2-Pack-Blister-Zarude.jpg?v=1790809018",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions 2 pack Blister pack",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-2-pack-blister-pack",
+    "price": "$31.99",
+    "timestamp": "2026-10-01T21:35:56.843806+00:00",
+    "priority": true,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCG-Megaevolutions2packBlister.jpg?v=1790806747",
     "limit": null,
     "seen_count": 0
   }
