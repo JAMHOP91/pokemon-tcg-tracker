@@ -1,14 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Tohoku 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-tohoku-2025-special-collection-box",
-    "price": "$369.00",
-    "timestamp": "2026-08-19T10:27:57.751289+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/tohoku-box-cardbot-pokemon-center.jpg?v=1759255193"
-  },
-  {
     "site": "Cool Shit - Pokemon",
     "title": "View Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box (Pre- Order) STRICTLY 1PP",
     "url": "https://www.coolshit.co.nz/product/celebration",
@@ -10643,6 +10634,17 @@
     "priority": true,
     "image": "http://www.jbhifi.co.nz/cdn/shop/files/480016-Product-0-I-639185705402811336_1024x1024.jpg",
     "limit": "Limit 1 per order",
+    "seen_count": 0
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Zarude 2-Pack Blister",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-zarude-2-pack-blister",
+    "price": "$36.80",
+    "timestamp": "2026-10-01T02:31:24.628381+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/upload-1789789239908.jpg?v=1789789241",
+    "limit": null,
     "seen_count": 0
   }
 ]
