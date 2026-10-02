@@ -1,15 +1,6 @@
 [
   {
     "site": "Collect All Day",
-    "title": "Burning Shadows 3-Pack Blister",
-    "url": "https://www.collectallday.com/new/burning-shadows-3-pack",
-    "price": "from NZ$175.00",
-    "timestamp": "2026-08-20T23:40:52.098470+00:00",
-    "priority": false,
-    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5f29e7a80dc53066d6ca647d/1779703276980/651px-SM3_Blister_Cosmog.jpg?format=1500w"
-  },
-  {
-    "site": "Collect All Day",
     "title": "Blastoise VMAX Starter Set",
     "url": "https://www.collectallday.com/new/blastoise-vmax-starter-set",
     "price": "NZ$55.00",
@@ -10674,5 +10665,16 @@
     "image": "https://assets.bigcartel.com/product_images/430009425/1.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
     "limit": null,
     "seen_count": 6
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: Delta Reign Booster Bundle - Pre-order",
+    "url": "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-delta-reign-booster-bundle-pre-order",
+    "price": "$99.00",
+    "timestamp": "2026-10-02T07:31:07.843511+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/6f86e7_d7b30e7dc6e04a9e96cf806af877f3c6~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 0
   }
 ]
