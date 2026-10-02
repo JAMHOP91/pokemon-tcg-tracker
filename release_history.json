@@ -1,15 +1,6 @@
 [
   {
     "site": "Collect All Day",
-    "title": "Venusaur VMAX Starter Set",
-    "url": "https://www.collectallday.com/new/venusaur-vmax-starter-set",
-    "price": "NZ$55.00",
-    "timestamp": "2026-08-20T23:40:52.098470+00:00",
-    "priority": false,
-    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ff868cd81817a4febd39134/1610115281829/410px-Venusaur_VMAX_Starter_Set.jpg?format=1500w"
-  },
-  {
-    "site": "Collect All Day",
     "title": "Burning Shadows 3-Pack Blister",
     "url": "https://www.collectallday.com/new/burning-shadows-3-pack",
     "price": "from NZ$175.00",
@@ -10672,5 +10663,16 @@
     "image": "http://www.jbhifi.co.nz/cdn/shop/files/487931-Product-0-I-639264270602540896_1024x1024.jpg",
     "limit": "Limit 1 per order",
     "seen_count": 0
+  },
+  {
+    "site": "Cool Shit - Watchlist",
+    "title": "View Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Elite Trainer Box (PRE-ORDER) (status: sold out)",
+    "url": "https://www.coolshit.co.nz/product/deltaetb",
+    "price": "NZ$149.00",
+    "timestamp": "2026-10-02T06:01:23.707893+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/430009425/1.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 6
   }
 ]
