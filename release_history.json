@@ -1,14 +1,5 @@
 [
   {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pokemon TCG: Mega Moonlight Tin (Mega Clefable ex)",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
-    "price": "$54.99",
-    "timestamp": "2026-08-21T05:10:58.051449+00:00",
-    "priority": false,
-    "image": "http://getthosecards.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Moonlit-Tin-Mega-Clefable_EN.jpg?v=1780883693"
-  },
-  {
     "site": "Cool Shit - Pokemon",
     "title": "View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order)",
     "url": "https://www.coolshit.co.nz/product/boosterbundle",
@@ -10686,6 +10677,17 @@
     "timestamp": "2026-10-05T22:40:59.786252+00:00",
     "priority": false,
     "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67a6fcd3353fc7373aea9a12/1759111658444/Screenshot+2025-02-08+195219.png?format=1500w",
+    "limit": null,
+    "seen_count": 1
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG 30th Celebration Mini Tin",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-mini-tin",
+    "price": "$69.99",
+    "timestamp": "2026-10-05T23:10:43.729966+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Mini-Tin.jpg?v=1790819697",
     "limit": null,
     "seen_count": 1
   }
