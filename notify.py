@@ -1,4 +1,4 @@
-﻿"""
+"""
 Sends messages to your Telegram chat via a bot.
 """
 
@@ -77,4 +77,14 @@ def notify_price_drops(site_name: str, drops: list[dict]) -> None:
     lines = [f"PRICE DROP on {site_name}!"]
     for d in drops:
         lines.append(f"- <a href=\"{d['url']}\">{d['title']}</a>: {d['old_price']} -> {d['new_price']}")
+    send_telegram_message("\n".join(lines))
+
+
+def notify_restocks(site_name: str, products: list[dict], priority: bool = False) -> None:
+    if not products:
+        return
+    header = "PRIORITY RESTOCK" if priority else "RESTOCK"
+    lines = [f"{header} on {site_name} (was sold out, now available)"]
+    for p in products:
+        lines.append(_format_line(p))
     send_telegram_message("\n".join(lines))

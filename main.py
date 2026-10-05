@@ -1,4 +1,4 @@
-﻿"""
+"""
 Runs every configured site checker, compares results against previously
 seen products, notifies on anything new via Telegram, and saves updated state.
 Tracks how long each site has been continuously failing and warns based
@@ -17,7 +17,7 @@ import requests
 from datetime import datetime, timezone
 from pathlib import Path
 
-from notify import notify_new_products, notify_scraper_warning, notify_scraper_recovered, notify_priority_products
+from notify import notify_new_products, notify_scraper_warning, notify_scraper_recovered, notify_priority_products, notify_restocks
 from priority import load_priority_keywords, load_priority_exclude_keywords, is_priority_product
 from sites import jbhifi
 from sites import coolshit
@@ -113,6 +113,7 @@ SITES = [
 ]
 
 DEFAULT_FAILURE_THRESHOLD_MINUTES = 90
+RESTOCK_COOLDOWN_SECONDS = 2 * 60 * 60
 
 
 def load_state() -> dict:
@@ -262,6 +263,54 @@ def main():
         current_products = current_products or []
         current_ids = {p["id"] for p in current_products}
         new_products = [p for p in current_products if p["id"] not in seen_ids]
+
+        # Restock detection - only for products carrying an "available" flag
+        # (pre-order trackers, which include sold-out items). Fires when an
+        # already-seen product flips from sold out to buyable.
+        availability = site_state.setdefault("availability", {})
+        restocks = []
+        for p in current_products:
+            if p.get("available") is None:
+                continue
+            pid = p["id"]
+            prev = availability.get(pid)
+            prev_available = prev.get("a") if isinstance(prev, dict) else None
+            last_alert = prev.get("t") if isinstance(prev, dict) else None
+            entry = {"a": p["available"], "t": last_alert}
+            if pid in seen_ids and prev_available is False and p["available"]:
+                cooled_down = True
+                if last_alert:
+                    age = (now - datetime.fromisoformat(last_alert)).total_seconds()
+                    cooled_down = age >= RESTOCK_COOLDOWN_SECONDS
+                if cooled_down:
+                    restocks.append(p)
+                    entry["t"] = now.isoformat()
+            availability[pid] = entry
+
+        if restocks:
+            print(f"  {len(restocks)} restock(s)")
+            for p in restocks:
+                image, limit = fetch_product_page_extras(p["url"])
+                p["image"] = image
+                p["limit"] = limit
+            priority_restocks = [p for p in restocks if is_priority_product(p["title"], priority_keywords, priority_exclude_keywords)]
+            regular_restocks = [p for p in restocks if p not in priority_restocks]
+            if priority_restocks:
+                notify_restocks(site_name, priority_restocks, priority=True)
+            if regular_restocks:
+                notify_restocks(site_name, regular_restocks)
+            for p in restocks:
+                history.append({
+                    "site": site_name,
+                    "title": f"[RESTOCK] {p['title']}",
+                    "url": p["url"],
+                    "price": p.get("price"),
+                    "timestamp": now.isoformat(),
+                    "priority": p in priority_restocks,
+                    "image": p.get("image"),
+                    "limit": p.get("limit"),
+                    "seen_count": 0,
+                })
 
         if new_products:
             for p in new_products:

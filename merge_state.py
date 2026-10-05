@@ -1,4 +1,4 @@
-﻿"""
+"""
 Merges seen_products.json between the current local state and whatever
 is on origin/main, combining (union) the "seen_ids" lists AND the
 "prices" dictionaries per site, rather than picking one side entirely.
@@ -63,6 +63,10 @@ def merge():
         merged_prices = dict(remote_prices)
         merged_prices.update(local_prices)
         local_entry["prices"] = merged_prices
+
+        merged_availability = dict(remote_entry.get("availability", {}))
+        merged_availability.update(local_entry.get("availability", {}))
+        local_entry["availability"] = merged_availability
 
         merged[site_name] = local_entry
 
