@@ -1,49 +1,51 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-knock-out-collection",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-sticker-blister-assorted-styles",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-pokemon-tcg-mega-evolution-2-5-ascended-heroes-focused-fighters-premium-collection",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box"
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-knock-out-collection",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-sticker-blister-assorted-styles"
     ],
-    "zero_streak": 185,
+    "zero_streak": 186,
     "warned": true,
     "first_failure_at": "2026-10-01T23:31:13.344197+00:00",
-    "prices": {}
+    "prices": {},
+    "availability": {}
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
+      "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/deltaetb",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/3PACKDELTA"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/DELTABOOSTERBOX"
     ],
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null,
-    "prices": {}
+    "prices": {},
+    "availability": {}
   },
   "The Game Tree NZ": {
     "seen_ids": [
+      "7330101330069",
+      "8964116873365",
+      "7439084388501",
+      "7330088353941",
+      "7330101002389",
+      "7330099691669",
+      "7561509896341",
+      "7439107129493",
+      "7330100445333",
       "7330101624981",
       "7330103165077",
-      "7330101330069",
-      "7439107129493",
-      "7330088353941",
-      "7330099691669",
-      "7439084388501",
-      "7330100445333",
       "7439125512341",
-      "7330099200149",
-      "7330101002389",
-      "8964116873365",
-      "7561509896341"
+      "7330099200149"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -80,15 +82,16 @@
       "7330101330069": 129.88,
       "7330103165077": 96.88,
       "7330101002389": 86.88
-    }
+    },
+    "availability": {}
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558380781629",
+      "7558378979389",
       "7558379864125",
+      "7558380781629",
       "7558381600829",
-      "7558377930813",
-      "7558378979389"
+      "7558377930813"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -109,33 +112,34 @@
       "7558378455101": 3.0,
       "7558377930813": 3.0,
       "7558377046077": 3.0
-    }
+    },
+    "availability": {}
   },
   "Card Masters NZ": {
     "seen_ids": [
-      "9231223652515",
-      "9231223783587",
-      "9231222079651",
-      "9231220408483",
-      "9231224963235",
-      "9231223128227",
+      "9136790044835",
+      "9136746102947",
       "9136790274211",
+      "9231223128227",
+      "7409030103203",
       "8805645254819",
+      "9231220408483",
       "8856349376675",
+      "7540284915875",
+      "9231224963235",
+      "9231223652515",
+      "8850541740195",
+      "8668035317923",
+      "9136790208675",
+      "9231080751267",
+      "9136791978147",
+      "9231224832163",
+      "9231223783587",
+      "9225964847267",
+      "9231222079651",
       "9231086387363",
       "9227332059299",
-      "7540284915875",
-      "9136746102947",
-      "9136790044835",
-      "9231224832163",
-      "8850541740195",
-      "9136791978147",
-      "9231080751267",
-      "9225964847267",
-      "8668035317923",
-      "9225967042723",
-      "7409030103203",
-      "9136790208675"
+      "9225967042723"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -202,7 +206,8 @@
       "9231228207267": 80.0,
       "9032850505891": 20.0,
       "9249781940387": 800.0
-    }
+    },
+    "availability": {}
   },
   "Hobby Lords - Pokemon": {
     "seen_ids": [
@@ -211,27 +216,28 @@
     "zero_streak": 891,
     "warned": true,
     "first_failure_at": "2026-08-27T20:34:47.010108+00:00",
-    "prices": {}
+    "prices": {},
+    "availability": {}
   },
   "TCG NZ": {
     "seen_ids": [
       "https://www.tcgnz.co.nz/product-page/pokemon-tcg-team-rocket-tin",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-elite-trainer-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-8-5-prismatic-evolutions-2-pack-blister",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-enhanced-booster-box",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-booster-box",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-phantasmal-flames-booster-box",
       "https://www.tcgnz.co.nz/product-page/pre-order-pok\u00e9mon-tcg-destined-rivals-booster-box",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-heroes-mini-tin",
-      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-bundle",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-perfect-order-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-chaos-rising-booster-box",
-      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-sv-unova-mini-tin-sealed-box-8-tins",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-three-booster-blister",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-checklane-blister",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-bundle",
-      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-8-5-prismatic-evolutions-2-pack-blister"
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-elite-trainer-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-sv-unova-mini-tin-sealed-box-8-tins",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-phantasmal-flames-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-checklane-blister"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -258,13 +264,14 @@
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-bundle": 70.0,
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-box": 350.0,
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-8-5-prismatic-evolutions-2-pack-blister": 24.0
-    }
+    },
+    "availability": {}
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10070962241776",
       "10218488725744",
-      "10202363330800",
-      "10070962241776"
+      "10202363330800"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -280,24 +287,25 @@
       "10202317553904": 35.99,
       "10202363330800": 23.99,
       "10218488725744": 54.99
-    }
+    },
+    "availability": {}
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9640491909359",
-      "9464484790511",
-      "9640492007663",
-      "9464484724975",
-      "9388718489839",
-      "9328351772911",
       "9328342073583",
+      "9640492138735",
+      "9464484626671",
+      "9388718489839",
+      "9182638178543",
+      "9388711182575",
+      "9328360816879",
+      "9464484724975",
+      "9328351772911",
+      "9464484790511",
       "9464484921583",
       "9328364945647",
-      "9640492138735",
-      "9328360816879",
-      "9388711182575",
-      "9182638178543",
-      "9464484626671"
+      "9640491909359",
+      "9640492007663"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -323,44 +331,48 @@
       "9328360816879": 64.99,
       "9388718489839": 12.99,
       "9464484724975": 139.99
-    }
+    },
+    "availability": {}
   },
   "Collect All Day": {
     "seen_ids": [
-      "https://www.collectallday.com/new/burning-shadows-3-pack",
-      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/pokeball-tin-2021",
-      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
-      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set"
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set"
     ],
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null,
-    "prices": {}
+    "prices": {},
+    "availability": {}
   },
   "30th Celebration Box - Web Monitor": {
     "seen_ids": [],
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null,
-    "prices": {}
+    "prices": {},
+    "availability": {}
   },
   "Cool Shit - Coming Soon Watch": {
     "seen_ids": [],
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null,
-    "prices": {}
+    "prices": {},
+    "availability": {}
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8584003977412",
       "8542844846276",
-      "8479841648836",
-      "8584003977412"
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -379,30 +391,31 @@
       "8584002666692": 360.0,
       "8542844846276": 65.0,
       "8584003977412": 65.0
-    }
+    },
+    "availability": {}
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
-      "https://hobbymaster.co.nz/products/product/46974",
-      "https://hobbymaster.co.nz/products/product/47427",
-      "https://hobbymaster.co.nz/products/product/46973",
-      "https://hobbymaster.co.nz/products/product/45878",
-      "https://hobbymaster.co.nz/products/product/47223",
-      "https://hobbymaster.co.nz/products/product/47423",
-      "https://hobbymaster.co.nz/products/product/47429",
-      "https://hobbymaster.co.nz/products/product/47232",
-      "https://hobbymaster.co.nz/products/product/47425",
-      "https://hobbymaster.co.nz/products/product/46971",
-      "https://hobbymaster.co.nz/products/product/47426",
-      "https://hobbymaster.co.nz/products/product/45463",
-      "https://hobbymaster.co.nz/products/product/47431",
-      "https://hobbymaster.co.nz/products/product/47432",
-      "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/47236",
-      "https://hobbymaster.co.nz/products/product/47428",
+      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/47237",
+      "https://hobbymaster.co.nz/products/product/47232",
+      "https://hobbymaster.co.nz/products/product/46971",
+      "https://hobbymaster.co.nz/products/product/46976",
+      "https://hobbymaster.co.nz/products/product/47429",
       "https://hobbymaster.co.nz/products/product/46975",
-      "https://hobbymaster.co.nz/products/product/47051"
+      "https://hobbymaster.co.nz/products/product/45878",
+      "https://hobbymaster.co.nz/products/product/45463",
+      "https://hobbymaster.co.nz/products/product/47423",
+      "https://hobbymaster.co.nz/products/product/47431",
+      "https://hobbymaster.co.nz/products/product/47427",
+      "https://hobbymaster.co.nz/products/product/47428",
+      "https://hobbymaster.co.nz/products/product/47425",
+      "https://hobbymaster.co.nz/products/product/47432",
+      "https://hobbymaster.co.nz/products/product/47223",
+      "https://hobbymaster.co.nz/products/product/46974",
+      "https://hobbymaster.co.nz/products/product/47426"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -419,24 +432,25 @@
       "https://hobbymaster.co.nz/products/product/38548": 216.0,
       "https://hobbymaster.co.nz/products/product/37806": 75.0,
       "https://hobbymaster.co.nz/products/product/47369": 80.0
-    }
+    },
+    "availability": {}
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [
       "7915168563261",
-      "7964215935037",
-      "7964211118141",
-      "7889660346429",
-      "7915155521597",
-      "7964217802813",
-      "7964206039101",
-      "7915239145533",
-      "7915175608381",
-      "7915180326973",
-      "7964213051453",
-      "7915166564413",
       "7915173249085",
-      "7915185373245"
+      "7964211118141",
+      "7915239145533",
+      "7915180326973",
+      "7964215935037",
+      "7964206039101",
+      "7915185373245",
+      "7915166564413",
+      "7889660346429",
+      "7964213051453",
+      "7915175608381",
+      "7964217802813",
+      "7915155521597"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -463,6 +477,52 @@
       "7915166564413": 65.0,
       "7915155521597": 65.0,
       "7889660346429": 25.0
+    },
+    "availability": {
+      "7964217802813": {
+        "a": false,
+        "t": null
+      },
+      "7964215935037": {
+        "a": false,
+        "t": null
+      },
+      "7964213051453": {
+        "a": false,
+        "t": null
+      },
+      "7964211118141": {
+        "a": false,
+        "t": null
+      },
+      "7964206039101": {
+        "a": false,
+        "t": null
+      },
+      "7915239145533": {
+        "a": false,
+        "t": null
+      },
+      "7915175608381": {
+        "a": false,
+        "t": null
+      },
+      "7915173249085": {
+        "a": false,
+        "t": null
+      },
+      "7915168563261": {
+        "a": false,
+        "t": null
+      },
+      "7915166564413": {
+        "a": false,
+        "t": null
+      },
+      "7915155521597": {
+        "a": false,
+        "t": null
+      }
     }
   },
   "WP Games - Pre-Orders": {
@@ -482,7 +542,8 @@
       "9619081855215": 429.99,
       "9619082182895": 509.99,
       "9620812234991": 79.99
-    }
+    },
+    "availability": {}
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [],
@@ -492,46 +553,48 @@
     "prices": {
       "10276187308116": 150.0,
       "10288263495764": 35.0
-    }
+    },
+    "availability": {}
   },
   "Collectors Guild - Pokemon Pre-Orders": {
     "seen_ids": [],
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null,
-    "prices": {}
+    "prices": {},
+    "availability": {}
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
       "10267121221927",
-      "10267147239719",
-      "10261316305191",
-      "10267173421351",
-      "10267122204967",
-      "10351898296615",
-      "10344958034215",
-      "10349982744871",
-      "10261313487143",
-      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-ditto-premium-collection-pre-order",
-      "10261316895015",
-      "10261317288231",
-      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-delta-reign-booster-bundle-pre-order",
-      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-day-pre-order",
       "10341495734567",
-      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-mini-tin-sealed-case-of-10-tins-x-4-pre-order",
-      "https://www.magicreddragon.co.nz/product-page/copy-of-pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-night-pre-order",
-      "10344954954023",
-      "10232830624039",
-      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-sylveon-ex-pre-order",
-      "10267174994215",
+      "10267160871207",
+      "10344958034215",
       "10261316469031",
-      "10267156316455",
-      "10267125383463",
+      "10267122204967",
+      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-sylveon-ex-pre-order",
+      "10261313487143",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-greninja-ex-pre-order",
+      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-day-pre-order",
+      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-delta-reign-booster-bundle-pre-order",
+      "10261316305191",
+      "10267156316455",
+      "10267147239719",
+      "10267143930151",
+      "https://www.magicreddragon.co.nz/product-page/copy-of-pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-night-pre-order",
+      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-mini-tin-sealed-case-of-10-tins-x-4-pre-order",
+      "10267173421351",
+      "10261317288231",
+      "10261316895015",
+      "10232830624039",
       "10267162444071",
       "10267157922087",
-      "10267160871207",
-      "10267143930151"
+      "10351898296615",
+      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-ditto-premium-collection-pre-order",
+      "10344954954023",
+      "10349982744871",
+      "10267125383463",
+      "10267174994215"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -561,184 +624,185 @@
       "10261316469031": 85.0,
       "10261316305191": 75.0,
       "10261313487143": 79.0
-    }
+    },
+    "availability": {}
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
-      "7757341524168",
-      "8335790112968",
-      "8214401646792",
-      "8243867058376",
-      "8020929315016",
-      "8205088358600",
-      "8021019853000",
-      "8021011038408",
-      "7594462445768",
-      "7594465755336",
-      "7757344309448",
-      "8236841894088",
-      "8052575273160",
-      "8245250293960",
-      "8043778474184",
-      "7757340868808",
-      "8343266754760",
-      "8244142637256",
-      "8245249441992",
-      "7757346668744",
-      "7600826745032",
-      "8283394932936",
-      "7662995177672",
-      "8243864666312",
-      "8311952015560",
-      "7700705476808",
-      "7593009873096",
-      "8330196975816",
-      "8052574126280",
-      "8020938817736",
-      "8311951655112",
-      "8231339229384",
-      "7591711965384",
-      "8236842221768",
-      "8330197074120",
-      "8320457408712",
-      "8191529648328",
-      "8335789949128",
-      "7757340180680",
-      "8283393229000",
-      "8243865551048",
-      "8052575469768",
-      "8315313717448",
-      "7700702658760",
-      "8246361653448",
-      "7673193922760",
-      "8020976926920",
-      "7591711604936",
-      "8205091012808",
-      "7673201688776",
-      "8245516632264",
-      "8020983120072",
       "8020934295752",
-      "8315313553608",
-      "8280893653192",
-      "7693502972104",
-      "7594456907976",
-      "7757347127496",
-      "8320457048264",
-      "7720884011208",
-      "8345455132872",
-      "8315313750216",
-      "8283394441416",
-      "8345456181448",
-      "8269525713096",
-      "8217223790792",
-      "7549078307016",
-      "8020986396872",
-      "7662998847688",
-      "8205091930312",
-      "8109961248968",
-      "8052538966216",
-      "7693500580040",
-      "8283395686600",
-      "7662994784456",
-      "8180017823944",
-      "8310572941512",
-      "8345453461704",
-      "8021003698376",
-      "8320457310408",
-      "7592035221704",
-      "8217226510536",
-      "7700697776328",
-      "7713323319496",
-      "7693498417352",
-      "8096127746248",
-      "7594464149704",
-      "8198431113416",
-      "8052572881096",
-      "8052567769288",
-      "8021016477896",
-      "8191530303688",
-      "8245249802440",
-      "8217215303880",
-      "7692342296776",
-      "8271755247816",
-      "8217226477768",
-      "7606041673928",
-      "8020952285384",
-      "8238700953800",
-      "8233458008264",
-      "7662994063560",
-      "8335790178504",
-      "8052557185224",
-      "7757294108872",
-      "8052546699464",
-      "8311951425736",
-      "8283393982664",
-      "7591708328136",
-      "8335789654216",
-      "8020997341384",
+      "8243867058376",
       "7693501268168",
-      "8109955449032",
-      "7591711801544",
-      "8021007532232",
-      "8020920008904",
-      "8320457179336",
-      "8109949583560",
-      "8198103892168",
-      "8052571701448",
-      "8198101532872",
-      "7591712391368",
-      "7757342572744",
-      "8320457998536",
-      "8191528108232",
-      "7662998388936",
-      "7591707640008",
-      "8315313914056",
-      "8333628604616",
-      "8096031375560",
-      "8052546273480",
-      "8020926464200",
-      "8243866239176",
-      "8236841304264",
-      "8333631586504",
-      "7600825958600",
-      "8205091340488",
-      "8217223168200",
-      "8205090717896",
-      "7692343181512",
-      "8191527682248",
-      "7693484556488",
-      "8269524041928",
-      "8181079441608",
-      "8269519683784",
-      "8246361424072",
-      "8205092061384",
-      "8236842156232",
-      "8243868172488",
-      "8214396993736",
-      "8269521256648",
-      "8020922564808",
-      "7662998552776",
-      "7757292699848",
-      "8214403416264",
-      "8052543848648",
-      "8020941635784",
-      "8052574814408",
-      "8244142244040",
-      "7594465984712",
-      "8269519945928",
+      "8320457310408",
+      "8243864666312",
+      "8330196975816",
+      "7700705476808",
+      "8280893653192",
       "8271751610568",
+      "8052543848648",
+      "7662995177672",
+      "8205088358600",
+      "7693502972104",
+      "8246361424072",
+      "8283395686600",
+      "8198101532872",
+      "7591711801544",
+      "8198431113416",
+      "8236842156232",
+      "8021016477896",
+      "8021003698376",
+      "7594465984712",
+      "7720884011208",
+      "8021019853000",
+      "8164485333192",
+      "8205090717896",
+      "8020941635784",
+      "8311951655112",
+      "8020938817736",
+      "7662998388936",
+      "8345455132872",
+      "7594464149704",
+      "7594462445768",
+      "8320457998536",
+      "8283394932936",
+      "8020997341384",
+      "7693496484040",
+      "8214401646792",
+      "8205091930312",
+      "8315313717448",
+      "7591708328136",
+      "7713323319496",
+      "8109949583560",
+      "7757341524168",
+      "8217215303880",
+      "7591707640008",
+      "7591711965384",
+      "8283394441416",
+      "8269519683784",
+      "7757340868808",
+      "8217223168200",
+      "8244142637256",
+      "8191529648328",
+      "7757344309448",
+      "8311952015560",
+      "8020983120072",
+      "8052546699464",
+      "7600825958600",
+      "8109955449032",
+      "7673201688776",
+      "7693484556488",
+      "8217223790792",
+      "8269523484872",
+      "7591711604936",
+      "8181079441608",
+      "7594466148552",
+      "8217226510536",
+      "7591712391368",
+      "8269521256648",
+      "8315313914056",
+      "7592035221704",
+      "8191528108232",
+      "7662998847688",
+      "8021007532232",
+      "8205092061384",
+      "7700697776328",
+      "8217226477768",
+      "8320457408712",
+      "7757340180680",
+      "8243868172488",
+      "8244142244040",
+      "8096127746248",
+      "8043778474184",
+      "8238700953800",
+      "8180016644296",
+      "8345453461704",
+      "7606041673928",
+      "8020922564808",
       "8052570652872",
       "8311952507080",
-      "7594466148552",
-      "8269523484872",
-      "8311950999752",
-      "8343265935560",
-      "8164485333192",
-      "8180016644296",
-      "7693485375688",
+      "8269525713096",
+      "8311951425736",
+      "8236841304264",
+      "8180017823944",
+      "7549078307016",
+      "8335790112968",
+      "7757347127496",
+      "8020926464200",
+      "7593009873096",
+      "7757342572744",
+      "8245516632264",
+      "8243865551048",
+      "7692343181512",
+      "7594465755336",
+      "8269519945928",
+      "8245249802440",
+      "7662994784456",
+      "8330197074120",
+      "8335789949128",
+      "7757292699848",
+      "8231339229384",
+      "8052557185224",
+      "8191530303688",
+      "7757346668744",
+      "8198103892168",
+      "7700702658760",
+      "8052574126280",
+      "8205091340488",
+      "8052575273160",
+      "8020929315016",
+      "7594456907976",
       "8245516959944",
+      "7693498417352",
+      "8310572941512",
+      "8052575469768",
+      "8269524041928",
+      "8191527682248",
+      "8109961248968",
+      "7692342296776",
+      "8214396993736",
+      "8335789654216",
+      "8320457179336",
+      "8052571701448",
+      "8052546273480",
+      "8343265935560",
+      "8020920008904",
+      "7757294108872",
+      "8205091012808",
+      "7693485375688",
+      "8233458008264",
+      "8236842221768",
+      "8320457048264",
+      "8245250293960",
+      "7600826745032",
+      "7662998552776",
+      "8333628604616",
       "8198428426440",
-      "7693496484040"
+      "8343266754760",
+      "7693500580040",
+      "8315313553608",
+      "8246361653448",
+      "8283393982664",
+      "8052572881096",
+      "8021011038408",
+      "7673193922760",
+      "8214403416264",
+      "8096031375560",
+      "8345456181448",
+      "8335790178504",
+      "8052574814408",
+      "8020986396872",
+      "8020976926920",
+      "8271755247816",
+      "8243866239176",
+      "8236841894088",
+      "8315313750216",
+      "8052538966216",
+      "7662994063560",
+      "8283393229000",
+      "8311950999752",
+      "8020952285384",
+      "8052567769288",
+      "8333631586504",
+      "8245249441992"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -918,16 +982,714 @@
       "7549078307016": 26.99,
       "8343266754760": 39.99,
       "8343265935560": 89.99
+    },
+    "availability": {
+      "8280893653192": {
+        "a": false,
+        "t": null
+      },
+      "8271755247816": {
+        "a": false,
+        "t": null
+      },
+      "8271751610568": {
+        "a": false,
+        "t": null
+      },
+      "8269525713096": {
+        "a": false,
+        "t": null
+      },
+      "8269524041928": {
+        "a": false,
+        "t": null
+      },
+      "8269523484872": {
+        "a": false,
+        "t": null
+      },
+      "8217226477768": {
+        "a": false,
+        "t": null
+      },
+      "8214396993736": {
+        "a": false,
+        "t": null
+      },
+      "8205091930312": {
+        "a": false,
+        "t": null
+      },
+      "8205090717896": {
+        "a": false,
+        "t": null
+      },
+      "8198431113416": {
+        "a": false,
+        "t": null
+      },
+      "8191530303688": {
+        "a": false,
+        "t": null
+      },
+      "8191529648328": {
+        "a": false,
+        "t": null
+      },
+      "8191528108232": {
+        "a": false,
+        "t": null
+      },
+      "8191527682248": {
+        "a": false,
+        "t": null
+      },
+      "8181079441608": {
+        "a": false,
+        "t": null
+      },
+      "8109961248968": {
+        "a": false,
+        "t": null
+      },
+      "8052567769288": {
+        "a": false,
+        "t": null
+      },
+      "7593009873096": {
+        "a": false,
+        "t": null
+      },
+      "8345456181448": {
+        "a": false,
+        "t": null
+      },
+      "8345455132872": {
+        "a": false,
+        "t": null
+      },
+      "8345453461704": {
+        "a": false,
+        "t": null
+      },
+      "8343266754760": {
+        "a": false,
+        "t": null
+      },
+      "8343265935560": {
+        "a": false,
+        "t": null
+      },
+      "8335790178504": {
+        "a": false,
+        "t": null
+      },
+      "8335790112968": {
+        "a": false,
+        "t": null
+      },
+      "8335789949128": {
+        "a": false,
+        "t": null
+      },
+      "8335789654216": {
+        "a": false,
+        "t": null
+      },
+      "8333631586504": {
+        "a": false,
+        "t": null
+      },
+      "8333628604616": {
+        "a": false,
+        "t": null
+      },
+      "8330197074120": {
+        "a": false,
+        "t": null
+      },
+      "8330196975816": {
+        "a": false,
+        "t": null
+      },
+      "8320457998536": {
+        "a": false,
+        "t": null
+      },
+      "8320457408712": {
+        "a": false,
+        "t": null
+      },
+      "8320457310408": {
+        "a": false,
+        "t": null
+      },
+      "8320457179336": {
+        "a": false,
+        "t": null
+      },
+      "8320457048264": {
+        "a": false,
+        "t": null
+      },
+      "8315313914056": {
+        "a": false,
+        "t": null
+      },
+      "8315313750216": {
+        "a": false,
+        "t": null
+      },
+      "8315313717448": {
+        "a": false,
+        "t": null
+      },
+      "8315313553608": {
+        "a": false,
+        "t": null
+      },
+      "8311952507080": {
+        "a": false,
+        "t": null
+      },
+      "8311952015560": {
+        "a": false,
+        "t": null
+      },
+      "8311951655112": {
+        "a": false,
+        "t": null
+      },
+      "8311951425736": {
+        "a": false,
+        "t": null
+      },
+      "8311950999752": {
+        "a": false,
+        "t": null
+      },
+      "8310572941512": {
+        "a": false,
+        "t": null
+      },
+      "8283395686600": {
+        "a": false,
+        "t": null
+      },
+      "8283394932936": {
+        "a": false,
+        "t": null
+      },
+      "8283394441416": {
+        "a": false,
+        "t": null
+      },
+      "8283393982664": {
+        "a": false,
+        "t": null
+      },
+      "8283393229000": {
+        "a": false,
+        "t": null
+      },
+      "8269521256648": {
+        "a": false,
+        "t": null
+      },
+      "8269519945928": {
+        "a": false,
+        "t": null
+      },
+      "8269519683784": {
+        "a": false,
+        "t": null
+      },
+      "8246361653448": {
+        "a": false,
+        "t": null
+      },
+      "8246361424072": {
+        "a": false,
+        "t": null
+      },
+      "8245516959944": {
+        "a": false,
+        "t": null
+      },
+      "8245516632264": {
+        "a": false,
+        "t": null
+      },
+      "8245250293960": {
+        "a": false,
+        "t": null
+      },
+      "8245249802440": {
+        "a": false,
+        "t": null
+      },
+      "8245249441992": {
+        "a": false,
+        "t": null
+      },
+      "8244142637256": {
+        "a": false,
+        "t": null
+      },
+      "8244142244040": {
+        "a": false,
+        "t": null
+      },
+      "8243868172488": {
+        "a": false,
+        "t": null
+      },
+      "8243867058376": {
+        "a": false,
+        "t": null
+      },
+      "8243866239176": {
+        "a": false,
+        "t": null
+      },
+      "8243865551048": {
+        "a": false,
+        "t": null
+      },
+      "8243864666312": {
+        "a": false,
+        "t": null
+      },
+      "8238700953800": {
+        "a": false,
+        "t": null
+      },
+      "8236842221768": {
+        "a": false,
+        "t": null
+      },
+      "8236842156232": {
+        "a": false,
+        "t": null
+      },
+      "8236841894088": {
+        "a": false,
+        "t": null
+      },
+      "8236841304264": {
+        "a": false,
+        "t": null
+      },
+      "8233458008264": {
+        "a": false,
+        "t": null
+      },
+      "8231339229384": {
+        "a": false,
+        "t": null
+      },
+      "8217226510536": {
+        "a": false,
+        "t": null
+      },
+      "8217223790792": {
+        "a": false,
+        "t": null
+      },
+      "8217223168200": {
+        "a": false,
+        "t": null
+      },
+      "8217215303880": {
+        "a": false,
+        "t": null
+      },
+      "8214403416264": {
+        "a": false,
+        "t": null
+      },
+      "8214401646792": {
+        "a": false,
+        "t": null
+      },
+      "8205092061384": {
+        "a": false,
+        "t": null
+      },
+      "8205091340488": {
+        "a": false,
+        "t": null
+      },
+      "8205091012808": {
+        "a": false,
+        "t": null
+      },
+      "8205088358600": {
+        "a": false,
+        "t": null
+      },
+      "8198428426440": {
+        "a": false,
+        "t": null
+      },
+      "8198103892168": {
+        "a": false,
+        "t": null
+      },
+      "8198101532872": {
+        "a": false,
+        "t": null
+      },
+      "8180017823944": {
+        "a": false,
+        "t": null
+      },
+      "8180016644296": {
+        "a": false,
+        "t": null
+      },
+      "8164485333192": {
+        "a": false,
+        "t": null
+      },
+      "8109955449032": {
+        "a": false,
+        "t": null
+      },
+      "8109949583560": {
+        "a": false,
+        "t": null
+      },
+      "8096127746248": {
+        "a": false,
+        "t": null
+      },
+      "8096031375560": {
+        "a": false,
+        "t": null
+      },
+      "8052575469768": {
+        "a": false,
+        "t": null
+      },
+      "8052575273160": {
+        "a": false,
+        "t": null
+      },
+      "8052574814408": {
+        "a": false,
+        "t": null
+      },
+      "8052574126280": {
+        "a": false,
+        "t": null
+      },
+      "8052572881096": {
+        "a": false,
+        "t": null
+      },
+      "8052571701448": {
+        "a": false,
+        "t": null
+      },
+      "8052570652872": {
+        "a": false,
+        "t": null
+      },
+      "8052557185224": {
+        "a": false,
+        "t": null
+      },
+      "8052546699464": {
+        "a": false,
+        "t": null
+      },
+      "8052546273480": {
+        "a": false,
+        "t": null
+      },
+      "8052543848648": {
+        "a": false,
+        "t": null
+      },
+      "8052538966216": {
+        "a": false,
+        "t": null
+      },
+      "8043778474184": {
+        "a": false,
+        "t": null
+      },
+      "8021019853000": {
+        "a": false,
+        "t": null
+      },
+      "8021016477896": {
+        "a": false,
+        "t": null
+      },
+      "8021011038408": {
+        "a": false,
+        "t": null
+      },
+      "8021007532232": {
+        "a": false,
+        "t": null
+      },
+      "8021003698376": {
+        "a": false,
+        "t": null
+      },
+      "8020997341384": {
+        "a": false,
+        "t": null
+      },
+      "8020986396872": {
+        "a": false,
+        "t": null
+      },
+      "8020983120072": {
+        "a": false,
+        "t": null
+      },
+      "8020976926920": {
+        "a": false,
+        "t": null
+      },
+      "8020952285384": {
+        "a": false,
+        "t": null
+      },
+      "8020941635784": {
+        "a": false,
+        "t": null
+      },
+      "8020938817736": {
+        "a": false,
+        "t": null
+      },
+      "8020934295752": {
+        "a": false,
+        "t": null
+      },
+      "8020929315016": {
+        "a": false,
+        "t": null
+      },
+      "8020926464200": {
+        "a": false,
+        "t": null
+      },
+      "8020922564808": {
+        "a": false,
+        "t": null
+      },
+      "8020920008904": {
+        "a": false,
+        "t": null
+      },
+      "7757347127496": {
+        "a": false,
+        "t": null
+      },
+      "7757346668744": {
+        "a": false,
+        "t": null
+      },
+      "7757344309448": {
+        "a": false,
+        "t": null
+      },
+      "7757342572744": {
+        "a": false,
+        "t": null
+      },
+      "7757341524168": {
+        "a": false,
+        "t": null
+      },
+      "7757340868808": {
+        "a": false,
+        "t": null
+      },
+      "7757340180680": {
+        "a": false,
+        "t": null
+      },
+      "7757294108872": {
+        "a": false,
+        "t": null
+      },
+      "7757292699848": {
+        "a": false,
+        "t": null
+      },
+      "7720884011208": {
+        "a": false,
+        "t": null
+      },
+      "7713323319496": {
+        "a": false,
+        "t": null
+      },
+      "7700705476808": {
+        "a": false,
+        "t": null
+      },
+      "7700702658760": {
+        "a": false,
+        "t": null
+      },
+      "7700697776328": {
+        "a": false,
+        "t": null
+      },
+      "7693502972104": {
+        "a": false,
+        "t": null
+      },
+      "7693501268168": {
+        "a": false,
+        "t": null
+      },
+      "7693500580040": {
+        "a": false,
+        "t": null
+      },
+      "7693498417352": {
+        "a": false,
+        "t": null
+      },
+      "7693496484040": {
+        "a": false,
+        "t": null
+      },
+      "7693485375688": {
+        "a": false,
+        "t": null
+      },
+      "7693484556488": {
+        "a": false,
+        "t": null
+      },
+      "7692343181512": {
+        "a": false,
+        "t": null
+      },
+      "7692342296776": {
+        "a": false,
+        "t": null
+      },
+      "7673201688776": {
+        "a": false,
+        "t": null
+      },
+      "7673193922760": {
+        "a": false,
+        "t": null
+      },
+      "7662998847688": {
+        "a": false,
+        "t": null
+      },
+      "7662998552776": {
+        "a": false,
+        "t": null
+      },
+      "7662998388936": {
+        "a": false,
+        "t": null
+      },
+      "7662995177672": {
+        "a": false,
+        "t": null
+      },
+      "7662994784456": {
+        "a": false,
+        "t": null
+      },
+      "7662994063560": {
+        "a": false,
+        "t": null
+      },
+      "7606041673928": {
+        "a": false,
+        "t": null
+      },
+      "7600826745032": {
+        "a": false,
+        "t": null
+      },
+      "7600825958600": {
+        "a": false,
+        "t": null
+      },
+      "7594466148552": {
+        "a": false,
+        "t": null
+      },
+      "7594465984712": {
+        "a": false,
+        "t": null
+      },
+      "7594465755336": {
+        "a": false,
+        "t": null
+      },
+      "7594464149704": {
+        "a": false,
+        "t": null
+      },
+      "7594462445768": {
+        "a": false,
+        "t": null
+      },
+      "7594456907976": {
+        "a": false,
+        "t": null
+      },
+      "7592035221704": {
+        "a": false,
+        "t": null
+      },
+      "7591712391368": {
+        "a": false,
+        "t": null
+      },
+      "7591711965384": {
+        "a": false,
+        "t": null
+      },
+      "7591711801544": {
+        "a": false,
+        "t": null
+      },
+      "7591711604936": {
+        "a": false,
+        "t": null
+      },
+      "7591708328136": {
+        "a": false,
+        "t": null
+      },
+      "7591707640008": {
+        "a": false,
+        "t": null
+      },
+      "7549078307016": {
+        "a": false,
+        "t": null
+      }
     }
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
+      "10270182736168",
+      "10448504848680",
+      "10441619603752",
       "10365187621160",
       "15402635297064",
       "10448504881448",
-      "10441619603752",
-      "10270182736168",
-      "10448504848680",
       "10323223183656"
     ],
     "zero_streak": 0,
@@ -948,16 +1710,17 @@
       "10390759014696": 44.8,
       "10364546351400": 278.0,
       "10441619603752": 12.8
-    }
+    },
+    "availability": {}
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
+      "8631859577028",
+      "8636237676740",
+      "8636163981508",
       "8636199928004",
       "8636177219780",
-      "8631859577028",
-      "8636163981508",
-      "8636191965380",
-      "8636237676740"
+      "8636191965380"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -970,14 +1733,20 @@
       "8636237676740": 80.0,
       "8636163981508": 70.0,
       "8636199928004": 30.0
+    },
+    "availability": {
+      "8631859577028": {
+        "a": false,
+        "t": null
+      }
     }
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
+      "9228422611107",
       "9215139872931",
       "9228412158115",
-      "9215569133731",
-      "9228422611107"
+      "9215569133731"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -988,6 +1757,24 @@
       "9228412158115": 360.0,
       "9215139872931": 170.0,
       "9134942748835": 65.0
+    },
+    "availability": {
+      "9228422611107": {
+        "a": false,
+        "t": null
+      },
+      "9228412158115": {
+        "a": false,
+        "t": null
+      },
+      "9215569133731": {
+        "a": false,
+        "t": null
+      },
+      "9215139872931": {
+        "a": false,
+        "t": null
+      }
     }
   },
   "TCG Culture - Pokemon": {
@@ -998,18 +1785,19 @@
     "prices": {
       "7506199085102": 64.99,
       "7651030859822": 74.99
-    }
+    },
+    "availability": {}
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8970824843462",
-      "8855171334342",
-      "8789885321414",
-      "8909657637062",
       "8970819535046",
-      "8855167008966",
       "8931072311494",
-      "8909649739974"
+      "8855167008966",
+      "8855171334342",
+      "8970824843462",
+      "8909649739974",
+      "8909657637062",
+      "8789885321414"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1024,7 +1812,8 @@
       "8909649739974": 360.0,
       "8909657637062": 99.0,
       "8855167008966": 99.0
-    }
+    },
+    "availability": {}
   },
   "Cardtopia - Pre-Orders": {
     "seen_ids": [
@@ -1035,6 +1824,12 @@
     "first_failure_at": null,
     "prices": {
       "9814982197488": 36.99
+    },
+    "availability": {
+      "9814982197488": {
+        "a": false,
+        "t": null
+      }
     }
   },
   "Mr Tofu Card Store - Pokemon TCG": {
@@ -1047,12 +1842,13 @@
       "9294396063994": 119.99,
       "9294399996154": 23.99,
       "9366286303482": 3500.0
-    }
+    },
+    "availability": {}
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1065,50 +1861,54 @@
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-greninja-ex-box/": 65.22,
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-mini-tin-full-case-10-tins/": 399.13,
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/": 86.09
-    }
+    },
+    "availability": {}
   },
   "Turtle Island - Pokemon Pre-Orders": {
     "seen_ids": [],
-    "zero_streak": 1348,
+    "zero_streak": 1349,
     "warned": true,
     "first_failure_at": "2026-09-15T07:50:47.191071+00:00",
     "prices": {
       "https://turtleisland.co.nz/product/pokemon-tcg-2-pack-blister-pitch-black-chaos-rising": 35.0
-    }
+    },
+    "availability": {}
   },
   "Cool Shit - Premium Collection Password Watch": {
     "seen_ids": [],
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null,
-    "prices": {}
+    "prices": {},
+    "availability": {}
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection::sold_out::View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::available::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/boosterbundle::available::View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
-      "https://www.coolshit.co.nz/product/premiumcollection::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP"
+      "https://www.coolshit.co.nz/product/premiumcollection::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
+      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection::sold_out::View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::available::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP"
     ],
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null,
-    "prices": {}
+    "prices": {},
+    "availability": {}
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
-      "9285795938453",
+      "15401415344277",
+      "9210168803477",
       "9152299892885",
       "9285822251157",
-      "15401330835605",
       "9268784496789",
-      "9210168803477",
-      "15401415344277"
+      "9285795938453",
+      "15401330835605"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1129,16 +1929,17 @@
       "9345866006677": 59.99,
       "9345821311125": 139.99,
       "9345814397077": 89.99
-    }
+    },
+    "availability": {}
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8774665043991",
-      "8770963537943",
-      "8888685723671",
-      "8969764110359",
       "8847851880471",
-      "8832667877399"
+      "8832667877399",
+      "8770963537943",
+      "8969764110359",
+      "8774665043991",
+      "8888685723671"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1152,7 +1953,8 @@
       "8770963537943": 10.99,
       "8215152230423": 89.99,
       "8935491436567": 99.99
-    }
+    },
+    "availability": {}
   },
   "Parko Cards - Pokemon TCG": {
     "seen_ids": [],
@@ -1172,39 +1974,42 @@
       "9015732076701": 44.0,
       "9021943742621": 179.0,
       "9021949411485": 6.95
-    }
+    },
+    "availability": {}
   },
   "Hobby Zone - Pokemon Cards": {
     "seen_ids": [],
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null,
-    "prices": {}
+    "prices": {},
+    "availability": {}
   },
   "Cool Shit - Password Watch": {
     "seen_ids": [],
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null,
-    "prices": {}
+    "prices": {},
+    "availability": {}
   },
   "Animal Kingdoms - Pokemon TCG": {
     "seen_ids": [
-      "9982539989232",
-      "10112186188016",
-      "10112141295856",
-      "10111551209712",
-      "10112184385776",
       "10099042582768",
-      "10098857181424",
+      "10112186188016",
+      "10171578286320",
+      "10111548522736",
+      "10112179831024",
+      "10171560952048",
+      "10112141295856",
       "10171547386096",
       "9599898976496",
+      "10098857181424",
+      "10111551209712",
+      "10112184385776",
       "10035621396720",
-      "10171578286320",
-      "10112179831024",
-      "10111548522736",
-      "10171560952048",
-      "10171572912368"
+      "10171572912368",
+      "9982539989232"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1251,17 +2056,18 @@
       "10064521232624": 45.0,
       "10064521429232": 45.0,
       "10064521527536": 45.0
-    }
+    },
+    "availability": {}
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10170375307348",
-      "10276187308116",
-      "10288263495764",
-      "7853389774932",
-      "10214066389076",
+      "8063603605588",
       "10170361905236",
-      "8063603605588"
+      "7853389774932",
+      "10288263495764",
+      "10170375307348",
+      "10214066389076",
+      "10276187308116"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1274,17 +2080,18 @@
       "10170375307348": 130.0,
       "7853389774932": 150.0,
       "10276187308116": 250.0
-    }
+    },
+    "availability": {}
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
       "9366282600704",
-      "10187809095936",
-      "10187740610816",
-      "10190544142592",
       "10190552203520",
+      "10190544142592",
+      "10187809095936",
+      "10190544437504",
       "10190544797952",
-      "10190544437504"
+      "10187740610816"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1298,10 +2105,12 @@
       "9188403609856": 490.0,
       "9188403282176": 368.0,
       "9608224964864": 605.0
-    }
+    },
+    "availability": {}
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9381118279934",
       "9173828796670"
     ],
     "zero_streak": 0,
@@ -1319,13 +2128,14 @@
       "9190582649086": 66.99,
       "8754151883006": 67.99,
       "6922042638486": 89.99
-    }
+    },
+    "availability": {}
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9537919222037",
       "9537919516949",
-      "9530379600149"
+      "9530379600149",
+      "9537919222037"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1340,21 +2150,22 @@
       "9537919516949": 24.99,
       "9537919222037": 54.99,
       "9530379600149": 99.99
-    }
+    },
+    "availability": {}
   },
   "Sealed & Slabbed - Pokemon Sealed": {
     "seen_ids": [
-      "7976837546102",
-      "8069232033910",
-      "8069213454454",
-      "8171677057142",
-      "8026257686646",
-      "7977047195766",
       "8220788752502",
-      "8185012945014",
       "8185039356022",
+      "8171677057142",
+      "8069213454454",
+      "7977047195766",
       "8069235671158",
-      "8026239369334"
+      "8026239369334",
+      "8026257686646",
+      "8185012945014",
+      "7976837546102",
+      "8069232033910"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1383,34 +2194,35 @@
       "8069232033910": 149.99,
       "7977047195766": 349.99,
       "8230432505974": 11.99
-    }
+    },
+    "availability": {}
   },
   "Big Potato Collectibles - Pokemon Sealed": {
     "seen_ids": [
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-elite-trainer-box",
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-3-pack-blister-booster",
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-elite-trainer-box",
-      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-rebel-clash-booster-pack",
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-charizard-ex-premium-collection",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-mega-emboar-tin",
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-booster-pack",
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-mega-feraligatr-tin",
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-poster-collection",
-      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
-      "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-2",
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-3",
-      "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-booster-pack",
-      "https://www.bigpotato.co.nz/product-page/copy-of-pokemon-tcg-sword-shield-evolving-skies-booster-pack",
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
-      "https://www.bigpotato.co.nz/product-page/sealed-pok\u00e9mon-tcg-poke-ball-tin-d21-2021-cosmic-eclipse-vivid-voltage-rebel",
-      "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-x-ex-tin",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-blister-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-poster-collection",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-rebel-clash-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-x-ex-tin",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-3",
       "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-happy-meal-pack-150-unit-sealed-case",
-      "https://www.bigpotato.co.nz/product-page/copy-of-pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box"
+      "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-3-pack-blister-booster",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-2",
+      "https://www.bigpotato.co.nz/product-page/copy-of-pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/copy-of-pokemon-tcg-sword-shield-evolving-skies-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-mega-feraligatr-tin",
+      "https://www.bigpotato.co.nz/product-page/sealed-pok\u00e9mon-tcg-poke-ball-tin-d21-2021-cosmic-eclipse-vivid-voltage-rebel",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle",
+      "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-charizard-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1441,20 +2253,22 @@
       "https://www.bigpotato.co.nz/product-page/copy-of-pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box": 12.0,
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-3-pack-blister-booster": 39.0,
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-scarlet-violet-surging-sparks-booster-pack": 20.0
-    }
+    },
+    "availability": {}
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/Mega-Greninja-ex-Premium-Collection-p840321361",
       "https://www.gameslab.co.nz/products/Perfect-Order-Single-Blister-Pack-p797932400",
-      "https://www.gameslab.co.nz/products/Pokemon-TCG-Pitch-Black-Booster-Box-p840321514"
+      "https://www.gameslab.co.nz/products/Pokemon-TCG-Pitch-Black-Booster-Box-p840321514",
+      "https://www.gameslab.co.nz/products/Mega-Greninja-ex-Premium-Collection-p840321361",
+      "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null,
-    "prices": {}
+    "prices": {},
+    "availability": {}
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
@@ -1467,16 +2281,17 @@
     "prices": {
       "7037120020552": 12.0,
       "7037120610376": 360.0
-    }
+    },
+    "availability": {}
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
-      "8231325270134",
-      "8231312228470",
       "7716056825974",
       "8231315472502",
       "8083552370806",
-      "8231309377654"
+      "8231325270134",
+      "8231309377654",
+      "8231312228470"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1501,7 +2316,8 @@
       "8254468882550": 260.0,
       "8254468653174": 250.0,
       "8083552370806": 1100.0
-    }
+    },
+    "availability": {}
   },
   "Cool Shit - Watchlist": {
     "seen_ids": [
@@ -1510,15 +2326,16 @@
     "zero_streak": 0,
     "warned": false,
     "first_failure_at": null,
-    "prices": {}
+    "prices": {},
+    "availability": {}
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15139615244658",
-      "15139609837938",
-      "15139613802866",
       "15139611083122",
-      "15163471200626"
+      "15139615244658",
+      "15139613802866",
+      "15163471200626",
+      "15139609837938"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1534,6 +2351,7 @@
       "15139613802866": 399.9,
       "15139611083122": 249.9,
       "15139609837938": 284.9
-    }
+    },
+    "availability": {}
   }
 }

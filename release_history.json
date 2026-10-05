@@ -1,14 +1,5 @@
 [
   {
-    "site": "JB Hi-Fi NZ",
-    "title": "Pok\u00e9mon TCG: Mega Evolution \u2014 Delta Reign Blister",
-    "url": "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
-    "price": null,
-    "timestamp": "2026-08-21T02:50:47.421118+00:00",
-    "priority": true,
-    "image": "http://www.jbhifi.co.nz/cdn/shop/files/483598-Product-0-I-639228694804719669_1024x1024.jpg"
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolutions - Pitch Black Booster Box",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-box",
@@ -10682,5 +10673,16 @@
     "image": "http://www.playx.co.nz/cdn/shop/files/9166204_1.jpg?v=1790906372",
     "limit": "Limit 1 per Customer",
     "seen_count": 0
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
+    "price": "$9.99",
+    "timestamp": "2026-10-05T21:15:43.625922+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191",
+    "limit": null,
+    "seen_count": 13
   }
 ]
