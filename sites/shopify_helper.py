@@ -1,4 +1,4 @@
-﻿"""
+"""
 Shared helper for Shopify-based sites using the standard products.json
 feed. Handles fetching, TCG filtering, keyword requirements, stock
 filtering, and price extraction so individual site files just supply
@@ -71,12 +71,15 @@ def get_shopify_products(base_url, collection_handle=None, require_keywords=None
             price = cheapest.get("price")
             handle = item.get("handle")
             product_url = f"{base_url}/products/{handle}"
-            products.append({
+            product = {
                 "id": str(item.get("id")),
                 "title": title,
                 "url": product_url,
                 "price": f"${price}" if price else None,
-            })
+            }
+            if include_sold_out:
+                product["available"] = bool(available_variants)
+            products.append(product)
 
         if collection_handle or not scan_all_pages:
             break
