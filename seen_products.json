@@ -1941,9 +1941,9 @@
       "8774665043991",
       "8969764110359"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-05T23:31:00.915855+00:00",
     "prices": {
       "8888685723671": 10.99,
       "8847851880471": 29.99,
@@ -2272,8 +2272,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
