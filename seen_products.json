@@ -91,7 +91,8 @@
       "7558380781629",
       "7558377930813",
       "7558378979389",
-      "7558381600829"
+      "7558377930813",
+      "7558379864125"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1718,6 +1719,7 @@
       "8636191965380",
       "8631859577028",
       "8636163981508",
+      "8636199928004",
       "8636177219780",
       "8636237676740",
       "8636199928004"
@@ -2063,6 +2065,8 @@
     "seen_ids": [
       "10170375307348",
       "8063603605588",
+      "10276187308116",
+      "10288263495764",
       "10170361905236",
       "10288263495764",
       "10214066389076",
@@ -2110,8 +2114,8 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9381118279934",
-      "9173828796670"
+      "9173828796670",
+      "9381118279934"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2205,6 +2209,17 @@
       "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-x-ex-tin",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-3",
+      "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-x-ex-tin",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-blister-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-charizard-ex-premium-collection",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-2",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-rebel-clash-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/copy-of-pokemon-tcg-sword-shield-evolving-skies-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-3-pack-blister-booster",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-mega-feraligatr-tin",
       "https://www.bigpotato.co.nz/product-page/copy-of-pokemon-tcg-sword-shield-evolving-skies-booster-pack",
@@ -2258,11 +2273,11 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Mega-Greninja-ex-Premium-Collection-p840321361",
       "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
       "https://www.gameslab.co.nz/products/Pokemon-TCG-Pitch-Black-Booster-Box-p840321514",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
       "https://www.gameslab.co.nz/products/Perfect-Order-Single-Blister-Pack-p797932400",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Mega-Greninja-ex-Premium-Collection-p840321361"
     ],
     "zero_streak": 0,
     "warned": false,
