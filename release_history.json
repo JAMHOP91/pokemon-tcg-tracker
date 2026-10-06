@@ -1,23 +1,5 @@
 [
   {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG:  Mega Greninja ex Premium Collection",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
-    "price": "$93.99",
-    "timestamp": "2026-08-21T13:40:56.435782+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731-1_grande.jpg?v=1780869247"
-  },
-  {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Tohoku 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-tohoku-2025-special-collection-box",
-    "price": "$367.00",
-    "timestamp": "2026-08-21T14:40:49.022097+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/tohoku-box-cardbot-pokemon-center.jpg?v=1759255193"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Evolution Pitch Black Booster Bundle",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-bundle",
@@ -10702,5 +10684,27 @@
     "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/832752708/5798246075.jpg",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Pitch Black Single Pack",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-single-pack",
+    "price": "$11.00",
+    "timestamp": "2026-10-06T04:40:54.332584+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2318353445.jpg?v=1784500677",
+    "limit": null,
+    "seen_count": 2
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG - Mega Evolution Pitch Black Dice & Coin Set",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-30th-celebration-dice-and-coin-set-copy",
+    "price": "$4.00",
+    "timestamp": "2026-10-06T04:40:54.332584+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/Pitchblackdiceset.webp?v=1791169845",
+    "limit": null,
+    "seen_count": 0
   }
 ]
