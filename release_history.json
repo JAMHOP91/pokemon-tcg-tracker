@@ -1,14 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
-    "price": "$169.99",
-    "timestamp": "2026-08-22T01:40:46.324030+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851"
-  },
-  {
     "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG Pitch Black Booster Box",
     "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-booster-box-pre-order-17-7-2026",
@@ -10718,5 +10709,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-2-Pack-Blister-Zarude.jpg?v=1790809018",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "Pok\u00e9mon  - Lost Origin Booster Pack",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-lost-origin-booster-pack",
+    "price": "$40.00",
+    "timestamp": "2026-10-06T13:50:49.752651+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/products/Sword-Shield-Lost-Origin-Booster-Wrap-Radiant-Gardevior_EN-559x1024_1200x2198.jpg?v=1657374922",
+    "limit": null,
+    "seen_count": 0
   }
 ]
