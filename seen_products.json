@@ -125,6 +125,12 @@
       "9225964847267",
       "9136790274211",
       "9231223652515",
+      "9231223128227",
+      "9231224963235",
+      "9231224832163",
+      "9231086387363",
+      "9136790208675",
+      "9231080751267",
       "7540284915875",
       "9231222079651",
       "9136791978147",
@@ -1846,8 +1852,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2109,8 +2115,8 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9381118279934",
-      "9173828796670"
+      "9173828796670",
+      "9381118279934"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2271,8 +2277,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
