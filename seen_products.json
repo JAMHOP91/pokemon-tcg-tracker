@@ -1883,7 +1883,6 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/boosterbundle::available::View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection::sold_out::View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
@@ -1933,7 +1932,8 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8832667877399",
+      "8888685723671",
+      "8847851880471",
       "8770963537943",
       "8847851880471",
       "8969764110359",
@@ -2272,8 +2272,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
