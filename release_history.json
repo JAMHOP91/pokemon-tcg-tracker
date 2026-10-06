@@ -1,14 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolution Pitch Black Booster Bundle",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-bundle",
-    "price": "$89.99",
-    "timestamp": "2026-08-21T15:10:51.015211+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Bundle.png?v=1784017371"
-  },
-  {
     "site": "Cool Shit - Pokemon",
     "title": "View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order)",
     "url": "https://www.coolshit.co.nz/product/boosterbundle",
@@ -10706,5 +10697,16 @@
     "image": "http://cardbot.co.nz/cdn/shop/files/Pitchblackdiceset.webp?v=1791169845",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG: Sword and Shield Elite Trainer Box - Zamazenta",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-sword-and-shield-elite-trainer-box-zamazenta",
+    "price": "$350.00",
+    "timestamp": "2026-10-06T07:10:49.234792+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2104.jpg?v=1786436317",
+    "limit": null,
+    "seen_count": 2
   }
 ]
