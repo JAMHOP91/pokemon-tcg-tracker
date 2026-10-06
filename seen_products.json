@@ -404,6 +404,10 @@
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/47428",
       "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/47428",
+      "https://hobbymaster.co.nz/products/product/47423",
+      "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/47426",
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/46974",
@@ -435,6 +439,8 @@
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [
+      "7964217802813",
+      "7915239145533",
       "7915155521597",
       "7915180326973",
       "7915175608381",
@@ -1686,6 +1692,7 @@
       "10323223183656",
       "10448504848680",
       "15402635297064",
+      "10448504881448",
       "10365187621160",
       "10441619603752",
       "10270182736168",
@@ -2088,6 +2095,7 @@
       "10187809095936",
       "10190544797952",
       "9366282600704",
+      "10197535195392",
       "10190544437504",
       "10187740610816"
     ],
@@ -2269,8 +2277,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
