@@ -1,14 +1,5 @@
 [
   {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Pitch Black Booster Box",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-booster-box-pre-order-17-7-2026",
-    "price": "$360.00",
-    "timestamp": "2026-08-22T03:11:00.105399+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/712845506_122203714544471322_1472360028819368492_n.jpg?v=1780891415"
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolution - Perfect Order Three Booster Blister",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-three-booster-blister",
@@ -10720,5 +10711,16 @@
     "image": "https://cardmasters.co.nz/cdn/shop/products/Sword-Shield-Lost-Origin-Booster-Wrap-Radiant-Gardevior_EN-559x1024_1200x2198.jpg?v=1657374922",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG Lumiose City Mini Tin (Assorted)",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
+    "price": "$25.00",
+    "timestamp": "2026-10-06T19:10:52.167978+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Lumiose_City_Mini_Tin.jpg?v=1780985527",
+    "limit": null,
+    "seen_count": 3
   }
 ]
