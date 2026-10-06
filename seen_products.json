@@ -6,8 +6,7 @@
       "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-knock-out-collection",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-mega-lucario-ex-league-battle-deck"
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack"
     ],
     "zero_streak": 341,
     "warned": true,
@@ -269,9 +268,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10202363330800",
+      "10218488725744",
       "10070962241776",
-      "10218488725744"
+      "10202363330800"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1720,7 +1719,11 @@
       "8636163981508",
       "8636199928004",
       "8636177219780",
-      "8631859577028"
+      "8631859577028",
+      "8636199928004",
+      "8636237676740",
+      "8636191965380",
+      "8636163981508"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1847,8 +1850,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1903,6 +1906,7 @@
       "9152299892885",
       "9285822251157",
       "9285795938453",
+      "15401415344277",
       "9210168803477",
       "15401415344277",
       "15401330835605",
