@@ -1,14 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Fukuoka 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-fukuoka-2025-special-collection-box",
-    "price": "$611.00",
-    "timestamp": "2026-08-21T10:40:52.216368+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/fukuoka-box-cardbot-pokemon-center.jpg?v=1759255295"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
@@ -10694,5 +10685,16 @@
     "image": "http://cardbot.co.nz/cdn/shop/files/PKM-CENTRE-2025-BUNDLE_1.png?v=1772599783",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Pokemon TCG: Mega Forces Tin (Limit 3 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-forces-tin-limit-3-per-customer-pre-order",
+    "price": "$79.99",
+    "timestamp": "2026-10-06T02:31:09.545673+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/poke-force-tins.png?v=1785232857",
+    "limit": "Limit 3 per Customer",
+    "seen_count": 0
   }
 ]
