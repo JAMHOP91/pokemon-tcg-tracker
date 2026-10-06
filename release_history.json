@@ -1,14 +1,5 @@
 [
   {
-    "site": "Card Masters NZ",
-    "title": "Pok\u00e9mon - Hidden Fates Booster Pack",
-    "url": "https://cardmasters.co.nz/products/pokemon-sun-moon-hidden-fates-booster-pack",
-    "price": "$90.00",
-    "timestamp": "2026-08-21T12:03:30.878052+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/products/66bbc44e-873d-4023-a16e-f2617938ed6f_1.ef235ddfdc3a4ddf7092e75430639b9a-removebg-preview_1200x1200.png?v=1660630829"
-  },
-  {
     "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolution Pitch Black Booster",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster",
@@ -10698,5 +10689,16 @@
     "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Forces-Tin-Mega-Dragonite-ex-Front_EN.jpg?v=1782462382",
     "limit": "limited to 1 per household",
     "seen_count": 2
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014 Delta Reign Full Set of products - PRE ORDER -",
+    "url": "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-delta-reign-full-set-of-products-pre-order",
+    "price": "$799.00",
+    "timestamp": "2026-10-06T03:45:56.141962+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/6f86e7_b719c03d115f46dab5a0db3f3eb5f4e3~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 0
   }
 ]
