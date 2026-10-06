@@ -40,6 +40,13 @@
       "7330088353941",
       "7561509896341",
       "8964116873365",
+      "7330101624981",
+      "7439084388501",
+      "7439107129493",
+      "7439125512341",
+      "7561509896341",
+      "7330099200149",
+      "7330101002389",
       "7330101330069",
       "7439107129493",
       "7330101624981",
@@ -268,9 +275,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10218488725744",
       "10202363330800",
-      "10070962241776",
-      "10218488725744"
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1846,8 +1853,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
     ],
     "zero_streak": 0,
     "warned": false,
