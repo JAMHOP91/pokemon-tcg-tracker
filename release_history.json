@@ -1,14 +1,5 @@
 [
   {
-    "site": "Big Potato Collectibles - Pokemon Sealed",
-    "title": "Pok\u00e9mon TCG: Mega Evolutions Pitch Black Booster Pack",
-    "url": "https://www.bigpotato.co.nz/product-page/copy-of-pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
-    "price": "$12.00",
-    "timestamp": "2026-08-21T22:31:07.481128+00:00",
-    "priority": false,
-    "image": "https://static.wixstatic.com/media/beffc4_578a31d61c41495196e04153757279a0~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp"
-  },
-  {
     "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolution Pitch Black Booster",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster",
@@ -10712,5 +10703,16 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1_1200x1144.jpg?v=1787290166",
     "limit": null,
     "seen_count": 5
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Scarlet & Violet - Journey Together Blister Booster Pack",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-scarlet-violet-journey-together-blister-booster-pack",
+    "price": "$16.99",
+    "timestamp": "2026-10-06T10:10:47.716100+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/JourneyTogether_SLEEVED_Pack_4_750x_9430f76d-26de-4444-878b-4a2c4ec420ff.png?v=1766786989",
+    "limit": null,
+    "seen_count": 1
   }
 ]
