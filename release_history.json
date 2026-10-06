@@ -1,14 +1,5 @@
 [
   {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order)",
-    "url": "https://www.coolshit.co.nz/product/boosterbundle",
-    "price": "NZ$79.00",
-    "timestamp": "2026-08-21T07:10:50.917444+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427180092/Untitled+design+_9_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution\u2014Delta Reign Three-Booster Blister",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-obsidian-flames-3-pack-blister-houndstone",
@@ -10690,5 +10681,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Mini-Tin.jpg?v=1790819697",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Metal Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-metal-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-10-06T00:40:49.887974+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicMetalEnergy-50x.jpg?v=1737494522",
+    "limit": null,
+    "seen_count": 4
   }
 ]
