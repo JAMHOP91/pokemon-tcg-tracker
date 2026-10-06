@@ -1,14 +1,5 @@
 [
   {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG:  Mega Greninja ex Premium Collection",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
-    "price": "$93.99",
-    "timestamp": "2026-08-22T08:10:56.358773+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731-1_grande.jpg?v=1780869247"
-  },
-  {
     "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Hiroshima 2025 Special Collection Box",
     "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-hiroshima-2025-special-collection-box",
@@ -10726,5 +10717,16 @@
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBooster_2webp.webp?v=1780641519",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: 2-Pack Blister Product (Pre-Order)",
+    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+    "price": "NZ$24.00",
+    "timestamp": "2026-10-06T23:10:51.835385+00:00",
+    "priority": false,
+    "image": "https://assets.bigcartel.com/product_images/425327193/Untitled+design+_4_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 2
   }
 ]
