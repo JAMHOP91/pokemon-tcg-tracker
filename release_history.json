@@ -1,14 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
-    "price": "$169.99",
-    "timestamp": "2026-08-21T11:40:48.345158+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851"
-  },
-  {
     "site": "Card Masters NZ",
     "title": "Pok\u00e9mon - Hidden Fates Booster Pack",
     "url": "https://cardmasters.co.nz/products/pokemon-sun-moon-hidden-fates-booster-pack",
@@ -10696,5 +10687,16 @@
     "image": "http://www.playx.co.nz/cdn/shop/files/poke-force-tins.png?v=1785232857",
     "limit": "Limit 3 per Customer",
     "seen_count": 0
+  },
+  {
+    "site": "TCG Collector NZ - Pre-Orders",
+    "title": "Pokemon TCG: Mega Forces Tin *Sealed* (PRE-ORDER, SHIPS DEC 4TH)",
+    "url": "https://tcgcollectornz.com/products/pokemon-mega-forces-tin",
+    "price": "$60.00",
+    "timestamp": "2026-10-06T02:41:00.358007+00:00",
+    "priority": false,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Forces-Tin-Mega-Dragonite-ex-Front_EN.jpg?v=1782462382",
+    "limit": "limited to 1 per household",
+    "seen_count": 2
   }
 ]
