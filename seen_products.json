@@ -268,8 +268,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10202363330800",
       "10218488725744",
+      "10202363330800",
       "10070962241776"
     ],
     "zero_streak": 0,
@@ -368,6 +368,7 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8479841648836",
       "8542844846276",
       "8479841648836",
       "8584003977412"
@@ -1885,6 +1886,10 @@
     "seen_ids": [
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::available::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
+      "https://www.coolshit.co.nz/product/premiumcollection::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection::sold_out::View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/premiumcollection::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
@@ -1906,7 +1911,10 @@
       "9152299892885",
       "9285822251157",
       "9210168803477",
-      "15401330835605"
+      "9152299892885",
+      "15401330835605",
+      "15401415344277",
+      "9285795938453"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1936,6 +1944,7 @@
       "8847851880471",
       "8888685723671",
       "8832667877399",
+      "8847851880471",
       "8774665043991",
       "8770963537943"
     ],
@@ -2084,6 +2093,9 @@
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
       "9366282600704",
+      "10190544142592",
+      "10190552203520",
+      "10190544797952",
       "10187740610816",
       "10187809095936",
       "10190552203520",
@@ -2132,9 +2144,9 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9537919222037",
+      "9530379600149",
       "9537919516949",
-      "9530379600149"
+      "9537919222037"
     ],
     "zero_streak": 0,
     "warned": false,
