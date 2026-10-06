@@ -1,14 +1,5 @@
 [
   {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolution Pitch Black Booster",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster",
-    "price": "$11.80",
-    "timestamp": "2026-08-21T12:41:10.894119+00:00",
-    "priority": false,
-    "image": "http://www.metalife.co.nz/cdn/shop/files/692939_in_1000x1000_732x1000_d083202d-bb52-4dd4-84cf-3a31218c6540.jpg?v=1780627003"
-  },
-  {
     "site": "Pop Stop - Pokemon TCG",
     "title": "Pok\u00e9mon TCG:  Mega Greninja ex Premium Collection",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
@@ -10700,5 +10691,16 @@
     "image": "https://static.wixstatic.com/media/6f86e7_b719c03d115f46dab5a0db3f3eb5f4e3~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Games Lab - Pokemon TCG",
+    "title": "Pokemon Mega Zygarde ex Premium Collection",
+    "url": "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+    "price": null,
+    "timestamp": "2026-10-06T04:10:58.853759+00:00",
+    "priority": false,
+    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/832752708/5798246075.jpg",
+    "limit": null,
+    "seen_count": 3
   }
 ]
