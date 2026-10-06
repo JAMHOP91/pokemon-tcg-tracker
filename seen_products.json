@@ -91,9 +91,9 @@
       "7558381600829",
       "7558377930813"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-06T19:31:08.360566+00:00",
     "prices": {
       "7850575986749": 48.0,
       "7850575888445": 48.0,
@@ -268,8 +268,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
       "10218488725744",
+      "10070962241776",
       "10202363330800"
     ],
     "zero_streak": 0,
@@ -305,9 +305,9 @@
       "9182638178543",
       "9328360816879"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-06T19:31:08.360566+00:00",
     "prices": {
       "8540499149039": 21.99,
       "9328351772911": 359.99,
@@ -572,6 +572,12 @@
       "10232830624039",
       "https://www.magicreddragon.co.nz/product-page/copy-of-pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-night-pre-order",
       "10267156316455",
+      "10267173421351",
+      "https://www.magicreddragon.co.nz/product-page/copy-of-pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-night-pre-order",
+      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-ditto-premium-collection-pre-order",
+      "10267121221927",
+      "10351898296615",
+      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-sylveon-ex-pre-order",
       "10267162444071",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-ditto-premium-collection-pre-order",
       "10267157922087",
@@ -1714,6 +1720,7 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
+      "8636177219780",
       "8636237676740",
       "8631859577028",
       "8636163981508",
@@ -2284,6 +2291,7 @@
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
       "7716056825974",
+      "8231325270134",
       "8231312228470",
       "8231315472502",
       "8231309377654",
