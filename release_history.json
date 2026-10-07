@@ -1,14 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Hiroshima 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-hiroshima-2025-special-collection-box",
-    "price": "$490.00",
-    "timestamp": "2026-08-22T09:11:02.928695+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/hiroshima-box-cardbot-pokemon-center.jpg?v=1759255240"
-  },
-  {
     "site": "Pop Stop - Pokemon TCG",
     "title": "Pok\u00e9mon TCG:  Mega Greninja ex Premium Collection",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
@@ -10728,5 +10719,16 @@
     "image": "https://assets.bigcartel.com/product_images/425327193/Untitled+design+_4_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG - Mega Evolution Pitch Black Dice & Coin Set",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-30th-celebration-dice-and-coin-set-copy",
+    "price": "$4.00",
+    "timestamp": "2026-10-07T00:40:46.948993+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/Pitchblackdiceset.webp?v=1791169845",
+    "limit": null,
+    "seen_count": 1
   }
 ]
