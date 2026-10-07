@@ -1935,9 +1935,9 @@
       "8847851880471",
       "8969764110359"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-07T21:43:13.040138+00:00",
     "prices": {
       "8888685723671": 10.99,
       "8847851880471": 29.99,
@@ -2004,9 +2004,9 @@
       "10112184385776",
       "9982539989232"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-07T21:43:13.040138+00:00",
     "prices": {
       "10111551209712": 398.0,
       "10111548522736": 32.9,
@@ -2254,6 +2254,7 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
+      "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
       "https://www.gameslab.co.nz/products/Pokemon-TCG-Pitch-Black-Booster-Box-p840321514",
       "https://www.gameslab.co.nz/products/Mega-Greninja-ex-Premium-Collection-p840321361",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
@@ -2281,12 +2282,12 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
-      "7716056825974",
-      "8231315472502",
-      "8083552370806",
+      "8231312228470",
       "8231309377654",
       "8231325270134",
-      "8231312228470"
+      "8083552370806",
+      "8231315472502",
+      "7716056825974"
     ],
     "zero_streak": 0,
     "warned": false,
