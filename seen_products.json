@@ -302,7 +302,11 @@
       "9464484790511",
       "9328342073583",
       "9464484921583",
-      "9328351772911"
+      "9464484626671",
+      "9328360816879",
+      "9640492138735",
+      "9640492007663",
+      "9388711182575"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -393,6 +397,9 @@
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
+      "https://hobbymaster.co.nz/products/product/47425",
+      "https://hobbymaster.co.nz/products/product/47423",
+      "https://hobbymaster.co.nz/products/product/47426",
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/47427",
@@ -1744,7 +1751,8 @@
       "9228422611107",
       "9228412158115",
       "9215569133731",
-      "9215139872931"
+      "9228412158115",
+      "9228422611107"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1845,8 +1853,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1904,7 +1912,12 @@
       "9285822251157",
       "15401415344277",
       "15401330835605",
-      "9210168803477"
+      "15401415344277",
+      "9152299892885",
+      "9210168803477",
+      "9285795938453",
+      "9285822251157",
+      "9268784496789"
     ],
     "zero_streak": 0,
     "warned": false,
