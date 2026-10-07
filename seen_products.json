@@ -3,7 +3,6 @@
     "seen_ids": [
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-sticker-blister-assorted-styles",
-      "https://www.jbhifi.co.nz/products/trading-cards-pokemon-tcg-scarlet-violet-shrouded-fable-booster-bundle",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-knock-out-collection"
@@ -227,6 +226,15 @@
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-phantasmal-flames-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-heroes-mini-tin",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-phantasmal-flames-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-checklane-blister",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-chaos-rising-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-three-booster-blister",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-elite-trainer-box",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-bundle",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-enhanced-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
       "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection",
@@ -269,8 +277,8 @@
   "Cardtopia NZ": {
     "seen_ids": [
       "10070962241776",
-      "10202363330800",
-      "10218488725744"
+      "10218488725744",
+      "10202363330800"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1745,7 +1753,8 @@
       "9228412158115",
       "9215569133731",
       "9228422611107",
-      "9215139872931"
+      "9215569133731",
+      "9228412158115"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1889,7 +1898,11 @@
       "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
       "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection::sold_out::View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP"
+      "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection::sold_out::View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
+      "https://www.coolshit.co.nz/product/premiumcollection::coming_soon::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::available::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2271,8 +2284,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2285,6 +2298,9 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
+      "8231315472502",
+      "8083552370806",
+      "8231312228470",
       "8231309377654",
       "7716056825974",
       "8231315472502",
