@@ -299,6 +299,7 @@
       "9640492007663",
       "9464484626671",
       "9464484921583",
+      "9464484626671",
       "9182638178543",
       "9388718489839",
       "9328342073583",
@@ -407,6 +408,11 @@
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/47432",
       "https://hobbymaster.co.nz/products/product/46974",
+      "https://hobbymaster.co.nz/products/product/46975",
+      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/45878",
+      "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/47425",
       "https://hobbymaster.co.nz/products/product/47428",
       "https://hobbymaster.co.nz/products/product/47427",
       "https://hobbymaster.co.nz/products/product/45463",
@@ -1844,8 +1850,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2078,8 +2084,10 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "10187740610816",
       "10190544437504",
+      "10187740610816",
+      "10197535195392",
+      "10190544142592",
       "9366282600704",
       "10190552203520",
       "10190544142592",
@@ -2104,8 +2112,8 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9381118279934",
-      "9173828796670"
+      "9173828796670",
+      "9381118279934"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2326,10 +2334,10 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15139611083122",
+      "15163471200626",
       "15139615244658",
       "15139613802866",
-      "15163471200626"
+      "15139611083122"
     ],
     "zero_streak": 0,
     "warned": false,
