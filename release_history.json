@@ -1,23 +1,5 @@
 [
   {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
-    "price": "$9.99",
-    "timestamp": "2026-08-22T21:10:47.638822+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191"
-  },
-  {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Tohoku 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-tohoku-2025-special-collection-box",
-    "price": "$367.00",
-    "timestamp": "2026-08-22T21:41:04.010273+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/tohoku-box-cardbot-pokemon-center.jpg?v=1759255193"
-  },
-  {
     "site": "Collect All Day",
     "title": "Blastoise VMAX Starter Set",
     "url": "https://www.collectallday.com/new/blastoise-vmax-starter-set",
@@ -10734,5 +10716,27 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
     "limit": null,
     "seen_count": 10
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: 30th Celebration Sylveon ex Box",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-sylveon-ex-box",
+    "price": "$249.00",
+    "timestamp": "2026-10-07T01:40:57.631016+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/beffc4_277285dabc4941ef9251aa78a007d3a7~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: 30th Celebration Greninja ex Box",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-greninja-ex-box",
+    "price": "$249.00",
+    "timestamp": "2026-10-07T01:40:57.631016+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/beffc4_ade15e75d954486296dfaff926d7ba24~mv2.jpeg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 0
   }
 ]
