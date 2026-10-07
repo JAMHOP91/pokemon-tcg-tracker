@@ -527,9 +527,9 @@
     "seen_ids": [
       "9619081855215"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-07T02:31:22.290324+00:00",
     "prices": {
       "9619080151279": 249.99,
       "9619080216815": 144.99,
@@ -1691,9 +1691,9 @@
       "10448504881448",
       "15402635297064"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-07T02:31:22.290324+00:00",
     "prices": {
       "10302497227048": 148.0,
       "10132850377000": 10.8,
@@ -1791,6 +1791,10 @@
     "seen_ids": [
       "8970824843462",
       "8909657637062",
+      "8855167008966",
+      "8970819535046",
+      "8909649739974",
+      "8931072311494",
       "8789885321414",
       "8855167008966",
       "8909649739974",
@@ -1933,6 +1937,7 @@
     "seen_ids": [
       "8969764110359",
       "8774665043991",
+      "8832667877399",
       "8770963537943",
       "8847851880471",
       "8888685723671",
@@ -2205,6 +2210,10 @@
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-3",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
       "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-happy-meal-pack-150-unit-sealed-case",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-rebel-clash-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-2",
