@@ -1,14 +1,5 @@
 [
   {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order)",
-    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
-    "price": "NZ$69.99",
-    "timestamp": "2026-08-23T02:10:47.685096+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427181259/Untitled+design+_17_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
     "site": "Pop Stop - Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Mega Evolution - Perfect Order Booster (Single)",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-single",
@@ -10738,6 +10729,17 @@
     "timestamp": "2026-10-07T02:10:50.557332+00:00",
     "priority": false,
     "image": "http://otakumart.co.nz/cdn/shop/files/BasicFireEnergy-50x.jpg?v=1737494230",
+    "limit": null,
+    "seen_count": 1
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Perfect Order: Sealed Booster Pack (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-pack-english",
+    "price": "$9.99",
+    "timestamp": "2026-10-07T03:10:46.213450+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBooster_2webp.webp?v=1780641519",
     "limit": null,
     "seen_count": 1
   }
