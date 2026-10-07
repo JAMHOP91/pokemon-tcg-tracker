@@ -1,6 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-knock-out-collection",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-knock-out-collection",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
@@ -369,8 +372,8 @@
   "TCG Collector NZ": {
     "seen_ids": [
       "8584003977412",
-      "8542844846276",
-      "8479841648836"
+      "8479841648836",
+      "8542844846276"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -415,9 +418,9 @@
       "https://hobbymaster.co.nz/products/product/47425",
       "https://hobbymaster.co.nz/products/product/47423"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-07T00:40:46.948993+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -1899,8 +1902,6 @@
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
-      "9285822251157",
-      "9285795938453",
       "9152299892885",
       "9210168803477",
       "15401415344277",
