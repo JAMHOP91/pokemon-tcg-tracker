@@ -4,15 +4,6 @@
     "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Collection Box 2025 Bundle",
     "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-collection-box-2025-bundle",
     "price": "$1223.00",
-    "timestamp": "2026-08-23T08:10:54.086765+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/PKM-CENTRE-2025-BUNDLE_1.png?v=1772599783"
-  },
-  {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Collection Box 2025 Bundle",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-collection-box-2025-bundle",
-    "price": "$1223.00",
     "timestamp": "2026-08-23T09:10:47.067731+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/PKM-CENTRE-2025-BUNDLE_1.png?v=1772599783"
@@ -10750,5 +10741,16 @@
     "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-30th-celebration-pikachu-ex-150-128-official.webp?v=1789451628",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Redline Trading - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG - Destined Rivals - Booster Bundle",
+    "url": "https://redlinetrading.co.nz/products/destined-rivals-booster-bundle",
+    "price": "$129.90",
+    "timestamp": "2026-10-07T19:31:14.879102+00:00",
+    "priority": false,
+    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/RTC-DesintedRivals-Boosterbundle.png?v=1788234117",
+    "limit": null,
+    "seen_count": 2
   }
 ]
