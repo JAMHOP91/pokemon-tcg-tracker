@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-sticker-blister-assorted-styles",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
@@ -20,6 +21,9 @@
       "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/deltaetb"
     ],
     "zero_streak": 0,
@@ -87,8 +91,9 @@
       "7558377930813",
       "7558378979389",
       "7558381600829",
+      "7558379864125",
       "7558380781629",
-      "7558379864125"
+      "7558378979389"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -267,6 +272,7 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10218488725744",
       "10070962241776",
       "10218488725744",
       "10202363330800"
@@ -367,9 +373,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8542844846276",
       "8479841648836",
-      "8584003977412"
+      "8584003977412",
+      "8542844846276"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1844,8 +1850,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2326,7 +2332,6 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15139611083122",
       "15139615244658",
       "15139613802866",
       "15163471200626"
