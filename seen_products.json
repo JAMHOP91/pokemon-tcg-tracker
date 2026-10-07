@@ -333,6 +333,8 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
@@ -1933,7 +1935,9 @@
       "8888685723671",
       "8770963537943",
       "8969764110359",
-      "8847851880471"
+      "8847851880471",
+      "8770963537943",
+      "8774665043991"
     ],
     "zero_streak": 0,
     "warned": false,
