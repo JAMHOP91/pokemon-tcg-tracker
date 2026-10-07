@@ -1,23 +1,5 @@
 [
   {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Mega Evolution: Phantasmal Flames: Sealed Booster Box (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-scarlet-violet-mega-evolution-phantasmal-flames-sealed-booster-box-english",
-    "price": "$729.99",
-    "timestamp": "2026-08-23T04:10:45.115582+00:00",
-    "priority": true,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/MegaEvolutionPhantasmalFlamesBoosterBox_1jpeg.jpg?v=1759350222"
-  },
-  {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pokemon TCG: Mega Moonlight Tin (Mega Clefable ex)",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-clefable-ex",
-    "price": "$54.99",
-    "timestamp": "2026-08-23T06:40:59.541499+00:00",
-    "priority": false,
-    "image": "http://getthosecards.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Moonlit-Tin-Mega-Clefable_EN.jpg?v=1780883693"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Evolution Pitch Black Booster Bundle",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-bundle",
@@ -10744,5 +10726,27 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1600_1_9ee170af-c4ef-4811-8bd1-5aba8a901dcb_1200x1208.webp?v=1785772310",
     "limit": null,
     "seen_count": 9
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-10-07T11:10:49.655777+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201",
+    "limit": null,
+    "seen_count": 8
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "PRE ORDER - Pok\u00e9mon 30th Anniversary Celebration Elite Trainer Box",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-30th-anniversary-celebration-elite-trainer-box",
+    "price": "$170.00",
+    "timestamp": "2026-10-07T11:10:49.655777+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1600_1_9ee170af-c4ef-4811-8bd1-5aba8a901dcb_1200x1208.webp?v=1785772310",
+    "limit": null,
+    "seen_count": 10
   }
 ]
