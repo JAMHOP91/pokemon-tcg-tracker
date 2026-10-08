@@ -1,15 +1,6 @@
 [
   {
     "site": "Cool Shit - Status Watch",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP (status: coming soon)",
-    "url": "https://www.coolshit.co.nz/product/premiumcollection",
-    "price": "NZ$699.00",
-    "timestamp": "2026-08-24T03:33:02.622569+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427179840/Untitled+design+_7_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Status Watch",
     "title": "View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP) (status: coming soon)",
     "url": "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
     "price": "NZ$390.00",
@@ -10782,5 +10773,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392",
     "limit": null,
     "seen_count": 6
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - 30th Celebration Single Card",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-30th-celebration-single-card",
+    "price": "$124.00",
+    "timestamp": "2026-10-08T17:10:59.504175+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-30th-celebration-pikachu-ex-150-128-official.webp?v=1789451628",
+    "limit": null,
+    "seen_count": 2
   }
 ]
