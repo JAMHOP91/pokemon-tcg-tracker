@@ -16,6 +16,7 @@
   "Cool Shit - Pokemon": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/deltaetb",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/3PACKDELTA",
@@ -295,6 +296,10 @@
       "9640492007663",
       "9388711182575",
       "9328360816879",
+      "9464484790511",
+      "9464484626671",
+      "9388711182575",
+      "9182638178543",
       "9328351772911",
       "9328342073583",
       "9464484626671",
@@ -2326,9 +2331,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15163471200626",
       "15139613802866",
-      "15139615244658",
-      "15163471200626"
+      "15139615244658"
     ],
     "zero_streak": 0,
     "warned": false,
