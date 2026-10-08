@@ -1,32 +1,5 @@
 [
   {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pokemon TCG: Lumiose City Mini Tin (Assorted)",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-lumiose-city-mini-tin",
-    "price": "$24.99",
-    "timestamp": "2026-08-23T15:10:58.051094+00:00",
-    "priority": false,
-    "image": "http://getthosecards.co.nz/cdn/shop/files/Pokemon-TCG-Lumiose-City-Mini-Tin-Embroar.jpg?v=1780884018"
-  },
-  {
-    "site": "Collect All Day",
-    "title": "Venusaur VMAX Starter Set",
-    "url": "https://www.collectallday.com/new/venusaur-vmax-starter-set",
-    "price": "NZ$55.00",
-    "timestamp": "2026-08-23T16:10:45.106172+00:00",
-    "priority": false,
-    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ff868cd81817a4febd39134/1610115281829/410px-Venusaur_VMAX_Starter_Set.jpg?format=1500w"
-  },
-  {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Hiroshima 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-hiroshima-2025-special-collection-box",
-    "price": "$490.00",
-    "timestamp": "2026-08-23T18:10:49.037216+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/hiroshima-box-cardbot-pokemon-center.jpg?v=1759255240"
-  },
-  {
     "site": "Razor Leaf - Pokemon TCG",
     "title": "Pokemon TCG - Sword & Shield Lost Origin Elite Trainer Box",
     "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-sword-shield-lost-origin-elite-trainer-box",
@@ -10766,6 +10739,39 @@
     "timestamp": "2026-10-08T06:10:47.977111+00:00",
     "priority": false,
     "image": "http://www.metalife.co.nz/cdn/shop/files/upload-1789789239908.jpg?v=1789789241",
+    "limit": null,
+    "seen_count": 1
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Hidden Fates Tin",
+    "url": "https://www.collectallday.com/new/hidden-fates-tin",
+    "price": "from NZ$230.00",
+    "timestamp": "2026-10-08T07:10:53.632253+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ea41518a9fa910a7d7a63ac/1587816618843/480px-CharizardGX_Tin.jpg?format=1500w",
+    "limit": null,
+    "seen_count": 1
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG: Perfect Order Booster - Mega Zygarde ex",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-perfect-order-booster-mega-zygarde-ex",
+    "price": "$10.90",
+    "timestamp": "2026-10-08T07:10:53.632253+00:00",
+    "priority": false,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG__Perfect_Order_Booster-1.png?v=1785385807",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG Lumiose City Mini Tin Set",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-set",
+    "price": "$130.00",
+    "timestamp": "2026-10-08T07:10:53.632253+00:00",
+    "priority": false,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCG_LumioseCity-MiniTinSet-6.jpg?v=1783856395",
     "limit": null,
     "seen_count": 1
   }
