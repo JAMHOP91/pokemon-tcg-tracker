@@ -1,15 +1,6 @@
 [
   {
     "site": "Cool Shit - Status Watch",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP) (status: coming soon)",
-    "url": "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
-    "price": "NZ$390.00",
-    "timestamp": "2026-08-24T03:33:02.622569+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427180452/Untitled+design+_10_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Status Watch",
     "title": "View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP (status: coming soon)",
     "url": "https://www.coolshit.co.nz/product/boosterbundle",
     "price": "NZ$99.00",
@@ -10782,6 +10773,17 @@
     "timestamp": "2026-10-08T17:10:59.504175+00:00",
     "priority": true,
     "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-30th-celebration-pikachu-ex-150-128-official.webp?v=1789451628",
+    "limit": null,
+    "seen_count": 2
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Pokeball Tin (Best of 2021 Series)",
+    "url": "https://www.collectallday.com/new/pokeball-tin-2021",
+    "price": "NZ$120.00",
+    "timestamp": "2026-10-08T18:40:50.736717+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67a6fcd3353fc7373aea9a12/1759111658444/Screenshot+2025-02-08+195219.png?format=1500w",
     "limit": null,
     "seen_count": 2
   }
