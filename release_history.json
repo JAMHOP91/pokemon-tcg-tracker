@@ -1,14 +1,5 @@
 [
   {
-    "site": "Cardtopia NZ",
-    "title": "Pokemon 151 Booster Pack",
-    "url": "https://www.cardtopia.co.nz/products/pokemon-151-booster-pack",
-    "price": "$54.99",
-    "timestamp": "2026-08-24T03:10:55.113185+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/Pokemon151_BoosterPack2_edited_edited_edited.webp?v=1787540578"
-  },
-  {
     "site": "Cool Shit - Status Watch",
     "title": "View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP (status: coming soon)",
     "url": "https://www.coolshit.co.nz/product/premiumcollection",
@@ -10780,5 +10771,16 @@
     "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/832752708/5798246075.jpg",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon Mega Zygarde ex Premium Collection",
+    "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-10-08T15:10:50.088829+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392",
+    "limit": null,
+    "seen_count": 6
   }
 ]
