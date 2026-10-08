@@ -83,6 +83,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
+      "7558377930813",
+      "7558378979389",
       "7558379864125",
       "7558378979389",
       "7558381600829",
@@ -266,9 +268,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10070962241776",
       "10218488725744",
-      "10202363330800",
-      "10070962241776"
+      "10202363330800"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -295,6 +297,12 @@
       "9464484626671",
       "9640492007663",
       "9640491909359",
+      "9328351772911",
+      "9388718489839",
+      "9328342073583",
+      "9388711182575",
+      "9182638178543",
+      "9464484626671",
       "9328360816879",
       "9640492138735",
       "9182638178543",
@@ -366,9 +374,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8542844846276",
       "8584003977412",
-      "8479841648836"
+      "8479841648836",
+      "8542844846276"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1843,8 +1851,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1930,7 +1938,9 @@
       "8969764110359",
       "8774665043991",
       "8770963537943",
-      "8832667877399"
+      "8832667877399",
+      "8888685723671",
+      "8969764110359"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2051,7 +2061,8 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10276187308116",
+      "10288263495764",
+      "7853389774932",
       "10170361905236",
       "10170375307348",
       "10288263495764",
