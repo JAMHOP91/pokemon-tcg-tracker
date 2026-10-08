@@ -1,15 +1,6 @@
 [
   {
     "site": "Cool Shit - Status Watch",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP (status: coming soon)",
-    "url": "https://www.coolshit.co.nz/product/boosterbundle",
-    "price": "NZ$99.00",
-    "timestamp": "2026-08-24T03:33:02.622569+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427180092/Untitled+design+_9_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Status Watch",
     "title": "View Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection (Pre-Order) STRICTLY 2PP (status: sold out)",
     "url": "https://www.coolshit.co.nz/product/30thCelebrationDittoPremiumCollection",
     "price": "NZ$159.99",
@@ -10786,5 +10777,16 @@
     "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67a6fcd3353fc7373aea9a12/1759111658444/Screenshot+2025-02-08+195219.png?format=1500w",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG:  Mega Greninja ex Premium Collection",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
+    "price": "$93.99",
+    "timestamp": "2026-10-08T20:15:55.232796+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731-1_grande.jpg?v=1780869247",
+    "limit": null,
+    "seen_count": 6
   }
 ]
