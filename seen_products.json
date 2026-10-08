@@ -14,6 +14,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/3PACKDELTA",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/deltaetb",
       "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
@@ -1740,10 +1743,10 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9228412158115",
-      "9228422611107",
+      "9215139872931",
       "9215569133731",
-      "9215139872931"
+      "9228422611107",
+      "9228412158115"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2072,7 +2075,8 @@
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
       "10190544142592",
-      "10187740610816",
+      "10190544797952",
+      "10190544437504",
       "10197535195392",
       "10190544797952",
       "10187809095936",
