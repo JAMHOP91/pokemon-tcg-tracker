@@ -3,6 +3,7 @@
     "seen_ids": [
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-sticker-blister-assorted-styles",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-knock-out-collection",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-knock-out-collection",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack"
@@ -367,9 +368,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8542844846276",
+      "8584003977412",
       "8479841648836",
-      "8584003977412"
+      "8542844846276"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1788,6 +1789,9 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
+      "8909649739974",
+      "8789885321414",
+      "8970824843462",
       "8909657637062",
       "8855171334342",
       "8931072311494",
@@ -1932,7 +1936,8 @@
       "8770963537943",
       "8832667877399",
       "8888685723671",
-      "8774665043991"
+      "8832667877399",
+      "8969764110359"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2055,8 +2060,8 @@
     "seen_ids": [
       "10288263495764",
       "10276187308116",
-      "10214066389076",
       "7853389774932",
+      "10214066389076",
       "10170361905236",
       "10170375307348"
     ],
@@ -2324,6 +2329,7 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15163471200626",
       "15139615244658",
       "15163471200626",
       "15139613802866"
