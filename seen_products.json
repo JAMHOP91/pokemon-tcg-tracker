@@ -366,9 +366,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8584003977412",
       "8542844846276",
-      "8479841648836"
+      "8479841648836",
+      "8584003977412"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -564,6 +564,15 @@
     "seen_ids": [
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-delta-reign-full-set-of-products-pre-order",
       "10341495734567",
+      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-greninja-ex-pre-order",
+      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-delta-reign-full-set-of-products-pre-order",
+      "10267125383463",
+      "10267160871207",
+      "10267173421351",
+      "10267121221927",
+      "10351898296615",
+      "10267162444071",
+      "10267147239719",
       "10261316895015",
       "10267125383463",
       "10267122204967",
@@ -2250,9 +2259,9 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
+      "https://www.gameslab.co.nz/products/Pokemon-TCG-Pitch-Black-Booster-Box-p840321514",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/Pokemon-TCG-Pitch-Black-Booster-Box-p840321514"
+      "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2262,8 +2271,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
