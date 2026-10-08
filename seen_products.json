@@ -20,7 +20,11 @@
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
-      "https://www.coolshit.co.nz/product/3PACKDELTA"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/deltaetb",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/3PACKDELTA",
+      "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1686,6 +1690,9 @@
       "10365187621160",
       "10441619603752",
       "10323223183656",
+      "10448504881448",
+      "15402635297064",
+      "10441619603752",
       "10448504848680",
       "10448504881448",
       "10270182736168"
@@ -2102,8 +2109,8 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9173828796670",
-      "9381118279934"
+      "9381118279934",
+      "9173828796670"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2253,8 +2260,8 @@
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
       "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/Pokemon-TCG-Pitch-Black-Booster-Box-p840321514"
+      "https://www.gameslab.co.nz/products/Pokemon-TCG-Pitch-Black-Booster-Box-p840321514",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
