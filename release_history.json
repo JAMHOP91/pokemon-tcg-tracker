@@ -1,15 +1,6 @@
 [
   {
     "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Collection Box 2025 Bundle",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-collection-box-2025-bundle",
-    "price": "$1223.00",
-    "timestamp": "2026-08-23T09:10:47.067731+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/PKM-CENTRE-2025-BUNDLE_1.png?v=1772599783"
-  },
-  {
-    "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Hiroshima 2025 Special Collection Box",
     "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-hiroshima-2025-special-collection-box",
     "price": "$490.00",
@@ -10752,5 +10743,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/RTC-DesintedRivals-Boosterbundle.png?v=1788234117",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "PRE ORDER - Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Booster Box",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolution-delta-reign-booster-box",
+    "price": "$360.00",
+    "timestamp": "2026-10-08T00:10:59.745457+00:00",
+    "priority": true,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2__1_-removebg-preview_1200x1648.png?v=1787289747",
+    "limit": null,
+    "seen_count": 6
   }
 ]
