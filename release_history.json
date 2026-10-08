@@ -1,14 +1,5 @@
 [
   {
-    "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Sword & Shield Lost Origin Elite Trainer Box",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-sword-shield-lost-origin-elite-trainer-box",
-    "price": "$420.00",
-    "timestamp": "2026-08-23T20:40:57.784851+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-7977.webp?v=1744788713"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster",
@@ -10774,5 +10765,16 @@
     "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCG_LumioseCity-MiniTinSet-6.jpg?v=1783856395",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "PRE ORDER - Pok\u00e9mon 30th Anniversary Celebration Elite Trainer Box",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-30th-anniversary-celebration-elite-trainer-box",
+    "price": "$170.00",
+    "timestamp": "2026-10-08T08:40:47.133416+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1600_1_9ee170af-c4ef-4811-8bd1-5aba8a901dcb_1200x1208.webp?v=1785772310",
+    "limit": null,
+    "seen_count": 12
   }
 ]
