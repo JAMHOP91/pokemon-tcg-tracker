@@ -1840,8 +1840,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2310,6 +2310,7 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15139615244658",
       "15139613802866",
       "15139615244658",
       "15163471200626"
