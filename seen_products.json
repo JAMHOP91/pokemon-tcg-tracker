@@ -16,6 +16,8 @@
   "Cool Shit - Pokemon": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/3PACKDELTA",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/3PACKDELTA",
@@ -83,8 +85,6 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558380781629",
-      "7558378979389",
       "7558377930813",
       "7558379864125",
       "7558381600829"
@@ -1923,6 +1923,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8770963537943",
       "8969764110359",
       "8770963537943",
       "8888685723671",
@@ -2121,8 +2122,8 @@
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
       "9530379600149",
-      "9537919516949",
-      "9537919222037"
+      "9537919222037",
+      "9537919516949"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2317,9 +2318,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15163471200626",
       "15139615244658",
-      "15139613802866",
-      "15163471200626"
+      "15139613802866"
     ],
     "zero_streak": 0,
     "warned": false,
