@@ -1,14 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster",
-    "price": "$11.99",
-    "timestamp": "2026-08-24T20:10:47.061311+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Mega-Zygarde_EN.png?v=1774393148"
-  },
-  {
     "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG 30th Celebration Knock Out Collection (Limit 2 per Customer) (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection-limit-2-per-customer-pre-order",
@@ -10826,5 +10817,16 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
     "limit": null,
     "seen_count": 6
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "30th Celebration Tin\u2014Sylveon | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/30th-celebration-tin-sylveon-pokemon-tcg",
+    "price": "$65.00",
+    "timestamp": "2026-10-09T17:10:47.816783+00:00",
+    "priority": true,
+    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tin-Day_EN.jpg?v=1783057723",
+    "limit": null,
+    "seen_count": 2
   }
 ]
