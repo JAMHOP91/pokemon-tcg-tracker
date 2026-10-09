@@ -2,6 +2,7 @@
   "JB Hi-Fi NZ": {
     "seen_ids": [
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-knock-out-collection",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
@@ -266,9 +267,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
       "10202363330800",
-      "10218488725744"
+      "10218488725744",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1741,8 +1742,8 @@
   "Card Masters - Pre-Orders": {
     "seen_ids": [
       "9215139872931",
-      "9228412158115",
       "9228422611107",
+      "9228412158115",
       "9215569133731"
     ],
     "zero_streak": 0,
