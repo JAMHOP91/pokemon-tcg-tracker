@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-knock-out-collection",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
@@ -2246,8 +2247,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
       "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
       "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764"
     ],
     "zero_streak": 0,
@@ -2276,6 +2277,9 @@
       "8231325270134",
       "8083552370806",
       "8231312228470",
+      "8231325270134",
+      "8231309377654",
+      "8083552370806",
       "8231315472502"
     ],
     "zero_streak": 0,
