@@ -1,14 +1,5 @@
 [
   {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pok\u00e9mon TCG Mega Zygarde ex Premium Collection",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-08-24T19:40:48.440512+00:00",
-    "priority": false,
-    "image": "http://getthosecards.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762.jpg?v=1779678921"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster",
@@ -10824,5 +10815,16 @@
     "image": "http://toytime.co.nz/cdn/shop/files/712845506_122203714544471322_1472360028819368492_n.jpg?v=1780891415",
     "limit": "LIMIT 1 PER PERSON",
     "seen_count": 1
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
+    "price": "$10.99",
+    "timestamp": "2026-10-09T16:21:01.795737+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
+    "limit": null,
+    "seen_count": 6
   }
 ]
