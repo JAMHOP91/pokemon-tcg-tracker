@@ -1,15 +1,6 @@
 [
   {
     "site": "Big Potato Collectibles - Pokemon Sealed",
-    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Blister Booster Pack",
-    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-blister-booster-pack",
-    "price": "$15.00",
-    "timestamp": "2026-08-24T16:40:50.110027+00:00",
-    "priority": false,
-    "image": "https://static.wixstatic.com/media/beffc4_7022311f8cad4a2dad2d385cf557b316~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp"
-  },
-  {
-    "site": "Big Potato Collectibles - Pokemon Sealed",
     "title": "Pokemon TCG: Mega Evolutions - Chaos Rising 3 Pack Blister Booster",
     "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-3-pack-blister-booster",
     "price": "$40.00",
@@ -10816,5 +10807,16 @@
     "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2106.webp?v=1786436693",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: 2-Pack Blister Product (Pre-Order)",
+    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+    "price": "NZ$24.00",
+    "timestamp": "2026-10-09T15:16:23.864209+00:00",
+    "priority": false,
+    "image": "https://assets.bigcartel.com/product_images/425327193/Untitled+design+_4_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 4
   }
 ]
