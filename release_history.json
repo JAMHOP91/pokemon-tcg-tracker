@@ -1,14 +1,5 @@
 [
   {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG 30th Celebration Knock Out Collection (Limit 2 per Customer) (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection-limit-2-per-customer-pre-order",
-    "price": "$49.99",
-    "timestamp": "2026-08-24T23:32:56.643271+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Knock-Out-Collection_EN.jpg?v=1786179473"
-  },
-  {
     "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Hiroshima 2025 Special Collection Box",
     "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-hiroshima-2025-special-collection-box",
@@ -10826,6 +10817,17 @@
     "timestamp": "2026-10-09T17:10:47.816783+00:00",
     "priority": true,
     "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tin-Day_EN.jpg?v=1783057723",
+    "limit": null,
+    "seen_count": 2
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Zarude 2-Pack Blister",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-zarude-2-pack-blister",
+    "price": "$36.80",
+    "timestamp": "2026-10-09T18:40:54.863458+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/upload-1789789239908.jpg?v=1789789241",
     "limit": null,
     "seen_count": 2
   }
