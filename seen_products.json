@@ -413,9 +413,9 @@
       "https://hobbymaster.co.nz/products/product/47427",
       "https://hobbymaster.co.nz/products/product/47432"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-09T04:31:41.373821+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -1791,6 +1791,7 @@
       "8855167008966",
       "8789885321414",
       "8909649739974",
+      "8789885321414",
       "8970824843462",
       "8931072311494"
     ],
@@ -1895,7 +1896,10 @@
       "15401415344277",
       "15401330835605",
       "9210168803477",
+      "15401415344277",
       "9285795938453",
+      "9268784496789",
+      "15401330835605",
       "9152299892885",
       "9285822251157"
     ],
@@ -2248,8 +2252,8 @@
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
       "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764"
+      "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
