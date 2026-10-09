@@ -367,8 +367,8 @@
   "TCG Collector NZ": {
     "seen_ids": [
       "8479841648836",
-      "8542844846276",
-      "8584003977412"
+      "8584003977412",
+      "8542844846276"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1840,8 +1840,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2046,6 +2046,7 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
+      "10170361905236",
       "7853389774932",
       "10214066389076",
       "10170375307348",
@@ -2115,8 +2116,8 @@
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
       "9537919222037",
-      "9537919516949",
-      "9530379600149"
+      "9530379600149",
+      "9537919516949"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2253,8 +2254,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2268,6 +2269,7 @@
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
       "8083552370806",
+      "8231315472502",
       "8231325270134",
       "8231315472502",
       "8231312228470"
