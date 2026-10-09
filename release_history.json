@@ -1,23 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Hiroshima 2025 Special Collection Box",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-hiroshima-2025-special-collection-box",
-    "price": "$490.00",
-    "timestamp": "2026-08-24T23:40:52.008505+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/hiroshima-box-cardbot-pokemon-center.jpg?v=1759255240"
-  },
-  {
-    "site": "TCG NZ",
-    "title": "Pokemon TCG: Mega Charizard X ex Ultra-Premium Collection",
-    "url": "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection",
-    "price": "$420.00",
-    "timestamp": "2026-08-25T00:40:48.546612+00:00",
-    "priority": false,
-    "image": "https://static.wixstatic.com/media/f9a8f0_adf10d1241fb45658ad9175e27997b48~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg"
-  },
-  {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution\u2014Delta Reign Three-Booster Blister - PRE ORDER-Release Date: November 6th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-obsidian-flames-3-pack-blister-houndstone",
@@ -10828,6 +10810,28 @@
     "timestamp": "2026-10-09T18:40:54.863458+00:00",
     "priority": false,
     "image": "http://www.metalife.co.nz/cdn/shop/files/upload-1789789239908.jpg?v=1789789241",
+    "limit": null,
+    "seen_count": 2
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Fire Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-fire-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-10-09T19:05:45.106782+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicFireEnergy-50x.jpg?v=1737494230",
+    "limit": null,
+    "seen_count": 4
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions 2 pack Blister pack",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-2-pack-blister-pack",
+    "price": "$31.99",
+    "timestamp": "2026-10-09T19:05:45.106782+00:00",
+    "priority": true,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCG-Megaevolutions2packBlister.jpg?v=1790806747",
     "limit": null,
     "seen_count": 2
   }
