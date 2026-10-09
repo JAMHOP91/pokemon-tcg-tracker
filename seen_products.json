@@ -18,6 +18,7 @@
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/3PACKDELTA"
     ],
@@ -87,7 +88,7 @@
       "7558381600829",
       "7558379864125",
       "7558377930813",
-      "7558378979389"
+      "7558380781629"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1787,6 +1788,7 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
+      "8931072311494",
       "8855171334342",
       "8909649739974",
       "8970824843462",
@@ -1923,6 +1925,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8969764110359",
       "8832667877399",
       "8770963537943",
       "8969764110359",
@@ -2247,9 +2250,9 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
       "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-      "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2274,6 +2277,7 @@
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
       "8231312228470",
+      "8231309377654",
       "8231325270134",
       "8231309377654",
       "8083552370806",
