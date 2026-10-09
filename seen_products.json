@@ -83,6 +83,7 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
+      "7558379864125",
       "7558381600829",
       "7558379864125",
       "7558380781629",
@@ -332,6 +333,7 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/pokeball-tin-2021",
@@ -1681,6 +1683,7 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
+      "10448504881448",
       "10323223183656",
       "10448504848680",
       "10448504881448",
@@ -1740,7 +1743,6 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9215139872931",
       "9228422611107",
       "9215569133731",
       "9228412158115"
@@ -1891,7 +1893,9 @@
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
-      "15401330835605",
+      "9285795938453",
+      "9210168803477",
+      "9152299892885",
       "9285822251157",
       "9285795938453",
       "9152299892885",
@@ -2070,11 +2074,12 @@
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
       "10187809095936",
+      "10190552203520",
       "10190544437504",
       "9366282600704",
       "10197535195392",
-      "10190552203520",
-      "10190544797952"
+      "10190544797952",
+      "9366282600704"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2093,10 +2098,10 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9269784477950",
-      "9173828796670",
       "7756322504958",
-      "9381118279934"
+      "9173828796670",
+      "9381118279934",
+      "9269784477950"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2271,7 +2276,6 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
-      "8231325270134",
       "8083552370806",
       "8231315472502",
       "8231309377654",
