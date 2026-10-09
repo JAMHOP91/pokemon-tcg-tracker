@@ -1,23 +1,5 @@
 [
   {
-    "site": "Cool Shit - Status Watch",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP (status: sold out)",
-    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
-    "price": "NZ$99.00",
-    "timestamp": "2026-08-24T04:03:45.127765+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427181259/Untitled+design+_17_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Status Watch",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP (status: sold out)",
-    "url": "https://www.coolshit.co.nz/product/boosterbundle",
-    "price": "NZ$149.00",
-    "timestamp": "2026-08-24T04:50:46.257060+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427180092/Untitled+design+_9_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
     "site": "Collect All Day",
     "title": "Grimmsnarl VMAX Starter Set",
     "url": "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
@@ -10804,5 +10786,27 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME05_Pitch_Black_Booster_Box.jpg?v=1777870840",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Psychic Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-psychic-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-10-09T03:40:49.899870+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicPsychicEnergy-50x.jpg?v=1737494476",
+    "limit": null,
+    "seen_count": 5
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Lightning Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-lightning-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-10-09T03:40:49.899870+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicLightningEnergy-50x.jpg?v=1737494320",
+    "limit": null,
+    "seen_count": 4
   }
 ]
