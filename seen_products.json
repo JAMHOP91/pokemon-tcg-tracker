@@ -19,7 +19,8 @@
       "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/3PACKDELTA"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -413,9 +414,9 @@
       "https://hobbymaster.co.nz/products/product/47428",
       "https://hobbymaster.co.nz/products/product/47427"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-09T15:01:22.592434+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -1895,6 +1896,7 @@
       "9210168803477",
       "9152299892885",
       "9285822251157",
+      "9152299892885",
       "9268784496789",
       "15401330835605",
       "15401415344277"
