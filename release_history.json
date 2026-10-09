@@ -1,15 +1,6 @@
 [
   {
     "site": "Cool Shit - Status Watch",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP) (status: available)",
-    "url": "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night",
-    "price": "NZ$419.00",
-    "timestamp": "2026-08-24T03:50:51.965658+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427180452/Untitled+design+_10_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Status Watch",
     "title": "View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP (status: available)",
     "url": "https://www.coolshit.co.nz/product/boosterbundle",
     "price": "NZ$149.00",
@@ -10794,5 +10785,16 @@
     "image": "https://assets.bigcartel.com/product_images/425327193/Untitled+design+_4_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Perfect Order Single Pack",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-perfect-order-single-pack",
+    "price": "$9.99",
+    "timestamp": "2026-10-09T00:40:44.177616+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-06-26140207.jpg?v=1782439750",
+    "limit": null,
+    "seen_count": 2
   }
 ]
