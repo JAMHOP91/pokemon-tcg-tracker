@@ -2067,7 +2067,6 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "10190552203520",
       "10197535195392",
       "9366282600704",
       "10190544797952",
@@ -2243,8 +2242,8 @@
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
       "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
