@@ -1,24 +1,6 @@
 [
   {
     "site": "Cool Shit - Status Watch",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Booster Bundle (Pre-Order) STRICTLY 2PP (status: available)",
-    "url": "https://www.coolshit.co.nz/product/boosterbundle",
-    "price": "NZ$149.00",
-    "timestamp": "2026-08-24T03:50:51.965658+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427180092/Untitled+design+_9_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Status Watch",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP (status: available)",
-    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order",
-    "price": "NZ$99.00",
-    "timestamp": "2026-08-24T03:50:51.965658+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427181259/Untitled+design+_17_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Status Watch",
     "title": "View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP (status: sold out)",
     "url": "https://www.coolshit.co.nz/product/premiumcollection",
     "price": "NZ$699.00",
@@ -10796,5 +10778,27 @@
     "image": "http://toytime.co.nz/cdn/shop/files/2026-06-26140207.jpg?v=1782439750",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "JB Hi-Fi NZ",
+    "title": "Pokemon TCG: Scarlet & Violet Surging Sparks Booster",
+    "url": "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
+    "price": null,
+    "timestamp": "2026-10-09T01:35:09.790530+00:00",
+    "priority": false,
+    "image": "http://www.jbhifi.co.nz/cdn/shop/files/488305-Product-0-I-639270972016330716_1024x1024.jpg",
+    "limit": "Limit 1 per order",
+    "seen_count": 0
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pokemon TCG: Sword and Shield - Lost Origin Booster (Single)",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-sword-and-shield-lost-origin-booster-single",
+    "price": "$7.99",
+    "timestamp": "2026-10-09T01:35:09.790530+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Sword-Shield-Lost-Origin-Booster-Wrap-Hisuian-ZoroarkEN-5591024-1jpg_grande.jpg?v=1755162962",
+    "limit": null,
+    "seen_count": 0
   }
 ]
