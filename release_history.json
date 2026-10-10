@@ -1,33 +1,6 @@
 [
   {
     "site": "Card Masters NZ",
-    "title": "IRON LEAVES ex SPECIAL ILLUSTRATION RARE - PSA 8",
-    "url": "https://cardmasters.co.nz/products/iron-leaves-ex-special-illustration-rare-psa-8",
-    "price": "$60.00",
-    "timestamp": "2026-08-25T09:50:46.694406+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/Fbf_KD2eCEKQjqo0ECbAkA_1200x2008.jpg?v=1787651432"
-  },
-  {
-    "site": "Card Masters NZ",
-    "title": "VENDING #16 PIDGEY SERIES - PSA 7",
-    "url": "https://cardmasters.co.nz/products/vending-16-pidgey-series-psa-7",
-    "price": "$75.00",
-    "timestamp": "2026-08-25T09:50:46.694406+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/a0fkqirj_EOEN1u8ofnLGQ_1200x2012.jpg?v=1787651339"
-  },
-  {
-    "site": "Card Masters NZ",
-    "title": "GRENINJA ex ULTRA RARE - PSA 10",
-    "url": "https://cardmasters.co.nz/products/greninja-ex-ultra-rare-psa-10",
-    "price": "$290.00",
-    "timestamp": "2026-08-25T09:50:46.694406+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/5rrTqli3dU-rCEPSMYrA_g_1200x2012.jpg?v=1787651162"
-  },
-  {
-    "site": "Card Masters NZ",
     "title": "POKEMON SUN & MOON #80 UMBREON GX - PSA 10",
     "url": "https://cardmasters.co.nz/products/pokemon-sun-moon-80-umbreon-gx-psa-10",
     "price": "$1030.00",
@@ -10856,5 +10829,38 @@
     "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-0959.webp?v=1781918813",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Flareon VMAX Premium Collection",
+    "url": "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+    "price": "NZ$495.00",
+    "timestamp": "2026-10-10T14:10:47.355501+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67ea529e339c3f5954c874f8/1757999502933/Flareon+VMAX+Special+Collection.jpg?format=1500w",
+    "limit": null,
+    "seen_count": 1
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Hidden Fates Tin",
+    "url": "https://www.collectallday.com/new/hidden-fates-tin",
+    "price": "from NZ$230.00",
+    "timestamp": "2026-10-10T14:10:47.355501+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ea41518a9fa910a7d7a63ac/1587816618843/480px-CharizardGX_Tin.jpg?format=1500w",
+    "limit": null,
+    "seen_count": 2
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions 2 pack Blister pack",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-2-pack-blister-pack",
+    "price": "$31.99",
+    "timestamp": "2026-10-10T14:10:47.355501+00:00",
+    "priority": true,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCG-Megaevolutions2packBlister.jpg?v=1790806747",
+    "limit": null,
+    "seen_count": 4
   }
 ]
