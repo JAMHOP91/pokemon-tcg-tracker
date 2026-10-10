@@ -339,6 +339,8 @@
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection"
     ],
@@ -413,9 +415,9 @@
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/47232"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-10T12:31:18.663802+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -1738,10 +1740,10 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9215569133731",
-      "9228422611107",
+      "9228412158115",
       "9215139872931",
-      "9228412158115"
+      "9228422611107",
+      "9215569133731"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2069,6 +2071,7 @@
       "10187809095936",
       "9366282600704",
       "10190544797952",
+      "9366282600704",
       "10197535195392"
     ],
     "zero_streak": 0,
@@ -2240,8 +2243,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
       "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
       "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764"
     ],
     "zero_streak": 0,
