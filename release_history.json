@@ -1,14 +1,5 @@
 [
   {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
-    "price": "$9.99",
-    "timestamp": "2026-08-25T05:11:01.952802+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191"
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
@@ -10844,5 +10835,16 @@
     "image": "http://cardbot.co.nz/cdn/shop/files/Pitchblackdiceset.webp?v=1791169845",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "TCG Collector NZ - Pre-Orders",
+    "title": "Pokemon TCG: Mega Forces Tin *Sealed* (PRE-ORDER, SHIPS DEC 4TH)",
+    "url": "https://tcgcollectornz.com/products/pokemon-mega-forces-tin",
+    "price": "$60.00",
+    "timestamp": "2026-10-10T06:10:52.327441+00:00",
+    "priority": false,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Forces-Tin-Mega-Dragonite-ex-Front_EN.jpg?v=1782462382",
+    "limit": "limited to 1 per household",
+    "seen_count": 3
   }
 ]
