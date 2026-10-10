@@ -1711,7 +1711,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631859577028",
+      "8636237676740",
+      "8636191965380",
       "8636199928004",
       "8636191965380",
       "8636163981508",
@@ -2241,9 +2242,9 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
+      "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764"
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2310,9 +2311,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15139615244658",
+      "15139613802866",
       "15163471200626",
-      "15139613802866"
+      "15139615244658"
     ],
     "zero_streak": 0,
     "warned": false,
