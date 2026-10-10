@@ -1,14 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$109.99",
-    "timestamp": "2026-08-25T08:40:53.488284+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364"
-  },
-  {
     "site": "Card Masters NZ",
     "title": "PIKACHU ULTRA-PREMIUM COLLECTION METAL - PSA 8",
     "url": "https://cardmasters.co.nz/products/pikachu-ultra-premium-collection-metal-psa-8",
@@ -10845,6 +10836,17 @@
     "priority": false,
     "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Forces-Tin-Mega-Dragonite-ex-Front_EN.jpg?v=1782462382",
     "limit": "limited to 1 per household",
+    "seen_count": 3
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG - Mega Evolution Pitch Black Dice & Coin Set",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-30th-celebration-dice-and-coin-set-copy",
+    "price": "$4.00",
+    "timestamp": "2026-10-10T06:40:49.670558+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/Pitchblackdiceset.webp?v=1791169845",
+    "limit": null,
     "seen_count": 3
   }
 ]
