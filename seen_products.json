@@ -413,9 +413,9 @@
       "https://hobbymaster.co.nz/products/product/47431",
       "https://hobbymaster.co.nz/products/product/46975"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-10T10:31:04.758629+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -2309,6 +2309,7 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15163471200626",
       "15139615244658",
       "15163471200626",
       "15139613802866"
