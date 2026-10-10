@@ -5,6 +5,7 @@
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-knock-out-collection",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box"
     ],
     "zero_streak": 994,
@@ -39,6 +40,9 @@
       "7439107129493",
       "7330103165077",
       "7439125512341",
+      "7330103165077",
+      "7330100445333",
+      "7330088353941",
       "7330101330069",
       "7439084388501",
       "7330088353941"
@@ -266,9 +270,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
       "10218488725744",
-      "10202363330800"
+      "10202363330800",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1738,10 +1742,10 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9215569133731",
-      "9228412158115",
       "9228422611107",
-      "9215139872931"
+      "9215569133731",
+      "9215139872931",
+      "9228412158115"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1892,6 +1896,7 @@
       "9210168803477",
       "15401415344277",
       "9268784496789",
+      "9210168803477",
       "9152299892885",
       "15401330835605",
       "9285822251157",
@@ -2241,8 +2246,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
       "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764"
     ],
     "zero_streak": 0,
