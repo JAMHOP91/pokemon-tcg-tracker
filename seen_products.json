@@ -339,6 +339,8 @@
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection"
     ],
@@ -1890,6 +1892,10 @@
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
       "9268784496789",
+      "15401330835605",
+      "9285822251157",
+      "15401415344277",
+      "9210168803477",
       "9152299892885",
       "9285822251157",
       "15401415344277",
@@ -2046,6 +2052,7 @@
   "Game Corner - Pokemon": {
     "seen_ids": [
       "10170361905236",
+      "10214066389076",
       "10170375307348",
       "7853389774932",
       "10214066389076"
