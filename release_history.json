@@ -1,14 +1,5 @@
 [
   {
-    "site": "Card Masters NZ",
-    "title": "SINISTCHA ex SPECIAL ILLUSTRATION  - PSA 10",
-    "url": "https://cardmasters.co.nz/products/sinistcha-ex-special-illustration-psa-10",
-    "price": "$350.00",
-    "timestamp": "2026-08-25T02:50:48.929666+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/mcCxfMJKFkendxJyCmArCw_1200x1996.jpg?v=1787625754"
-  },
-  {
     "site": "Pop Stop - Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
@@ -10842,5 +10833,16 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
     "limit": null,
     "seen_count": 8
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG - Mega Evolution Pitch Black Dice & Coin Set",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-30th-celebration-dice-and-coin-set-copy",
+    "price": "$4.00",
+    "timestamp": "2026-10-10T03:40:48.818831+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/Pitchblackdiceset.webp?v=1791169845",
+    "limit": null,
+    "seen_count": 2
   }
 ]
