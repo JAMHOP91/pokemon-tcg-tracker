@@ -1,15 +1,6 @@
 [
   {
     "site": "Card Masters NZ",
-    "title": "MEW VMAX FUSION STRIKE-SECRET - PSA 9",
-    "url": "https://cardmasters.co.nz/products/mew-vmax-fusion-strike-secret-psa-9",
-    "price": "$450.00",
-    "timestamp": "2026-08-25T02:50:48.929666+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/c7DLgSPm8kOH3L4B3c4sKw_1200x2024.jpg?v=1787626120"
-  },
-  {
-    "site": "Card Masters NZ",
     "title": "MEGA CHARIZARD EX FA  - PSA 10",
     "url": "https://cardmasters.co.nz/products/mega-charizard-ex-fa-psa-10",
     "price": "$260.00",
@@ -10838,5 +10829,16 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCG-Megaevolutions2packBlister.jpg?v=1790806747",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
+    "price": "$9.99",
+    "timestamp": "2026-10-10T00:40:46.251335+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191",
+    "limit": null,
+    "seen_count": 12
   }
 ]
