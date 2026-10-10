@@ -1,15 +1,6 @@
 [
   {
     "site": "Card Masters NZ",
-    "title": "CHARIZARD V CHAMPION'S PATH-SECRET - PSA 10",
-    "url": "https://cardmasters.co.nz/products/charizard-v-champions-path-secret-psa-10",
-    "price": "$750.00",
-    "timestamp": "2026-08-25T09:40:55.579325+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/354566266-removebg-preview_1200x2008.png?v=1787650474"
-  },
-  {
-    "site": "Card Masters NZ",
     "title": "IRON LEAVES ex SPECIAL ILLUSTRATION RARE - PSA 8",
     "url": "https://cardmasters.co.nz/products/iron-leaves-ex-special-illustration-rare-psa-8",
     "price": "$60.00",
@@ -10854,5 +10845,16 @@
     "image": "http://popstop.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731-1_grande.jpg?v=1780869247",
     "limit": null,
     "seen_count": 7
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Sword & Shield Evolving Skies UMBREON Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-evolving-skies-elite-trainer-box",
+    "price": "$1100.00",
+    "timestamp": "2026-10-10T13:50:49.454568+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-0959.webp?v=1781918813",
+    "limit": null,
+    "seen_count": 1
   }
 ]
