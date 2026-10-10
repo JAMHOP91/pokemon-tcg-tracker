@@ -5,7 +5,7 @@
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-knock-out-collection",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister-3-pack"
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles"
     ],
     "zero_streak": 1069,
     "warned": true,
@@ -15,7 +15,6 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/3PACKDELTA",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
@@ -366,8 +365,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8584003977412",
       "8542844846276",
+      "8584003977412",
       "8479841648836"
     ],
     "zero_streak": 0,
@@ -395,6 +394,8 @@
       "https://hobbymaster.co.nz/products/product/47428",
       "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/46976",
+      "https://hobbymaster.co.nz/products/product/47431",
       "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/46976",
@@ -1686,7 +1687,7 @@
       "10441619603752",
       "10270182736168",
       "15402635297064",
-      "10448504881448"
+      "10270182736168"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1840,8 +1841,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1983,6 +1984,11 @@
       "9982539989232",
       "10171578286320",
       "10171572912368",
+      "10171578286320",
+      "10112186188016",
+      "10112179831024",
+      "10112141295856",
+      "9982539989232",
       "10111551209712",
       "10171560952048",
       "10112184385776",
@@ -2088,6 +2094,7 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9269784477950",
       "9381118279934",
       "9173828796670",
       "9269784477950",
@@ -2310,8 +2317,8 @@
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
       "15163471200626",
-      "15139615244658",
-      "15139613802866"
+      "15139613802866",
+      "15139615244658"
     ],
     "zero_streak": 0,
     "warned": false,
