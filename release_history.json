@@ -1,15 +1,6 @@
 [
   {
     "site": "Card Masters NZ",
-    "title": "PIKACHU ULTRA-PREMIUM COLLECTION METAL - PSA 8",
-    "url": "https://cardmasters.co.nz/products/pikachu-ultra-premium-collection-metal-psa-8",
-    "price": "$330.00",
-    "timestamp": "2026-08-25T09:40:55.579325+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/62zJRSN1UUK7Z045x32tDQ_1200x2008.jpg?v=1787650832"
-  },
-  {
-    "site": "Card Masters NZ",
     "title": "MEGA GENGAR ex MEGA ATTACK RARE - PSA 10",
     "url": "https://cardmasters.co.nz/products/mega-gengar-ex-mega-attack-rare-psa-10",
     "price": "$200.00",
@@ -10846,6 +10837,17 @@
     "timestamp": "2026-10-10T06:40:49.670558+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/Pitchblackdiceset.webp?v=1791169845",
+    "limit": null,
+    "seen_count": 3
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Obsidian Flames Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-obsidian-flames-elite-trainer-box",
+    "price": "$600.00",
+    "timestamp": "2026-10-10T09:11:02.089267+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2106.webp?v=1786436693",
     "limit": null,
     "seen_count": 3
   }
