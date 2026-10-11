@@ -1,14 +1,5 @@
 [
   {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Perfect Order Booster Box",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster-pre-order-27-03-2026",
-    "price": "$340.00",
-    "timestamp": "2026-08-26T05:11:06.749255+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2_3072bdfc-7285-41e0-a5bc-07ef49087202.webp?v=1771450521"
-  },
-  {
     "site": "Card Masters NZ",
     "title": "Pokemon TCG: Mega Evolution: Ascended Heroes Booster Pack",
     "url": "https://cardmasters.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-booster-pack",
@@ -10902,5 +10893,16 @@
     "image": "http://thegametree.co.nz/cdn/shop/products/39.png?v=1649201922",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolution - Pitch Black Booster Booster - Mega Excadrill ex",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-booster-mega-excadrill-ex",
+    "price": "$10.90",
+    "timestamp": "2026-10-11T12:10:44.924475+00:00",
+    "priority": false,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/MegaEvolutionPitchBlackBooster-1.jpg?v=1784441647",
+    "limit": null,
+    "seen_count": 0
   }
 ]
