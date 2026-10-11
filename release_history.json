@@ -1,14 +1,5 @@
 [
   {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG:  Mega Greninja ex Premium Collection",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
-    "price": "$93.99",
-    "timestamp": "2026-08-26T10:41:04.731468+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731-1_grande.jpg?v=1780869247"
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
@@ -10912,5 +10903,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
     "limit": null,
     "seen_count": 11
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Metal Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-metal-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-10-11T18:40:47.038591+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicMetalEnergy-50x.jpg?v=1737494522",
+    "limit": null,
+    "seen_count": 5
   }
 ]
