@@ -1,14 +1,5 @@
 [
   {
-    "site": "Otakumart - Pokemon TCG",
-    "title": "50x Basic Grass Energy | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/50x-basic-grass-energy-pokemon-tcg",
-    "price": "$3.00",
-    "timestamp": "2026-08-25T13:11:25.663987+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/BasicGrassEnergy-50x.jpg?v=1737492505"
-  },
-  {
     "site": "Big Potato Collectibles - Pokemon Sealed",
     "title": "Pokemon x McDonald's Dragon Discovery Happy Meal Pack (150 Unit Sealed Case)",
     "url": "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-happy-meal-pack-150-unit-sealed-case",
@@ -10876,5 +10867,16 @@
     "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5f29e7a80dc53066d6ca647d/1779703276980/651px-SM3_Blister_Cosmog.jpg?format=1500w",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "TCG Collector NZ - Pre-Orders",
+    "title": "Pokemon TCG: Mega Forces Tin *Sealed* (PRE-ORDER, SHIPS DEC 4TH)",
+    "url": "https://tcgcollectornz.com/products/pokemon-mega-forces-tin",
+    "price": "$60.00",
+    "timestamp": "2026-10-11T01:10:44.730280+00:00",
+    "priority": false,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Forces-Tin-Mega-Dragonite-ex-Front_EN.jpg?v=1782462382",
+    "limit": "limited to 1 per household",
+    "seen_count": 4
   }
 ]
