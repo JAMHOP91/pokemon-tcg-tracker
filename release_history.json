@@ -1,15 +1,6 @@
 [
   {
     "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: Mega Evolution\u2014 Delta Reign Booster Bundle (PRE-ORDER)",
-    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
-    "price": "NZ$69.00",
-    "timestamp": "2026-08-26T03:20:47.342980+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/430009263/3.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "Cool Shit - Pokemon",
     "title": "View Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Elite Trainer Box (PRE-ORDER)",
     "url": "https://www.coolshit.co.nz/product/deltaetb",
     "price": "NZ$130.00",
@@ -10898,5 +10889,16 @@
     "image": "http://www.playx.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2_1.jpg?v=1791535077",
     "limit": "Limit 2 per Customer",
     "seen_count": 0
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG Lumiose City Mini Tin (Assorted)",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
+    "price": "$25.00",
+    "timestamp": "2026-10-11T10:40:45.189538+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Lumiose_City_Mini_Tin.jpg?v=1780985527",
+    "limit": null,
+    "seen_count": 4
   }
 ]
