@@ -405,6 +405,10 @@
       "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/46971",
+      "https://hobbymaster.co.nz/products/product/47432",
+      "https://hobbymaster.co.nz/products/product/47423",
+      "https://hobbymaster.co.nz/products/product/47237",
+      "https://hobbymaster.co.nz/products/product/47425",
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/47432",
@@ -2086,9 +2090,9 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9269784477950",
       "9381118279934",
-      "9173828796670",
-      "9269784477950"
+      "9173828796670"
     ],
     "zero_streak": 0,
     "warned": false,
