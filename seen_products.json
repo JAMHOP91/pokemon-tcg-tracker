@@ -2127,8 +2127,8 @@
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
       "9537919516949",
-      "9530379600149",
-      "9537919222037"
+      "9537919222037",
+      "9530379600149"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2322,9 +2322,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15163471200626",
       "15139615244658",
-      "15139613802866",
-      "15163471200626"
+      "15139613802866"
     ],
     "zero_streak": 0,
     "warned": false,
