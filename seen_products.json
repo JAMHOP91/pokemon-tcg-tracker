@@ -337,6 +337,7 @@
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection"
     ],
@@ -1804,7 +1805,8 @@
       "8931072311494",
       "8855171334342",
       "8855167008966",
-      "8909649739974"
+      "8909649739974",
+      "8855171334342"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1854,8 +1856,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2081,9 +2083,9 @@
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
       "9366282600704",
+      "10190544797952",
       "10187809095936",
-      "10197535195392",
-      "10190544797952"
+      "10197535195392"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2102,9 +2104,9 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9381118279934",
       "9269784477950",
-      "9173828796670",
-      "9381118279934"
+      "9173828796670"
     ],
     "zero_streak": 0,
     "warned": false,
