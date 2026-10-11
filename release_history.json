@@ -1,15 +1,6 @@
 [
   {
     "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Pitch Black Single Pack",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-single-pack",
-    "price": "$11.00",
-    "timestamp": "2026-08-25T21:10:49.891538+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2318353445.jpg?v=1784500677"
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG Chaos Rising Single Pack",
     "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-single-pack",
     "price": "$11.00",
@@ -10886,5 +10877,16 @@
     "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2104.jpg?v=1786436317",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "TCG Collector NZ - Pre-Orders",
+    "title": "Pokemon TCG: Mega Forces Tin *Sealed* (PRE-ORDER, SHIPS DEC 4TH)",
+    "url": "https://tcgcollectornz.com/products/pokemon-mega-forces-tin",
+    "price": "$60.00",
+    "timestamp": "2026-10-11T07:10:51.534556+00:00",
+    "priority": false,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Forces-Tin-Mega-Dragonite-ex-Front_EN.jpg?v=1782462382",
+    "limit": "limited to 1 per household",
+    "seen_count": 5
   }
 ]
