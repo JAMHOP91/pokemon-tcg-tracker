@@ -1,14 +1,5 @@
 [
   {
-    "site": "Big Potato Collectibles - Pokemon Sealed",
-    "title": "Pokemon TCG: Ascended Heroes Booster Pack",
-    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-booster-pack",
-    "price": "$45.00",
-    "timestamp": "2026-08-25T15:01:25.813768+00:00",
-    "priority": false,
-    "image": "https://static.wixstatic.com/media/beffc4_6ba57c29f6db41f486a704fe7b174938~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp"
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon Mega Zygarde ex Premium Collection",
     "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
@@ -10880,5 +10871,16 @@
     "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-30th-celebration-pikachu-ex-150-128-official.webp?v=1789451628",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Fire Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-fire-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-10-11T05:31:07.875702+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicFireEnergy-50x.jpg?v=1737494230",
+    "limit": null,
+    "seen_count": 5
   }
 ]
