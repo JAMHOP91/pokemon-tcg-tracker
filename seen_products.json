@@ -2,9 +2,9 @@
   "JB Hi-Fi NZ": {
     "seen_ids": [
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-knock-out-collection",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-knock-out-collection"
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box"
     ],
     "zero_streak": 1181,
     "warned": true,
@@ -265,6 +265,7 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10202363330800",
       "10070962241776",
       "10202363330800",
       "10218488725744"
@@ -2085,9 +2086,9 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9173828796670",
       "9269784477950",
-      "9381118279934",
-      "9173828796670"
+      "9381118279934"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2236,9 +2237,9 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
+      "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764"
     ],
     "zero_streak": 0,
     "warned": false,
