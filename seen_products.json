@@ -82,7 +82,7 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558377930813",
+      "7558381600829",
       "7558380781629",
       "7558378979389",
       "7558381600829",
@@ -265,9 +265,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
+      "10218488725744",
       "10202363330800",
-      "10218488725744"
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -411,9 +411,9 @@
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/45878"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-11T05:15:55.503964+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -1682,6 +1682,7 @@
       "10365187621160",
       "10270182736168",
       "15402635297064",
+      "10365187621160",
       "10323223183656",
       "10441619603752"
     ],
@@ -2109,6 +2110,7 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9530379600149",
       "9537919222037",
       "9530379600149",
       "9537919516949"
@@ -2236,9 +2238,9 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
       "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
