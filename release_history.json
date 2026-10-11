@@ -1,15 +1,6 @@
 [
   {
     "site": "Big Potato Collectibles - Pokemon Sealed",
-    "title": "Pokemon x McDonald's Dragon Discovery Happy Meal Pack (150 Unit Sealed Case)",
-    "url": "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-happy-meal-pack-150-unit-sealed-case",
-    "price": "$5,000.00",
-    "timestamp": "2026-08-25T15:01:25.813768+00:00",
-    "priority": false,
-    "image": "https://static.wixstatic.com/media/beffc4_7332fd1d8e6f417691705be8ed6f1384~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg"
-  },
-  {
-    "site": "Big Potato Collectibles - Pokemon Sealed",
     "title": "Pokemon TCG: Ascended Heroes Booster Pack",
     "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-booster-pack",
     "price": "$45.00",
@@ -10878,5 +10869,16 @@
     "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Forces-Tin-Mega-Dragonite-ex-Front_EN.jpg?v=1782462382",
     "limit": "limited to 1 per household",
     "seen_count": 4
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - 30th Celebration Single Card",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-30th-celebration-single-card",
+    "price": "$124.00",
+    "timestamp": "2026-10-11T03:40:44.801189+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-30th-celebration-pikachu-ex-150-128-official.webp?v=1789451628",
+    "limit": null,
+    "seen_count": 3
   }
 ]
