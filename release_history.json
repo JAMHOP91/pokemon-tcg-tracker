@@ -1,50 +1,5 @@
 [
   {
-    "site": "TCG NZ",
-    "title": "One Piece Booster Box \u2013 A Fist of Divine Speed [OP-11]",
-    "url": "https://www.tcgnz.co.nz/product-page/pre-order-one-piece-booster-box-a-fist-of-divine-speed-op-11",
-    "price": "$220.00",
-    "timestamp": "2026-08-26T19:10:55.043108+00:00",
-    "priority": false,
-    "image": "https://static.wixstatic.com/media/f9a8f0_8e0d4328633e4bf1819e1c6b82649d1f~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp"
-  },
-  {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pokemon TCG: Lumiose City Mini Tin (Assorted)",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-lumiose-city-mini-tin",
-    "price": "$24.99",
-    "timestamp": "2026-08-26T20:40:50.568724+00:00",
-    "priority": false,
-    "image": "http://getthosecards.co.nz/cdn/shop/files/Pokemon-TCG-Lumiose-City-Mini-Tin-Embroar.jpg?v=1780884018"
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-08-26T21:40:47.908484+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682"
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-08-27T00:40:44.309754+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682"
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Three Booster Blister",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister",
-    "price": "$31.99",
-    "timestamp": "2026-08-27T00:40:44.309754+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister.jpg?v=1784082727"
-  },
-  {
     "site": "Collect All Day",
     "title": "Jolteon VMAX Premium Collection",
     "url": "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
@@ -10916,5 +10871,60 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Lumiose_City_Mini_Tin.jpg?v=1780985527",
     "limit": null,
     "seen_count": 5
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Pitch Black Single Pack",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-single-pack",
+    "price": "$11.00",
+    "timestamp": "2026-10-11T19:46:17.923293+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2318353445.jpg?v=1784500677",
+    "limit": null,
+    "seen_count": 3
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Chaos Rising - Booster Box",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
+    "price": "$360.00",
+    "timestamp": "2026-10-11T19:46:17.923293+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254",
+    "limit": null,
+    "seen_count": 8
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Zygarde ex Premium Collection",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection-pre-order-22-05-26",
+    "price": "$99.00",
+    "timestamp": "2026-10-11T19:46:17.923293+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103649.jpg?v=1776812402",
+    "limit": null,
+    "seen_count": 2
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions Pitch Black Booster",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster",
+    "price": "$10.99",
+    "timestamp": "2026-10-11T19:46:17.923293+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
+    "limit": null,
+    "seen_count": 12
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Sword & Shield Evolving Skies UMBREON Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-evolving-skies-elite-trainer-box",
+    "price": "$1100.00",
+    "timestamp": "2026-10-11T19:46:17.923293+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-0959.webp?v=1781918813",
+    "limit": null,
+    "seen_count": 2
   }
 ]
