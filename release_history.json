@@ -1,32 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Three Booster Blister",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister",
-    "price": "$31.99",
-    "timestamp": "2026-08-26T08:10:55.145292+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister.jpg?v=1784082727"
-  },
-  {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
-    "url": "https://www.coolshit.co.nz/product/premiumcollection",
-    "price": "NZ$699.00",
-    "timestamp": "2026-08-26T10:11:09.370891+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/427179840/Untitled+design+_7_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200"
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster",
-    "price": "$11.99",
-    "timestamp": "2026-08-26T10:11:09.370891+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Mega-Zygarde_EN.png?v=1774393148"
-  },
-  {
     "site": "Pop Stop - Pokemon TCG",
     "title": "Pok\u00e9mon TCG:  Mega Greninja ex Premium Collection",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
@@ -10906,5 +10879,38 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/KTIUOMrAE0yfHWjkis7K4w_1200x2015.jpg?v=1787045968",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: 2-Pack Blister Product (Pre-Order)",
+    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+    "price": "NZ$24.00",
+    "timestamp": "2026-10-11T17:50:47.658756+00:00",
+    "priority": false,
+    "image": "https://assets.bigcartel.com/product_images/425327193/Untitled+design+_4_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 5
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Chaos Rising - Booster Box",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
+    "price": "$360.00",
+    "timestamp": "2026-10-11T17:50:47.658756+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254",
+    "limit": null,
+    "seen_count": 7
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions Pitch Black Booster",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster",
+    "price": "$10.99",
+    "timestamp": "2026-10-11T17:50:47.658756+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
+    "limit": null,
+    "seen_count": 11
   }
 ]
