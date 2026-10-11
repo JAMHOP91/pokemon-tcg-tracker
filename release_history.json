@@ -1,14 +1,5 @@
 [
   {
-    "site": "Card Masters NZ",
-    "title": "Pokemon TCG: Mega Evolution: Ascended Heroes Booster Pack",
-    "url": "https://cardmasters.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-booster-pack",
-    "price": "$20.00",
-    "timestamp": "2026-08-26T07:40:47.764351+00:00",
-    "priority": true,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/Pokemon_TCG_Mega_Evolution_Ascended_Heroes_Booster_Wrap_ca7cf3f6-5a9c-417f-93a0-8b1768a48d1f_1200x800.webp?v=1771910434"
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolutions - Pitch Black Three Booster Blister",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister",
@@ -10902,6 +10893,17 @@
     "timestamp": "2026-10-11T12:10:44.924475+00:00",
     "priority": false,
     "image": "http://animalkingdoms.co.nz/cdn/shop/files/MegaEvolutionPitchBlackBooster-1.jpg?v=1784441647",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "MEGA DRAGONITE ex MEGA ULTRA RARE - PSA 10",
+    "url": "https://cardmasters.co.nz/products/mega-dragonite-ex-mega-ultra-rare-psa-10",
+    "price": "$800.00",
+    "timestamp": "2026-10-11T17:10:45.076723+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/KTIUOMrAE0yfHWjkis7K4w_1200x2015.jpg?v=1787045968",
     "limit": null,
     "seen_count": 0
   }
