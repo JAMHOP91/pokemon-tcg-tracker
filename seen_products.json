@@ -28,6 +28,9 @@
   "The Game Tree NZ": {
     "seen_ids": [
       "7330101330069",
+      "7330100445333",
+      "7439107129493",
+      "7330099691669",
       "7561509896341",
       "7330099200149",
       "7439084388501",
@@ -1860,8 +1863,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
     ],
     "zero_streak": 0,
     "warned": false,
