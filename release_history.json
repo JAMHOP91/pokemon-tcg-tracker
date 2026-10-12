@@ -1,25 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon Mega Zygarde ex Premium Collection",
-    "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-08-28T07:10:56.111065+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392",
-    "limit": null
-  },
-  {
-    "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Battle Styles Elite Trainer Box",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-battle-styles-elite-trainer-box-1",
-    "price": "$250.00",
-    "timestamp": "2026-08-28T07:33:59.733367+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2636.jpg?v=1787902522",
-    "limit": null
-  },
-  {
     "site": "Razor Leaf - Pokemon TCG",
     "title": "Pokemon TCG - Battle Styles Elite Trainer Box",
     "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-battle-styles-elite-trainer-box",
@@ -10950,5 +10930,27 @@
     "image": "http://cardbot.co.nz/cdn/shop/files/Pitchblackdiceset.webp?v=1791169845",
     "limit": null,
     "seen_count": 5
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Fighting Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-fighting-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-10-12T17:40:53.273938+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicFightingEnergy-50x.jpg?v=1737494406",
+    "limit": null,
+    "seen_count": 3
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Fire Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-fire-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-10-12T17:40:53.273938+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicFireEnergy-50x.jpg?v=1737494230",
+    "limit": null,
+    "seen_count": 7
   }
 ]
