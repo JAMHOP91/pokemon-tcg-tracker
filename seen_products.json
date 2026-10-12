@@ -126,6 +126,7 @@
       "8668035317923",
       "7409030103203",
       "9136790274211",
+      "7762038194339",
       "9136790208675",
       "9231223783587",
       "7540284915875",
@@ -430,6 +431,9 @@
   "Otakumart - Pre-Orders": {
     "seen_ids": [
       "7964215935037",
+      "7915166564413",
+      "7915175608381",
+      "7964213051453",
       "7915168563261",
       "7964206039101",
       "7964217802813",
@@ -1718,7 +1722,7 @@
       "10365187621160",
       "15402635297064",
       "10323223183656",
-      "10270182736168"
+      "10441619603752"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1743,9 +1747,9 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8636163981508",
+      "8636199928004",
       "8631859577028",
-      "8636199928004"
+      "8636163981508"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2175,6 +2179,7 @@
     "seen_ids": [
       "7976837546102",
       "8185012945014",
+      "8026239369334",
       "8026257686646",
       "8069232033910",
       "8220788752502",
@@ -2278,8 +2283,8 @@
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-      "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764"
+      "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764",
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
