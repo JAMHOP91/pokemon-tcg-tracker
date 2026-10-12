@@ -132,6 +132,22 @@
       "9231223652515",
       "9231080751267",
       "7540284915875",
+      "9231080751267",
+      "8856349376675",
+      "9136791978147",
+      "9231224832163",
+      "9136790274211",
+      "8805645254819",
+      "7409030103203",
+      "8850541740195",
+      "9225964847267",
+      "9231224963235",
+      "9225967042723",
+      "8668035317923",
+      "9231223783587",
+      "9231086387363",
+      "9231222079651",
+      "9136746102947",
       "9231220408483",
       "8856349376675",
       "9231223128227"
@@ -1727,9 +1743,9 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631859577028",
       "8636163981508",
-      "8636199928004"
+      "8636199928004",
+      "8631859577028"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1802,6 +1818,8 @@
       "8909649739974",
       "8855171334342",
       "8789885321414",
+      "8909649739974",
+      "8970824843462",
       "8931072311494",
       "8970824843462",
       "8855167008966"
@@ -1892,8 +1910,8 @@
   "Cool Shit - Status Watch": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)"
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
+      "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2322,9 +2340,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15139615244658",
       "15139613802866",
-      "15163471200626",
-      "15139615244658"
+      "15163471200626"
     ],
     "zero_streak": 0,
     "warned": false,
