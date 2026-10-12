@@ -1,15 +1,5 @@
 [
   {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Elite Trainer Box (PRE-ORDER)",
-    "url": "https://www.coolshit.co.nz/product/deltaetb",
-    "price": "NZ$130.00",
-    "timestamp": "2026-08-28T14:10:48.685022+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/430009425/1.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
-    "limit": null
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
@@ -10955,5 +10945,16 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/10-10439-109-Delta-Reign-Booster-Bundle-1.jpg?v=1787572979",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Pitch Black Single Card",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-pitch-black-single-card",
+    "price": "$286.00",
+    "timestamp": "2026-10-12T22:11:07.267663+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-pitch-black-mega-darkrai-ex-116-084-card.png?v=1790732069",
+    "limit": null,
+    "seen_count": 1
   }
 ]
