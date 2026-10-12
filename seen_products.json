@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
@@ -1941,8 +1942,8 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8888685723671",
       "8832667877399",
+      "8888685723671",
       "8770963537943",
       "8969764110359"
     ],
@@ -2096,7 +2097,7 @@
       "10190544797952",
       "9366282600704",
       "10187809095936",
-      "10197535195392",
+      "10215509557504",
       "10215509295360",
       "10215509557504",
       "10215511818496"
@@ -2118,9 +2119,9 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9269784477950",
       "9381118279934",
-      "9173828796670",
-      "9269784477950"
+      "9173828796670"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2142,9 +2143,9 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9537919222037",
       "9537919516949",
-      "9530379600149",
-      "9537919222037"
+      "9530379600149"
     ],
     "zero_streak": 0,
     "warned": false,
