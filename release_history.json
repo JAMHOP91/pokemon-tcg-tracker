@@ -1,15 +1,5 @@
 [
   {
-    "site": "Otakumart - Pokemon TCG",
-    "title": "50x Basic Metal Energy | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/50x-basic-metal-energy-pokemon-tcg",
-    "price": "$3.00",
-    "timestamp": "2026-08-27T19:41:16.629859+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/BasicMetalEnergy-50x.jpg?v=1737494522",
-    "limit": null
-  },
-  {
     "site": "GetThoseMons - Sealed Pokemon TCG",
     "title": "Pokemon TCG: Lumiose City Mini Tin (Assorted)",
     "url": "https://getthosemons.co.nz/products/pokemon-tcg-lumiose-city-mini-tin",
@@ -10940,6 +10930,17 @@
     "timestamp": "2026-10-12T05:20:45.165885+00:00",
     "priority": true,
     "image": "http://cardbot.co.nz/cdn/shop/files/0965f08e504d996656e12374fba33312.jpg?v=1791781984",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG ME06 Delta Reign Booster Box Preorder, ship on November 6, 2026",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-box",
+    "price": "$360.00",
+    "timestamp": "2026-10-12T10:40:56.805900+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2.jpg?v=1787573121",
     "limit": null,
     "seen_count": 0
   }
