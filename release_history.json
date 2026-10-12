@@ -4,16 +4,6 @@
     "title": "Pokemon TCG Chaos Rising - Booster Box",
     "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
     "price": "$360.00",
-    "timestamp": "2026-08-28T08:10:45.339392+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254",
-    "limit": null
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Chaos Rising - Booster Box",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
-    "price": "$360.00",
     "timestamp": "2026-08-28T09:40:47.738734+00:00",
     "priority": false,
     "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254",
@@ -10953,5 +10943,16 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1_1200x1144.jpg?v=1787290166",
     "limit": null,
     "seen_count": 6
+  },
+  {
+    "site": "Game Corner - Pokemon Pre-Orders",
+    "title": "Pokemon TCG ME06 Delta Reign ETB Preorder, ship on November 6, 2026",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-etb",
+    "price": "$125.00",
+    "timestamp": "2026-10-12T21:50:57.985710+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1.jpg?v=1787572761",
+    "limit": null,
+    "seen_count": 0
   }
 ]
