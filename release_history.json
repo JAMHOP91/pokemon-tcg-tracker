@@ -1,15 +1,5 @@
 [
   {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising: Checklane Blister",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-checklane-blister",
-    "price": "$11.99",
-    "timestamp": "2026-08-27T17:40:51.762301+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/10-10405-102_grande.jpg?v=1779404721",
-    "limit": null
-  },
-  {
     "site": "Otakumart - Pokemon TCG",
     "title": "50x Basic Metal Energy | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/50x-basic-metal-energy-pokemon-tcg",
@@ -10939,6 +10929,17 @@
     "timestamp": "2026-10-12T05:15:54.184462+00:00",
     "priority": true,
     "image": "http://cardbot.co.nz/cdn/shop/files/b1503709e7d48716e8d1cb69c50cd7a4.jpg?v=1791781968",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "30th Celebration - Assorted Foil Energy Brick",
+    "url": "https://cardbot.co.nz/products/30th-celebration-assorted-basic-energy-brick",
+    "price": "$13.00",
+    "timestamp": "2026-10-12T05:20:45.165885+00:00",
+    "priority": true,
+    "image": "http://cardbot.co.nz/cdn/shop/files/0965f08e504d996656e12374fba33312.jpg?v=1791781984",
     "limit": null,
     "seen_count": 0
   }
