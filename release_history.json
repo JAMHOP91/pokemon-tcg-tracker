@@ -1,82 +1,5 @@
 [
   {
-    "site": "Hobby Station - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Knock Out Collection",
-    "url": "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-knock-out-collection/",
-    "price": "$39.13",
-    "timestamp": "2026-08-27T01:03:12.549902+00:00",
-    "priority": true,
-    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/29552/images/77987/P12487_10-10667-101_01__39158.1787791956.220.220.jpg?c=2"
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Chaos Rising - Booster Box",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-chaos-rising-booster-box-pre-order-22-05-26",
-    "price": "$360.00",
-    "timestamp": "2026-08-27T02:03:05.296509+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254"
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG 30th Celebration Elite Trainer Box",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box",
-    "price": "$369.99",
-    "timestamp": "2026-08-27T03:10:50.537451+00:00",
-    "priority": true,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box.png?v=1787562786"
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Zygarde ex Premium Collection",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection-pre-order-22-05-26",
-    "price": "$99.00",
-    "timestamp": "2026-08-27T03:40:56.612258+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103649.jpg?v=1776812402",
-    "limit": null
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - 30th Anniversary Celebration Knock Out Collection [PRE-ORDER]",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-30th-anniversary-celebration-knock-out-collection",
-    "price": "$44.80",
-    "timestamp": "2026-08-27T12:03:37.796731+00:00",
-    "priority": false,
-    "image": "http://www.metalife.co.nz/cdn/shop/files/gHe6eBN5MZRhnAuAzCCWWbead9QfyLXTGOVZlxP1.jpg?v=1786415245",
-    "limit": null
-  },
-  {
-    "site": "Collect All Day",
-    "title": "Pokeball Tin (Best of 2021 Series)",
-    "url": "https://www.collectallday.com/new/pokeball-tin-2021",
-    "price": "NZ$120.00",
-    "timestamp": "2026-08-27T12:10:54.468250+00:00",
-    "priority": false,
-    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67a6fcd3353fc7373aea9a12/1759111658444/Screenshot+2025-02-08+195219.png?format=1500w",
-    "limit": null
-  },
-  {
-    "site": "Otakumart - Pokemon TCG",
-    "title": "50x Basic Lightning Energy | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/50x-basic-lightning-energy-pokemon-tcg",
-    "price": "$3.00",
-    "timestamp": "2026-08-27T13:10:49.336419+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/BasicLightningEnergy-50x.jpg?v=1737494320",
-    "limit": null
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon Mega Zygarde ex Premium Collection",
-    "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-08-27T17:10:49.288002+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392",
-    "limit": null
-  },
-  {
     "site": "Pop Stop - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolutions - Chaos Rising: Checklane Blister",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-checklane-blister",
@@ -10930,5 +10853,93 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1600_1_9ee170af-c4ef-4811-8bd1-5aba8a901dcb_1200x1208.webp?v=1785772310",
     "limit": null,
     "seen_count": 14
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "30th Celebration - 012 Basic Lightning Energy (Holofoil)",
+    "url": "https://cardbot.co.nz/products/30th-celebration-012-basic-lightning-energy-holofoil-676158",
+    "price": "$2.00",
+    "timestamp": "2026-10-12T05:15:54.184462+00:00",
+    "priority": true,
+    "image": "http://cardbot.co.nz/cdn/shop/files/0965f08e504d996656e12374fba33312.jpg?v=1791781984",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "30th Celebration - 014 Basic Fighting Energy (Holofoil)",
+    "url": "https://cardbot.co.nz/products/30th-celebration-014-basic-fighting-energy-holofoil-356571",
+    "price": "$2.00",
+    "timestamp": "2026-10-12T05:15:54.184462+00:00",
+    "priority": true,
+    "image": "http://cardbot.co.nz/cdn/shop/files/94d297c9d0ed05d5016e5fa3dff0a6cc.jpg?v=1791781982",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "30th Celebration - 015 Basic Darkness Energy (Holofoil)",
+    "url": "https://cardbot.co.nz/products/30th-celebration-015-basic-darkness-energy-holofoil-690692",
+    "price": "$2.00",
+    "timestamp": "2026-10-12T05:15:54.184462+00:00",
+    "priority": true,
+    "image": "http://cardbot.co.nz/cdn/shop/files/5a68c60fd548742b8977e7ee4dc18186.jpg?v=1791781979",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "30th Celebration - 013 Basic Psychic Energy (Holofoil)",
+    "url": "https://cardbot.co.nz/products/30th-celebration-013-basic-psychic-energy-holofoil-136721",
+    "price": "$2.00",
+    "timestamp": "2026-10-12T05:15:54.184462+00:00",
+    "priority": true,
+    "image": "http://cardbot.co.nz/cdn/shop/files/e34273fa496b9fa881fc93eb152f2849.jpg?v=1791781977",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "30th Celebration - 016 Basic Metal Energy (Holofoil)",
+    "url": "https://cardbot.co.nz/products/30th-celebration-016-basic-metal-energy-holofoil-121548",
+    "price": "$2.00",
+    "timestamp": "2026-10-12T05:15:54.184462+00:00",
+    "priority": true,
+    "image": "http://cardbot.co.nz/cdn/shop/files/788e42dafbb812db4a71ee784a7ed568.jpg?v=1791781976",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "30th Celebration - 009 Basic Grass Energy (Holofoil)",
+    "url": "https://cardbot.co.nz/products/30th-celebration-009-basic-grass-energy-holofoil-984401",
+    "price": "$2.00",
+    "timestamp": "2026-10-12T05:15:54.184462+00:00",
+    "priority": true,
+    "image": "http://cardbot.co.nz/cdn/shop/files/d7a56d880794c1980d2fcf80a7b92aa4.jpg?v=1791781973",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "30th Celebration - 011 Basic Water Energy (Holofoil)",
+    "url": "https://cardbot.co.nz/products/30th-celebration-011-basic-water-energy-holofoil-839762",
+    "price": "$2.00",
+    "timestamp": "2026-10-12T05:15:54.184462+00:00",
+    "priority": true,
+    "image": "http://cardbot.co.nz/cdn/shop/files/f4035eebfb99a783fb6e7aff20875937.jpg?v=1791781971",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "30th Celebration - 010 Basic Fire Energy (Holofoil)",
+    "url": "https://cardbot.co.nz/products/30th-celebration-010-basic-fire-energy-holofoil-205983",
+    "price": "$2.00",
+    "timestamp": "2026-10-12T05:15:54.184462+00:00",
+    "priority": true,
+    "image": "http://cardbot.co.nz/cdn/shop/files/b1503709e7d48716e8d1cb69c50cd7a4.jpg?v=1791781968",
+    "limit": null,
+    "seen_count": 0
   }
 ]
