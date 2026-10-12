@@ -264,9 +264,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10202363330800",
       "10070962241776",
-      "10218488725744"
+      "10218488725744",
+      "10202363330800"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -331,6 +331,9 @@
   "Collect All Day": {
     "seen_ids": [
       "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
@@ -364,8 +367,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8479841648836",
-      "8584003977412"
+      "8584003977412",
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1709,7 +1712,8 @@
       "10270182736168",
       "10365187621160",
       "10323223183656",
-      "15402635297064"
+      "15402635297064",
+      "10270182736168"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1861,8 +1865,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2094,6 +2098,7 @@
       "10215509295360",
       "10215509229824",
       "10215509360896",
+      "10187809095936",
       "10215509557504",
       "10197535195392",
       "10215509393664",
@@ -2143,6 +2148,7 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9537919516949",
       "9530379600149",
       "9537919516949",
       "9537919222037"
@@ -2295,6 +2301,7 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
+      "8083552370806",
       "8231325270134",
       "8231312228470",
       "8083552370806",
@@ -2338,6 +2345,7 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15139615244658",
       "15139613802866",
       "15139615244658",
       "15163471200626"
