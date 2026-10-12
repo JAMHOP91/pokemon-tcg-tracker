@@ -1,15 +1,5 @@
 [
   {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising: Checklane Blister",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-checklane-blister",
-    "price": "$11.99",
-    "timestamp": "2026-08-27T23:10:53.542150+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/10-10405-102_grande.jpg?v=1779404721",
-    "limit": null
-  },
-  {
     "site": "Collect All Day",
     "title": "Vaporeon VMAX Premium Collection",
     "url": "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
@@ -10944,5 +10934,16 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2.jpg?v=1787573121",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Fire Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-fire-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-10-12T12:01:33.741204+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicFireEnergy-50x.jpg?v=1737494230",
+    "limit": null,
+    "seen_count": 6
   }
 ]
