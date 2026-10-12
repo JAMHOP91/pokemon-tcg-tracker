@@ -1,15 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster",
-    "price": "$11.99",
-    "timestamp": "2026-08-28T01:40:48.177799+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Mega-Zygarde_EN.png?v=1774393148",
-    "limit": null
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster Box",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-booster-box",
@@ -10947,5 +10937,16 @@
     "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCG_MegaGreninjaexPremiumCollection-1.jpg?v=1783838117",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Obsidian Flames Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-obsidian-flames-elite-trainer-box",
+    "price": "$600.00",
+    "timestamp": "2026-10-12T13:40:49.266644+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2106.webp?v=1786436693",
+    "limit": null,
+    "seen_count": 4
   }
 ]
