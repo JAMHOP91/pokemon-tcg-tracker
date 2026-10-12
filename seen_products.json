@@ -1704,6 +1704,7 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
+      "10441619603752",
       "10365187621160",
       "10270182736168",
       "10441619603752",
@@ -1898,8 +1899,8 @@
   "Cool Shit - Status Watch": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)"
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2065,7 +2066,6 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10170375307348",
       "7853389774932",
       "10170361905236",
       "10214066389076",
@@ -2094,6 +2094,8 @@
       "10215509491968",
       "10215509164288",
       "10197535195392",
+      "10190544797952",
+      "10215509360896",
       "10215509295360",
       "10215509557504",
       "10215509229824",
