@@ -1,15 +1,5 @@
 [
   {
-    "site": "Collect All Day",
-    "title": "Venusaur VMAX Starter Set",
-    "url": "https://www.collectallday.com/new/venusaur-vmax-starter-set",
-    "price": "NZ$55.00",
-    "timestamp": "2026-08-28T01:20:47.440571+00:00",
-    "priority": false,
-    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ff868cd81817a4febd39134/1610115281829/410px-Venusaur_VMAX_Starter_Set.jpg?format=1500w",
-    "limit": null
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster",
@@ -10946,5 +10936,16 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
     "limit": null,
     "seen_count": 7
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG Mega Greninja ex Premium Collection",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
+    "price": "$99.00",
+    "timestamp": "2026-10-12T13:16:44.102943+00:00",
+    "priority": false,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCG_MegaGreninjaexPremiumCollection-1.jpg?v=1783838117",
+    "limit": null,
+    "seen_count": 0
   }
 ]
