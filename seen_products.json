@@ -37,6 +37,8 @@
       "8964116873365",
       "7330100445333",
       "7561509896341",
+      "7330101330069",
+      "7330100445333",
       "7330101002389",
       "7330099200149",
       "7330088353941"
@@ -118,6 +120,12 @@
       "8850541740195",
       "9231224832163",
       "8668035317923",
+      "9231086387363",
+      "9225964847267",
+      "9231224832163",
+      "9231224963235",
+      "9231080751267",
+      "9136790274211",
       "7409030103203",
       "9225967042723",
       "9231222079651",
@@ -2268,6 +2276,7 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
       "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
       "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
       "https://www.gameslab.co.nz/products/Pokemon-TCG-Cup-Season-1-p864829764"
@@ -2297,7 +2306,8 @@
       "8231325270134",
       "8083552370806",
       "8231312228470",
-      "8231315472502"
+      "8083552370806",
+      "8231325270134"
     ],
     "zero_streak": 0,
     "warned": false,
