@@ -1,15 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
-    "price": "$139.99",
-    "timestamp": "2026-08-28T16:10:50.391935+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851",
-    "limit": null
-  },
-  {
     "site": "Razor Leaf - Pokemon TCG",
     "title": "Pokemon TCG - Obsidian Flames Elite Trainer Box",
     "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-obsidian-flames-elite-trainer-box",
@@ -10956,5 +10946,16 @@
     "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-pitch-black-mega-darkrai-ex-116-084-card.png?v=1790732069",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon Tcg Toytime Delta Reign Prerelease Ticket / 25/10",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-toytime-delta-reign-prerelease-ticket-25-10",
+    "price": "$60.00",
+    "timestamp": "2026-10-12T23:20:49.717166+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/Screenshot2026-10-13121921.png?v=1791847259",
+    "limit": null,
+    "seen_count": 0
   }
 ]
