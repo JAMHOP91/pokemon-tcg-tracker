@@ -1,16 +1,6 @@
 [
   {
     "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: 2-Pack Blister Product (Pre-Order)",
-    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-    "price": "NZ$24.00",
-    "timestamp": "2026-08-29T00:40:50.267143+00:00",
-    "priority": false,
-    "image": "https://assets.bigcartel.com/product_images/425327193/Untitled+design+_4_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
-    "limit": null
-  },
-  {
-    "site": "Cool Shit - Pokemon",
     "title": "View Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Elite Trainer Box (PRE-ORDER)",
     "url": "https://www.coolshit.co.nz/product/deltaetb",
     "price": "NZ$130.00",
@@ -10958,6 +10948,17 @@
     "timestamp": "2026-10-13T03:10:51.771718+00:00",
     "priority": true,
     "image": "http://www.metalife.co.nz/cdn/shop/files/delta-reign-booster-target-2.jpg?v=1791860772",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pokemon TCG ME2.5 Ascended Heroes Focused Fighters Premium Collection",
+    "url": "https://www.coolshit.co.nz/product/pokemon-tcg-me25-ascended-heroes-focused-fighters-premium-collection",
+    "price": "NZ$299.00",
+    "timestamp": "2026-10-13T03:41:00.075358+00:00",
+    "priority": false,
+    "image": "https://assets.bigcartel.com/product_images/432712206/Cool+Shit+Product+Images+_2_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
     "limit": null,
     "seen_count": 0
   }
