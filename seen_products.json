@@ -335,6 +335,7 @@
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
@@ -1722,6 +1723,7 @@
       "15421342122280",
       "15421342220584",
       "10323223183656",
+      "10365187621160",
       "10441619603752",
       "15402635297064",
       "10365187621160"
@@ -2133,9 +2135,9 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9173828796670",
+      "9381118279934",
       "9269784477950",
-      "9381118279934"
+      "9173828796670"
     ],
     "zero_streak": 0,
     "warned": false,
