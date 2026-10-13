@@ -1742,8 +1742,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8636199928004",
       "8636163981508",
+      "8636199928004",
       "8631859577028"
     ],
     "zero_streak": 0,
@@ -1870,8 +1870,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2016,6 +2016,9 @@
       "10098857181424",
       "9982539989232",
       "10035621396720",
+      "10111551209712",
+      "10098857181424",
+      "10112184385776",
       "10171572912368",
       "10171547386096",
       "9599898976496",
@@ -2075,7 +2078,6 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10170361905236",
       "10214066389076",
       "7853389774932",
       "10280809857108"
@@ -2174,6 +2176,9 @@
   "Sealed & Slabbed - Pokemon Sealed": {
     "seen_ids": [
       "7977047195766",
+      "8069232033910",
+      "8026239369334",
+      "8185039356022",
       "8171677057142",
       "8026239369334",
       "8185039356022",
@@ -2289,8 +2294,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
