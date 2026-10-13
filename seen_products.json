@@ -85,7 +85,9 @@
       "7558378979389",
       "7558377930813",
       "7558380781629",
-      "7558379864125"
+      "7558381600829",
+      "7558379864125",
+      "7558377930813"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -334,7 +336,7 @@
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
-      "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
@@ -1872,8 +1874,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2019,6 +2021,9 @@
       "10171572912368",
       "10099042582768",
       "10112184385776",
+      "10171547386096",
+      "10112179831024",
+      "10171572912368",
       "10112141295856",
       "10171578286320",
       "10098857181424",
@@ -2152,8 +2157,8 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9537919222037",
       "9537919516949",
+      "9537919222037",
       "9530379600149"
     ],
     "zero_streak": 0,
@@ -2347,9 +2352,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15139613802866",
+      "15139615244658",
       "15163471200626",
-      "15139615244658"
+      "15139613802866"
     ],
     "zero_streak": 0,
     "warned": false,
