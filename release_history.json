@@ -1,15 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-08-28T23:40:49.518065+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682",
-    "limit": "Maximum 1 per person"
-  },
-  {
     "site": "Cool Shit - Pokemon",
     "title": "View Pok\u00e9mon TCG: 2-Pack Blister Product (Pre-Order)",
     "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
@@ -10957,6 +10947,17 @@
     "timestamp": "2026-10-13T03:05:07.867050+00:00",
     "priority": true,
     "image": "http://www.metalife.co.nz/cdn/shop/files/delta-reign-bundle-target-1.jpg?v=1791859303",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "[PRE-ORDER] Pokemon TCG - Mega Evolution 6 Delta Reign Booster",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-6-delta-reign-booster",
+    "price": "$11.90",
+    "timestamp": "2026-10-13T03:10:51.771718+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/delta-reign-booster-target-2.jpg?v=1791860772",
     "limit": null,
     "seen_count": 0
   }
