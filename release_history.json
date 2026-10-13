@@ -1,15 +1,5 @@
 [
   {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Elite Trainer Box (PRE-ORDER)",
-    "url": "https://www.coolshit.co.nz/product/deltaetb",
-    "price": "NZ$130.00",
-    "timestamp": "2026-08-29T01:20:46.150523+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/430009425/1.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
-    "limit": null
-  },
-  {
     "site": "Hobby Master - Pokemon",
     "title": "CHAOS RISING - ELITE TRAINER BOX",
     "url": "https://hobbymaster.co.nz/products/product/46975",
@@ -10961,5 +10951,16 @@
     "image": "https://assets.bigcartel.com/product_images/432712206/Cool+Shit+Product+Images+_2_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Hidden Fates Tin",
+    "url": "https://www.collectallday.com/new/hidden-fates-tin",
+    "price": "from NZ$230.00",
+    "timestamp": "2026-10-13T04:40:47.897520+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ea41518a9fa910a7d7a63ac/1587816618843/480px-CharizardGX_Tin.jpg?format=1500w",
+    "limit": null,
+    "seen_count": 3
   }
 ]
