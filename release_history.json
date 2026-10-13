@@ -1,15 +1,5 @@
 [
   {
-    "site": "Hobby Master - Pokemon",
-    "title": "CHAOS RISING - ELITE TRAINER BOX",
-    "url": "https://hobbymaster.co.nz/products/product/46975",
-    "price": "$200.00 $250.00",
-    "timestamp": "2026-08-29T01:20:46.150523+00:00",
-    "priority": false,
-    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
-    "limit": null
-  },
-  {
     "site": "Cool Shit - Pokemon",
     "title": "View Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Three-Booster Blister (PRE-ORDER)",
     "url": "https://www.coolshit.co.nz/product/3PACKDELTA",
@@ -10962,5 +10952,16 @@
     "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ea41518a9fa910a7d7a63ac/1587816618843/480px-CharizardGX_Tin.jpg?format=1500w",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolutions 6 Delta Reign Elite Trainer Box (Limit 2 per Customer) (Pre-Order) (Copy)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-6-delta-reign-elite-trainer-box-limit-2-per-customer-pre-order-copy",
+    "price": "$149.99",
+    "timestamp": "2026-10-13T07:10:47.107842+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1_1.jpg?v=1791535521",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
   }
 ]
