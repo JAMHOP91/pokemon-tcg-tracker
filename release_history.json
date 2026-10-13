@@ -1,25 +1,5 @@
 [
   {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-chaos-rising-booster",
-    "price": "$9.99",
-    "timestamp": "2026-08-29T02:10:52.981872+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Chaos-Rising-Booster-Wrap-Mega-Pyroar_EN-560x1024_grande.jpg?v=1779398996",
-    "limit": null
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-08-29T03:40:42.788289+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pitch-black-booster-bundle.png?v=1784072331",
-    "limit": "limit 6 per person"
-  },
-  {
     "site": "Big Potato Collectibles - Pokemon Sealed",
     "title": "Pokemon TCG: Mega Evolutions Perfect Order Elite Trainer Box",
     "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
@@ -10963,6 +10943,28 @@
     "priority": false,
     "image": "http://www.playx.co.nz/cdn/shop/files/images_18.jpg?v=1791875799",
     "limit": "Limit 1 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
+    "price": "$139.99",
+    "timestamp": "2026-10-13T08:11:04.612254+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851",
+    "limit": null,
+    "seen_count": 6
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Pitch Black: Sealed 3 Booster Pack (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-pitch-black-sealed-3-booster-pack-english",
+    "price": "$32.99",
+    "timestamp": "2026-10-13T08:11:04.612254+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PitchBlack3pkBlister_1webp.webp?v=1784364768",
+    "limit": null,
     "seen_count": 0
   }
 ]
