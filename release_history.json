@@ -1,15 +1,5 @@
 [
   {
-    "site": "Collect All Day",
-    "title": "Grimmsnarl VMAX Starter Set",
-    "url": "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
-    "price": "Sale Price:\nNZ$45.00 \nOriginal Price:\nNZ$55.00",
-    "timestamp": "2026-08-29T14:40:48.872491+00:00",
-    "priority": false,
-    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ff868cf81817a4febd391b3/1610115284466/410px-Grimmsnarl_VMAX_Starter_Set.jpg?format=1500w",
-    "limit": null
-  },
-  {
     "site": "Otakumart - Pokemon TCG",
     "title": "50x Basic Psychic Energy | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/50x-basic-psychic-energy-pokemon-tcg",
@@ -10968,5 +10958,16 @@
     "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCGMegaZygardeexPremiumCollection-1.jpg?v=1779967635",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Fire Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-fire-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-10-13T22:10:48.738868+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicFireEnergy-50x.jpg?v=1737494230",
+    "limit": null,
+    "seen_count": 8
   }
 ]
