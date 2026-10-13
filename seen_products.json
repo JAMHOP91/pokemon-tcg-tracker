@@ -27,6 +27,9 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
+      "7330100445333",
+      "7330099200149",
+      "7561509896341",
       "7330101330069",
       "7439125512341",
       "7330101624981",
@@ -1714,10 +1717,10 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
-      "10441619603752",
-      "15402635297064",
+      "10365187621160",
       "10323223183656",
-      "10365187621160"
+      "10441619603752",
+      "15402635297064"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1870,8 +1873,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1923,7 +1926,6 @@
       "15401415344277",
       "9210168803477",
       "9268784496789",
-      "9152299892885",
       "9285795938453",
       "15401330835605"
     ],
@@ -1951,10 +1953,10 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8832667877399",
       "8969764110359",
       "8888685723671",
-      "8770963537943",
-      "8832667877399"
+      "8770963537943"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2127,9 +2129,9 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9269784477950",
       "9381118279934",
-      "9173828796670"
+      "9173828796670",
+      "9269784477950"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2303,6 +2305,7 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
+      "8231315472502",
       "8083552370806",
       "8231315472502",
       "8231325270134",
