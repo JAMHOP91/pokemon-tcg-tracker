@@ -264,6 +264,7 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10202363330800",
       "10070962241776",
       "10202363330800",
       "10218488725744"
@@ -336,6 +337,7 @@
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set"
     ],
@@ -363,8 +365,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8584003977412",
-      "8479841648836"
+      "8479841648836",
+      "8584003977412"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -435,6 +437,10 @@
       "7915166564413",
       "7964206039101",
       "7915185373245",
+      "7915166564413",
+      "7915168563261",
+      "7964211118141",
+      "7915180326973",
       "7889660346429",
       "7964215935037",
       "7915239145533",
@@ -540,8 +546,8 @@
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
       "10280809857108",
-      "10280802287700",
-      "10280790261844"
+      "10280790261844",
+      "10280802287700"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1774,9 +1780,9 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9215569133731",
-      "9228412158115",
       "9215139872931",
+      "9228412158115",
+      "9215569133731",
       "9228422611107"
     ],
     "zero_streak": 0,
@@ -1958,6 +1964,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8888685723671",
       "8969764110359",
       "8832667877399",
       "8888685723671",
@@ -2133,9 +2140,9 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9381118279934",
+      "9173828796670",
       "9269784477950",
-      "9173828796670"
+      "9381118279934"
     ],
     "zero_streak": 0,
     "warned": false,
