@@ -17,6 +17,8 @@
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/pokemon-tcg-me25-ascended-heroes-focused-fighters-premium-collection",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
       "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 0,
@@ -265,8 +267,8 @@
   "Cardtopia NZ": {
     "seen_ids": [
       "10202363330800",
-      "10218488725744",
-      "10070962241776"
+      "10070962241776",
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1724,6 +1726,7 @@
       "10365187621160",
       "10323223183656",
       "15421342220584",
+      "10441619603752",
       "15402635297064"
     ],
     "zero_streak": 0,
@@ -1877,8 +1880,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2133,9 +2136,9 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9173828796670",
       "9269784477950",
-      "9381118279934",
-      "9173828796670"
+      "9381118279934"
     ],
     "zero_streak": 0,
     "warned": false,
