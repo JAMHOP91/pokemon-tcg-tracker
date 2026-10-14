@@ -1,15 +1,5 @@
 [
   {
-    "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Battle Styles Elite Trainer Box",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-battle-styles-elite-trainer-box",
-    "price": "$250.00",
-    "timestamp": "2026-08-30T11:40:47.747211+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2635.jpg?v=1787902429",
-    "limit": null
-  },
-  {
     "site": "Pop Stop - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-chaos-rising-booster",
@@ -10983,5 +10973,16 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCG-Megaevolutions2packBlister.jpg?v=1790806747",
     "limit": null,
     "seen_count": 6
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG - Trainer's Toolkit 2025",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-trainers-toolkit-2025",
+    "price": "$84.00",
+    "timestamp": "2026-10-14T18:20:52.902052+00:00",
+    "priority": false,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG_-_Trainer_s_Toolkit_2025-3.jpg?v=1755138626",
+    "limit": null,
+    "seen_count": 1
   }
 ]
