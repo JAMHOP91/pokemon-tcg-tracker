@@ -1,15 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-08-30T09:10:47.484894+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/PitchBlack_BoosterBox.png?v=1784081025",
-    "limit": "Maximum 6 per person"
-  },
-  {
     "site": "Otakumart - Pokemon TCG",
     "title": "50x Basic Psychic Energy | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/50x-basic-psychic-energy-pokemon-tcg",
@@ -10980,5 +10970,16 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1200_72510dbb-cf9c-4635-949c-a5a2bae3543d_1200x1200.webp?v=1785832155",
     "limit": null,
     "seen_count": 9
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Fighting Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-fighting-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-10-14T14:40:52.269704+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicFightingEnergy-50x.jpg?v=1737494406",
+    "limit": null,
+    "seen_count": 4
   }
 ]
