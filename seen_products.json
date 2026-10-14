@@ -328,6 +328,11 @@
   "Collect All Day": {
     "seen_ids": [
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
@@ -1956,7 +1961,6 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8969764110359",
       "8888685723671",
       "8770963537943",
       "8832667877399"
@@ -2080,9 +2084,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10280809857108",
+      "10214066389076",
       "7853389774932",
-      "10214066389076"
+      "10280809857108"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2155,9 +2159,9 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9537919222037",
       "9537919516949",
-      "9530379600149",
-      "9537919222037"
+      "9530379600149"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2292,8 +2296,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
