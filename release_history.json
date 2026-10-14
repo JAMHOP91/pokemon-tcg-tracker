@@ -1,15 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-08-29T20:40:44.616984+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
-    "limit": null
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolution - Perfect Order Three Booster Blister",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-three-booster-blister",
@@ -10971,5 +10961,16 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCG-Megaevolutions2packBlister.jpg?v=1790806747",
     "limit": null,
     "seen_count": 5
+  },
+  {
+    "site": "TCG Culture - Pokemon",
+    "title": "Pok\u00e9mon TCG: Lumiose City Mini Tin",
+    "url": "https://tcgculture.com/products/pokemon-tcg-lumiose-city-mini-tin",
+    "price": "$30.00",
+    "timestamp": "2026-10-14T03:50:47.334221+00:00",
+    "priority": false,
+    "image": "http://tcgculture.com/cdn/shop/files/lumiose-city-mini-tin-169_1024x1024.png?v=1791949879",
+    "limit": null,
+    "seen_count": 0
   }
 ]
