@@ -334,6 +334,7 @@
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection"
     ],
@@ -1772,10 +1773,10 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9215139872931",
-      "9228422611107",
       "9228412158115",
-      "9215569133731"
+      "9228422611107",
+      "9215569133731",
+      "9215139872931"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2294,8 +2295,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2351,9 +2352,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15139615244658",
       "15139613802866",
-      "15163471200626"
+      "15163471200626",
+      "15139615244658"
     ],
     "zero_streak": 0,
     "warned": false,
