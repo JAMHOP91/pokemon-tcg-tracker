@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles"
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
     ],
     "zero_streak": 1825,
     "warned": true,
@@ -36,6 +36,12 @@
       "7330101624981",
       "7561509896341",
       "7439107129493",
+      "7330101330069",
+      "7439125512341",
+      "7330103165077",
+      "8964116873365",
+      "7330100445333",
+      "7330099200149",
       "7330101002389",
       "7330099691669",
       "7330099200149"
@@ -127,6 +133,7 @@
       "9231080751267",
       "9231086387363",
       "8805645254819",
+      "9225964847267",
       "9136790274211",
       "9231220408483",
       "9231223652515",
@@ -537,8 +544,8 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10280790261844",
       "10280802287700",
+      "10280790261844",
       "10280809857108"
     ],
     "zero_streak": 0,
@@ -1914,9 +1921,9 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)"
+      "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1957,10 +1964,10 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8969764110359",
       "8832667877399",
-      "8888685723671",
       "8770963537943",
-      "8969764110359"
+      "8888685723671"
     ],
     "zero_streak": 0,
     "warned": false,
