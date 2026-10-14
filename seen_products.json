@@ -14,9 +14,9 @@
   "Cool Shit - Pokemon": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -329,6 +329,8 @@
     "seen_ids": [
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
@@ -1927,12 +1929,13 @@
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
       "9152299892885",
+      "15401415344277",
       "9210168803477",
       "9285822251157",
       "9285795938453",
       "15401415344277",
       "15401330835605",
-      "9268784496789"
+      "9285795938453"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2183,6 +2186,9 @@
       "8185039356022",
       "8185012945014",
       "8026257686646",
+      "8185039356022",
+      "8069213454454",
+      "8026239369334",
       "7977047195766",
       "7976837546102",
       "8220788752502",
