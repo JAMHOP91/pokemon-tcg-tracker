@@ -1,15 +1,5 @@
 [
   {
-    "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Fusion Strike Elite Trainer Box",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-fusion-strike-elite-trainer-box",
-    "price": "$650.00",
-    "timestamp": "2026-08-30T03:10:45.706496+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2102.jpg?v=1786436136",
-    "limit": null
-  },
-  {
     "site": "Otakumart - Pokemon TCG",
     "title": "50x Basic Lightning Energy | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/50x-basic-lightning-energy-pokemon-tcg",
@@ -10975,5 +10965,16 @@
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBooster_2webp.webp?v=1780641519",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: 2-Pack Blister Product (Pre-Order)",
+    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+    "price": "NZ$24.00",
+    "timestamp": "2026-10-14T05:40:48.009040+00:00",
+    "priority": false,
+    "image": "https://assets.bigcartel.com/product_images/425327193/Untitled+design+_4_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 7
   }
 ]
