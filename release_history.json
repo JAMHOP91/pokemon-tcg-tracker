@@ -1,15 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order Three Booster Blister",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-three-booster-blister",
-    "price": "$32.99",
-    "timestamp": "2026-08-29T23:40:45.971639+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/182922ca8f264399b9435c8169756594_Original.jpg?v=1774705136",
-    "limit": null
-  },
-  {
     "site": "Pop Stop - Pokemon TCG",
     "title": "Pok\u00e9mon TCG:  Mega Greninja ex Premium Collection",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
@@ -10970,6 +10960,17 @@
     "timestamp": "2026-10-14T03:50:47.334221+00:00",
     "priority": false,
     "image": "http://tcgculture.com/cdn/shop/files/lumiose-city-mini-tin-169_1024x1024.png?v=1791949879",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG 30th Celebration Booster Bundle",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-booster-bundle",
+    "price": "$140.00",
+    "timestamp": "2026-10-14T04:46:28.304699+00:00",
+    "priority": true,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/704171_in_1000x1000_ec95845a-f7fe-45cc-81b4-c6fffb0d208a.jpg?v=1790933750",
     "limit": null,
     "seen_count": 0
   }
