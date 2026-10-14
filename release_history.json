@@ -1,15 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon Mega Zygarde ex Premium Collection",
-    "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-08-30T21:10:46.272181+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392",
-    "limit": null
-  },
-  {
     "site": "Cool Shit - Pokemon",
     "title": "View Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Three-Booster Blister (PRE-ORDER)",
     "url": "https://www.coolshit.co.nz/product/3PACKDELTA",
@@ -10988,5 +10978,16 @@
     "image": "https://assets.bigcartel.com/product_images/425327193/Untitled+design+_4_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
     "limit": null,
     "seen_count": 8
+  },
+  {
+    "site": "Mr Tofu Card Store - Pokemon TCG",
+    "title": "(Pre-order) INSTORE PICK UP ONLY Pok\u00e9mon TCG: Mega Evolution - Ascended Heroes Focused Fighters Premium Collection",
+    "url": "https://mrtofu.store/products/pre-order-pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection",
+    "price": "$189.99",
+    "timestamp": "2026-10-14T23:40:47.323171+00:00",
+    "priority": true,
+    "image": "http://mrtofu.store/cdn/shop/files/AscendedHeroesFocusedFighters.png?v=1791951437",
+    "limit": null,
+    "seen_count": 0
   }
 ]
