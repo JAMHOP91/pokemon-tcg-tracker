@@ -120,6 +120,11 @@
       "9231222079651",
       "7540284915875",
       "9231224832163",
+      "9231223783587",
+      "9231080751267",
+      "8805645254819",
+      "9231223128227",
+      "9231222079651",
       "8856349376675",
       "8668035317923",
       "8805645254819",
@@ -264,8 +269,8 @@
   "Cardtopia NZ": {
     "seen_ids": [
       "10070962241776",
-      "10202363330800",
-      "10218488725744"
+      "10218488725744",
+      "10202363330800"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -296,7 +301,14 @@
       "9388718489839",
       "9182638178543",
       "9464484790511",
-      "9640491909359"
+      "9464484626671",
+      "9640492007663",
+      "9182638178543",
+      "9640491909359",
+      "9328342073583",
+      "9640492138735",
+      "9328351772911",
+      "9388711182575"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -537,8 +549,8 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10280790261844",
       "10280802287700",
+      "10280790261844",
       "10280809857108"
     ],
     "zero_streak": 0,
@@ -2282,8 +2294,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2293,8 +2305,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
