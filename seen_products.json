@@ -263,9 +263,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10218488725744",
       "10202363330800",
-      "10070962241776"
+      "10070962241776",
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -361,8 +361,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8479841648836",
-      "8584003977412"
+      "8584003977412",
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2282,8 +2282,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2308,6 +2308,7 @@
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
       "8083552370806",
+      "8231325270134",
       "8231312228470",
       "8231315472502",
       "8231325270134"
@@ -2350,9 +2351,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15139613802866",
+      "15163471200626",
       "15139615244658",
-      "15163471200626"
+      "15139613802866"
     ],
     "zero_streak": 0,
     "warned": false,
