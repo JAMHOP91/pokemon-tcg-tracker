@@ -1,15 +1,5 @@
 [
   {
-    "site": "Otakumart - Pokemon TCG",
-    "title": "50x Basic Lightning Energy | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/50x-basic-lightning-energy-pokemon-tcg",
-    "price": "$3.00",
-    "timestamp": "2026-08-30T07:40:52.318161+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/BasicLightningEnergy-50x.jpg?v=1737494320",
-    "limit": null
-  },
-  {
     "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG Perfect Order Single Pack",
     "url": "https://toytime.co.nz/products/pokemon-tcg-perfect-order-single-pack",
@@ -10978,5 +10968,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "PRE ORDER - Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Booster Box",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolution-delta-reign-booster-box",
+    "price": "$360.00",
+    "timestamp": "2026-10-14T14:02:17.285380+00:00",
+    "priority": true,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2__1_-removebg-preview_1200x1648.png?v=1787289747",
+    "limit": null,
+    "seen_count": 9
   }
 ]
