@@ -34,6 +34,8 @@
       "7330101002389",
       "7439125512341",
       "7330099691669",
+      "7330099200149",
+      "8964116873365",
       "7330101330069",
       "8964116873365",
       "7330088353941",
@@ -122,6 +124,9 @@
       "9136790044835",
       "9225964847267",
       "8850541740195",
+      "9136791978147",
+      "9136790044835",
+      "9225964847267",
       "9225967042723",
       "9227332059299",
       "8856349376675",
@@ -263,9 +268,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
+      "10202363330800",
       "10218488725744",
-      "10202363330800"
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -289,7 +294,6 @@
       "9388718489839",
       "9182638178543",
       "9640492138735",
-      "9388711182575",
       "9464484921583",
       "9464484626671",
       "9328351772911",
@@ -327,7 +331,6 @@
   },
   "Collect All Day": {
     "seen_ids": [
-      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/pokeball-tin-2021",
@@ -1722,7 +1725,7 @@
       "15421342122280",
       "15421342220584",
       "10323223183656",
-      "10441619603752"
+      "15402635297064"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1747,6 +1750,7 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
+      "8636163981508",
       "8636199928004",
       "8636163981508",
       "8631859577028"
@@ -1775,7 +1779,9 @@
       "9215569133731",
       "9228422611107",
       "9215139872931",
-      "9228412158115"
+      "9228412158115",
+      "9215569133731",
+      "9228422611107"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1877,8 +1883,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2350,9 +2356,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15163471200626",
+      "15139613802866",
       "15139615244658",
-      "15139613802866"
+      "15163471200626"
     ],
     "zero_streak": 0,
     "warned": false,
