@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
@@ -82,7 +83,7 @@
     "seen_ids": [
       "7558380781629",
       "7558381600829",
-      "7558379864125",
+      "7558377930813",
       "7558378979389",
       "7558377930813"
     ],
@@ -1721,6 +1722,8 @@
       "10441619603752",
       "10365187621160",
       "15421342122280",
+      "10441619603752",
+      "10365187621160",
       "15421342220584",
       "10323223183656"
     ],
@@ -2133,9 +2136,9 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9269784477950",
       "9381118279934",
-      "9173828796670",
-      "9269784477950"
+      "9173828796670"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2157,9 +2160,9 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9530379600149",
       "9537919222037",
-      "9537919516949"
+      "9537919516949",
+      "9530379600149"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2351,9 +2354,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15139613802866",
       "15139615244658",
-      "15163471200626",
-      "15139613802866"
+      "15163471200626"
     ],
     "zero_streak": 0,
     "warned": false,
