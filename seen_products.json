@@ -1717,6 +1717,8 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
+      "15421342220584",
+      "15402635297064",
       "10365187621160",
       "15421342122280",
       "10441619603752",
@@ -1747,9 +1749,9 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8636163981508",
       "8636199928004",
-      "8631859577028"
+      "8631859577028",
+      "8636163981508"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1877,8 +1879,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2084,8 +2086,8 @@
     "seen_ids": [
       "7853389774932",
       "10320168255572",
-      "10214066389076",
-      "10280809857108"
+      "10280809857108",
+      "10214066389076"
     ],
     "zero_streak": 0,
     "warned": false,
