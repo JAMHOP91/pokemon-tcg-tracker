@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles"
     ],
     "zero_streak": 1851,
     "warned": true,
@@ -361,8 +361,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8479841648836",
-      "8584003977412"
+      "8584003977412",
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -575,6 +575,9 @@
     "seen_ids": [
       "10267122204967",
       "10261316469031",
+      "10267125383463",
+      "10267162444071",
+      "https://www.magicreddragon.co.nz/product-page/copy-of-pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-night-pre-order",
       "10349982744871",
       "https://www.magicreddragon.co.nz/product-page/copy-of-pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-night-pre-order",
       "10267125383463",
@@ -2132,6 +2135,7 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9173828796670",
       "9269784477950",
       "9173828796670",
       "9381118279934"
@@ -2293,8 +2297,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
