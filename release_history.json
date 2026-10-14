@@ -1,15 +1,5 @@
 [
   {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pok\u00e9mon TCG Mega Zygarde ex Premium Collection",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-08-30T07:10:47.131712+00:00",
-    "priority": false,
-    "image": "http://getthosecards.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762.jpg?v=1779678921",
-    "limit": null
-  },
-  {
     "site": "Otakumart - Pokemon TCG",
     "title": "50x Basic Lightning Energy | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/50x-basic-lightning-energy-pokemon-tcg",
@@ -10977,5 +10967,16 @@
     "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ea41518a9fa910a7d7a63ac/1587816618843/480px-CharizardGX_Tin.jpg?format=1500w",
     "limit": null,
     "seen_count": 4
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon Mega Zygarde ex Premium Collection",
+    "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-10-14T11:40:48.657342+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392",
+    "limit": null,
+    "seen_count": 3
   }
 ]
