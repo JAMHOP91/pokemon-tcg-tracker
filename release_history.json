@@ -1,15 +1,5 @@
 [
   {
-    "site": "Otakumart - Pokemon TCG",
-    "title": "50x Basic Psychic Energy | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/50x-basic-psychic-energy-pokemon-tcg",
-    "price": "$3.00",
-    "timestamp": "2026-08-29T15:40:48.565454+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/BasicPsychicEnergy-50x.jpg?v=1737494476",
-    "limit": null
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
@@ -10969,5 +10959,16 @@
     "image": "http://otakumart.co.nz/cdn/shop/files/BasicFireEnergy-50x.jpg?v=1737494230",
     "limit": null,
     "seen_count": 8
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Perfect Order Single Pack",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-perfect-order-single-pack",
+    "price": "$9.99",
+    "timestamp": "2026-10-14T01:40:48.256440+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-06-26140207.jpg?v=1782439750",
+    "limit": null,
+    "seen_count": 2
   }
 ]
