@@ -538,9 +538,9 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
+      "10280809857108",
       "10280790261844",
-      "10280802287700",
-      "10280809857108"
+      "10280802287700"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1748,8 +1748,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8636163981508",
       "8631859577028",
+      "8636163981508",
       "8636199928004"
     ],
     "zero_streak": 0,
@@ -1888,8 +1888,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1968,6 +1968,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8770963537943",
       "8832667877399",
       "8969764110359",
       "8888685723671",
@@ -2363,9 +2364,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15163471200626",
+      "15139615244658",
       "15139613802866",
-      "15139615244658"
+      "15163471200626"
     ],
     "zero_streak": 0,
     "warned": false,
