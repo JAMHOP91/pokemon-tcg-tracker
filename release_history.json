@@ -1,17 +1,6 @@
 [
   {
     "site": "Otakumart - Pre-Orders",
-    "title": "Delta Reign Elite Trainer Box | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/delta-reign-elite-trainer-box-pokemon-tcg",
-    "price": "$115.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1.jpg?v=1787291874",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
     "title": "Delta Reign 3-Booster Blister | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/delta-reign-3-booster-blister-pokemon-tcg",
     "price": "$30.00",
@@ -10996,6 +10985,17 @@
     "timestamp": "2026-10-15T06:36:43.150160+00:00",
     "priority": false,
     "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME05_Pitch_Black_Booster_Box.jpg?v=1777870840",
+    "limit": null,
+    "seen_count": 2
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Pitch Black Single Card",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-pitch-black-single-card",
+    "price": "$286.00",
+    "timestamp": "2026-10-15T07:40:57.469417+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-pitch-black-mega-darkrai-ex-116-084-card.png?v=1790732069",
     "limit": null,
     "seen_count": 2
   }
