@@ -1,17 +1,6 @@
 [
   {
     "site": "Otakumart - Pre-Orders",
-    "title": "Delta Reign Booster Pack | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/delta-reign-booster-pack-pokemon-tcg",
-    "price": "$10.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-8.jpg?v=1787291471",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
     "title": "Delta Reign Booster Box | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/delta-reign-booster-box-pokemon-tcg",
     "price": "$330.00",
@@ -10998,5 +10987,16 @@
     "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103205.jpg?v=1776814254",
     "limit": null,
     "seen_count": 6
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
+    "price": "$10.99",
+    "timestamp": "2026-10-15T18:10:51.601417+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
+    "limit": null,
+    "seen_count": 8
   }
 ]
