@@ -1,15 +1,5 @@
 [
   {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Perfect Order Booster Box",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster-pre-order-27-03-2026",
-    "price": "$340.00",
-    "timestamp": "2026-08-31T17:40:54.215852+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2_3072bdfc-7285-41e0-a5bc-07ef49087202.webp?v=1771450521",
-    "limit": null
-  },
-  {
     "site": "Pop Stop - Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
     "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
@@ -10996,5 +10986,16 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Base_Mega_Evolution_Perfect_Order_Booster_Box.jpg?v=1772363677",
     "limit": null,
     "seen_count": 4
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG ME04 Chaos Rising Booster Box",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-booster-box",
+    "price": "$340.00",
+    "timestamp": "2026-10-15T05:50:53.778023+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME03_Chaos_Rising_Booster_Box.jpg?v=1777853291",
+    "limit": null,
+    "seen_count": 0
   }
 ]
