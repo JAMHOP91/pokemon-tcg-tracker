@@ -1,15 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-08-31T14:10:52.482665+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/PitchBlack_BoosterBox.png?v=1784081025",
-    "limit": "Maximum 6 per person"
-  },
-  {
     "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG Perfect Order Booster Box",
     "url": "https://toytime.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster-pre-order-27-03-2026",
@@ -10995,5 +10985,16 @@
     "image": "http://tcgcollectornz.com/cdn/shop/files/10-10439-109-Delta-Reign-Booster-Bundle-1.jpg?v=1787465832",
     "limit": "LIMITED TO 1 PER HOUSEHOLD",
     "seen_count": 1
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG ME03 Perfect Order Booster Box",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box-preorder-ship-on-march-27-2026",
+    "price": "$320.00",
+    "timestamp": "2026-10-15T05:45:58.784542+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Base_Mega_Evolution_Perfect_Order_Booster_Box.jpg?v=1772363677",
+    "limit": null,
+    "seen_count": 4
   }
 ]
