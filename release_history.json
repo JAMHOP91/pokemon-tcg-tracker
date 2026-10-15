@@ -1,45 +1,5 @@
 [
   {
-    "site": "Otakumart - Pokemon TCG",
-    "title": "50x Basic Fighting Energy | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/50x-basic-fighting-energy-pokemon-tcg",
-    "price": "$3.00",
-    "timestamp": "2026-08-31T07:10:52.252315+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/BasicFightingEnergy-50x.jpg?v=1737494406",
-    "limit": null
-  },
-  {
-    "site": "Pop Stop - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Booster",
-    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolutions-4-chaos-rising-booster",
-    "price": "$9.99",
-    "timestamp": "2026-08-31T07:40:50.594056+00:00",
-    "priority": false,
-    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Chaos-Rising-Booster-Wrap-Mega-Pyroar_EN-560x1024_grande.jpg?v=1779398996",
-    "limit": null
-  },
-  {
-    "site": "Hobby Master - Pokemon",
-    "title": "MEGA VENUSAUR EX PREMIUM COLLECTION",
-    "url": "https://hobbymaster.co.nz/products/product/45878",
-    "price": "$161.00",
-    "timestamp": "2026-08-31T10:10:48.471418+00:00",
-    "priority": false,
-    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
-    "limit": null
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster box 36 packs",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-box-36-packs",
-    "price": "$379.99",
-    "timestamp": "2026-08-31T11:10:58.522275+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
-    "limit": null
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolutions - Pitch Black Booster Box",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-box",
@@ -10991,5 +10951,49 @@
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBooster_2webp.webp?v=1780641519",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Evolution: Delta Reign Booster Box *Sealed* (PRE-ORDER, SHIPS NOV 6TH)",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-delta-reign-booster-box-sealed-pre-order-ships-nov-6th",
+    "price": "$380.00",
+    "timestamp": "2026-10-15T02:45:57.075209+00:00",
+    "priority": true,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2.jpg?v=1787464008",
+    "limit": "LIMITED TO 1 PER HOUSEHOLD",
+    "seen_count": 0
+  },
+  {
+    "site": "TCG Collector NZ",
+    "title": "Pokemon TCG: Mega Evolution: Delta Reign Booster Bundle *Sealed* (PRE-ORDER, SHIPS NOV 6TH)",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-delta-reign-booster-bundle-sealed-pre-order-ships-nov-6th-copy",
+    "price": "$70.00",
+    "timestamp": "2026-10-15T02:45:57.075209+00:00",
+    "priority": true,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/10-10439-109-Delta-Reign-Booster-Bundle-1.jpg?v=1787465832",
+    "limit": "LIMITED TO 1 PER HOUSEHOLD",
+    "seen_count": 0
+  },
+  {
+    "site": "TCG Collector NZ - Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution: Delta Reign Booster Box *Sealed* (PRE-ORDER, SHIPS NOV 6TH)",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-delta-reign-booster-box-sealed-pre-order-ships-nov-6th",
+    "price": "$380.00",
+    "timestamp": "2026-10-15T02:45:57.075209+00:00",
+    "priority": true,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2.jpg?v=1787464008",
+    "limit": "LIMITED TO 1 PER HOUSEHOLD",
+    "seen_count": 1
+  },
+  {
+    "site": "TCG Collector NZ - Pre-Orders",
+    "title": "Pokemon TCG: Mega Evolution: Delta Reign Booster Bundle *Sealed* (PRE-ORDER, SHIPS NOV 6TH)",
+    "url": "https://tcgcollectornz.com/products/pokemon-tcg-mega-evolution-delta-reign-booster-bundle-sealed-pre-order-ships-nov-6th-copy",
+    "price": "$70.00",
+    "timestamp": "2026-10-15T02:45:57.075209+00:00",
+    "priority": true,
+    "image": "http://tcgcollectornz.com/cdn/shop/files/10-10439-109-Delta-Reign-Booster-Bundle-1.jpg?v=1787465832",
+    "limit": "LIMITED TO 1 PER HOUSEHOLD",
+    "seen_count": 1
   }
 ]
