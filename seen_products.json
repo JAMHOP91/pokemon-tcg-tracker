@@ -327,6 +327,8 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
@@ -337,9 +339,9 @@
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/hidden-fates-tin"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-15T19:47:37.407464+00:00",
     "prices": {},
     "availability": {}
   },
@@ -361,6 +363,7 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8479841648836",
       "8693048377540",
       "8479841648836",
       "8584003977412"
@@ -1718,6 +1721,9 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
+      "10441619603752",
+      "10365187621160",
+      "10323223183656",
       "15421342220584",
       "10323223183656",
       "15402635297064",
@@ -2321,9 +2327,9 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
-      "8083552370806",
       "8231312228470",
-      "8231315472502"
+      "8231315472502",
+      "8083552370806"
     ],
     "zero_streak": 0,
     "warned": false,
