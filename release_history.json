@@ -1,15 +1,5 @@
 [
   {
-    "site": "Collect All Day",
-    "title": "Jolteon VMAX Premium Collection",
-    "url": "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
-    "price": "NZ$495.00",
-    "timestamp": "2026-08-31T06:40:47.899796+00:00",
-    "priority": false,
-    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67ea524164560f4ad11bdf70/1757999523043/Jolteon+VMAX+Special+Collection.jpg?format=1500w",
-    "limit": null
-  },
-  {
     "site": "Otakumart - Pokemon TCG",
     "title": "50x Basic Fighting Energy | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/50x-basic-fighting-energy-pokemon-tcg",
@@ -10990,5 +10980,16 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
     "limit": null,
     "seen_count": 7
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Perfect Order: Sealed Booster Pack (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-pack-english",
+    "price": "$9.99",
+    "timestamp": "2026-10-15T02:40:47.954331+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBooster_2webp.webp?v=1780641519",
+    "limit": null,
+    "seen_count": 3
   }
 ]
