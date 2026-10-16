@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Charizard Tin (Limit 2 per Customer) (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-charizard-tin-limit-2-per-customer-pre-order",
-    "price": "$52.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon_TCG_Mega_Charizard_Tin.webp?v=1768369263",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Mini Tin (Assorted) (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-mini-tin-assorted-pre-order",
     "price": "$24.99",
@@ -10998,5 +10987,16 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2__1_-removebg-preview_1200x1648.png?v=1787289747",
     "limit": null,
     "seen_count": 10
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "Ascended Heroes Focused Fighters Premium Collection | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/ascended-heroes-focused-fighters-premium-collection-pokemon-tcg",
+    "price": "$170.00",
+    "timestamp": "2026-10-16T22:15:56.282386+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/P12105_ME2pt5_3D_Focused_Fighters_Premium_Collection_Left_EN.jpg?v=1791352261",
+    "limit": null,
+    "seen_count": 0
   }
 ]
