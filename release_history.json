@@ -1,17 +1,6 @@
 [
   {
     "site": "Otakumart - Pre-Orders",
-    "title": "30th Celebration Tech Sticker Collection\u2014Alolan Exeggutor | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/30th-celebration-tech-sticker-collection-alolan-exeggutor-pokemon-tcg",
-    "price": "$36.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": true,
-    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tech-Sticker-Collection-Alolan-Exeggutor_EN.jpg?v=1783060645",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
     "title": "30th Celebration Tech Sticker Collection\u2014Lucario | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/30th-celebration-tech-sticker-collection-lucario-pokemon-tcg",
     "price": "$36.00",
@@ -10996,6 +10985,17 @@
     "timestamp": "2026-10-16T00:20:52.512846+00:00",
     "priority": false,
     "image": "http://tcgculture.com/cdn/shop/files/megagrin_1024x1024.jpg?v=1792109749",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "TCG Culture - Pokemon",
+    "title": "Pok\u00e9mon Mega Zygarde ex Premium Collection",
+    "url": "https://tcgculture.com/products/pokemon-mega-zygarde-ex-premium-collection",
+    "price": "$125.00",
+    "timestamp": "2026-10-16T00:35:26.871826+00:00",
+    "priority": false,
+    "image": "http://tcgculture.com/cdn/shop/files/zy_5c40c9dc-84e6-4de0-8cb7-020a8b2a0a1c_1024x1024.jpg?v=1792110238",
     "limit": null,
     "seen_count": 0
   }
