@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles"
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
     ],
     "zero_streak": 2110,
     "warned": true,
@@ -82,6 +82,7 @@
     "seen_ids": [
       "7558378979389",
       "7558381600829",
+      "7558380781629",
       "7558379864125",
       "7558377930813",
       "7558380781629"
@@ -264,8 +265,8 @@
   "Cardtopia NZ": {
     "seen_ids": [
       "10202363330800",
-      "10218488725744",
-      "10070962241776"
+      "10070962241776",
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -361,9 +362,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8479841648836",
       "8693048377540",
-      "8584003977412"
+      "8584003977412",
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2036,6 +2037,8 @@
       "10171560952048",
       "9982539989232",
       "10099042582768",
+      "10171578286320",
+      "10171560952048",
       "9599898976496",
       "10112179831024",
       "10171578286320",
