@@ -1,17 +1,6 @@
 [
   {
     "site": "Otakumart - Pre-Orders",
-    "title": "Mega Forces Tin (Assorted) | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/mega-forces-tin-assorted-pokemon-tcg",
-    "price": "$55.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Forces-Tin.jpg?v=1783060847",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
     "title": "30th Celebration Tech Sticker Collection\u2014Alolan Exeggutor | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/30th-celebration-tech-sticker-collection-alolan-exeggutor-pokemon-tcg",
     "price": "$36.00",
@@ -10996,6 +10985,17 @@
     "timestamp": "2026-10-16T00:10:44.958850+00:00",
     "priority": false,
     "image": "http://tcgculture.com/cdn/shop/files/poke_2packblist_zarude26_1024x1024.jpg?v=1792108348",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "TCG Culture - Pokemon",
+    "title": "Pok\u00e9mon Mega Greninja ex Premium Collection",
+    "url": "https://tcgculture.com/products/pokemon-mega-greninja-ex-premium-collection",
+    "price": "$125.00",
+    "timestamp": "2026-10-16T00:20:52.512846+00:00",
+    "priority": false,
+    "image": "http://tcgculture.com/cdn/shop/files/megagrin_1024x1024.jpg?v=1792109749",
     "limit": null,
     "seen_count": 0
   }
