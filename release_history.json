@@ -1,17 +1,6 @@
 [
   {
     "site": "Otakumart - Pre-Orders",
-    "title": "Ascended Heroes Tin (Assorted) | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/ascended-heroes-tin-assorted-pokemon-tcg",
-    "price": "$55.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Ascended-Heroes-Tin.jpg?v=1783061243",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
     "title": "Mega Forces Tin (Assorted) | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/mega-forces-tin-assorted-pokemon-tcg",
     "price": "$55.00",
@@ -10998,5 +10987,16 @@
     "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Display_EN.jpg?v=1768528572",
     "limit": "limited to 1 Per Household",
     "seen_count": 1
+  },
+  {
+    "site": "TCG Culture - Pokemon",
+    "title": "Pok\u00e9mon Zarude Two Pack Blister  - Chaos Rising/Pitch Black",
+    "url": "https://tcgculture.com/products/pokemon-zarude-two-pack-blister-chaos-rising-pitch-black",
+    "price": "$30.00",
+    "timestamp": "2026-10-16T00:10:44.958850+00:00",
+    "priority": false,
+    "image": "http://tcgculture.com/cdn/shop/files/poke_2packblist_zarude26_1024x1024.jpg?v=1792108348",
+    "limit": null,
+    "seen_count": 0
   }
 ]
