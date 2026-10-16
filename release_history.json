@@ -1,28 +1,6 @@
 [
   {
     "site": "Otakumart - Pre-Orders",
-    "title": "30th Celebration Greninja ex Box | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/30th-celebration-greninja-ex-box-pokemon-tcg",
-    "price": "$55.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": true,
-    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Pokemon-ex-Box-Greninja-ex_EN.jpg?v=1783060475",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
-    "title": "30th Celebration Sylveon ex Box | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/30th-celebration-sylveon-ex-box-pokemon-tcg",
-    "price": "$55.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": true,
-    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Pokemon-ex-Box-Sylveon-ex_EN.jpg?v=1783060306",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
     "title": "30th Celebration Knock Out Collection | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/30th-celebration-knock-out-collection-pokemon-tcg",
     "price": "$24.00",
@@ -10998,5 +10976,27 @@
     "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67a6fcd3353fc7373aea9a12/1759111658444/Screenshot+2025-02-08+195219.png?format=1500w",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG 30th Celebration Mini Tin",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-mini-tin",
+    "price": "$69.99",
+    "timestamp": "2026-10-16T02:40:46.817826+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Mini-Tin.jpg?v=1790819697",
+    "limit": null,
+    "seen_count": 2
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG ME04 Chaos Rising Booster Box",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-booster-box",
+    "price": "$340.00",
+    "timestamp": "2026-10-16T02:40:46.817826+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME03_Chaos_Rising_Booster_Box.jpg?v=1777853291",
+    "limit": null,
+    "seen_count": 1
   }
 ]
