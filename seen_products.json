@@ -115,6 +115,15 @@
       "9231220408483",
       "9231223783587",
       "7540284915875",
+      "8668035317923",
+      "9136791978147",
+      "9136746102947",
+      "8850541740195",
+      "9231080751267",
+      "9136790274211",
+      "9231224963235",
+      "9225967042723",
+      "9231220408483",
       "9225964847267",
       "9136790274211",
       "8850541740195",
@@ -428,6 +437,15 @@
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [
+      "7915168563261",
+      "7915173249085",
+      "7915175608381",
+      "7915185373245",
+      "7889660346429",
+      "7915180326973",
+      "7964215935037",
+      "7915166564413",
+      "7964206039101",
       "7964217802813",
       "7915166564413",
       "7915180326973",
@@ -1820,6 +1838,7 @@
       "7672253120558",
       "7672252792878",
       "7672250695726",
+      "7672253120558",
       "7670828957742"
     ],
     "zero_streak": 0,
@@ -1929,9 +1948,9 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP"
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1973,6 +1992,7 @@
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
       "8770963537943",
+      "8969764110359",
       "8832667877399",
       "8969764110359",
       "8888685723671"
@@ -2310,8 +2330,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2366,9 +2386,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15139615244658",
       "15139613802866",
-      "15163471200626",
-      "15139615244658"
+      "15163471200626"
     ],
     "zero_streak": 0,
     "warned": false,
