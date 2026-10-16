@@ -13,6 +13,7 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
@@ -1974,6 +1975,7 @@
     "seen_ids": [
       "8969764110359",
       "8888685723671",
+      "8770963537943",
       "8832667877399",
       "8770963537943"
     ],
@@ -2096,6 +2098,7 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
+      "10170361905236",
       "8063603605588",
       "10170361905236",
       "10320168255572",
@@ -2299,8 +2302,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2324,9 +2327,9 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
+      "8231315472502",
       "8231312228470",
-      "8083552370806",
-      "8231315472502"
+      "8083552370806"
     ],
     "zero_streak": 0,
     "warned": false,
