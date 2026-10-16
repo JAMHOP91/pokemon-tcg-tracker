@@ -1,16 +1,5 @@
 [
   {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: 2-Pack Blister - Pitch black - Chaos rising (PRE-ORDER) Release Date: August 7th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-2-pack-blister-pitch-black-chaos-rising",
-    "price": "$27.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/P11446_3D_2pk_Blister_Aug_2026_DoubleWide_Front_EN.jpg?v=1780014492",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: 2-Pack Blister (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-2-pack-blister-pre-order",
@@ -10998,5 +10987,16 @@
     "image": "https://static.wixstatic.com/media/f9a8f0_7d87aebfb1ea47cfadc86d60847339b2~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "TCG Culture - Pokemon",
+    "title": "Pok\u00e9mon Zarude Two Pack Blister  - Chaos Rising/Pitch Black",
+    "url": "https://tcgculture.com/products/pokemon-zarude-two-pack-blister-chaos-rising-pitch-black",
+    "price": "$30.00",
+    "timestamp": "2026-10-16T09:11:03.175279+00:00",
+    "priority": false,
+    "image": "http://tcgculture.com/cdn/shop/files/poke_2packblist_zarude26_1024x1024.jpg?v=1792108348",
+    "limit": null,
+    "seen_count": 1
   }
 ]
