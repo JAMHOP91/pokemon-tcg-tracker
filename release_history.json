@@ -1,16 +1,5 @@
 [
   {
-    "site": "Otakumart - Pre-Orders",
-    "title": "Zarude 2-Pack Blister | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/zarude-2-pack-blister-pokemon-tcg",
-    "price": "$25.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/P11446_3D_2pk_Blister_Aug_2026_DoubleWide_Front_EN.jpg?v=1780034557",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pokemon TCG: 2-Pack Blister - Pitch black - Chaos rising (PRE-ORDER) Release Date: August 7th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-2-pack-blister-pitch-black-chaos-rising",
@@ -10996,6 +10985,17 @@
     "timestamp": "2026-10-16T06:40:57.218010+00:00",
     "priority": false,
     "image": "http://www.metalife.co.nz/cdn/shop/files/476432-Product-0-I-639131923803786868.webp?v=1782189387",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "TCG NZ",
+    "title": "POK\u00c9MON TCG Scarlet & Violet 9 Journey Together Checklane Blister",
+    "url": "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-checklane-blister",
+    "price": "$12.00",
+    "timestamp": "2026-10-16T08:10:52.706295+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/f9a8f0_7d87aebfb1ea47cfadc86d60847339b2~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     "limit": null,
     "seen_count": 0
   }
