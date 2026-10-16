@@ -1,61 +1,6 @@
 [
   {
     "site": "Otakumart - Pre-Orders",
-    "title": "30th Celebration Booster Bundle | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/30th-celebration-booster-bundle-pokemon-tcg",
-    "price": "$65.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": true,
-    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Booster-Bundle_EN.jpg?v=1783059198",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
-    "title": "30th Celebration Ultra-Premium Collection\u2014Night | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/30th-celebration-ultra-premium-collection-night-pokemon-tcg",
-    "price": "$435.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": true,
-    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Ultra-Premium-Collection-Night_EN.jpg?v=1783058612",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
-    "title": "30th Celebration Ultra-Premium Collection\u2014Day | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/30th-celebration-ultra-premium-collection-day-pokemon-tcg",
-    "price": "$435.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": true,
-    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Ultra-Premium-Collection-Day_EN.jpg?v=1783058569",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
-    "title": "30th Celebration Ditto Premium Collection | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/30th-celebration-ditto-premium-collection-pokemon-tcg",
-    "price": "$96.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": true,
-    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Ditto-Premium-Collection_EN.jpg?v=1783057972",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
-    "title": "30th Celebration Tin\u2014Greninja | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/30th-celebration-tin-greninja-pokemon-tcg",
-    "price": "$65.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": true,
-    "image": "http://otakumart.co.nz/cdn/shop/files/PokemonTCG-30thCelebrationTin-Greninja.png?v=1783057879",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
     "title": "30th Celebration Tin\u2014Sylveon | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/30th-celebration-tin-sylveon-pokemon-tcg",
     "price": "$65.00",
@@ -10997,6 +10942,61 @@
     "priority": true,
     "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG_-30th-Celebration-Mini-Tins-2_00e10ffe-2663-40dd-b5cf-5fbe96518455.png?v=1789706572",
     "limit": "Limit 10 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Pokemon TCG: Scarlet & Violet 8 Surging Sparks Booster Box (Backorder)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-booster-pre-order",
+    "price": "$359.99",
+    "timestamp": "2026-10-16T06:05:08.091478+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Surging-Sparks-Booster-Display_EN-745x1024.jpg?v=1725680399",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Pokemon TCG 30th Celebration Knock Out Collection (Limit 2 per Customer) (Back Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection-limit-2-per-customer-pre-order",
+    "price": "$49.99",
+    "timestamp": "2026-10-16T06:05:08.091478+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Knock-Out-Collection_EN.jpg?v=1786179473",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Pokemon TCG: 30th Celebration Sylveon ex Box / Greninja ex Box (Limit 2 per Customer) (Back Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-sylveon-ex-box-greninja-ex-box-limit-2-per-customer-pre-order",
+    "price": "$119.99",
+    "timestamp": "2026-10-16T06:05:08.091478+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/30_anniversary_ex-collection_3.webp?v=1786179101",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Pokemon TCG 30th Celebration Elite Trainer Box (Limit 2 per Customer) (Back Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box-limit-2-per-customer-pre-order",
+    "price": "$349.99",
+    "timestamp": "2026-10-16T06:05:08.091478+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box_EN.jpg?v=1786177437",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Pokemon TCG: Mega Evolution Pitch Black Booster Box (Back Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-limit-2-per-customerpre-order",
+    "price": "$389.99",
+    "timestamp": "2026-10-16T06:05:08.091478+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Display_EN-750x1024.jpg?v=1780628056",
+    "limit": null,
     "seen_count": 0
   }
 ]
