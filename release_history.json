@@ -1,17 +1,6 @@
 [
   {
     "site": "Otakumart - Pre-Orders",
-    "title": "30th Celebration Tin\u2014Sylveon | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/30th-celebration-tin-sylveon-pokemon-tcg",
-    "price": "$65.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": true,
-    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tin-Day_EN.jpg?v=1783057723",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
     "title": "Zarude 2-Pack Blister | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/zarude-2-pack-blister-pokemon-tcg",
     "price": "$25.00",
@@ -10996,6 +10985,17 @@
     "timestamp": "2026-10-16T06:05:08.091478+00:00",
     "priority": false,
     "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Display_EN-750x1024.jpg?v=1780628056",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - 2025 Pokemon TCG World Championships",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-2025-pokemon-tcg-world-championships",
+    "price": "$44.80",
+    "timestamp": "2026-10-16T06:40:57.218010+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/476432-Product-0-I-639131923803786868.webp?v=1782189387",
     "limit": null,
     "seen_count": 0
   }
