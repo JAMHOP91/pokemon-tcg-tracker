@@ -38,6 +38,11 @@
       "7561509896341",
       "7330100445333",
       "7330101330069",
+      "7330103165077",
+      "7330100445333",
+      "8964116873365",
+      "7561509896341",
+      "7330088353941",
       "7439125512341"
     ],
     "zero_streak": 0,
@@ -361,9 +366,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8584003977412",
+      "8693048377540",
       "8479841648836",
-      "8693048377540"
+      "8584003977412"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -602,6 +607,14 @@
       "10344954954023",
       "10267157922087",
       "10267162444071",
+      "10267157922087",
+      "10267122204967",
+      "10349982744871",
+      "10267173421351",
+      "10261316895015",
+      "10261313487143",
+      "10341495734567",
+      "10267143930151",
       "10267156316455",
       "10261317288231",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-delta-reign-booster-bundle-pre-order",
@@ -1895,9 +1908,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2370,9 +2383,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15139613802866",
       "15139615244658",
-      "15163471200626",
-      "15139613802866"
+      "15163471200626"
     ],
     "zero_streak": 0,
     "warned": false,
