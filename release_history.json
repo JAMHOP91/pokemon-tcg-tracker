@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet - Black Bolt Tech Sticker Collection (Pre-Order)(Limit 2 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-black-bolt-tech-sticker-collection-pre-orderlimit-2-per-customer",
-    "price": "$39.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Black-Bolt-Tech-Sticker-Blister-Reuniclus_EN-copy.jpg?v=1749638892",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet - Black Bolt Elite Trainer Box (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-black-bolt-elite-trainer-box-pre-order",
     "price": "$139.99",
@@ -10998,5 +10987,16 @@
     "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/30216/images/79769/P12105_ME2pt5_3D_Focused_Fighters_Premium_Collection_Left_EN__52850.1792118508.220.220.webp?c=2",
     "limit": "Max purchase: 1 unit",
     "seen_count": 1
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon Mega Zygarde ex Premium Collection",
+    "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-10-17T03:10:47.761357+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392",
+    "limit": null,
+    "seen_count": 3
   }
 ]
