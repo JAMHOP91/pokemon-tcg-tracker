@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 9 Journey Together Booster Bundle (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-9-journey-together-booster-bundle-pre-order",
-    "price": "$51.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Journey-Together-Booster-Bundle_EN-761x1024.jpg?v=1743209975",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 9 Journey Together Blisters (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-9-journey-together-blisters-pre-order",
     "price": "$8.99",
@@ -10998,5 +10987,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-2-Pack-Blister-Zarude.jpg?v=1790809018",
     "limit": null,
     "seen_count": 4
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "SINISTCHA ex SPECIAL ILLUSTRATION  - PSA 10",
+    "url": "https://cardmasters.co.nz/products/sinistcha-ex-special-illustration-psa-10",
+    "price": "$350.00",
+    "timestamp": "2026-10-17T12:40:53.079642+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/mcCxfMJKFkendxJyCmArCw_1200x1996.jpg?v=1787625754",
+    "limit": null,
+    "seen_count": 0
   }
 ]
