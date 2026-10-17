@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Elite Trainer Box (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box-pre-order",
-    "price": "$150.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/POKEMO1-8-1024x976.jpg?v=1746441953",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Charizard ex Special Collection (Back Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-charizard-ex-special-collection-pre-order",
-    "price": "$89.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Charizard-ex-Special-Collection_EN-1024x790.jpg?v=1744877767",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 9 Journey Together Booster Bundle (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-9-journey-together-booster-bundle-pre-order",
     "price": "$51.99",
@@ -10998,5 +10976,27 @@
     "image": "http://otakumart.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2.jpg?v=1787291333",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "PRE - ORDER Pokemon TCG 30th Celebration Knock Out Collection",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-30th-celebration-knock-out-collection",
+    "price": "$32.00",
+    "timestamp": "2026-10-17T11:40:46.791043+00:00",
+    "priority": true,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1200_72510dbb-cf9c-4635-949c-a5a2bae3543d_1200x1200.webp?v=1785832155",
+    "limit": null,
+    "seen_count": 10
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Mega Evolution 2-Pack Blister \u2013 Zarude",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-2-pack-blister-zarude",
+    "price": "$34.99",
+    "timestamp": "2026-10-17T11:40:46.791043+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-2-Pack-Blister-Zarude.jpg?v=1790809018",
+    "limit": null,
+    "seen_count": 4
   }
 ]
