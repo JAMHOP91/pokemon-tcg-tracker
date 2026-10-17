@@ -543,8 +543,8 @@
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
       "10280790261844",
-      "10280802287700",
-      "10280809857108"
+      "10280809857108",
+      "10280802287700"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2370,9 +2370,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15139615244658",
       "15139613802866",
-      "15163471200626"
+      "15163471200626",
+      "15139615244658"
     ],
     "zero_streak": 0,
     "warned": false,
