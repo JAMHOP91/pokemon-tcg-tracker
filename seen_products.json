@@ -81,6 +81,7 @@
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
       "7558378979389",
+      "7558379864125",
       "7558380781629",
       "7558377930813",
       "7558379864125",
@@ -263,6 +264,7 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10070962241776",
       "10202363330800",
       "10070962241776",
       "10218488725744"
@@ -361,9 +363,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8693048377540",
       "8584003977412",
-      "8479841648836",
-      "8693048377540"
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1895,8 +1897,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
     ],
     "zero_streak": 0,
@@ -1977,8 +1979,8 @@
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
       "8969764110359",
-      "8832667877399",
       "8888685723671",
+      "8832667877399",
       "8770963537943"
     ],
     "zero_streak": 0,
