@@ -2177,9 +2177,9 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9537919516949",
       "9537919222037",
-      "9530379600149"
+      "9530379600149",
+      "9537919516949"
     ],
     "zero_streak": 0,
     "warned": false,
