@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Checklane Blister (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-checklane-blister-pre-order",
-    "price": "$14.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/POKMON2-557x1024123213.jpg?v=1746444120",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Elite Trainer Box (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box-pre-order",
     "price": "$150.00",
@@ -10998,5 +10987,16 @@
     "image": "http://toytime.co.nz/cdn/shop/files/Screenshot2026-10-15152745.png?v=1792031325",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "Delta Reign Booster Box | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/delta-reign-booster-box-pokemon-tcg",
+    "price": "$330.00",
+    "timestamp": "2026-10-17T09:40:46.530053+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2.jpg?v=1787291333",
+    "limit": null,
+    "seen_count": 1
   }
 ]
