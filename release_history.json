@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Mini Tin (Assorted) (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-mini-tin-assorted-pre-order",
-    "price": "$24.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Mini-Tins-Display_EN-796x1024_1.jpg?v=1768368698",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Elite Trainer Box (Limit 2 per Customer) (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box-limit-2-per-customer-pre-order",
-    "price": "$149.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/10-10315-101-ME-Ascended-Heroes-ETB-4-1024x976_1.jpg?v=1768368335",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet - Black Bolt Tech Sticker Collection (Pre-Order)(Limit 2 per Customer)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-black-bolt-tech-sticker-collection-pre-orderlimit-2-per-customer",
     "price": "$39.99",
@@ -10998,5 +10976,27 @@
     "image": "http://otakumart.co.nz/cdn/shop/files/P12105_ME2pt5_3D_Focused_Fighters_Premium_Collection_Left_EN.jpg?v=1791352261",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-10-17T01:20:50.026236+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PitchBlack_BoosterBox.png?v=1784081025",
+    "limit": "Maximum 6 per person",
+    "seen_count": 1
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pokemon TCG: ME2.5 Ascended Heroes Focused Fighters Premium Collection",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
+    "price": "$346.96",
+    "timestamp": "2026-10-17T01:20:50.026236+00:00",
+    "priority": false,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/30216/images/79769/P12105_ME2pt5_3D_Focused_Fighters_Premium_Collection_Left_EN__52850.1792118508.220.220.webp?c=2",
+    "limit": "Max purchase: 1 unit",
+    "seen_count": 1
   }
 ]
