@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Charizard ex Premium Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-charizard-ex-premium-collection-pre-order",
-    "price": "$74.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/P8977_3D_Charizard_Premium_Coll_Left_EN-1024x983.jpg?v=1692168573",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG 30th Celebration Knock Out Collection (Limit 2 per Customer) (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection-limit-2-per-customer-pre-order",
     "price": "$49.99",
@@ -10998,5 +10987,16 @@
     "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-0192.webp?v=1774578845",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Collection Box 2025 Bundle",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-collection-box-2025-bundle",
+    "price": "$1003.00",
+    "timestamp": "2026-10-17T23:40:44.687865+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/PKM-CENTRE-2025-BUNDLE_1.png?v=1772599783",
+    "limit": null,
+    "seen_count": 1
   }
 ]
