@@ -1,39 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Surprise Box (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-surprise-box-pre-order",
-    "price": "$64.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/P10460_SV08pt5_3D_Surprise_Box_Packed_Left_EN-1024x766.jpg?v=1741689533",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Accessory Pouch (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-accessory-pouch-pre-order",
-    "price": "$69.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/P10461_SV08pt5_3D_Accessory_Pouch_Packaging_Left_EN-1024x824.jpg?v=1733134411",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 8 Surging Sparks Booster (Backorder)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-booster-pre-order",
-    "price": "$6.50",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Surging-Sparks-Booster-Display_EN-745x1024.jpg?v=1725680399",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Charizard ex Premium Collection",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-charizard-ex-premium-collection-pre-order",
     "price": "$74.99",
@@ -10998,5 +10965,38 @@
     "image": "http://otakumart.co.nz/cdn/shop/files/BasicPsychicEnergy-50x.jpg?v=1737494476",
     "limit": null,
     "seen_count": 5
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Pitch Black Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-pitch-black-elite-trainer-box",
+    "price": "$160.00",
+    "timestamp": "2026-10-17T23:15:55.965622+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-1423.webp?v=1784163305",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Chaos Rising Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-chaos-rising-elite-trainer-box",
+    "price": "$165.00",
+    "timestamp": "2026-10-17T23:15:55.965622+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-0703.webp?v=1779248569",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Perfect Order Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-perfect-order-elite-trainer-box",
+    "price": "$160.00",
+    "timestamp": "2026-10-17T23:15:55.965622+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-0192.webp?v=1774578845",
+    "limit": null,
+    "seen_count": 0
   }
 ]
