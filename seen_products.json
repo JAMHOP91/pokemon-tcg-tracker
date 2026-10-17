@@ -83,6 +83,7 @@
       "7558381600829",
       "7558378979389",
       "7558377930813",
+      "7558381600829",
       "7558380781629",
       "7558379864125"
     ],
@@ -2037,6 +2038,8 @@
     "seen_ids": [
       "10171560952048",
       "10171578286320",
+      "10171560952048",
+      "10035621396720",
       "10112186188016",
       "10171547386096",
       "10098857181424",
@@ -2100,6 +2103,7 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
+      "10334982635604",
       "10214066389076",
       "10170361905236",
       "8063603605588",
@@ -2303,8 +2307,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2314,8 +2318,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2370,9 +2374,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15139613802866",
       "15139615244658",
-      "15163471200626",
-      "15139613802866"
+      "15163471200626"
     ],
     "zero_streak": 0,
     "warned": false,
