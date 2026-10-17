@@ -13,9 +13,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 0,
@@ -31,6 +31,7 @@
       "7330100445333",
       "8964116873365",
       "7330101002389",
+      "7330101330069",
       "7330099200149",
       "7439107129493",
       "7330101330069",
@@ -82,6 +83,7 @@
     "seen_ids": [
       "7558377930813",
       "7558380781629",
+      "7558379864125",
       "7558378979389",
       "7558379864125",
       "7558381600829"
@@ -543,6 +545,7 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
+      "10280809857108",
       "10280790261844",
       "10280809857108",
       "10280802287700"
@@ -1897,9 +1900,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1952,7 +1955,8 @@
       "9285795938453",
       "15401415344277",
       "15401330835605",
-      "9210168803477"
+      "9210168803477",
+      "9285795938453"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2316,8 +2320,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
