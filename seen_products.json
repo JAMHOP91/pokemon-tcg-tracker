@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
@@ -81,6 +82,8 @@
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
       "7558380781629",
+      "7558381600829",
+      "7558377930813",
       "7558378979389",
       "7558377930813",
       "7558381600829",
@@ -328,7 +331,6 @@
   "Collect All Day": {
     "seen_ids": [
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
-      "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
@@ -543,8 +545,8 @@
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
       "10280790261844",
-      "10280802287700",
-      "10280809857108"
+      "10280809857108",
+      "10280802287700"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2153,9 +2155,9 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9173828796670",
+      "9381118279934",
       "9269784477950",
-      "9381118279934"
+      "9173828796670"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2331,6 +2333,7 @@
       "7999399854198",
       "8055991107702",
       "8177351590006",
+      "8231315472502",
       "8231312228470",
       "8231315472502",
       "8083552370806"
@@ -2374,8 +2377,8 @@
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
       "15139615244658",
-      "15139613802866",
-      "15163471200626"
+      "15163471200626",
+      "15139613802866"
     ],
     "zero_streak": 0,
     "warned": false,
