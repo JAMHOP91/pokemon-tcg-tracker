@@ -1725,6 +1725,7 @@
       "10365187621160",
       "15421342122280",
       "10323223183656",
+      "10365187621160",
       "15402635297064",
       "10441619603752"
     ],
@@ -1895,9 +1896,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2156,8 +2157,8 @@
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
       "9173828796670",
-      "9269784477950",
-      "9381118279934"
+      "9381118279934",
+      "9269784477950"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2374,9 +2375,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15139613802866",
       "15163471200626",
-      "15139615244658",
-      "15139613802866"
+      "15139615244658"
     ],
     "zero_streak": 0,
     "warned": false,
