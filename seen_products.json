@@ -26,6 +26,8 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
+      "7439084388501",
+      "7330101624981",
       "7330101002389",
       "7330099200149",
       "7439125512341",
@@ -361,9 +363,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8693048377540",
       "8584003977412",
-      "8479841648836",
-      "8693048377540"
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -390,6 +392,15 @@
       "https://hobbymaster.co.nz/products/product/47423",
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/46975",
+      "https://hobbymaster.co.nz/products/product/47428",
+      "https://hobbymaster.co.nz/products/product/47423",
+      "https://hobbymaster.co.nz/products/product/47425",
+      "https://hobbymaster.co.nz/products/product/47232",
+      "https://hobbymaster.co.nz/products/product/45463",
+      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/47431",
+      "https://hobbymaster.co.nz/products/product/47432",
+      "https://hobbymaster.co.nz/products/product/47427",
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/45878",
@@ -1726,7 +1737,10 @@
       "10323223183656",
       "10441619603752",
       "15402635297064",
-      "15421342122280"
+      "15421342122280",
+      "10365187621160",
+      "10323223183656",
+      "10441619603752"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1751,8 +1765,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8636199928004",
       "8631859577028",
+      "8636199928004",
       "8636163981508"
     ],
     "zero_streak": 0,
@@ -2301,8 +2315,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
