@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution Pitch Black Booster (Back Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-limit-2-per-customerpre-order",
-    "price": "$359.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Display_EN-750x1024.jpg?v=1780628056",
-    "limit": null,
-    "seen_count": 4
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: First Partner Illustration Collection - Series 2 (Limit 1 per Customer)(Back Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-2-limit-2-per-customer-pre-order",
     "price": "$79.99",
@@ -10998,5 +10987,16 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/30th-celebration-elite-trainer-box-169-en.png?v=1787042029",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Fire Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-fire-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-10-18T12:10:49.172834+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicFireEnergy-50x.jpg?v=1737494230",
+    "limit": null,
+    "seen_count": 9
   }
 ]
