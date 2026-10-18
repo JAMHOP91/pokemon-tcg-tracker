@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Forces Tin (Limit 3 per Customer) (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-forces-tin-limit-3-per-customer-pre-order",
-    "price": "$64.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/poke-force-tins.png?v=1785232857",
-    "limit": "Limit 3 per Customer",
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Tin (Limit 3 per Customer) (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-tin-limit-3-per-customer-pre-order",
     "price": "$59.99",
@@ -10998,5 +10987,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
     "limit": null,
     "seen_count": 13
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Blastoise VMAX Starter Set",
+    "url": "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+    "price": "NZ$55.00",
+    "timestamp": "2026-10-18T04:40:43.755380+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ff868ce81817a4febd3916d/1610115283113/411px-Blastoise_VMAX_Starter_Set.jpg?format=1500w",
+    "limit": null,
+    "seen_count": 2
   }
 ]
