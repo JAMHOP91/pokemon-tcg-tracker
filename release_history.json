@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: First Partner Illustration Collection - Series 3 (Limit 2 per Customer)(Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-3-limit-2-per-customer",
-    "price": "$79.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-First-Partner-Illustration-Collection_Series-3_EN.jpg?v=1783813459",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Greninja ex Premium Collection (Limit 2 per Customer)(Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection-limit-2-per-customerpre-order",
     "price": "$98.99",
@@ -10996,6 +10985,17 @@
     "timestamp": "2026-10-18T09:15:53.185196+00:00",
     "priority": false,
     "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-0192.webp?v=1774578845",
+    "limit": null,
+    "seen_count": 1
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG: Perfect Order Booster - Mega Zygarde ex",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-perfect-order-booster-mega-zygarde-ex",
+    "price": "$10.90",
+    "timestamp": "2026-10-18T09:40:49.253500+00:00",
+    "priority": false,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG__Perfect_Order_Booster-1.png?v=1785385807",
     "limit": null,
     "seen_count": 1
   }
