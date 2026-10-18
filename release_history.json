@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Tin (Limit 3 per Customer) (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-tin-limit-3-per-customer-pre-order",
-    "price": "$59.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/ascended-heroes-tins-stacked_530x_f9f27c0c-616c-456b-aeb5-cbb7c4852a47.webp?v=1785231971",
-    "limit": "Limit 3 per Customer",
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: 2-Pack Blister (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-2-pack-blister-pre-order-1",
     "price": "$29.99",
@@ -10998,5 +10987,16 @@
     "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ff868ce81817a4febd3916d/1610115283113/411px-Blastoise_VMAX_Starter_Set.jpg?format=1500w",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "#42 Pok\u00e9mon Tower  - Pok\u00e9mon League (January 2002) - WotC Black Star Promo (LP+)",
+    "url": "https://thegametree.co.nz/products/42-pokemon-tower-pokemon-league-january-2002-wotc-black-star-promo",
+    "price": "$29.88",
+    "timestamp": "2026-10-18T05:10:45.449330+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/products/42_Pokemon_Tower.png?v=1642993843",
+    "limit": null,
+    "seen_count": 3
   }
 ]
