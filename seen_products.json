@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box"
     ],
     "zero_streak": 2627,
     "warned": true,
@@ -361,8 +361,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8693048377540",
       "8479841648836",
+      "8693048377540",
       "8584003977412"
     ],
     "zero_streak": 0,
@@ -1785,6 +1785,7 @@
     "seen_ids": [
       "9215139872931",
       "9228422611107",
+      "9215139872931",
       "9215569133731",
       "9228412158115"
     ],
@@ -1947,6 +1948,8 @@
       "9285822251157",
       "9285795938453",
       "15401330835605",
+      "9285795938453",
+      "9210168803477",
       "15401415344277",
       "9152299892885",
       "9210168803477"
@@ -2314,8 +2317,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
