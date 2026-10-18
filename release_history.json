@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG 30th Celebration Knock Out Collection (Limit 2 per Customer) (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection-limit-2-per-customer-pre-order",
-    "price": "$49.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Knock-Out-Collection_EN.jpg?v=1786179473",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 3
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: 30th Celebration Sylveon ex Box / Greninja ex Box (Limit 2 per Customer) (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-sylveon-ex-box-greninja-ex-box-limit-2-per-customer-pre-order",
     "price": "$98.99",
@@ -10996,6 +10985,17 @@
     "timestamp": "2026-10-17T23:40:44.687865+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/PKM-CENTRE-2025-BUNDLE_1.png?v=1772599783",
+    "limit": null,
+    "seen_count": 1
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Chaos Rising Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-chaos-rising-elite-trainer-box",
+    "price": "$165.00",
+    "timestamp": "2026-10-18T00:04:59.930581+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-0703.webp?v=1779248569",
     "limit": null,
     "seen_count": 1
   }
