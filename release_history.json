@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: 2-Pack Blister (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-2-pack-blister-pre-order-1",
-    "price": "$29.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/P11446_3D_2pk_Blister_Aug_2026_DoubleWide_Front_EN.jpg?v=1783813879",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: First Partner Illustration Collection - Series 3 (Limit 2 per Customer)(Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-3-limit-2-per-customer",
     "price": "$79.99",
@@ -10998,5 +10987,16 @@
     "image": "http://thegametree.co.nz/cdn/shop/products/42_Pokemon_Tower.png?v=1642993843",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Perfect Order Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-perfect-order-elite-trainer-box",
+    "price": "$160.00",
+    "timestamp": "2026-10-18T09:15:53.185196+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-0192.webp?v=1774578845",
+    "limit": null,
+    "seen_count": 1
   }
 ]
