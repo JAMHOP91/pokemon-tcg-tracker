@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Moonlight Tin - Mega Gengar (Limit 2 per Customer) (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-gengar-limit-2-per-customer-pre-order",
-    "price": "$49.49",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Moonlit-Tin-Mega-Gengar_EN.jpg?v=1778735641",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Zygarde ex Premium Collection (On Sale)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection-limit-2-per-customerpre-order",
     "price": "$84.99",
@@ -10998,5 +10987,16 @@
     "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5f29e7a80dc53066d6ca647d/1779703276980/651px-SM3_Blister_Cosmog.jpg?format=1500w",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-10-18T18:10:43.978738+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364",
+    "limit": null,
+    "seen_count": 6
   }
 ]
