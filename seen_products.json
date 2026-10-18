@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles"
     ],
     "zero_streak": 2519,
     "warned": true,
@@ -263,9 +263,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10218488725744",
+      "10070962241776",
       "10202363330800",
-      "10070962241776"
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2048,7 +2048,11 @@
       "9599898976496",
       "10112186188016",
       "10171560952048",
-      "10171547386096"
+      "10171572912368",
+      "10112179831024",
+      "10098857181424",
+      "10099042582768",
+      "10035621396720"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2370,9 +2374,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15139613802866",
+      "15139615244658",
       "15163471200626",
-      "15139615244658"
+      "15139613802866"
     ],
     "zero_streak": 0,
     "warned": false,
