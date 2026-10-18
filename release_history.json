@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: First Partner Illustration Collection - Series 2 (Limit 1 per Customer)(Back Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-2-limit-2-per-customer-pre-order",
-    "price": "$79.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-First-Partner-Illustration-Collection_Series-2_EN.jpg?v=1778736234",
-    "limit": "Limit 1 per Customer",
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Moonlight Tin - Mega Clefable (Limit 2 per Customer) (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-gengar-limit-2-per-customer-pre-order-copy",
     "price": "$49.49",
@@ -10998,5 +10987,16 @@
     "image": "http://otakumart.co.nz/cdn/shop/files/BasicFireEnergy-50x.jpg?v=1737494230",
     "limit": null,
     "seen_count": 9
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Fighting Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-fighting-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-10-18T13:40:49.910958+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicFightingEnergy-50x.jpg?v=1737494406",
+    "limit": null,
+    "seen_count": 4
   }
 ]
