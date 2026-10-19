@@ -286,6 +286,13 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9388718489839",
+      "9640492138735",
+      "9640492007663",
+      "9388711182575",
+      "9640491909359",
+      "9328342073583",
+      "9464484921583",
       "9328351772911",
       "9640492007663",
       "9464484921583",
@@ -327,7 +334,11 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/hidden-fates-tin",
@@ -1723,8 +1734,8 @@
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
       "10323223183656",
-      "15402635297064",
       "10365187621160",
+      "15402635297064",
       "10441619603752"
     ],
     "zero_streak": 0,
@@ -2200,6 +2211,7 @@
   },
   "Sealed & Slabbed - Pokemon Sealed": {
     "seen_ids": [
+      "7977047195766",
       "8026239369334",
       "8171677057142",
       "8026257686646",
@@ -2207,7 +2219,10 @@
       "8185039356022",
       "7977047195766",
       "8069213454454",
-      "7976837546102"
+      "7976837546102",
+      "8185039356022",
+      "8185012945014",
+      "8171677057142"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2313,8 +2328,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
