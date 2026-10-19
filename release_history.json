@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Kangaskhan ex Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-kangaskhan-ex-box-pre-order",
-    "price": "$49.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Kangaskhan-ex-Box_EN-1024x913.jpg?v=1760607131",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Venusaur ex Premium Collection",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-venusaur-ex-premium-collection-pre-order",
     "price": "$94.99",
@@ -10998,5 +10987,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851",
     "limit": null,
     "seen_count": 8
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Pokemon TCG: Mega Forces Tin (Limit 3 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-forces-tin-limit-3-per-customer-pre-order",
+    "price": "$79.99",
+    "timestamp": "2026-10-19T23:34:47.777499+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/poke-force-tins.png?v=1785232857",
+    "limit": "Limit 3 per Customer",
+    "seen_count": 0
   }
 ]
