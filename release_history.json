@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle (Limit 2 per Customer)(Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-bundle-limit-2-per-customerpre-order",
-    "price": "$59.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Bundle_EN.jpg?v=1771395553",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution - Perfect Order 3 - Booster Blister (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-3-booster-blister-pre-order",
     "price": "$28.99",
@@ -10998,5 +10987,16 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
     "limit": null,
     "seen_count": 9
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Fighting Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-fighting-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-10-19T08:40:45.171276+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicFightingEnergy-50x.jpg?v=1737494406",
+    "limit": null,
+    "seen_count": 5
   }
 ]
