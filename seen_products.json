@@ -263,9 +263,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10202363330800",
       "10218488725744",
-      "10070962241776"
+      "10070962241776",
+      "10202363330800"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -330,6 +330,8 @@
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
@@ -362,8 +364,8 @@
   "TCG Collector NZ": {
     "seen_ids": [
       "8479841648836",
-      "8693048377540",
-      "8584003977412"
+      "8584003977412",
+      "8693048377540"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2305,8 +2307,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2316,8 +2318,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2374,9 +2376,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15163471200626",
       "15139613802866",
-      "15139615244658"
+      "15139615244658",
+      "15163471200626"
     ],
     "zero_streak": 0,
     "warned": false,
