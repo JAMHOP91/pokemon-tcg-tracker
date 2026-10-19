@@ -2132,6 +2132,9 @@
       "10215509426432",
       "10215509393664",
       "10215509295360",
+      "10215511818496",
+      "10187809095936",
+      "10197535195392",
       "9366282600704",
       "10197535195392",
       "10215509491968",
@@ -2204,6 +2207,8 @@
       "7976837546102",
       "7977047195766",
       "8026239369334",
+      "8185012945014",
+      "8069213454454",
       "8171677057142",
       "8185039356022",
       "8069213454454",
@@ -2302,8 +2307,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2372,8 +2377,8 @@
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
       "15139615244658",
-      "15139613802866",
-      "15163471200626"
+      "15163471200626",
+      "15139613802866"
     ],
     "zero_streak": 0,
     "warned": false,
