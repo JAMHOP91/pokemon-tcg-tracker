@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: 2025 Trainer's Toolkit (On Sale)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-2025-trainers-toolkit-pre-order",
-    "price": "$74.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Trainers-Toolkit-2025_EN-1024x617.jpg?v=1760917088",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Kangaskhan ex Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-kangaskhan-ex-box-pre-order",
     "price": "$49.99",
@@ -10998,5 +10987,16 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1600_1_9ee170af-c4ef-4811-8bd1-5aba8a901dcb_1200x1208.webp?v=1785772310",
     "limit": null,
     "seen_count": 15
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
+    "price": "$139.99",
+    "timestamp": "2026-10-19T22:50:43.918195+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851",
+    "limit": null,
+    "seen_count": 8
   }
 ]
