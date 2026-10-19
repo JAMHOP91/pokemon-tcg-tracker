@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order 3 - Booster Blister (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-3-booster-blister-pre-order",
-    "price": "$28.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Three-Booster-Blister_EN.jpg?v=1771395216",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster (Limit 1 per Customer)(Back Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-limit-2-per-customerpre-order",
     "price": "$319.99",
@@ -10998,5 +10987,16 @@
     "image": "http://otakumart.co.nz/cdn/shop/files/BasicFightingEnergy-50x.jpg?v=1737494406",
     "limit": null,
     "seen_count": 5
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG ME06 Delta Reign ETB Preorder, ship on November 6, 2026",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-etb",
+    "price": "$135.00",
+    "timestamp": "2026-10-19T10:01:30.884402+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1.jpg?v=1787572761",
+    "limit": null,
+    "seen_count": 1
   }
 ]
