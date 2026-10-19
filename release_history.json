@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: First Partner Illustration Collection - Series 1 (Limit 2 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-1-limit-2-per-customerpre-order",
-    "price": "$39.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-First-Partner-Illustration-Collection-Series-1_EN.jpg?v=1771396168",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution - Perfect Order Elite Trainer Box (Limit 2 per Customer)(Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-elite-trainer-box-limit-2-per-customerpre-order",
     "price": "$149.99",
@@ -10998,5 +10987,16 @@
     "image": "http://otakumart.co.nz/cdn/shop/files/BasicFireEnergy-50x.jpg?v=1737494230",
     "limit": null,
     "seen_count": 10
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG Mega Zygarde ex Premium Collection (Sealed case of 6)",
+    "url": "https://www.coolshit.co.nz/product/premiumsealedcase",
+    "price": "NZ$579.00",
+    "timestamp": "2026-10-19T02:10:43.683923+00:00",
+    "priority": false,
+    "image": "https://assets.bigcartel.com/product_images/426132168/Untitled+design+_2_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 3
   }
 ]
