@@ -1819,10 +1819,10 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672252792878",
-      "7670828957742",
+      "7672253120558",
       "7672250695726",
-      "7672253120558"
+      "7672252792878",
+      "7670828957742"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1835,6 +1835,7 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
+      "8909649739974",
       "8855167008966",
       "9109436334278",
       "8970824843462",
@@ -2302,8 +2303,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2329,7 +2330,6 @@
     "seen_ids": [
       "7999399854198",
       "8177351590006",
-      "8231312228470",
       "8083552370806",
       "8055991107702"
     ],
