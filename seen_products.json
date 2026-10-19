@@ -37,6 +37,8 @@
       "8964116873365",
       "7330101330069",
       "7561509896341",
+      "7330100445333",
+      "7330101624981",
       "7439107129493",
       "7439084388501"
     ],
@@ -543,8 +545,8 @@
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
       "10280790261844",
-      "10280802287700",
-      "10280809857108"
+      "10280809857108",
+      "10280802287700"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1786,7 +1788,8 @@
       "9228422611107",
       "9228412158115",
       "9215569133731",
-      "9215139872931"
+      "9228422611107",
+      "9228412158115"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1932,8 +1935,8 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
+      "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP"
     ],
     "zero_streak": 0,
@@ -1975,6 +1978,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8888685723671",
       "8770963537943",
       "8832667877399",
       "8969764110359",
@@ -2103,6 +2107,9 @@
       "10280802287700",
       "8063603605588",
       "10320168255572",
+      "10280790261844",
+      "10280809857108",
+      "10334982635604",
       "10214066389076",
       "10288263495764",
       "10280809857108",
@@ -2134,6 +2141,11 @@
       "10215509491968",
       "10215509360896",
       "10215509229824",
+      "10215509360896",
+      "9366282600704",
+      "10197535195392",
+      "10187809095936",
+      "10215509295360",
       "10215509426432",
       "10215509393664",
       "10197535195392"
