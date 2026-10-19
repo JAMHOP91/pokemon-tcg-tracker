@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Pokemon Day 2026 Collection (Limit 2 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-pokemon-day-2026-collection-limit-2-per-customer-pre-order",
-    "price": "$32.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/0000_Pokemon-TCG-Pokemon-Day-2026-Collection_EN.jpg?v=1768366381",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG Mega Latias ex Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-latias-ex-box-pre-order",
     "price": "$49.99",
@@ -10996,6 +10985,17 @@
     "timestamp": "2026-10-19T13:10:46.622211+00:00",
     "priority": true,
     "image": "http://otakumart.co.nz/cdn/shop/files/PokemonTCG-30thCelebrationTin-Greninja.png?v=1783057879",
+    "limit": null,
+    "seen_count": 1
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Pitch Black Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-pitch-black-elite-trainer-box",
+    "price": "$160.00",
+    "timestamp": "2026-10-19T14:10:48.441166+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-1423.webp?v=1784163305",
     "limit": null,
     "seen_count": 1
   }
