@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 1 Booster Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-1-booster-box",
-    "price": "$374.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Booster-Display-Left_EN-775x1024.jpg?v=1757486673",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG Mega Evolutions 1 Booster Bundle (Pre-Order)(Limit 2 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-1-booster-bundle-pre-orderlimit-2-per-customer",
-    "price": "$64.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Booster-Bundle_EN-762x1024.jpg?v=1756612784",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG Mega Evolutions 1 Elite Trainer Box (Pre-Order)(Limit 2 per Customer)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-1-elite-trainer-box-pre-orderlimit-2-per-customer",
     "price": "$139.99",
@@ -10998,5 +10976,27 @@
     "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-30th-celebration-pikachu-ex-150-128-official.webp?v=1789451628",
     "limit": null,
     "seen_count": 5
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Pitch Black Single Card",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-pitch-black-single-card",
+    "price": "$286.00",
+    "timestamp": "2026-10-20T19:40:53.954992+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-pitch-black-mega-darkrai-ex-116-084-card.png?v=1790732069",
+    "limit": null,
+    "seen_count": 4
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Pitch Black: Sealed 3 Booster Pack (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-pitch-black-sealed-3-booster-pack-english",
+    "price": "$32.99",
+    "timestamp": "2026-10-20T19:40:53.954992+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PitchBlack3pkBlister_1webp.webp?v=1784364768",
+    "limit": null,
+    "seen_count": 1
   }
 ]
