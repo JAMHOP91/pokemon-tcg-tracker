@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Enhanced 2-Pack Blisters 2025",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-enhanced-2-pack-blisters-2025-pre-order",
-    "price": "$25.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/P10442_3D_Enhanced_2pk_Blister_Oct_2025_Front_EN-1024x940.jpg?v=1760486704",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG Blooming Waters Premium Collection (Limit 1 per Customer)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-blooming-waters-premium-collection-pre-order",
     "price": "$399.99",
@@ -10998,5 +10987,16 @@
     "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-0703.webp?v=1779248569",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Pitch Black Single Card",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-pitch-black-single-card",
+    "price": "$286.00",
+    "timestamp": "2026-10-20T05:40:46.372164+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-pitch-black-mega-darkrai-ex-116-084-card.png?v=1790732069",
+    "limit": null,
+    "seen_count": 3
   }
 ]
