@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG Blooming Waters Premium Collection (Limit 1 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-blooming-waters-premium-collection-pre-order",
-    "price": "$399.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/0005_Pokemon-TCG-Blooming-Waters-Premium-Collection_EN-1024x1024.jpg?v=1760006065",
-    "limit": "Limit 1 per Customer",
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG Scarlet & Violet 10 Destined Rivals Build & Battle Box (Back Order)(Limit 2 per Customer)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-10-destined-rivals-build-battle-box-back-orderlimit-2-per-customer",
     "price": "$69.99",
@@ -10998,5 +10987,16 @@
     "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-pitch-black-mega-darkrai-ex-116-084-card.png?v=1790732069",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Metal Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-metal-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-10-20T06:10:43.288374+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicMetalEnergy-50x.jpg?v=1737494522",
+    "limit": null,
+    "seen_count": 5
   }
 ]
