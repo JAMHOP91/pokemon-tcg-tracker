@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG Mega Evolutions 1 Three booster blister (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-1-three-booster-blister-pre-order",
-    "price": "$29.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/PKU10050_web_front__02253.jpg?v=1756611945",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG Mega Evolutions 1 Enhance Booster Box (Limit 2 per Customer)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-1-enhance-booster-box-pre-orderlimit-2-per-customer",
     "price": "$359.99",
@@ -10998,5 +10987,16 @@
     "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-1423.webp?v=1784163305",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "PRE ORDER - Pok\u00e9mon 30th Anniversary Celebration Elite Trainer Box",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-30th-anniversary-celebration-elite-trainer-box",
+    "price": "$170.00",
+    "timestamp": "2026-10-20T22:40:53.166687+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1600_1_9ee170af-c4ef-4811-8bd1-5aba8a901dcb_1200x1208.webp?v=1785772310",
+    "limit": null,
+    "seen_count": 16
   }
 ]
