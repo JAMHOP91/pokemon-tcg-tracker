@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Venusaur ex Premium Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-venusaur-ex-premium-collection-pre-order",
-    "price": "$94.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Venusaur-ex-Premium-Collection-Box_EN-1024x742.jpg?v=1760606889",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Poke Ball Tin - 2025 (Assorted)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-poke-ball-tin-2025-assortedpre-order",
     "price": "$34.99",
@@ -10998,5 +10987,16 @@
     "image": "http://www.playx.co.nz/cdn/shop/files/poke-force-tins.png?v=1785232857",
     "limit": "Limit 3 per Customer",
     "seen_count": 0
+  },
+  {
+    "site": "TCG Culture - Pokemon",
+    "title": "Pok\u00e9mon Zarude Two Pack Blister  - Chaos Rising/Pitch Black",
+    "url": "https://tcgculture.com/products/pokemon-zarude-two-pack-blister-chaos-rising-pitch-black",
+    "price": "$30.00",
+    "timestamp": "2026-10-20T00:40:51.091819+00:00",
+    "priority": false,
+    "image": "http://tcgculture.com/cdn/shop/files/poke_2packblist_zarude26_1024x1024.jpg?v=1792108348",
+    "limit": null,
+    "seen_count": 3
   }
 ]
