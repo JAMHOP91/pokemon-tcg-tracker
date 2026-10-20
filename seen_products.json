@@ -334,8 +334,13 @@
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/hidden-fates-tin",
-      "https://www.collectallday.com/new/pokeball-tin-2021"
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2136,7 +2141,14 @@
       "10215509491968",
       "10197535195392",
       "10215509393664",
-      "10215509426432"
+      "10197535195392",
+      "10215509295360",
+      "10215509360896",
+      "10215509426432",
+      "10215509491968",
+      "10187809095936",
+      "9366282600704",
+      "10215511818496"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2155,9 +2167,9 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9173828796670",
       "9381118279934",
-      "9269784477950",
-      "9173828796670"
+      "9269784477950"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2370,9 +2382,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15163471200626",
       "15139613802866",
-      "15139615244658"
+      "15139615244658",
+      "15163471200626"
     ],
     "zero_streak": 0,
     "warned": false,
