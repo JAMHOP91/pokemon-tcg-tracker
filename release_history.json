@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Poke Ball Tin - 2025 (Assorted)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-poke-ball-tin-2025-assortedpre-order",
-    "price": "$34.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Poke-Ball-Tin-Q4-Display_FR-1024x529.jpg?v=1760487345",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Collector Chest (Dec 2025)(Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-collector-chest-dec-2025pre-order",
-    "price": "$69.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Collector-Chest-2025_EN-1002x1024.jpg?v=1760487098",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Enhanced 2-Pack Blisters 2025",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-enhanced-2-pack-blisters-2025-pre-order",
     "price": "$25.99",
@@ -10998,5 +10976,27 @@
     "image": "http://tcgculture.com/cdn/shop/files/poke_2packblist_zarude26_1024x1024.jpg?v=1792108348",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Grimmsnarl VMAX Starter Set",
+    "url": "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+    "price": "Sale Price:\nNZ$45.00 \nOriginal Price:\nNZ$55.00",
+    "timestamp": "2026-10-20T02:40:54.597311+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ff868cf81817a4febd391b3/1610115284466/410px-Grimmsnarl_VMAX_Starter_Set.jpg?format=1500w",
+    "limit": null,
+    "seen_count": 1
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Chaos Rising Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-chaos-rising-elite-trainer-box",
+    "price": "$165.00",
+    "timestamp": "2026-10-20T02:40:54.597311+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-0703.webp?v=1779248569",
+    "limit": null,
+    "seen_count": 2
   }
 ]
