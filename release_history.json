@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG Mega Evolutions 1 Elite Trainer Box (Pre-Order)(Limit 2 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-1-elite-trainer-box-pre-orderlimit-2-per-customer",
-    "price": "$139.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/2df76d64-1e86-4bda-bf62-2d97602a894b.webp?v=1756612483",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG Mega Evolutions 1 Three booster blister (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-1-three-booster-blister-pre-order",
     "price": "$29.99",
@@ -10998,5 +10987,16 @@
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PitchBlack3pkBlister_1webp.webp?v=1784364768",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Pitch Black Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-pitch-black-elite-trainer-box",
+    "price": "$160.00",
+    "timestamp": "2026-10-20T21:40:51.877167+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-1423.webp?v=1784163305",
+    "limit": null,
+    "seen_count": 2
   }
 ]
