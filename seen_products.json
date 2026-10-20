@@ -1,8 +1,8 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles"
     ],
     "zero_streak": 2944,
@@ -31,6 +31,8 @@
       "7439125512341",
       "8964116873365",
       "7330101002389",
+      "7330099691669",
+      "7330101330069",
       "7330088353941",
       "7561509896341",
       "7439107129493",
@@ -331,6 +333,9 @@
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/hidden-fates-tin",
@@ -2106,6 +2111,9 @@
       "10288263495764",
       "10280809857108",
       "10214066389076",
+      "10288263495764",
+      "8063603605588",
+      "10170375307348",
       "10170166575188",
       "10334982635604",
       "10280802287700",
@@ -2371,9 +2379,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15139613802866",
+      "15163471200626",
       "15139615244658",
-      "15163471200626"
+      "15139613802866"
     ],
     "zero_streak": 0,
     "warned": false,
