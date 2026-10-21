@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet\u2014 White Flare Elite Trainer Box",
-    "url": "https://www.playx.co.nz/products/scarlet-violet-white-flare-elite-trainer-box-pre-order",
-    "price": "$139.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-White-Flare-Elite-Trainer-Box_EN-1024x976.jpg?v=1748866549",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Three booster blister",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-three-booster-blister-pre-order",
-    "price": "$32.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/POKEMO2-8-1024x940asdsada.jpg?v=1746444664",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Booster Bundle",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-booster-bundle-pre-order",
     "price": "$64.99",
@@ -10998,5 +10976,27 @@
     "image": "http://tcgculture.com/cdn/shop/files/megagrin_1024x1024.jpg?v=1792109749",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: 30th Celebration Mini Tin - Assorted",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-mini-tin-assorted",
+    "price": "$60.00",
+    "timestamp": "2026-10-21T08:20:50.019436+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/beffc4_25a26659b1be40ec9e9656a6b3e00645~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: 30th Celebration Elite Trainer Box",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-elite-trainer-box-1",
+    "price": "$199.00",
+    "timestamp": "2026-10-21T08:20:50.019436+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/beffc4_9db19f8b01fa46d7b97b5b6865546d24~mv2.avif/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 0
   }
 ]
