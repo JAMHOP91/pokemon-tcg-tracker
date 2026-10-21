@@ -13,9 +13,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
-      "https://www.coolshit.co.nz/product/premiumsealedcase"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -433,6 +433,7 @@
       "7915173249085",
       "7964211118141",
       "7915155521597",
+      "7964217802813",
       "7889660346429",
       "7915239145533",
       "7915166564413",
@@ -541,9 +542,9 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10280809857108",
       "10280790261844",
-      "10280802287700"
+      "10280802287700",
+      "10280809857108"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1900,9 +1901,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2140,6 +2141,9 @@
       "10215509393664",
       "10215509295360",
       "10215511818496",
+      "10215509295360",
+      "9366282600704",
+      "10215509393664",
       "10215509426432",
       "10215509360896",
       "9366282600704",
@@ -2321,8 +2325,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2378,9 +2382,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15139615244658",
       "15139613802866",
-      "15163471200626",
-      "15139615244658"
+      "15163471200626"
     ],
     "zero_streak": 0,
     "warned": false,
