@@ -62,6 +62,8 @@ EXCLUDE_KEYWORDS = [
     "fukuoka",
     "hiroshima",
     "tohoku",
+    "dice",
+    "ticket",
 ]
 
 

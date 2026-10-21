@@ -79,6 +79,12 @@ def get_shopify_products(base_url, collection_handle=None, require_keywords=None
             }
             if include_sold_out:
                 product["available"] = bool(available_variants)
+            # Only offer a cart link when there's something to add -
+            # cheapest is just a fallback variant when all are sold out
+            if available_variants:
+                variant_id = cheapest.get("id")
+                product["variant_id"] = variant_id
+                product["cart_url"] = f"{base_url}/cart/add?id={variant_id}&quantity=1"
             products.append(product)
 
         if collection_handle or not scan_all_pages:
