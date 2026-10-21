@@ -2,6 +2,7 @@
 Sends messages to your Telegram chat via a bot.
 """
 
+import html
 import os
 import requests
 
@@ -21,12 +22,15 @@ def send_telegram_message(text: str) -> None:
 
 def _format_line(p: dict) -> str:
     url = p.get("url", "")
-    title = p.get("title", "")
+    title = html.escape(p.get("title", ""), quote=False)
     price = f" - {p['price']}" if p.get("price") else ""
     limit = f" ⚠️ {p['limit']}" if p.get("limit") else ""
     seen_count = p.get("seen_count", 0)
     seen_note = f" (seen {seen_count}x before)" if seen_count > 0 else ""
-    return f'- <a href="{url}">{title}</a>{price}{limit}{seen_note}'
+    cart_url = p.get("cart_url")
+    # Escaped because Telegram's HTML parser rejects a bare "&" in the href
+    cart_link = f' | <a href="{html.escape(cart_url)}">Add to cart</a>' if cart_url else ""
+    return f'- <a href="{url}">{title}</a>{price}{limit}{seen_note}{cart_link}'
 
 
 def notify_new_products(site_name: str, products: list[dict]) -> None:
