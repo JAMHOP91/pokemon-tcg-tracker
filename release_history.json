@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Hop's Zacian ex Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-hops-zacian-ex-box",
-    "price": "$51.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Hops-Zacian-ex-Box4-1024x912.jpg?v=1744800089",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Stacking Tin (assorted)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-stacking-tin-assorted",
     "price": "$35.99",
@@ -10998,5 +10987,16 @@
     "image": "http://cardbot.co.nz/cdn/shop/files/PKM-CENTRE-2025-BUNDLE_1.png?v=1772599783",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Fire Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-fire-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-10-21T16:40:55.648357+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicFireEnergy-50x.jpg?v=1737494230",
+    "limit": null,
+    "seen_count": 11
   }
 ]
