@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Unova Victini Illustration Collection (Limit 2 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-unova-victini-illustration-collection-pre-orderlimit-2-per-customer",
-    "price": "$62.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Unova-Victini-Illustration-Collection_EN-1024x912.jpg?v=1749638453",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet - White Flare Booster Bundle",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-white-flare-booster-bundle-pre-orderlimit-2-per-customer",
     "price": "$84.99",
@@ -10998,5 +10987,16 @@
     "image": "http://thegametree.co.nz/cdn/shop/files/PokemonCoins.png?v=1766912440",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-10-21T04:10:44.259623+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364",
+    "limit": null,
+    "seen_count": 7
   }
 ]
