@@ -262,9 +262,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10202363330800",
+      "10070962241776",
       "10218488725744",
-      "10070962241776"
+      "10202363330800"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -327,8 +327,8 @@
   "Collect All Day": {
     "seen_ids": [
       "https://www.collectallday.com/new/burning-shadows-3-pack",
-      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
@@ -1749,8 +1749,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631859577028",
       "8636199928004",
+      "8631859577028",
       "8636163981508"
     ],
     "zero_streak": 0,
@@ -1818,6 +1818,7 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
+      "7672252792878",
       "7672250695726",
       "7670828957742",
       "7672252792878",
