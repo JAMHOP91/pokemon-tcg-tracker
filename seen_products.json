@@ -13,9 +13,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-      "https://www.coolshit.co.nz/product/premiumsealedcase"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -88,7 +88,7 @@
     ],
     "zero_streak": 2,
     "warned": false,
-    "first_failure_at": "2026-10-21T22:01:31.131482+00:00",
+    "first_failure_at": "2026-10-21T22:05:39.384689+00:00",
     "prices": {
       "7850575986749": 48.0,
       "7850575888445": 48.0,
@@ -407,9 +407,9 @@
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/47051"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-21T22:05:39.384689+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -1729,8 +1729,8 @@
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
       "10323223183656",
-      "10365187621160",
       "10441619603752",
+      "10365187621160",
       "15402635297064"
     ],
     "zero_streak": 0,
@@ -1756,9 +1756,9 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
+      "8636199928004",
       "8631859577028",
-      "8636163981508",
-      "8636199928004"
+      "8636163981508"
     ],
     "zero_streak": 0,
     "warned": false,
