@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 9 Journey Together Booster Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-9-journey-together-booster-box-pre-order",
-    "price": "$288.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/SV9-Journey-Together-Boosters-2-746x1024.jpg?v=1741389879",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Mini Tin (Assorted)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-mini-tin-assorted",
-    "price": "$29.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/P10408_SV08pt5_3D_Mini_Tins_Display_Left_EN-804x1024_1024x1024_2x_13ef115c-302e-4215-9c0b-60541c7f391c.jpg?v=1739681087",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions 2-PK Blister",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-2-pk-blister-pre-order",
     "price": "$19.50",
@@ -10998,5 +10976,27 @@
     "image": "http://otakumart.co.nz/cdn/shop/files/BasicFireEnergy-50x.jpg?v=1737494230",
     "limit": null,
     "seen_count": 12
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Single Cards",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-single-cards-1",
+    "price": "$3.05",
+    "timestamp": "2026-10-21T21:10:57.480063+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/20260526165345_181_227.jpg?v=1779771819",
+    "limit": null,
+    "seen_count": 3
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Chaos Rising Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-chaos-rising-elite-trainer-box",
+    "price": "$165.00",
+    "timestamp": "2026-10-21T21:10:57.480063+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-0703.webp?v=1779248569",
+    "limit": null,
+    "seen_count": 3
   }
 ]
