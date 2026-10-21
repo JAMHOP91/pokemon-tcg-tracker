@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet - White Flare Tech Sticker Collection (Limit 2 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-black-bolt-tech-sticker-collection-pre-orderlimit-2-per-customer-copy",
-    "price": "$39.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-White-Flare-Tech-Sticker-Blister-Gothitelle_EN-copy.jpg?v=1749639069",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Unova Victini Illustration Collection (Limit 2 per Customer)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-unova-victini-illustration-collection-pre-orderlimit-2-per-customer",
     "price": "$62.00",
@@ -10996,6 +10985,17 @@
     "timestamp": "2026-10-21T02:34:53.468259+00:00",
     "priority": false,
     "image": "http://collectorsguild.co.nz/cdn/shop/files/dr.png?v=1792549540",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "Assorted Official Pokemon Coins",
+    "url": "https://thegametree.co.nz/products/assorted-pokemon-coins",
+    "price": "$1.20",
+    "timestamp": "2026-10-21T03:40:48.798183+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/files/PokemonCoins.png?v=1766912440",
     "limit": null,
     "seen_count": 0
   }
