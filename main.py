@@ -208,6 +208,45 @@ def ping_heartbeat():
         pass
 
 
+def get_listing_url(site_module) -> str | None:
+    """Best guess at the URL a site scrapes, for failure diagnosis.
+    Playwright sites define LISTING_URL (or LISTING_URLS); Shopify sites
+    define BASE_URL plus usually COLLECTION_HANDLE."""
+    if getattr(site_module, "LISTING_URL", None):
+        return site_module.LISTING_URL
+    if getattr(site_module, "LISTING_URLS", None):
+        return site_module.LISTING_URLS[0]
+    base_url = getattr(site_module, "BASE_URL", None)
+    if not base_url:
+        return None
+    handle = getattr(site_module, "COLLECTION_HANDLE", None)
+    if handle:
+        return f"{base_url}/collections/{handle}/products.json?limit=250"
+    return f"{base_url}/products.json?limit=250"
+
+
+def diagnose_failure(url: str | None) -> str:
+    """Re-requests a failing site's listing URL once and returns a
+    one-line guess at why it's failing. Best-effort only."""
+    if not url:
+        return "unknown (no listing URL to check)"
+    try:
+        resp = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
+    except Exception as e:
+        return f"site unreachable ({type(e).__name__})"
+    if resp.status_code == 404:
+        return "page gone (HTTP 404)"
+    # Checked before 5xx because Cloudflare serves its challenge as a 503
+    if resp.status_code == 403 or "Just a moment" in resp.text:
+        return f"bot challenge (HTTP {resp.status_code})"
+    if resp.status_code >= 500:
+        return f"server error (HTTP {resp.status_code})"
+    return (
+        f"page loads normally (HTTP {resp.status_code}) but no products found - "
+        f"layout change, or nothing matching your filters is in stock"
+    )
+
+
 def main():
     state = load_state()
     priority_keywords = load_priority_keywords()
@@ -241,7 +280,13 @@ def main():
             print(f"  No products found (failing for {elapsed_minutes:.0f} min)")
 
             if elapsed_minutes >= threshold_minutes and not site_state["warned"]:
-                notify_scraper_warning(site_name, int(elapsed_minutes))
+                try:
+                    reason = diagnose_failure(get_listing_url(site_module))
+                except Exception as e:
+                    print(f"  Diagnosis error: {e}")
+                    reason = "diagnosis failed"
+                print(f"  Diagnosis: {reason}")
+                notify_scraper_warning(site_name, int(elapsed_minutes), reason)
                 site_state["warned"] = True
 
             status[site_name] = {

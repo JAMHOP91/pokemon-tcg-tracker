@@ -46,7 +46,7 @@ def notify_new_products(site_name: str, products: list[dict]) -> None:
         send_telegram_message("\n".join(lines))
 
 
-def notify_scraper_warning(site_name: str, elapsed_minutes: int) -> None:
+def notify_scraper_warning(site_name: str, elapsed_minutes: int, reason: str | None = None) -> None:
     hours = elapsed_minutes // 60
     minutes = elapsed_minutes % 60
     duration = f"{hours}h {minutes}m" if hours else f"{minutes} min"
@@ -55,6 +55,8 @@ def notify_scraper_warning(site_name: str, elapsed_minutes: int) -> None:
         f"This usually means the site changed its layout and the scraper needs fixing, "
         f"not that the store is actually empty."
     )
+    if reason:
+        text += f"\nReason: {reason}"
     send_telegram_message(text)
 
 
