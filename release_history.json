@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG Mega Evolutions 1 Enhance Booster Box (Limit 2 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-1-enhance-booster-box-pre-orderlimit-2-per-customer",
-    "price": "$359.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Booster-Display_EN-750x1024.jpg?v=1756610957",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Holiday 2025 Calendar",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-holiday-2025-calendar",
     "price": "$113.99",
@@ -10998,5 +10987,16 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1600_1_9ee170af-c4ef-4811-8bd1-5aba8a901dcb_1200x1208.webp?v=1785772310",
     "limit": null,
     "seen_count": 16
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Grimmsnarl VMAX Starter Set",
+    "url": "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+    "price": "Sale Price:\nNZ$45.00 \nOriginal Price:\nNZ$55.00",
+    "timestamp": "2026-10-21T00:10:48.831109+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/5ff868cf81817a4febd391b3/1610115284466/410px-Grimmsnarl_VMAX_Starter_Set.jpg?format=1500w",
+    "limit": null,
+    "seen_count": 2
   }
 ]
