@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "label": "Mega Evolution - Pitch Black",
     "start": "2026-07-15",
@@ -23,5 +23,10 @@
     "label": "Mega Evolution - Delta Reign pre-orders and release",
     "start": "2026-10-01",
     "end": "2026-11-08"
+  },
+  {
+    "label": "Mega Evolution - Flowing Fists (prereleases Jan 23-31, release Feb 5)",
+    "start": "2027-01-05",
+    "end": "2027-02-09"
   }
 ]
