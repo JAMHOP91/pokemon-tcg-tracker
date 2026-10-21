@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Booster Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-booster-box-pre-order",
-    "price": "$342.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/10-1012-748x1024.jpg?v=1746439820",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Iono's Bellibolt ex Premium Collection",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-ionos-bellibolt-ex-premium-collection-pre-order",
     "price": "$89.99",
@@ -10998,5 +10987,16 @@
     "image": "http://otakumart.co.nz/cdn/shop/files/BasicFightingEnergy-50x.jpg?v=1737494406",
     "limit": null,
     "seen_count": 6
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Pitch Black: Sealed 3 Booster Pack (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-pitch-black-sealed-3-booster-pack-english",
+    "price": "$32.99",
+    "timestamp": "2026-10-21T15:10:52.360887+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PitchBlack3pkBlister_1webp.webp?v=1784364768",
+    "limit": null,
+    "seen_count": 2
   }
 ]
