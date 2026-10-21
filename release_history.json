@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Stacking Tin (assorted)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-stacking-tin-assorted",
-    "price": "$35.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Stacking-Tin-Q1-2025-3-1024x885.jpg?v=1744799765",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet\u2014Prismatic Evolutions Super-Premium Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-prismatic-evolutions-super-premium-collection-pre-order",
-    "price": "$299.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Prismatic-Evolutions-Super-Premium-Collection_EN-1024x572.jpg?v=1741390463",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 9 Journey Together Booster Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-9-journey-together-booster-box-pre-order",
     "price": "$288.00",
@@ -10998,5 +10976,27 @@
     "image": "http://otakumart.co.nz/cdn/shop/files/BasicFireEnergy-50x.jpg?v=1737494230",
     "limit": null,
     "seen_count": 11
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "#43 Machamp - Pok\u00e9mon League (2002) - WotC Black Star Promo (LP+)",
+    "url": "https://thegametree.co.nz/products/43-machamp-pokemon-league-february-2002-wotc-black-star-promo",
+    "price": "$149.88",
+    "timestamp": "2026-10-21T20:40:53.779081+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/products/43_Machamp.png?v=1642993859",
+    "limit": null,
+    "seen_count": 2
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Fire Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-fire-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-10-21T20:40:53.779081+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicFireEnergy-50x.jpg?v=1737494230",
+    "limit": null,
+    "seen_count": 12
   }
 ]
