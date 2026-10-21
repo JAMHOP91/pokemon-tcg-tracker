@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet - Black Bolt Booster Bundle",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-black-bolt-booster-bundle-pre-orderlimit-2-per-customer",
-    "price": "$84.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Black-Bolt-Booster-Bundle_EN-762x1024.jpg?v=1749637564",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Unova Mini Tin (Assorted)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-unova-mini-tin-assortedpre-order",
     "price": "$24.99",
@@ -10998,5 +10987,16 @@
     "image": "http://www.metalife.co.nz/cdn/shop/files/20260526165345_181_227.jpg?v=1779771819",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "TCG Culture - Pokemon",
+    "title": "Pok\u00e9mon Mega Zygarde ex Premium Collection",
+    "url": "https://tcgculture.com/products/pokemon-mega-zygarde-ex-premium-collection",
+    "price": "$125.00",
+    "timestamp": "2026-10-21T07:10:56.924985+00:00",
+    "priority": false,
+    "image": "http://tcgculture.com/cdn/shop/files/zy_5c40c9dc-84e6-4de0-8cb7-020a8b2a0a1c_1024x1024.jpg?v=1792110238",
+    "limit": null,
+    "seen_count": 1
   }
 ]
