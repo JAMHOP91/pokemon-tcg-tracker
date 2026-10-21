@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Booster Bundle",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-booster-bundle-pre-order",
-    "price": "$64.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/POKEMO3-7-761x1024.jpg?v=1746443063",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Blisters",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-blisters-pre-order",
     "price": "$11.99",
@@ -10998,5 +10987,16 @@
     "image": "https://static.wixstatic.com/media/beffc4_9db19f8b01fa46d7b97b5b6865546d24~mv2.avif/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Collect All Day",
+    "title": "Pokeball Tin (Best of 2021 Series)",
+    "url": "https://www.collectallday.com/new/pokeball-tin-2021",
+    "price": "NZ$120.00",
+    "timestamp": "2026-10-21T11:40:47.855733+00:00",
+    "priority": false,
+    "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67a6fcd3353fc7373aea9a12/1759111658444/Screenshot+2025-02-08+195219.png?format=1500w",
+    "limit": null,
+    "seen_count": 4
   }
 ]
