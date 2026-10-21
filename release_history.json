@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions 2-PK Blister",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-2-pk-blister-pre-order",
-    "price": "$19.50",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/POKEMO2-2-1024x941.jpg?v=1733134149",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Booster Bundle",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-booster-bundle-pre-order",
     "price": "$54.99",
@@ -10998,5 +10987,16 @@
     "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-0703.webp?v=1779248569",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "JB Hi-Fi NZ",
+    "title": "Pokemon TCG: Mega Evolution: Ascended Heroes Elite Trainer Box",
+    "url": "https://www.jbhifi.co.nz/products/pokemon-tcg-pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box",
+    "price": null,
+    "timestamp": "2026-10-21T22:31:19.893974+00:00",
+    "priority": true,
+    "image": "http://www.jbhifi.co.nz/cdn/shop/files/467884-Product-0-I-639013601406840104_1024x1024.jpg",
+    "limit": "Limit 1 per order",
+    "seen_count": 0
   }
 ]
