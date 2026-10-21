@@ -38,7 +38,11 @@
       "7330101002389",
       "9011807486101",
       "7330103165077",
-      "7330101330069"
+      "7330100445333",
+      "7330099200149",
+      "7439125512341",
+      "7561509896341",
+      "7439084388501"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -84,7 +88,8 @@
       "7558380781629",
       "7558378979389",
       "7558379864125",
-      "7558377930813"
+      "7558380781629",
+      "7558378979389"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -542,8 +547,8 @@
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
       "10280809857108",
-      "10280802287700",
-      "10280790261844"
+      "10280790261844",
+      "10280802287700"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1984,7 +1989,8 @@
       "8770963537943",
       "8832667877399",
       "8969764110359",
-      "8888685723671"
+      "8888685723671",
+      "8770963537943"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2310,8 +2316,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2378,9 +2384,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15163471200626",
+      "15139613802866",
       "15139615244658",
-      "15139613802866"
+      "15163471200626"
     ],
     "zero_streak": 0,
     "warned": false,
