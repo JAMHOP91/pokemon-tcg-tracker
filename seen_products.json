@@ -13,9 +13,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
-      "https://www.coolshit.co.nz/product/premiumsealedcase"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1790,8 +1790,8 @@
   "Card Masters - Pre-Orders": {
     "seen_ids": [
       "9215569133731",
-      "9215139872931",
       "9228422611107",
+      "9215139872931",
       "9228412158115"
     ],
     "zero_streak": 0,
@@ -1981,10 +1981,10 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8888685723671",
-      "8770963537943",
       "8969764110359",
-      "8832667877399"
+      "8770963537943",
+      "8832667877399",
+      "8888685723671"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2321,8 +2321,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
