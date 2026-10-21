@@ -13,6 +13,7 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
@@ -1756,9 +1757,9 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631859577028",
       "8636199928004",
-      "8636163981508"
+      "8636163981508",
+      "8631859577028"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2116,6 +2117,8 @@
       "7853389774932",
       "10170361905236",
       "10280809857108",
+      "10320168255572",
+      "10170375307348",
       "10288263495764",
       "10280802287700"
     ],
@@ -2208,7 +2211,6 @@
   },
   "Sealed & Slabbed - Pokemon Sealed": {
     "seen_ids": [
-      "8185012945014",
       "7976837546102",
       "7977047195766",
       "8069213454454",
@@ -2321,8 +2323,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
