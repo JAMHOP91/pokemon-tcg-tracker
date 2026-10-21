@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Blisters",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-blisters-pre-order",
-    "price": "$11.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Destined-Rivals-Sleeved-Boosters_EN-1-958x1024.jpg?v=1746442467",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Booster Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-booster-box-pre-order",
     "price": "$342.00",
@@ -10998,5 +10987,16 @@
     "image": "http://static1.squarespace.com/static/5a0e6ea8f9a61ec9b5f8fef5/67a700d0fe4e8d2763d1589e/67a6fcd3353fc7373aea9a12/1759111658444/Screenshot+2025-02-08+195219.png?format=1500w",
     "limit": null,
     "seen_count": 4
+  },
+  {
+    "site": "Otakumart - Pokemon TCG",
+    "title": "50x Basic Fighting Energy | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/50x-basic-fighting-energy-pokemon-tcg",
+    "price": "$3.00",
+    "timestamp": "2026-10-21T12:40:53.292224+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/BasicFightingEnergy-50x.jpg?v=1737494406",
+    "limit": null,
+    "seen_count": 6
   }
 ]
