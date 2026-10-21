@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Iono's Bellibolt ex Premium Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-ionos-bellibolt-ex-premium-collection-pre-order",
-    "price": "$89.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Ionos-Bellibolt-ex-Premium-Collection_EN-1024x742.jpg?v=1744877502",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Hop's Zacian ex Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-hops-zacian-ex-box",
     "price": "$51.99",
@@ -10996,6 +10985,17 @@
     "timestamp": "2026-10-21T15:10:52.360887+00:00",
     "priority": false,
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PitchBlack3pkBlister_1webp.webp?v=1784364768",
+    "limit": null,
+    "seen_count": 2
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Pok\u00e9mon Center Collection Box 2025 Bundle",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-pokemon-center-collection-box-2025-bundle",
+    "price": "$1008.00",
+    "timestamp": "2026-10-21T15:40:53.715310+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/PKM-CENTRE-2025-BUNDLE_1.png?v=1772599783",
     "limit": null,
     "seen_count": 2
   }
