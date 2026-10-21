@@ -1,4 +1,4 @@
-﻿"""
+"""
 Shared filtering logic so all site scrapers only return actual TCG
 card products - booster packs, elite trainer boxes, tins, blisters,
 collections - and skip merch (mugs, plush, squishmallows, binders,
@@ -57,6 +57,7 @@ EXCLUDE_KEYWORDS = [
     "board game",
     "stream",
     "winner takes all",
+    "energy",
     "card holder",
     "fukuoka",
     "hiroshima",

@@ -27,7 +27,6 @@ from sites import cardmasters
 from sites import tcgnz
 from sites import cardtopia
 from sites import wpgames
-from sites import collectallday
 from sites import tcgcollectornz
 from sites import hobbymaster
 from sites import otakumart_preorders
@@ -76,7 +75,6 @@ SITES = [
     (tcgnz.SITE_NAME, tcgnz),
     (cardtopia.SITE_NAME, cardtopia),
     (wpgames.SITE_NAME, wpgames),
-    (collectallday.SITE_NAME, collectallday),
     (tcgcollectornz.SITE_NAME, tcgcollectornz),
     (hobbymaster.SITE_NAME, hobbymaster),
     (otakumart_preorders.SITE_NAME, otakumart_preorders),
