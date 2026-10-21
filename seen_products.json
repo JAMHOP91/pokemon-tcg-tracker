@@ -1782,10 +1782,10 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9215569133731",
       "9228412158115",
-      "9215139872931",
-      "9228422611107"
+      "9215569133731",
+      "9228422611107",
+      "9215139872931"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1893,9 +1893,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2039,6 +2039,8 @@
       "10099042582768",
       "10035621396720",
       "10098857181424",
+      "10112179831024",
+      "10099042582768",
       "9599898976496",
       "10171547386096",
       "9982539989232",
@@ -2155,6 +2157,7 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9381118279934",
       "9173828796670",
       "9381118279934",
       "9269784477950"
@@ -2179,8 +2182,8 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9537919516949",
       "9537919222037",
+      "9537919516949",
       "9530379600149"
     ],
     "zero_streak": 0,
@@ -2312,8 +2315,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
