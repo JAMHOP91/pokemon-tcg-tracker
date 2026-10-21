@@ -14,8 +14,8 @@
   "Cool Shit - Pokemon": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
-      "https://www.coolshit.co.nz/product/premiumsealedcase"
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -83,8 +83,10 @@
       "7558377930813",
       "7558378979389",
       "7558381600829",
-      "7558379864125",
-      "7558380781629"
+      "7558377930813",
+      "7558378979389",
+      "7558380781629",
+      "7558379864125"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -292,7 +294,9 @@
       "9388718489839",
       "9328342073583",
       "9328351772911",
-      "9464484921583",
+      "9640492138735",
+      "9464484626671",
+      "9464484790511",
       "9182638178543",
       "9464484626671",
       "9640492007663",
@@ -1757,9 +1761,9 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631859577028",
+      "8636199928004",
       "8636163981508",
-      "8636199928004"
+      "8631859577028"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1826,7 +1830,7 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672253120558",
+      "7672250695726",
       "7672252792878",
       "7672250695726",
       "7670828957742"
@@ -2320,8 +2324,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2377,8 +2381,8 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15139613802866",
       "15163471200626",
+      "15139613802866",
       "15139615244658"
     ],
     "zero_streak": 0,
