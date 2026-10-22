@@ -3,8 +3,8 @@
     "seen_ids": [
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles"
     ],
     "zero_streak": 149,
     "warned": true,
@@ -2336,9 +2336,9 @@
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
       "8177351590006",
-      "8083552370806",
       "8055991107702",
-      "7999399854198"
+      "7999399854198",
+      "8083552370806"
     ],
     "zero_streak": 0,
     "warned": false,
