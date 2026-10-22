@@ -82,7 +82,7 @@
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
       "7558379864125",
-      "7558381600829",
+      "7558378979389",
       "7558377930813",
       "7558378979389",
       "7558380781629"
@@ -1954,6 +1954,7 @@
       "15401330835605",
       "9285795938453",
       "9210168803477",
+      "15401415344277",
       "9285822251157",
       "9152299892885",
       "15401415344277"
@@ -2311,8 +2312,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2322,8 +2323,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
