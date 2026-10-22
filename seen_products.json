@@ -427,6 +427,9 @@
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [
+      "7915239145533",
+      "7964213051453",
+      "7964215935037",
       "7915175608381",
       "7964211118141",
       "7915155521597",
@@ -542,8 +545,8 @@
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
       "10280802287700",
-      "10280790261844",
-      "10280809857108"
+      "10280809857108",
+      "10280790261844"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1900,9 +1903,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
-      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
