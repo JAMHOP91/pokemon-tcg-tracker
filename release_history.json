@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Poke Ball Tin - Series 9 (Assorted)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-poke-ball-tin-series-9-assortedpre-order",
-    "price": "$28.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Poke-Ball-Tin-Q4-2024-Display_EN-1024x529.jpg?v=1725682827",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 8 Surging Sparks Blisters (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-blisters-pre-order",
     "price": "$6.99",
@@ -10996,6 +10985,17 @@
     "timestamp": "2026-10-22T11:41:35.713719+00:00",
     "priority": false,
     "image": "http://thegametree.co.nz/cdn/shop/products/45_Scyther.png?v=1642993900",
+    "limit": null,
+    "seen_count": 3
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Pitch Black Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-pitch-black-elite-trainer-box",
+    "price": "$160.00",
+    "timestamp": "2026-10-22T12:45:55.727590+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-1423.webp?v=1784163305",
     "limit": null,
     "seen_count": 3
   }
