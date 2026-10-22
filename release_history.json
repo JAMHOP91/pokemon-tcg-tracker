@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Elite Trainer Box (Limit 1 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-elite-trainer-box-pre-order",
-    "price": "$149.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Prismatic-Evolutions-Elite-Trainer-Box_EN-1024x975.jpg?v=1731408161",
-    "limit": "Limit 1 per Customer",
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Tech Sticker Collection (Back-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-tech-sticker-blister-pre-order",
     "price": "$54.99",
@@ -10998,5 +10987,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-2-Pack-Blister-Zarude.jpg?v=1790809018",
     "limit": null,
     "seen_count": 5
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Chaos Rising Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-chaos-rising-elite-trainer-box",
+    "price": "$165.00",
+    "timestamp": "2026-10-22T07:05:09.021194+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-0703.webp?v=1779248569",
+    "limit": null,
+    "seen_count": 4
   }
 ]
