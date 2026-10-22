@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Grand Adventure Collection (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-grand-adventure-collection-pre-order",
-    "price": "$34.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Grand-Adventure-Collection_EN-1024x913.jpg?v=1725684443",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: November 2024 Collectors Chest",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-november-2024-collectors-chest-pre-order",
     "price": "$58.99",
@@ -10994,6 +10983,17 @@
     "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-bundle",
     "price": "$75.00",
     "timestamp": "2026-10-22T08:20:45.625569+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/10-10439-109-Delta-Reign-Booster-Bundle-1.jpg?v=1787572979",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Game Corner - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Pokemon TCG ME06 Delta Reign Booster Bundle Preorder, ship on November 6, 2026",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-bundle",
+    "price": "$75.00",
+    "timestamp": "2026-10-22T10:21:03.657180+00:00",
     "priority": false,
     "image": "http://gamecorner.co.nz/cdn/shop/files/10-10439-109-Delta-Reign-Booster-Bundle-1.jpg?v=1787572979",
     "limit": null,
