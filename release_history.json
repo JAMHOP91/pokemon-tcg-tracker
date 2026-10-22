@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Ogerpon ex Premium Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-ogerpon-ex-premium-collection-pre-order",
-    "price": "$75.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Ogerpon-ex-Premium-Collection_EN-1024x943.jpg?v=1725683157",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Poke Ball Tin - Series 9 (Assorted)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-poke-ball-tin-series-9-assortedpre-order",
     "price": "$28.99",
@@ -10998,5 +10987,16 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCG-Megaevolutions2packBlister.jpg?v=1790806747",
     "limit": null,
     "seen_count": 8
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "#45 Scyther - Pok\u00e9mon League (April 2002) - WotC Black Star Promo (LP+)",
+    "url": "https://thegametree.co.nz/products/45-scyther-pokemon-league-april-2002-wotc-black-star-promo",
+    "price": "$119.88",
+    "timestamp": "2026-10-22T11:41:35.713719+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/products/45_Scyther.png?v=1642993900",
+    "limit": null,
+    "seen_count": 3
   }
 ]
