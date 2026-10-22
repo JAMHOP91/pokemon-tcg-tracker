@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: November 2024 Collectors Chest",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-november-2024-collectors-chest-pre-order",
-    "price": "$58.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Collector-Chest-Fall-24_EN-2-1003x1024.jpg?v=1725683705",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Ogerpon ex Premium Collection",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-ogerpon-ex-premium-collection-pre-order",
     "price": "$75.99",
@@ -10998,5 +10987,16 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/10-10439-109-Delta-Reign-Booster-Bundle-1.jpg?v=1787572979",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions 2 pack Blister pack",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-2-pack-blister-pack",
+    "price": "$31.99",
+    "timestamp": "2026-10-22T10:45:53.717141+00:00",
+    "priority": true,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCG-Megaevolutions2packBlister.jpg?v=1790806747",
+    "limit": null,
+    "seen_count": 8
   }
 ]
