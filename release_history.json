@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 8 Surging Sparks Checklane Blister",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-checklane-blister-pre-order",
-    "price": "$11.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Midwest_Cards_640_x_640_px_1__71605.jpg?v=1725674082",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 8 Surging Sparks Elite Trainer Box (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-elite-trainer-box-pre-order",
     "price": "$84.99",
@@ -10998,5 +10987,16 @@
     "image": "http://www.metalife.co.nz/cdn/shop/files/20260526165345_181_227.jpg?v=1779771819",
     "limit": null,
     "seen_count": 4
+  },
+  {
+    "site": "JB Hi-Fi NZ",
+    "title": "Pok\u00e9mon TCG: Mega Evolution \u2014 Delta Reign Blister",
+    "url": "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
+    "price": "$9.50",
+    "timestamp": "2026-10-22T23:36:57.085577+00:00",
+    "priority": true,
+    "image": "http://www.jbhifi.co.nz/cdn/shop/files/483598-Product-0-I-639228694804719669_1024x1024.jpg",
+    "limit": "Limit 1 per order",
+    "seen_count": 0
   }
 ]
