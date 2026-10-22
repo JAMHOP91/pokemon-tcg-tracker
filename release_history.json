@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: 2024 Trainer's Toolkit (On Sale)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-2024-trainers-toolkit-pre-order",
-    "price": "$64.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Trainers-Toolkit-2024_EN-1024x617.jpg?v=1725684843",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Bloodmoon Ursaluna ex Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-bloodmoon-ursaluna-ex-box-pre-order",
     "price": "$39.99",
@@ -10998,5 +10987,16 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Base_Mega_Evolution_Perfect_Order_Booster_Box.jpg?v=1772363677",
     "limit": null,
     "seen_count": 5
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG Scarlet & Violet 8.5 Prismatic Evolutions Mini Tin (1 at random)",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-mini-tin-1-at-random",
+    "price": "$70.00",
+    "timestamp": "2026-10-22T08:06:16.518762+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Scarlet_and_Violet_8.5_Prismatic_Evolutions_Mini_Tin.jpg?v=1742173802",
+    "limit": null,
+    "seen_count": 0
   }
 ]
