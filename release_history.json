@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Booster Bundle",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-booster-bundle-pre-order",
-    "price": "$54.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/POKEMO4-761x1024.jpg?v=1733133769",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Elite Trainer Box (Limit 1 per Customer)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-elite-trainer-box-pre-order",
     "price": "$149.99",
@@ -10998,5 +10987,16 @@
     "image": "http://www.jbhifi.co.nz/cdn/shop/files/467884-Product-0-I-639013601406840104_1024x1024.jpg",
     "limit": "Limit 1 per order",
     "seen_count": 0
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Mega Evolution 2-Pack Blister \u2013 Zarude",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-2-pack-blister-zarude",
+    "price": "$34.99",
+    "timestamp": "2026-10-22T03:10:53.582615+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-2-Pack-Blister-Zarude.jpg?v=1790809018",
+    "limit": null,
+    "seen_count": 5
   }
 ]
