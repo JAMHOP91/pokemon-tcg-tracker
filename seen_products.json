@@ -329,6 +329,7 @@
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
@@ -360,9 +361,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8693048377540",
       "8479841648836",
-      "8584003977412"
+      "8584003977412",
+      "8693048377540"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -541,9 +542,9 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10280802287700",
+      "10280790261844",
       "10280809857108",
-      "10280790261844"
+      "10280802287700"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1789,6 +1790,7 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
+      "9228412158115",
       "9215569133731",
       "9215139872931",
       "9228412158115",
@@ -2336,7 +2338,6 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
-      "8177351590006",
       "8055991107702",
       "8083552370806",
       "7999399854198"
