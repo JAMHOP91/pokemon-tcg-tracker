@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 8 Surging Sparks Booster Bundle (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-booster-bundle-pre-order",
-    "price": "$38.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Surging-Sparks-Booster-Bundle_EN-893x1024.jpg?v=1725678489",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 8 Surging Sparks Checklane Blister",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-checklane-blister-pre-order",
     "price": "$11.99",
@@ -10998,5 +10987,16 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1200_72510dbb-cf9c-4635-949c-a5a2bae3543d_1200x1200.webp?v=1785832155",
     "limit": null,
     "seen_count": 11
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Single Cards",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-single-cards-1",
+    "price": "$3.05",
+    "timestamp": "2026-10-22T22:29:21.902440+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/20260526165345_181_227.jpg?v=1779771819",
+    "limit": null,
+    "seen_count": 4
   }
 ]
