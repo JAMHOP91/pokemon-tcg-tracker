@@ -1955,7 +1955,7 @@
       "9210168803477",
       "9285822251157",
       "9285795938453",
-      "15401415344277"
+      "9152299892885"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2052,6 +2052,7 @@
       "9982539989232",
       "10112186188016",
       "10112179831024",
+      "10035621396720",
       "10099042582768",
       "10171572912368"
     ],
@@ -2187,9 +2188,9 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9537919222037",
+      "9537919516949",
       "9530379600149",
-      "9537919516949"
+      "9537919222037"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2311,8 +2312,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2322,8 +2323,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
