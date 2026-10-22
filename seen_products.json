@@ -216,6 +216,7 @@
   "TCG NZ": {
     "seen_ids": [
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-three-booster-blister",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-checklane-blister",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-elite-trainer-box",
@@ -360,9 +361,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8479841648836",
       "8584003977412",
-      "8693048377540"
+      "8693048377540",
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1731,6 +1732,7 @@
       "10365187621160",
       "10441619603752",
       "15402635297064",
+      "10365187621160",
       "10323223183656"
     ],
     "zero_streak": 0,
