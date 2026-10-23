@@ -87,6 +87,7 @@
     "seen_ids": [
       "7558378979389",
       "7558377930813",
+      "7558378979389",
       "7558380781629",
       "7558379864125"
     ],
@@ -335,6 +336,7 @@
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/pokeball-tin-2021",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
@@ -364,9 +366,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8693048377540",
       "8479841648836",
-      "8584003977412"
+      "8584003977412",
+      "8693048377540"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -402,6 +404,11 @@
       "https://hobbymaster.co.nz/products/product/47431",
       "https://hobbymaster.co.nz/products/product/47427",
       "https://hobbymaster.co.nz/products/product/45878",
+      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/47426",
+      "https://hobbymaster.co.nz/products/product/46976",
+      "https://hobbymaster.co.nz/products/product/47428",
+      "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/47426",
@@ -1985,6 +1992,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8888685723671",
       "8832667877399",
       "8770963537943",
       "8888685723671",
@@ -2109,6 +2117,15 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
+      "8063603605588",
+      "10320168255572",
+      "10276187308116",
+      "10288263495764",
+      "10170375307348",
+      "10334982635604",
+      "10170361905236",
+      "7853389774932",
+      "10214066389076",
       "10170166575188",
       "10320168255572",
       "10288263495764",
