@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-pokemon-tcg-scarlet-violet-unova-heavy-hitters-premium-collection",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
@@ -39,6 +40,7 @@
       "7439125512341",
       "9011807486101",
       "7330101002389",
+      "7439084388501",
       "7330100445333",
       "7330101624981",
       "7561509896341"
@@ -1763,6 +1765,7 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
+      "8636199928004",
       "8631859577028",
       "8636199928004",
       "8636163981508"
@@ -2056,6 +2059,10 @@
       "9982539989232",
       "10112179831024",
       "10035621396720",
+      "10112179831024",
+      "9599898976496",
+      "9982539989232",
+      "10112184385776",
       "10111551209712",
       "9599898976496",
       "10098857181424",
@@ -2316,8 +2323,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2327,8 +2334,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
