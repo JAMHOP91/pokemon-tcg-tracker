@@ -122,6 +122,12 @@
       "9136746102947",
       "9231086387363",
       "9231080751267",
+      "9136790208675",
+      "8668035317923",
+      "9231224963235",
+      "9231223128227",
+      "9231086387363",
+      "9225964847267",
       "8850541740195",
       "8805645254819",
       "9231220408483",
@@ -233,6 +239,8 @@
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-chaos-rising-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-booster-box",
       "https://www.tcgnz.co.nz/product-page/pokemon-tcg-team-rocket-tin",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-enhanced-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-elite-trainer-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-perfect-order-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-8-5-prismatic-evolutions-2-pack-blister"
@@ -545,9 +553,9 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10280809857108",
+      "10280802287700",
       "10280790261844",
-      "10280802287700"
+      "10280809857108"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -610,6 +618,7 @@
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-mini-tin-sealed-case-of-10-tins-x-4-pre-order",
       "10267174994215",
       "10344958034215",
+      "10351898296615",
       "10267157922087",
       "10267125383463",
       "10341495734567",
@@ -1985,6 +1994,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8888685723671",
       "8770963537943",
       "8969764110359",
       "8832667877399",
@@ -2190,6 +2200,7 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9530379600149",
       "9537919516949",
       "9530379600149",
       "9537919222037"
