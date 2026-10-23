@@ -15,8 +15,8 @@
   "Cool Shit - Pokemon": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
-      "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -81,8 +81,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558377930813",
       "7558379864125",
+      "7558377930813",
       "7558380781629"
     ],
     "zero_streak": 294,
@@ -360,8 +360,8 @@
   "TCG Collector NZ": {
     "seen_ids": [
       "8693048377540",
-      "8479841648836",
-      "8584003977412"
+      "8584003977412",
+      "8479841648836"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -652,6 +652,21 @@
   },
   "PlayX - Pokemon Pre-Orders": {
     "seen_ids": [
+      "8330197074120",
+      "8198431113416",
+      "8345456181448",
+      "8217226510536",
+      "8205091930312",
+      "7591711965384",
+      "7593009873096",
+      "8021011038408",
+      "8315313914056",
+      "8020976926920",
+      "7591711801544",
+      "8020986396872",
+      "8052546273480",
+      "8269521256648",
+      "8320457998536",
       "8335790178504",
       "8198101532872",
       "8198431113416",
@@ -1760,8 +1775,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8636163981508",
-      "8631859577028"
+      "8631859577028",
+      "8636163981508"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1983,7 +1998,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8888685723671",
+      "8969764110359",
       "8770963537943",
       "8969764110359",
       "8832667877399"
@@ -2111,6 +2126,10 @@
       "10170166575188",
       "10170375307348",
       "10334982635604",
+      "10280790261844",
+      "7853389774932",
+      "7635997196372",
+      "10170361905236",
       "10320168255572",
       "7853389774932",
       "10288263495764",
@@ -2185,9 +2204,9 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9530379600149",
       "9537919222037",
-      "9537919516949"
+      "9537919516949",
+      "9530379600149"
     ],
     "zero_streak": 0,
     "warned": false,
