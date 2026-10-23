@@ -1829,9 +1829,9 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
+      "7672250695726",
       "7672253120558",
-      "7672252792878",
-      "7672250695726"
+      "7672252792878"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2378,8 +2378,8 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15163471200626",
-      "15139613802866"
+      "15139613802866",
+      "15163471200626"
     ],
     "zero_streak": 0,
     "warned": false,
