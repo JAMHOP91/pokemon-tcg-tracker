@@ -393,6 +393,7 @@
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/47432",
+      "https://hobbymaster.co.nz/products/product/47237",
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/46974",
@@ -1829,9 +1830,9 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
+      "7672253120558",
       "7672252792878",
-      "7672250695726",
-      "7672253120558"
+      "7672250695726"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2252,6 +2253,8 @@
       "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-rebel-clash-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-greninja-ex-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-3-pack-blister-booster",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-3",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-elite-trainer-box-1",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-x-mcdonald-s-dragon-discovery-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-trading-card-game-mega-charizard-x-ex-tin",
@@ -2310,8 +2313,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2321,8 +2324,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
