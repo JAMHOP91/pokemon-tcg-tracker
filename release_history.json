@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Holiday Calendar (2024)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-holiday-calendar-2024-pre-order",
-    "price": "$84.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Holiday-Calendar-2024_EN-1024x458.jpg?v=1722427767",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Blisters",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-blisters-pre-order",
-    "price": "$6.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/P9507_190-85900_01.jpg?v=1722427507",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Booster",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-booster-pre-order",
     "price": "$6.99",
@@ -10998,5 +10976,27 @@
     "image": "http://toytime.co.nz/cdn/shop/files/2026-04-22103649.jpg?v=1776812402",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "TCG Culture - Pokemon",
+    "title": "Pok\u00e9mon Mega Greninja ex Premium Collection",
+    "url": "https://tcgculture.com/products/pokemon-mega-greninja-ex-premium-collection",
+    "price": "$125.00",
+    "timestamp": "2026-10-23T05:01:26.248157+00:00",
+    "priority": false,
+    "image": "http://tcgculture.com/cdn/shop/files/megagrin_1024x1024.jpg?v=1792109749",
+    "limit": null,
+    "seen_count": 2
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
+    "price": "$10.99",
+    "timestamp": "2026-10-23T05:01:26.248157+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
+    "limit": null,
+    "seen_count": 10
   }
 ]
