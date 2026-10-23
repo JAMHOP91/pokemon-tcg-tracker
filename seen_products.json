@@ -3,6 +3,7 @@
     "seen_ids": [
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-elite-trainer-box",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection",
@@ -266,9 +267,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10202363330800",
       "10218488725744",
-      "10070962241776"
+      "10070962241776",
+      "10202363330800"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1764,9 +1765,9 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
+      "8631859577028",
       "8636199928004",
-      "8636163981508",
-      "8631859577028"
+      "8636163981508"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2055,6 +2056,8 @@
       "9599898976496",
       "10171578286320",
       "10112179831024",
+      "10171560952048",
+      "10098857181424",
       "10171547386096",
       "10112141295856",
       "10098857181424",
@@ -2329,8 +2332,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
