@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection",
@@ -1833,7 +1834,6 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672252792878",
       "7670828957742",
       "7672253120558",
       "7672250695726"
@@ -1992,7 +1992,7 @@
       "8832667877399",
       "8888685723671",
       "8969764110359",
-      "8770963537943"
+      "8888685723671"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2146,6 +2146,8 @@
     "seen_ids": [
       "10215509426432",
       "10215509295360",
+      "10197535195392",
+      "9366282600704",
       "10187809095936",
       "10215511818496",
       "10215509393664",
@@ -2171,8 +2173,8 @@
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
       "9269784477950",
-      "9173828796670",
-      "9381118279934"
+      "9381118279934",
+      "9173828796670"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2386,6 +2388,7 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15139615244658",
       "15139613802866",
       "15139615244658",
       "15163471200626"
