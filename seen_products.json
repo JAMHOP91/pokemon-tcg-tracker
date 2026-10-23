@@ -82,6 +82,7 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
+      "7558377930813",
       "7558379864125",
       "7558377930813",
       "7558380781629"
@@ -613,6 +614,8 @@
       "10267147239719",
       "10267122204967",
       "10267162444071",
+      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-delta-reign-booster-bundle-pre-order",
+      "10267147239719",
       "10267125383463",
       "10261317288231",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-ditto-premium-collection-pre-order",
@@ -1733,9 +1736,9 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
+      "15402635297064",
       "10441619603752",
       "10365187621160",
-      "15402635297064",
       "10323223183656"
     ],
     "zero_streak": 0,
@@ -2140,9 +2143,6 @@
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
       "9366282600704",
-      "10215509295360",
-      "10215509393664",
-      "10215509360896",
       "10187809095936",
       "10215509426432",
       "10197535195392",
@@ -2313,8 +2313,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2324,8 +2324,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2339,9 +2339,9 @@
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
       "7999399854198",
-      "8177351590006",
       "8055991107702",
-      "8083552370806"
+      "8083552370806",
+      "8177351590006"
     ],
     "zero_streak": 0,
     "warned": false,
