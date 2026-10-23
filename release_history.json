@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Booster",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-booster-pre-order",
-    "price": "$6.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Stellar-Crown-Booster-Display_EN-745x1024.jpg?v=1722426602",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Booster Bundle",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-booster-bundle-pre-order",
     "price": "$39.99",
@@ -10998,5 +10987,16 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
     "limit": null,
     "seen_count": 10
+  },
+  {
+    "site": "GetThoseMons - Sealed Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Mega Zygarde ex Premium Collection",
+    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-10-23T08:04:30.557032+00:00",
+    "priority": false,
+    "image": "http://getthosecards.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762.jpg?v=1779678921",
+    "limit": null,
+    "seen_count": 0
   }
 ]
