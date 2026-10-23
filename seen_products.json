@@ -18,6 +18,7 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order"
@@ -267,9 +268,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10202363330800",
       "10070962241776",
-      "10218488725744",
-      "10202363330800"
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -393,6 +394,10 @@
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/46971",
       "https://hobbymaster.co.nz/products/product/47429",
+      "https://hobbymaster.co.nz/products/product/47425",
+      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/47431",
+      "https://hobbymaster.co.nz/products/product/47427",
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/47223",
@@ -2339,6 +2344,7 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
+      "8177351590006",
       "7999399854198",
       "8055991107702",
       "8083552370806",
