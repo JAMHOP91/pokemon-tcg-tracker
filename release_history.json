@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Three Booster Blister",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-three-booster-blister",
-    "price": "$25.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/unnamed_500x_067527f3-2f7b-47ee-b508-04eb5ebffd50.webp?v=1722424083",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable Kingambit Illustration Collection",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-kingambit-illustration-collection",
     "price": "$36.99",
@@ -10998,5 +10987,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-2-Pack-Blister-Zarude.jpg?v=1790809018",
     "limit": null,
     "seen_count": 6
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "CHAOS RISING - 3 PACK BLISTER [CHARMELEON]",
+    "url": "https://hobbymaster.co.nz/products/product/46974",
+    "price": "$80.00 $100.00",
+    "timestamp": "2026-10-23T18:55:07.292255+00:00",
+    "priority": false,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 2
   }
 ]
