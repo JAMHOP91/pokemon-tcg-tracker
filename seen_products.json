@@ -1,7 +1,6 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-30th-celebration-ex-box-assorted-styles",
@@ -1764,9 +1763,9 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
+      "8636199928004",
       "8636163981508",
-      "8631859577028",
-      "8636199928004"
+      "8631859577028"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1959,6 +1958,9 @@
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
       "9152299892885",
+      "9285795938453",
+      "15401415344277",
+      "9210168803477",
       "15401330835605",
       "9210168803477",
       "9285822251157",
