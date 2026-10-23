@@ -1830,9 +1830,9 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672250695726",
       "7672253120558",
-      "7672252792878"
+      "7672252792878",
+      "7672250695726"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2191,8 +2191,8 @@
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
       "9537919222037",
-      "9530379600149",
-      "9537919516949"
+      "9537919516949",
+      "9530379600149"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2382,8 +2382,8 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15139613802866",
-      "15163471200626"
+      "15163471200626",
+      "15139613802866"
     ],
     "zero_streak": 0,
     "warned": false,
