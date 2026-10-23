@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable Kingambit Illustration Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-kingambit-illustration-collection",
-    "price": "$36.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Shrouded-Fable-Kingambit-Illustration-Collection_EN-821x1024.jpg?v=1722423552",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable Mini Tin (Assorted)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-mini-tin-assorted",
     "price": "$16.99",
@@ -10998,5 +10987,16 @@
     "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Perfect Order: Sealed Booster Pack (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-pack-english",
+    "price": "$9.99",
+    "timestamp": "2026-10-23T22:16:11.326786+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBooster_2webp.webp?v=1780641519",
+    "limit": null,
+    "seen_count": 4
   }
 ]
