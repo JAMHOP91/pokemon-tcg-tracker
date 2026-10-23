@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: 2024 Collectors Chest",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-2024-collectors-chest",
-    "price": "$44.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Collector-Chest-Back-to-School-2024_EN-1003x1024.jpg?v=1724829456",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Trick or Trade BOOster Bundle (2024)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-trick-or-trade-booster-bundle-2024-pre-order",
     "price": "$29.99",
@@ -10998,5 +10987,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
     "limit": null,
     "seen_count": 15
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "Unova Heavy Hitters Premium Collection | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/unova-heavy-hitters-premium-collection-pokemon-tcg",
+    "price": "$155.00",
+    "timestamp": "2026-10-23T02:26:02.713595+00:00",
+    "priority": false,
+    "image": "http://otakumart.co.nz/cdn/shop/files/Unova-Heavy-Hitters-Premium-Collection_EN.jpg?v=1792722079",
+    "limit": null,
+    "seen_count": 0
   }
 ]
