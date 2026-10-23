@@ -35,6 +35,8 @@
       "7561509896341",
       "7330100445333",
       "7439107129493",
+      "7330101002389",
+      "7330100445333",
       "7330101330069",
       "7439084388501",
       "7439125512341",
@@ -327,6 +329,10 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/pokeball-tin-2021",
@@ -2166,9 +2172,9 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9269784477950",
       "9381118279934",
-      "9173828796670"
+      "9173828796670",
+      "9269784477950"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2325,8 +2331,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2382,8 +2388,8 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15139613802866",
-      "15163471200626"
+      "15163471200626",
+      "15139613802866"
     ],
     "zero_streak": 0,
     "warned": false,
