@@ -1,8 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-pokemon-tcg-scarlet-violet-unova-heavy-hitters-premium-collection",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister"
@@ -263,9 +264,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10070962241776",
       "10218488725744",
-      "10202363330800",
-      "10070962241776"
+      "10202363330800"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -546,6 +547,7 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
+      "10280790261844",
       "10280809857108",
       "10280790261844",
       "10280802287700"
@@ -1794,9 +1796,9 @@
   "Card Masters - Pre-Orders": {
     "seen_ids": [
       "9228422611107",
-      "9215569133731",
+      "9215139872931",
       "9228412158115",
-      "9215139872931"
+      "9215569133731"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1829,9 +1831,9 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672252792878",
+      "7672250695726",
       "7672253120558",
-      "7672250695726"
+      "7672252792878"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1942,8 +1944,8 @@
   "Cool Shit - Status Watch": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
-      "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2339,6 +2341,7 @@
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
       "8083552370806",
+      "8177351590006",
       "8055991107702",
       "8177351590006",
       "7999399854198"
@@ -2381,8 +2384,8 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15163471200626",
-      "15139613802866"
+      "15139613802866",
+      "15163471200626"
     ],
     "zero_streak": 0,
     "warned": false,
