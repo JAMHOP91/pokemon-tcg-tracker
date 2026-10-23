@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 8 Surging Sparks Elite Trainer Box (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-elite-trainer-box-pre-order",
-    "price": "$84.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Surging-Sparks-Elite-Trainer-Box_EN-1024x975.jpg?v=1725673732",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 8 Surging Sparks Three Booster Blister (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-three-booster-blister-pre-order",
     "price": "$23.99",
@@ -10998,5 +10987,16 @@
     "image": "http://www.jbhifi.co.nz/cdn/shop/files/483598-Product-0-I-639228694804719669_1024x1024.jpg",
     "limit": "Limit 1 per order",
     "seen_count": 0
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Pitch Black Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-pitch-black-elite-trainer-box",
+    "price": "$160.00",
+    "timestamp": "2026-10-23T00:20:57.279252+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-1423.webp?v=1784163305",
+    "limit": null,
+    "seen_count": 4
   }
 ]
