@@ -363,9 +363,9 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8584003977412",
       "8693048377540",
-      "8479841648836"
+      "8479841648836",
+      "8584003977412"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -549,9 +549,9 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
+      "10280790261844",
       "10280802287700",
-      "10280809857108",
-      "10280790261844"
+      "10280809857108"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1764,9 +1764,9 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631859577028",
       "8636199928004",
-      "8636163981508"
+      "8636163981508",
+      "8631859577028"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1798,9 +1798,9 @@
   "Card Masters - Pre-Orders": {
     "seen_ids": [
       "9215139872931",
-      "9228412158115",
+      "9215569133731",
       "9228422611107",
-      "9215569133731"
+      "9228412158115"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2170,9 +2170,9 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9269784477950",
       "9173828796670",
-      "9381118279934",
-      "9269784477950"
+      "9381118279934"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2195,8 +2195,8 @@
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
       "9530379600149",
-      "9537919222037",
-      "9537919516949"
+      "9537919516949",
+      "9537919222037"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2318,8 +2318,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2329,8 +2329,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
