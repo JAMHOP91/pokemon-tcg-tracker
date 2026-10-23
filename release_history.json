@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Charizard ex Super-Premium Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-charizard-ex-super-premium-collection-pre-order",
-    "price": "$149.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/P9574_3D_Charizard_ex_SPC_Figurine_Front_GEN-961x1024.jpg?v=1722428493",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Build & Battle Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-build-battle-box-pre-order",
     "price": "$39.99",
@@ -10998,5 +10987,16 @@
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBoosterBoxjpeg.jpg?v=1772704099",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "TCG Culture - Pokemon",
+    "title": "Pok\u00e9mon Zarude Two Pack Blister  - Chaos Rising/Pitch Black",
+    "url": "https://tcgculture.com/products/pokemon-zarude-two-pack-blister-chaos-rising-pitch-black",
+    "price": "$30.00",
+    "timestamp": "2026-10-23T03:10:52.679163+00:00",
+    "priority": false,
+    "image": "http://tcgculture.com/cdn/shop/files/poke_2packblist_zarude26_1024x1024.jpg?v=1792108348",
+    "limit": null,
+    "seen_count": 4
   }
 ]
