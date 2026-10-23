@@ -18,9 +18,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -411,9 +411,9 @@
       "https://hobbymaster.co.nz/products/product/47423",
       "https://hobbymaster.co.nz/products/product/46974"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-23T01:19:33.238523+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -1732,10 +1732,10 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
+      "15402635297064",
       "10365187621160",
-      "10323223183656",
       "10441619603752",
-      "15402635297064"
+      "10323223183656"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1760,8 +1760,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8636163981508",
       "8631859577028",
+      "8636163981508",
       "8636199928004"
     ],
     "zero_streak": 0,
@@ -2190,6 +2190,7 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9530379600149",
       "9537919222037",
       "9530379600149",
       "9537919516949"
@@ -2314,8 +2315,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
