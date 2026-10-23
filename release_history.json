@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Trick or Trade BOOster Bundle (2024)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-trick-or-trade-booster-bundle-2024-pre-order",
-    "price": "$29.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Trick-or-Trade-BOOster-Bundle-2024-35ct_EN-1024x486.jpg?v=1722428862",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Charizard ex Super-Premium Collection",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-charizard-ex-super-premium-collection-pre-order",
     "price": "$149.99",
@@ -10996,6 +10985,17 @@
     "timestamp": "2026-10-23T02:26:02.713595+00:00",
     "priority": false,
     "image": "http://otakumart.co.nz/cdn/shop/files/Unova-Heavy-Hitters-Premium-Collection_EN.jpg?v=1792722079",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Perfect Order: Sealed Booster Box (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-box-english",
+    "price": "$349.99",
+    "timestamp": "2026-10-23T02:33:54.776515+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBoosterBoxjpeg.jpg?v=1772704099",
     "limit": null,
     "seen_count": 0
   }
