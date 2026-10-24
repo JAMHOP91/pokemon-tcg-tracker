@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Armarouge ex Premium Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-armarouge-ex-premium-collection",
-    "price": "$59.50",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Armarouge-ex-Premium-Collection_EN-1024x983.jpg?v=1708744230",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Booster Bundle",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-booster-bundle-pre-order-1",
     "price": "$40.99",
@@ -10998,5 +10987,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Mini-Tin.jpg?v=1790819697",
     "limit": null,
     "seen_count": 4
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
+    "price": "$10.99",
+    "timestamp": "2026-10-24T23:19:31.270201+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
+    "limit": null,
+    "seen_count": 11
   }
 ]
