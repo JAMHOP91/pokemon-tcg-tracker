@@ -81,8 +81,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558377930813",
       "7558380781629",
+      "7558377930813",
       "7558379864125"
     ],
     "zero_streak": 313,
@@ -1791,7 +1791,8 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9215139872931",
+      "9228422611107",
+      "9215569133731",
       "9228412158115",
       "9228422611107",
       "9215569133731"
@@ -1939,9 +1940,9 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
       "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2160,6 +2161,7 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9269784477950",
       "9173828796670",
       "9269784477950",
       "9381118279934"
