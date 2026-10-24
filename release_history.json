@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Build & Battle Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-build-battle-box-pre-order",
-    "price": "$39.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/POKEMO2-761x1024.jpg?v=1711190527",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Checklane Blister",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-checklane-blister-pre-order",
     "price": "$10.49",
@@ -10998,5 +10987,16 @@
     "image": "https://static.wixstatic.com/media/f9a8f0_adf10d1241fb45658ad9175e27997b48~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-10-24T19:40:53.648867+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364",
+    "limit": null,
+    "seen_count": 9
   }
 ]
