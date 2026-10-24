@@ -393,8 +393,16 @@
       "https://hobbymaster.co.nz/products/product/47425",
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/47423",
-      "https://hobbymaster.co.nz/products/product/47431",
+      "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/47236",
+      "https://hobbymaster.co.nz/products/product/47425",
+      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/47431",
+      "https://hobbymaster.co.nz/products/product/46971",
+      "https://hobbymaster.co.nz/products/product/47223",
+      "https://hobbymaster.co.nz/products/product/47428",
+      "https://hobbymaster.co.nz/products/product/47429",
+      "https://hobbymaster.co.nz/products/product/47426",
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/47432",
       "https://hobbymaster.co.nz/products/product/47237",
@@ -440,6 +448,8 @@
       "7915239145533",
       "7889660346429",
       "7915185373245",
+      "8083444498493",
+      "7964213051453",
       "8052567179325",
       "7915155521597",
       "7964217802813",
@@ -549,9 +559,9 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
+      "10280790261844",
       "10280802287700",
-      "10280809857108",
-      "10280790261844"
+      "10280809857108"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2340,7 +2350,9 @@
       "7999399854198",
       "8177351590006",
       "8083552370806",
-      "8055991107702"
+      "7999399854198",
+      "8055991107702",
+      "8177351590006"
     ],
     "zero_streak": 0,
     "warned": false,
