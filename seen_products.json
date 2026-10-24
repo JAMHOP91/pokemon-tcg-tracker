@@ -14,9 +14,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -81,9 +81,9 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558379864125",
       "7558380781629",
-      "7558377930813"
+      "7558377930813",
+      "7558379864125"
     ],
     "zero_streak": 305,
     "warned": true,
@@ -1733,6 +1733,7 @@
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
       "10323223183656",
+      "15402635297064",
       "10441619603752",
       "10365187621160",
       "15402635297064"
@@ -1829,8 +1830,8 @@
   "TCG Culture - Pokemon": {
     "seen_ids": [
       "7672252792878",
-      "7672253120558",
-      "7672250695726"
+      "7672250695726",
+      "7672253120558"
     ],
     "zero_streak": 0,
     "warned": false,
