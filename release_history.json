@@ -1,39 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Eraser Blister 2024",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-eraser-blister-2024",
-    "price": "$17.50",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/BacktoSchoolEraserBlister-1000x1000w.jpg?v=1722421970",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Paradox Clash Tin (In stock)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-paradox-clash-tin-pre-order",
-    "price": "$39.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/e0681a_73f7528ac8f64f388041ff0bd589f2d7_mv2.webp?v=1711192018",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Blisters",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-blisters-pre-order",
-    "price": "$6.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/pokemon_twilight_masquerade_4_1_grande_2d33cd82-f51b-4a0b-a9f4-fd3712d7694d.webp?v=1711191711",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Booster",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-booster-pre-order",
     "price": "$6.99",
@@ -10996,6 +10963,39 @@
     "timestamp": "2026-10-24T03:05:01.908540+00:00",
     "priority": false,
     "image": "https://cardmasters.co.nz/cdn/shop/files/433677_front_1200x2009.webp?v=1792810409",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "MEGA EMBOAR ex SPECIAL ILLUSTRATION RARE - PSA 8",
+    "url": "https://cardmasters.co.nz/products/mega-emboar-ex-special-illustration-rare-psa-8",
+    "price": "$70.00",
+    "timestamp": "2026-10-24T03:10:49.197916+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/mh-wCOJUbkaaPGzXhvrjUA_1200x2024.jpg?v=1792811258",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "BLACK STAR PROMOS #SM214 MEWTWO - PSA 9",
+    "url": "https://cardmasters.co.nz/products/black-star-promos-sm214-mewtwo-psa-9",
+    "price": "$340.00",
+    "timestamp": "2026-10-24T03:10:49.197916+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/E76BQKuXJ0GFL4DI_BoKpQ_1200x2008.jpg?v=1792811058",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pok\u00e9mon: Mega Evolution: Perfect Order: Sealed Booster Bundle (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-bundle-english",
+    "price": "$64.99",
+    "timestamp": "2026-10-24T03:10:49.197916+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBoosterBundle_1webp.webp?v=1772701953",
     "limit": null,
     "seen_count": 0
   }
