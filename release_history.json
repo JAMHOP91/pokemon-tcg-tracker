@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable Elite Trainer Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-elite-trainer-box",
-    "price": "$84.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Shrouded-Fable-Elite-Trainer-Box_EN-1024x975.jpg?v=1722422428",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Palafin ex Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-palafin-ex-box",
-    "price": "$36.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Palafin-ex-Box-Right_EN-1024x922.jpg?v=1722422123",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Eraser Blister 2024",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-eraser-blister-2024",
     "price": "$17.50",
@@ -10996,6 +10974,28 @@
     "timestamp": "2026-10-24T02:35:28.215397+00:00",
     "priority": false,
     "image": "https://cardmasters.co.nz/cdn/shop/files/4_2Ot1hWAUC43Vw3io7lUA_1200x2008.jpg?v=1792809038",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "Charizard VMAX - OC - PSA 9",
+    "url": "https://cardmasters.co.nz/products/charizard-vmax-off-centered-psa-9",
+    "price": "$200.00",
+    "timestamp": "2026-10-24T03:05:01.908540+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/Safeimagekit-resized-img_3_1204x630.png?v=1703800421",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "Moltres & Zapdos & Articuno GX - ACE 9",
+    "url": "https://cardmasters.co.nz/products/moltres-zapdos-articuno-gx-ace-9",
+    "price": "$310.00",
+    "timestamp": "2026-10-24T03:05:01.908540+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/433677_front_1200x2009.webp?v=1792810409",
     "limit": null,
     "seen_count": 0
   }
