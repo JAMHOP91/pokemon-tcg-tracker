@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Checklane Blister",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-checklane-blister-pre-order",
-    "price": "$10.49",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/pokemon-sv06-twilight-masquerade-checklane-blister-set.jpg?v=1711190174",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Elite Trainer Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-elite-trainer-box-pre-order",
-    "price": "$81.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Twilight-Masquerade-Elite-Trainer-Box_EN-1024x975.jpg?v=1711189708",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Three Booster Blister",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-three-booster-blister-pre-order",
     "price": "$19.99",
@@ -10998,5 +10976,27 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364",
     "limit": null,
     "seen_count": 9
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-10-24T20:01:19.083127+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PitchBlack_BoosterBox.png?v=1784081025",
+    "limit": "Maximum 6 per person",
+    "seen_count": 2
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Sword & Shield Evolving Skies UMBREON Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-evolving-skies-elite-trainer-box",
+    "price": "$1199.99",
+    "timestamp": "2026-10-24T20:01:19.083127+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-0959.webp?v=1781918813",
+    "limit": null,
+    "seen_count": 3
   }
 ]
