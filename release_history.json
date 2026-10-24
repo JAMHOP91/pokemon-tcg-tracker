@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Booster",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-booster-pre-order",
-    "price": "$6.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Twilight-Masquerade-Booster-Display_EN-763x1024.jpg?v=1711191197",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Booster Bundle",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-booster-bundle-pre-order",
     "price": "$39.99",
@@ -10996,6 +10985,17 @@
     "timestamp": "2026-10-24T03:10:49.197916+00:00",
     "priority": false,
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBoosterBundle_1webp.webp?v=1772701953",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "UMBREON GX  - PSA 10",
+    "url": "https://cardmasters.co.nz/products/umbreon-gx-psa-10",
+    "price": "$1250.00",
+    "timestamp": "2026-10-24T03:26:14.943971+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/jRu988owoUSgu55vLsce2A_4de7d673-71c0-4be4-8ee4-d90c42f5c5ed_1200x2021.jpg?v=1792811920",
     "limit": null,
     "seen_count": 0
   }
