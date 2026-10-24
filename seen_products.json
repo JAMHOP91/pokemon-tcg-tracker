@@ -13,9 +13,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
+      "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -80,9 +80,9 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558377930813",
+      "7558379864125",
       "7558380781629",
-      "7558379864125"
+      "7558377930813"
     ],
     "zero_streak": 444,
     "warned": true,
@@ -602,7 +602,11 @@
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-greninja-ex-pre-order",
       "10267173421351",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-day-pre-order",
-      "10267162444071",
+      "10351898296615",
+      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-sylveon-ex-pre-order",
+      "10261316895015",
+      "10267122204967",
+      "10267156316455",
       "10261316305191",
       "10267157922087",
       "10267121221927",
@@ -612,6 +616,7 @@
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-delta-reign-booster-bundle-pre-order",
       "10267122204967",
       "10261317288231",
+      "10267157922087",
       "10267125383463",
       "https://www.magicreddragon.co.nz/product-page/copy-of-pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-night-pre-order",
       "10267174994215",
@@ -1831,6 +1836,7 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
+      "7672252792878",
       "7672253120558",
       "7672252792878",
       "7672250695726"
@@ -1959,6 +1965,8 @@
       "15401330835605",
       "15401415344277",
       "9285822251157",
+      "15401415344277",
+      "9285795938453",
       "9210168803477",
       "9152299892885"
     ],
@@ -2164,6 +2172,7 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9381118279934",
       "9173828796670",
       "9381118279934",
       "9269784477950"
@@ -2210,6 +2219,7 @@
   },
   "Sealed & Slabbed - Pokemon Sealed": {
     "seen_ids": [
+      "7977047195766",
       "8069213454454",
       "7977047195766",
       "8185012945014",
@@ -2311,8 +2321,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
