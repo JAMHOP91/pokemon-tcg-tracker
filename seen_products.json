@@ -13,9 +13,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
-      "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
+      "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -335,6 +335,7 @@
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set"
@@ -549,9 +550,9 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10280790261844",
+      "10280802287700",
       "10280809857108",
-      "10280802287700"
+      "10280790261844"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1739,7 +1740,7 @@
       "10441619603752",
       "15402635297064",
       "10365187621160",
-      "10323223183656"
+      "15402635297064"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1832,8 +1833,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672252792878",
       "7672250695726",
+      "7672252792878",
       "7672253120558"
     ],
     "zero_streak": 0,
@@ -2058,6 +2059,9 @@
       "10098857181424",
       "10171572912368",
       "10111551209712",
+      "10035621396720",
+      "10112179831024",
+      "9599898976496",
       "10099042582768",
       "10035621396720"
     ],
