@@ -13,8 +13,8 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
     ],
     "zero_streak": 0,
@@ -1907,8 +1907,8 @@
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
+      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2122,6 +2122,15 @@
       "10170361905236",
       "7635997196372",
       "10170166575188",
+      "7635997196372",
+      "10170361905236",
+      "10280790261844",
+      "10214066389076",
+      "8063603605588",
+      "10334982635604",
+      "10276187308116",
+      "10320168255572",
+      "10280809857108",
       "10280802287700",
       "10334982635604",
       "10320168255572"
@@ -2142,11 +2151,11 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "10197535195392",
       "10215511818496",
+      "9366282600704",
       "10215509426432",
       "10187809095936",
-      "9366282600704"
+      "10197535195392"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2165,9 +2174,9 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
-      "9269784477950",
+      "9173828796670",
       "9381118279934",
-      "9173828796670"
+      "9269784477950"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2323,8 +2332,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
