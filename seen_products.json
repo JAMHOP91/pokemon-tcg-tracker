@@ -435,6 +435,15 @@
       "7915185373245",
       "7964213051453",
       "7964211118141",
+      "8083444498493",
+      "7964215935037",
+      "7915168563261",
+      "7915166564413",
+      "7915239145533",
+      "7915155521597",
+      "7964206039101",
+      "7915185373245",
+      "7964217802813",
       "7889660346429",
       "7915168563261",
       "7964206039101",
@@ -2139,6 +2148,7 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
+      "10187809095936",
       "10215511818496",
       "9366282600704",
       "10215509426432",
@@ -2308,8 +2318,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2319,8 +2329,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
