@@ -13,9 +13,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -135,6 +135,16 @@
       "9231222079651",
       "7762038194339",
       "9231223652515",
+      "9231086387363",
+      "15460980719779",
+      "15460971020451",
+      "9231222079651",
+      "7762038194339",
+      "8856349376675",
+      "9136790208675",
+      "8805645254819",
+      "9231220408483",
+      "9136790274211",
       "9225967042723",
       "15460993990819",
       "9136790208675"
@@ -1832,8 +1842,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672252792878",
       "7672253120558",
+      "7672252792878",
       "7672250695726"
     ],
     "zero_streak": 0,
@@ -2050,6 +2060,8 @@
       "10112184385776",
       "9599898976496",
       "10099042582768",
+      "10171560952048",
+      "9982539989232",
       "10112179831024",
       "10112141295856",
       "10171547386096",
