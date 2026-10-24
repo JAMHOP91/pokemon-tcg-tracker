@@ -80,9 +80,9 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558377930813",
       "7558380781629",
-      "7558379864125"
+      "7558379864125",
+      "7558377930813"
     ],
     "zero_streak": 333,
     "warned": true,
@@ -399,6 +399,13 @@
       "https://hobbymaster.co.nz/products/product/47427",
       "https://hobbymaster.co.nz/products/product/47429",
       "https://hobbymaster.co.nz/products/product/46976",
+      "https://hobbymaster.co.nz/products/product/46974",
+      "https://hobbymaster.co.nz/products/product/47428",
+      "https://hobbymaster.co.nz/products/product/47223",
+      "https://hobbymaster.co.nz/products/product/47426",
+      "https://hobbymaster.co.nz/products/product/46971",
+      "https://hobbymaster.co.nz/products/product/47423",
+      "https://hobbymaster.co.nz/products/product/47431",
       "https://hobbymaster.co.nz/products/product/47432",
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/47423",
@@ -2189,9 +2196,9 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9537919222037",
       "9537919516949",
-      "9530379600149"
+      "9530379600149",
+      "9537919222037"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2323,8 +2330,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
