@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable 3 Pack Blister",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-3-pack-blister",
-    "price": "$22.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Shrouded-Fable-3-Pack-Blister_EN-1024x940.jpg?v=1722422667",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable Elite Trainer Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-elite-trainer-box",
     "price": "$84.99",
@@ -10998,5 +10987,16 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1600_1_9ee170af-c4ef-4811-8bd1-5aba8a901dcb_1200x1208.webp?v=1785772310",
     "limit": null,
     "seen_count": 17
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "PONCHO PIKACHU RAYQUAZA - PSA 9 - (PICK UP ONLY)",
+    "url": "https://cardmasters.co.nz/products/poncho-pikachu-rayquaza-psa-9",
+    "price": "$15000.00",
+    "timestamp": "2026-10-24T02:31:27.917001+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/4_2Ot1hWAUC43Vw3io7lUA_1200x2008.jpg?v=1792809038",
+    "limit": null,
+    "seen_count": 0
   }
 ]
