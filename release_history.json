@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Iono Premium Tournament Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-iono-premium-tournament-collection-pre-order",
-    "price": "$74.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Three booster blister",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-three-booster-blister-pre-order",
     "price": "$23.99",
@@ -10998,5 +10987,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-2-Pack-Blister-Zarude.jpg?v=1790809018",
     "limit": null,
     "seen_count": 7
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG Mega Greninja ex Premium Collection",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
+    "price": "$99.00",
+    "timestamp": "2026-10-25T16:10:48.330433+00:00",
+    "priority": false,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCG_MegaGreninjaexPremiumCollection-1.jpg?v=1783838117",
+    "limit": null,
+    "seen_count": 1
   }
 ]
