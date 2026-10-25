@@ -80,8 +80,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558380781629",
       "7558377930813",
+      "7558380781629",
       "7558379864125"
     ],
     "zero_streak": 607,
@@ -1734,9 +1734,9 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
-      "10441619603752",
+      "10365187621160",
       "15402635297064",
-      "10365187621160"
+      "10441619603752"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1904,8 +1904,8 @@
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2373,8 +2373,8 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15163471200626",
-      "15139613802866"
+      "15139613802866",
+      "15163471200626"
     ],
     "zero_streak": 0,
     "warned": false,
