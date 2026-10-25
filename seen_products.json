@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles"
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
     ],
     "zero_streak": 396,
     "warned": true,
@@ -29,6 +29,7 @@
       "7330099200149",
       "7330101330069",
       "7330100445333",
+      "7561509896341",
       "7439107129493",
       "8964116873365",
       "7330099691669",
@@ -81,8 +82,8 @@
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
       "7558377930813",
-      "7558379864125",
-      "7558380781629"
+      "7558380781629",
+      "7558379864125"
     ],
     "zero_streak": 562,
     "warned": true,
@@ -1957,7 +1958,7 @@
       "9210168803477",
       "9152299892885",
       "9285822251157",
-      "15401330835605"
+      "15401415344277"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2184,8 +2185,8 @@
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
       "9537919516949",
-      "9537919222037",
-      "9530379600149"
+      "9530379600149",
+      "9537919222037"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2205,6 +2206,8 @@
   },
   "Sealed & Slabbed - Pokemon Sealed": {
     "seen_ids": [
+      "7977047195766",
+      "8026257686646",
       "8069213454454",
       "7976837546102",
       "7977047195766",
