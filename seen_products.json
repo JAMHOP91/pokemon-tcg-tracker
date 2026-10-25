@@ -290,11 +290,13 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
-      "9388718489839",
-      "9464484790511",
+      "9640491909359",
+      "9388711182575",
       "9328342073583",
       "9388711182575",
       "9182638178543",
+      "9464484790511",
+      "9388718489839",
       "9328351772911",
       "9640492138735",
       "9464484626671",
@@ -1828,8 +1830,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672250695726",
       "7672252792878",
+      "7672250695726",
       "7672253120558"
     ],
     "zero_streak": 0,
@@ -1902,6 +1904,7 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
       "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
