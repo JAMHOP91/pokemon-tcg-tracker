@@ -267,9 +267,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
       "10218488725744",
-      "10202363330800"
+      "10202363330800",
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -298,6 +298,8 @@
       "9388711182575",
       "9640492138735",
       "9388718489839",
+      "9328342073583",
+      "9640491909359",
       "9640492007663",
       "9464484626671"
     ],
@@ -1981,6 +1983,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8770963537943",
       "8888685723671",
       "8832667877399",
       "8770963537943",
@@ -2135,6 +2138,7 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
+      "10187809095936",
       "9366282600704",
       "10187809095936",
       "10215509426432"
@@ -2156,9 +2160,9 @@
   },
   "Pop Stop - Pokemon TCG": {
     "seen_ids": [
+      "9269784477950",
       "9173828796670",
-      "9381118279934",
-      "9269784477950"
+      "9381118279934"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2263,6 +2267,8 @@
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-elite-trainer-box-1",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-perfect-order-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-greninja-ex-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-poster-collection",
       "https://www.bigpotato.co.nz/product-page/sealed-pok\u00e9mon-tcg-poke-ball-tin-d21-2021-cosmic-eclipse-vivid-voltage-rebel",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
@@ -2328,6 +2334,7 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
+      "8055991107702",
       "8177351590006",
       "8083552370806",
       "8055991107702",
