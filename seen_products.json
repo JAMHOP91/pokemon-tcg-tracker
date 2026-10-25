@@ -1795,6 +1795,7 @@
   "Card Masters - Pre-Orders": {
     "seen_ids": [
       "9215139872931",
+      "9228422611107",
       "9215569133731",
       "9228422611107",
       "9228412158115"
@@ -2308,8 +2309,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2376,8 +2377,8 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15163471200626",
-      "15139613802866"
+      "15139613802866",
+      "15163471200626"
     ],
     "zero_streak": 0,
     "warned": false,
