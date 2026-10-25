@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister"
     ],
     "zero_streak": 494,
     "warned": true,
@@ -13,9 +13,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-      "https://www.coolshit.co.nz/product/premiumsealedcase"
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -547,9 +547,9 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
+      "10280790261844",
       "10280802287700",
-      "10280809857108",
-      "10280790261844"
+      "10280809857108"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1829,8 +1829,8 @@
   "TCG Culture - Pokemon": {
     "seen_ids": [
       "7672252792878",
-      "7672250695726",
-      "7672253120558"
+      "7672253120558",
+      "7672250695726"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1901,8 +1901,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
