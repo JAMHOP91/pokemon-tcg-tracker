@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Three booster blister",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-three-booster-blister-pre-order",
-    "price": "$23.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Elite Trainer Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-elite-trainer-box-pre-order",
     "price": "$67.99",
@@ -10998,5 +10987,16 @@
     "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCG_MegaGreninjaexPremiumCollection-1.jpg?v=1783838117",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pokemon TCG: ME2.5 Ascended Heroes Focused Fighters Premium Collection",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
+    "price": "$346.96",
+    "timestamp": "2026-10-25T16:40:57.054817+00:00",
+    "priority": false,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/30216/images/79769/P12105_ME2pt5_3D_Focused_Fighters_Premium_Collection_Left_EN__52850.1792118508.220.220.webp?c=2",
+    "limit": "Max purchase: 1 unit",
+    "seen_count": 2
   }
 ]
