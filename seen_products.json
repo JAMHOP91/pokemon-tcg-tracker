@@ -1733,9 +1733,9 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
-      "15402635297064",
       "10365187621160",
-      "10441619603752"
+      "10441619603752",
+      "15402635297064"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1940,8 +1940,8 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/premiumcollection::available::View Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day / Night (PRE-ORDER) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
       "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)"
     ],
     "zero_streak": 0,
@@ -1956,7 +1956,7 @@
       "15401415344277",
       "15401330835605",
       "9152299892885",
-      "9285822251157"
+      "15401330835605"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2315,8 +2315,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2329,6 +2329,7 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
+      "7999399854198",
       "8177351590006",
       "7999399854198",
       "8055991107702",
