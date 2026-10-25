@@ -267,6 +267,7 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10218488725744",
       "10070962241776",
       "10218488725744",
       "10202363330800"
@@ -330,7 +331,6 @@
   },
   "Collect All Day": {
     "seen_ids": [
-      "https://www.collectallday.com/new/burning-shadows-3-pack",
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
@@ -438,6 +438,14 @@
       "7964206039101",
       "7964217802813",
       "7964213051453",
+      "7964211118141",
+      "7915173249085",
+      "8052567179325",
+      "8083444498493",
+      "7915168563261",
+      "7915239145533",
+      "7964217802813",
+      "7964206039101",
       "7915185373245",
       "7915166564413",
       "7889660346429",
@@ -549,9 +557,9 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
+      "10280790261844",
       "10280809857108",
-      "10280802287700",
-      "10280790261844"
+      "10280802287700"
     ],
     "zero_streak": 0,
     "warned": false,
