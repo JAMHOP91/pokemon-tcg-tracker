@@ -13,9 +13,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -81,8 +81,8 @@
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
       "7558380781629",
-      "7558377930813",
-      "7558379864125"
+      "7558379864125",
+      "7558377930813"
     ],
     "zero_streak": 503,
     "warned": true,
@@ -267,9 +267,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10218488725744",
       "10202363330800",
-      "10070962241776",
-      "10218488725744"
+      "10070962241776"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1762,8 +1762,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631859577028",
-      "8636163981508"
+      "8636163981508",
+      "8631859577028"
     ],
     "zero_streak": 0,
     "warned": false,
