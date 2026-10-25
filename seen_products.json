@@ -336,7 +336,11 @@
       "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
-      "https://www.collectallday.com/new/venusaur-vmax-starter-set"
+      "https://www.collectallday.com/new/jolteon-vmax-premium-collection",
+      "https://www.collectallday.com/new/hidden-fates-tin",
+      "https://www.collectallday.com/new/venusaur-vmax-starter-set",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -362,6 +366,7 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
+      "8693048377540",
       "8584003977412",
       "8693048377540",
       "8479841648836"
@@ -2138,9 +2143,9 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "10215509426432",
+      "10187809095936",
       "9366282600704",
-      "10187809095936"
+      "10215509426432"
     ],
     "zero_streak": 0,
     "warned": false,
