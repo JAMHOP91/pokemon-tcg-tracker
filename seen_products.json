@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister"
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
     ],
     "zero_streak": 417,
     "warned": true,
@@ -1985,6 +1985,7 @@
     "seen_ids": [
       "8969764110359",
       "8832667877399",
+      "8969764110359",
       "8770963537943",
       "8888685723671"
     ],
@@ -2331,10 +2332,10 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
-      "7999399854198",
-      "8177351590006",
       "8083552370806",
-      "8055991107702"
+      "8055991107702",
+      "8177351590006",
+      "7999399854198"
     ],
     "zero_streak": 0,
     "warned": false,
