@@ -362,6 +362,16 @@ def main():
                     "seen_count": 0,
                 })
 
+        # A brand-new listing that's already sold out isn't worth an alert
+        # yet - it still goes into seen_ids (via current_ids) and keeps its
+        # availability record above, so the restock check fires the moment
+        # it flips to available. Products without an "available" flag are
+        # untouched.
+        sold_out_new = [p for p in new_products if p.get("available") is False]
+        if sold_out_new:
+            print(f"  Skipped {len(sold_out_new)} new sold-out listing(s) (tracked for restocks)")
+            new_products = [p for p in new_products if p.get("available") is not False]
+
         if new_products:
             for p in new_products:
                 image, limit = fetch_product_page_extras(p["url"])
