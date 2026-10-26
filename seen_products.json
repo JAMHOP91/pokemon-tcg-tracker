@@ -1848,13 +1848,13 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "9109436334278",
-      "8931072311494",
       "8909649739974",
       "8855167008966",
       "8789885321414",
-      "9113198624966",
-      "8855171334342"
+      "8855171334342",
+      "8931072311494",
+      "9109436334278",
+      "9113198624966"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1906,8 +1906,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2110,7 +2110,6 @@
   "Game Corner - Pokemon": {
     "seen_ids": [
       "10170375307348",
-      "10280802287700",
       "10214066389076",
       "10170361905236",
       "8063603605588",
@@ -2139,6 +2138,7 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
+      "9366282600704",
       "10215509426432",
       "9366282600704",
       "10187809095936"
@@ -2184,8 +2184,8 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
-      "9537919516949",
       "9537919222037",
+      "9537919516949",
       "9530379600149"
     ],
     "zero_streak": 0,
