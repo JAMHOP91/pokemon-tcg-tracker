@@ -14,7 +14,7 @@ import json
 import os
 import re
 import requests
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from notify import notify_new_products, notify_scraper_warning, notify_scraper_recovered, notify_priority_products, notify_restocks
@@ -112,6 +112,13 @@ SITES = [
 
 DEFAULT_FAILURE_THRESHOLD_MINUTES = 90
 RESTOCK_COOLDOWN_SECONDS = 2 * 60 * 60
+# How long a product can be missing from a site's results before it's
+# forgotten - stops one-run feed flickers re-alerting as "new" products.
+# Observed flickers lasted one run (6-8 minutes). Kept short on purpose:
+# on regular stores a sold-out item drops off the list, so its return IS
+# the restock signal, and a long grace would silence it.
+# Keep in sync with merge_state.py.
+GRACE_MINUTES = 60
 
 
 def load_state() -> dict:
@@ -392,7 +399,25 @@ def main():
             "healthy": True,
             "failing_minutes": 0,
         }
-        site_state["seen_ids"] = list(current_ids)
+        # Grace period: a product missing from this run stays in seen_ids
+        # until it's been unseen for GRACE_MINUTES, so a flicker in the
+        # feed doesn't make it alert as "new" when it comes back (and if
+        # it comes back available, the restock check above can fire).
+        # Ids from older state with no last_seen count as just seen.
+        last_seen = site_state.setdefault("last_seen", {})
+        for pid in seen_ids:
+            last_seen.setdefault(pid, now.isoformat())
+        for pid in current_ids:
+            last_seen[pid] = now.isoformat()
+        grace_cutoff = now - timedelta(minutes=GRACE_MINUTES)
+        for pid in list(last_seen):
+            if datetime.fromisoformat(last_seen[pid]) < grace_cutoff:
+                del last_seen[pid]
+        site_state["seen_ids"] = [pid for pid in seen_ids | current_ids if pid in last_seen]
+        # Lets merge_state.py prune expired ids relative to this site's
+        # last good run, rather than the clock (a failing site must not
+        # have its memory expire while it's down)
+        site_state["last_success"] = now.isoformat()
         state[site_name] = site_state
 
     save_state(state)
