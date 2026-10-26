@@ -13,6 +13,7 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order"
@@ -1847,6 +1848,7 @@
       "8855171334342",
       "9109436334278",
       "9113198624966",
+      "8855171334342",
       "8789885321414",
       "8909649739974",
       "8931072311494"
@@ -1953,6 +1955,7 @@
       "15401330835605",
       "9210168803477",
       "9152299892885",
+      "9285822251157",
       "15401415344277",
       "9285822251157"
     ],
@@ -2205,7 +2208,9 @@
       "7977047195766",
       "8026257686646",
       "7976837546102",
-      "8185012945014"
+      "8026257686646",
+      "8185012945014",
+      "7977047195766"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2302,8 +2307,8 @@
   },
   "Games Lab - Pokemon TCG": {
     "seen_ids": [
-      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
+      "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
+      "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708"
     ],
     "zero_streak": 0,
     "warned": false,
