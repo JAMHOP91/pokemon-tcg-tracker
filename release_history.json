@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Checklane Blister",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-checklane-blister-pre-order",
-    "price": "$10.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Booster",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-booster-pre-order",
-    "price": "$5.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Blister",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-blister-pre-order",
     "price": "$6.99",
@@ -10998,5 +10976,27 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
     "limit": null,
     "seen_count": 16
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "PRE ORDER - Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Booster Box",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolution-delta-reign-booster-box",
+    "price": "$360.00",
+    "timestamp": "2026-10-26T05:10:53.182789+00:00",
+    "priority": true,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2__1_-removebg-preview_1200x1648.png?v=1787289747",
+    "limit": null,
+    "seen_count": 12
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pok\u00e9mon: Mega Evolution: Perfect Order: Sealed Booster Bundle (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-bundle-english",
+    "price": "$64.99",
+    "timestamp": "2026-10-26T05:10:53.182789+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBoosterBundle_1webp.webp?v=1772701953",
+    "limit": null,
+    "seen_count": 1
   }
 ]
