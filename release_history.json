@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 151 Booster Bundle Set (Back-Order)(Limit 2 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-151-booster-bundle-set-pre-order",
-    "price": "$98.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 151 Mini Tin (Assorted)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-151-mini-tin-assorted-pre-order",
     "price": "$20.00",
@@ -10998,5 +10987,16 @@
     "image": "https://static.wixstatic.com/media/beffc4_f519452fd3304186be1c2647bc6cb519~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "#33 Scizor - Pok\u00e9mon League (June 2001) - WotC Black Star Promo",
+    "url": "https://thegametree.co.nz/products/33-scizor-pokemon-league-june-2001-wotc-black-star-promo",
+    "price": "$33.98",
+    "timestamp": "2026-10-26T23:18:29.470278+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/products/33_Scizor.png?v=1642993728",
+    "limit": null,
+    "seen_count": 2
   }
 ]
