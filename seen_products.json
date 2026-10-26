@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles"
     ],
     "zero_streak": 512,
     "warned": true,
@@ -333,6 +333,8 @@
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/hidden-fates-tin",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection"
@@ -2205,6 +2207,8 @@
       "7976837546102",
       "8185012945014",
       "8026257686646",
+      "8069213454454",
+      "8185012945014",
       "7977047195766"
     ],
     "zero_streak": 0,
@@ -2327,10 +2331,10 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
-      "7999399854198",
-      "8177351590006",
+      "8055991107702",
       "8083552370806",
-      "8055991107702"
+      "7999399854198",
+      "8177351590006"
     ],
     "zero_streak": 0,
     "warned": false,
