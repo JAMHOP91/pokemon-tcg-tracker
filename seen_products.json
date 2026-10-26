@@ -13,6 +13,7 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase"
@@ -439,6 +440,10 @@
       "7964211118141",
       "7964217802813",
       "8083444498493",
+      "8052567179325",
+      "7915166564413",
+      "7964213051453",
+      "7915168563261",
       "7915175608381",
       "7964206039101",
       "7915173249085",
@@ -1760,8 +1765,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631859577028",
-      "8636163981508"
+      "8636163981508",
+      "8631859577028"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1906,8 +1911,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1956,8 +1961,8 @@
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
       "15401330835605",
-      "9285822251157",
       "15401415344277",
+      "9285822251157",
       "9210168803477",
       "9152299892885"
     ],
@@ -2205,11 +2210,11 @@
   },
   "Sealed & Slabbed - Pokemon Sealed": {
     "seen_ids": [
-      "7976837546102",
-      "7977047195766",
-      "8185012945014",
       "8026257686646",
-      "8069213454454"
+      "7976837546102",
+      "8185012945014",
+      "8069213454454",
+      "7977047195766"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2317,8 +2322,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 21,
     "warned": true,
