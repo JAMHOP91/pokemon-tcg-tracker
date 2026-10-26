@@ -401,6 +401,14 @@
       "https://hobbymaster.co.nz/products/product/47431",
       "https://hobbymaster.co.nz/products/product/47426",
       "https://hobbymaster.co.nz/products/product/47223",
+      "https://hobbymaster.co.nz/products/product/46976",
+      "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/46971",
+      "https://hobbymaster.co.nz/products/product/47425",
+      "https://hobbymaster.co.nz/products/product/47429",
+      "https://hobbymaster.co.nz/products/product/46975",
+      "https://hobbymaster.co.nz/products/product/47427",
+      "https://hobbymaster.co.nz/products/product/47428",
       "https://hobbymaster.co.nz/products/product/45878",
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/47051",
@@ -1733,6 +1741,7 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
+      "10365187621160",
       "15402635297064",
       "10365187621160",
       "10441619603752"
@@ -1760,8 +1769,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631859577028",
-      "8636163981508"
+      "8636163981508",
+      "8631859577028"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2313,8 +2322,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
