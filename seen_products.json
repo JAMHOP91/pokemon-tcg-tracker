@@ -296,6 +296,7 @@
       "9640492138735",
       "9388718489839",
       "9388711182575",
+      "9328342073583",
       "9464484790511",
       "9182638178543",
       "9328351772911",
@@ -388,6 +389,8 @@
   "Hobby Master - Pokemon": {
     "seen_ids": [
       "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/47232",
+      "https://hobbymaster.co.nz/products/product/47428",
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/47432",
       "https://hobbymaster.co.nz/products/product/46974",
@@ -2313,8 +2316,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
