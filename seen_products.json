@@ -31,6 +31,7 @@
       "7330099691669",
       "7561509896341",
       "7330100445333",
+      "8964116873365",
       "9011807486101",
       "7330101624981",
       "7330101330069",
@@ -1760,8 +1761,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8636163981508",
-      "8631859577028"
+      "8631859577028",
+      "8636163981508"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1906,8 +1907,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2331,9 +2332,9 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
+      "7999399854198",
       "8083552370806",
-      "8177351590006",
-      "7999399854198"
+      "8177351590006"
     ],
     "zero_streak": 0,
     "warned": false,
