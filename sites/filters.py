@@ -9,12 +9,21 @@ Japanese regional Pokemon Center collection boxes that keep flooding
 alerts with price fluctuations.
 
 Edit EXCLUDE_KEYWORDS to tune what gets filtered out. Matching is
-case-insensitive and checks if the keyword appears anywhere in the title.
+case-insensitive and on whole words (plus an optional plural "s"), so
+"hat" no longer catches "Hatterene" and "sleeve" no longer catches
+"Sleeved Booster". ALLOW_PHRASES lets a specific phrase cancel ONE
+exclusion (e.g. "poster collection" is a real TCG product, so it
+cancels "poster") without weakening any other exclusion.
+
+Run test_filters.py after any change here.
 """
+
+import re
 
 EXCLUDE_KEYWORDS = [
     "mug",
     "plush",
+    "plushie",
     "squishmallow",
     "binder",
     "portfolio",
@@ -49,15 +58,26 @@ EXCLUDE_KEYWORDS = [
     "4d build",
     "model kit",
     "puzzle",
-    "deck",
+    # Specific deck types only - a bare "deck" would also drop real
+    # products like the Premium Deck Set
+    "battle deck",
+    "tournament deck",
+    "championships deck",
+    "theme deck",
+    "starter deck",
+    "deck box",
+    "deck case",
+    "deck crafter",
     "japanese",
     "chinese",
     "korean",
     "battle academy",
     "board game",
     "stream",
+    "livestream",
     "winner takes all",
     "energy",
+    "energies",
     "card holder",
     "fukuoka",
     "hiroshima",
@@ -66,11 +86,30 @@ EXCLUDE_KEYWORDS = [
     "ticket",
 ]
 
+# Phrase -> the single exclusion keyword it cancels
+ALLOW_PHRASES = {
+    "poster collection": "poster",
+    "binder collection": "binder",
+}
+
+
+def _word_pattern(keyword: str) -> str:
+    return r"\b" + re.escape(keyword) + r"s?\b"
+
 
 def is_tcg_product(title: str) -> bool:
     """Returns True if the product title looks like an actual TCG
     card product (not merch, not a pre-con deck, not a non-English
     release, not a board game, not a live stream/break event, not a
     card storage accessory, not a Japanese regional collection box)."""
-    title_lower = title.lower()
-    return not any(keyword in title_lower for keyword in EXCLUDE_KEYWORDS)
+    for keyword in EXCLUDE_KEYWORDS:
+        text = title
+        # Blank out allowed phrases before checking the keyword they
+        # cancel, so e.g. "Poster Collection" can't hide a separate
+        # "Poster" elsewhere in the title
+        for phrase, cancelled in ALLOW_PHRASES.items():
+            if cancelled == keyword:
+                text = re.sub(_word_pattern(phrase), " ", text, flags=re.I)
+        if re.search(_word_pattern(keyword), text, re.I):
+            return False
+    return True
