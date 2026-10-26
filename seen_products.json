@@ -298,6 +298,8 @@
       "9464484626671",
       "9388711182575",
       "9328351772911",
+      "9182638178543",
+      "9464484626671",
       "9388718489839",
       "9182638178543"
     ],
@@ -361,8 +363,8 @@
   },
   "TCG Collector NZ": {
     "seen_ids": [
-      "8584003977412",
       "8479841648836",
+      "8584003977412",
       "8693048377540"
     ],
     "zero_streak": 0,
@@ -547,9 +549,9 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10280790261844",
+      "10280802287700",
       "10280809857108",
-      "10280802287700"
+      "10280790261844"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1760,8 +1762,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8636163981508",
-      "8631859577028"
+      "8631859577028",
+      "8636163981508"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -1901,8 +1903,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2313,8 +2315,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2327,6 +2329,7 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
+      "8083552370806",
       "8055991107702",
       "8083552370806",
       "7999399854198",
@@ -2370,8 +2373,8 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15139613802866",
-      "15163471200626"
+      "15163471200626",
+      "15139613802866"
     ],
     "zero_streak": 0,
     "warned": false,
