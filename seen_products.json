@@ -1906,8 +1906,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-zygarde-ex-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2374,6 +2374,7 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15139613802866",
       "15163471200626",
       "15139613802866",
       "15231685362034"
