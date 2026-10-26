@@ -80,9 +80,9 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558377930813",
       "7558379864125",
-      "7558380781629"
+      "7558380781629",
+      "7558377930813"
     ],
     "zero_streak": 737,
     "warned": true,
@@ -1760,8 +1760,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8631859577028",
-      "8636163981508"
+      "8636163981508",
+      "8631859577028"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2184,9 +2184,9 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9537919222037",
       "9537919516949",
-      "9530379600149",
-      "9537919222037"
+      "9530379600149"
     ],
     "zero_streak": 0,
     "warned": false,
