@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Paldea Adventure Chest",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-paldea-adventure-chest-pre-order",
-    "price": "$89.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Stacking Tin 2024",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-stacking-tin-2024-pre-order",
     "price": "$22.99",
@@ -10996,6 +10985,17 @@
     "timestamp": "2026-10-26T08:29:06.989012+00:00",
     "priority": true,
     "image": "https://cardmasters.co.nz/cdn/shop/files/delta-reign-bundle-target-1-removebg-preview_1200x1200.png?v=1793002250",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Redline Trading - English Pokemon TCG",
+    "title": "Ceruledge (Pokemon Day 2024) (Cosmos Holo) (040/091) - Miscellaneous Cards & Products",
+    "url": "https://redlinetrading.co.nz/products/ceruledge-pokemon-day-2024-cosmos-holo-040-091-miscellaneous-cards-products",
+    "price": "$8.00",
+    "timestamp": "2026-10-26T08:40:47.672582+00:00",
+    "priority": false,
+    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/img20261023_09070639.jpg?v=1792730035",
     "limit": null,
     "seen_count": 0
   }
