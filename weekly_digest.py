@@ -27,7 +27,13 @@ def main():
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=7)
 
-    recent = [h for h in history if datetime.fromisoformat(h["timestamp"]) >= cutoff]
+    # [SOLD OUT] entries are dashboard-only logs of listings that were
+    # never buyable, not finds - leave them out of the totals
+    recent = [
+        h for h in history
+        if datetime.fromisoformat(h["timestamp"]) >= cutoff
+        and not h.get("title", "").startswith("[SOLD OUT]")
+    ]
 
     if not recent:
         send_telegram_message("WEEKLY DIGEST: No new products found this week.")

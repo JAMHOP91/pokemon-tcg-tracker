@@ -365,12 +365,25 @@ def main():
         # A brand-new listing that's already sold out isn't worth an alert
         # yet - it still goes into seen_ids (via current_ids) and keeps its
         # availability record above, so the restock check fires the moment
-        # it flips to available. Products without an "available" flag are
-        # untouched.
+        # it flips to available. It's still logged to history (no page
+        # fetch) so it shows in the dashboard feed. Products without an
+        # "available" flag are untouched.
         sold_out_new = [p for p in new_products if p.get("available") is False]
         if sold_out_new:
             print(f"  Skipped {len(sold_out_new)} new sold-out listing(s) (tracked for restocks)")
             new_products = [p for p in new_products if p.get("available") is not False]
+            for p in sold_out_new:
+                history.append({
+                    "site": site_name,
+                    "title": f"[SOLD OUT] {p['title']}",
+                    "url": p["url"],
+                    "price": p.get("price"),
+                    "timestamp": now.isoformat(),
+                    "priority": False,
+                    "image": None,
+                    "limit": None,
+                    "seen_count": 0,
+                })
 
         if new_products:
             for p in new_products:
