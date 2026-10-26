@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 4.5 Paldean Fates Booster Bundle Set",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-5-paldean-fates-booster-bundle-set-pre-order",
-    "price": "$49.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 4.5 Paldean Fates Elite Trainer Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-5-paldean-fates-elite-trainer-box-pre-order",
     "price": "$84.99",
@@ -10998,5 +10987,16 @@
     "image": "https://static.wixstatic.com/media/beffc4_233a7140149d40d6b71034d95aec8ad4~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions Pitch Black Booster",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster",
+    "price": "$10.99",
+    "timestamp": "2026-10-26T20:33:28.087520+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
+    "limit": null,
+    "seen_count": 17
   }
 ]
