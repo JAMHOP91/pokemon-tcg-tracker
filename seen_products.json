@@ -13,6 +13,7 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase"
@@ -1760,8 +1761,8 @@
   },
   "TCG Collector NZ - Pre-Orders": {
     "seen_ids": [
-      "8636163981508",
-      "8631859577028"
+      "8631859577028",
+      "8636163981508"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2139,8 +2140,8 @@
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
       "10215509426432",
-      "9366282600704",
-      "10187809095936"
+      "10187809095936",
+      "9366282600704"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2331,9 +2332,9 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
+      "8177351590006",
       "8083552370806",
-      "7999399854198",
-      "8177351590006"
+      "7999399854198"
     ],
     "zero_streak": 0,
     "warned": false,
