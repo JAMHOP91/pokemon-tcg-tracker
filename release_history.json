@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Blister",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-blister-pre-order",
-    "price": "$6.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Paldea Adventure Chest",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-paldea-adventure-chest-pre-order",
     "price": "$89.99",
@@ -10998,5 +10987,16 @@
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBoosterBundle_1webp.webp?v=1772701953",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "PRE ORDER - Pokemon TCG Mega Evolutions 6 Delta Reign Booster Bundle",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolutions-6-delta-reign-booster-bundle",
+    "price": "$70.00",
+    "timestamp": "2026-10-26T08:29:06.989012+00:00",
+    "priority": true,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/delta-reign-bundle-target-1-removebg-preview_1200x1200.png?v=1793002250",
+    "limit": null,
+    "seen_count": 0
   }
 ]
