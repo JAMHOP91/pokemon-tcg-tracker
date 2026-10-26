@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Roaring Moon/ Iron Valiant ex Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-roaring-moon-iron-valiant-ex-box",
-    "price": "$30.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mabosstiff ex Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mabosstiff-ex-box-pre-order",
-    "price": "$26.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Combined Powers Premium Collection",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-combined-powers-premium-collection-pre-order",
     "price": "$90.99",
@@ -10998,5 +10976,27 @@
     "image": "https://assets.bigcartel.com/product_images/426132168/Untitled+design+_2_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
     "limit": null,
     "seen_count": 6
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "#39 Misdreavus - Pok\u00e9mon League (September 2001) - WotC Black Star Promo (LP+)",
+    "url": "https://thegametree.co.nz/products/misdreavus-pokemon-league-september-2001-wotc-black-star-promo",
+    "price": "$25.98",
+    "timestamp": "2026-10-26T16:40:51.382906+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/products/39.png?v=1649201922",
+    "limit": null,
+    "seen_count": 3
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "PRE ORDER - Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Elite Trainer Box",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box",
+    "price": "$130.00",
+    "timestamp": "2026-10-26T16:40:51.382906+00:00",
+    "priority": true,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1_1200x1144.jpg?v=1787290166",
+    "limit": null,
+    "seen_count": 9
   }
 ]
