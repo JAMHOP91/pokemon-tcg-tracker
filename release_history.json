@@ -1,16 +1,5 @@
 [
   {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Cyclizar ex Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-cyclizar-ex-box",
-    "price": "$26.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "TCG Collector NZ - Pre-Orders",
     "title": "Pokemon TCG: Mega Forces Tin *Sealed* (PRE-ORDER, SHIPS OCT)",
     "url": "https://tcgcollectornz.com/products/pokemon-mega-forces-tin",
@@ -10998,5 +10987,16 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851",
     "limit": null,
     "seen_count": 9
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: Unova Heavy Hitters Premium Collection PRE ORDER",
+    "url": "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-unova-heavy-hitters-premium-collection-pre-order",
+    "price": "$299.00",
+    "timestamp": "2026-10-27T05:01:27.810964+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/6f86e7_7a57d393401f4b0a8bdd87292f92437b~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 0
   }
 ]
