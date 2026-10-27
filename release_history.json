@@ -1,17 +1,6 @@
 [
   {
     "site": "Otakumart - Pre-Orders",
-    "title": "30th Celebration Greninja ex Box | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/30th-celebration-greninja-ex-box-pokemon-tcg",
-    "price": "$55.00",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Pokemon-ex-Box-Greninja-ex_EN.jpg?v=1783060475",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
     "title": "30th Celebration Sylveon ex Box | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/30th-celebration-sylveon-ex-box-pokemon-tcg",
     "price": "$55.00",
@@ -10998,6 +10987,18 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pitch-black-booster-bundle.png?v=1784072331",
     "limit": "limit 6 per person",
     "seen_count": 5,
+    "msrp_ratio": null
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "#30 Togepi - Pok\u00e9mon League (January 2001) - WotC Black Star Promo (LP+)",
+    "url": "https://thegametree.co.nz/products/30-togepi-pokemon-league-january-2001-wotc-black-star-promo",
+    "price": "$52.88",
+    "timestamp": "2026-10-27T23:40:50.052392+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/products/30_Togepi.png?v=1642993715",
+    "limit": null,
+    "seen_count": 3,
     "msrp_ratio": null
   }
 ]
