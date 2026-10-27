@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 151 Ultra-Premium Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-151-ultra-premium-collection-pre-order",
-    "price": "$246.50",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Cyclizar ex Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-cyclizar-ex-box",
     "price": "$26.99",
@@ -10998,5 +10987,16 @@
     "image": "http://getthosecards.co.nz/cdn/shop/files/2025-Pokemon-TCG-World-Championships-Deck-Okita_EN.jpg?v=1781574858",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolution Pitch Black Elite Trainer Box",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box",
+    "price": "$139.99",
+    "timestamp": "2026-10-27T04:16:07.461093+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Elite-Trainer-Box_754bcc7d-35dc-40a1-9f32-2a3774c5a8a7.png?v=1784017851",
+    "limit": null,
+    "seen_count": 9
   }
 ]
