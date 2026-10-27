@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister"
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
     ],
     "zero_streak": 730,
     "warned": true,
@@ -700,9 +700,9 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
+      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-delta-reign-full-set-of-products-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-greninja-ex-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-delta-reign-booster-bundle-pre-order",
-      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-delta-reign-full-set-of-products-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-sylveon-ex-pre-order"
     ],
     "zero_streak": 0,
@@ -2189,8 +2189,8 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8931072311494",
-      "8789885321414"
+      "8789885321414",
+      "8931072311494"
     ],
     "zero_streak": 0,
     "warned": false,
