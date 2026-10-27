@@ -1,17 +1,6 @@
 [
   {
     "site": "Otakumart - Pre-Orders",
-    "title": "Ascended Heroes Tin (Assorted) | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/ascended-heroes-tin-assorted-pokemon-tcg",
-    "price": "$55.00",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Ascended-Heroes-Tin.jpg?v=1783061243",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
     "title": "Mega Forces Tin (Assorted) | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/mega-forces-tin-assorted-pokemon-tcg",
     "price": "$55.00",
@@ -10998,5 +10987,16 @@
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PitchBlack3pkBlister_1webp.webp?v=1784364768",
     "limit": null,
     "seen_count": 3
+  },
+  {
+    "site": "Game Corner - Pokemon Pre-Orders",
+    "title": "[SOLD OUT] Pokemon TCG ME06 Delta Reign Booster Bundle Preorder, ship on November 6, 2026",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-bundle",
+    "price": "$75.00",
+    "timestamp": "2026-10-27T19:40:53.330077+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0
   }
 ]
