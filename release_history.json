@@ -1,16 +1,5 @@
 [
   {
-    "site": "TCG Collector NZ - Pre-Orders",
-    "title": "Pokemon TCG: Mega Forces Tin *Sealed* (PRE-ORDER, SHIPS OCT)",
-    "url": "https://tcgcollectornz.com/products/pokemon-mega-forces-tin",
-    "price": "$60.00",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://tcgcollectornz.com/cdn/shop/files/Pokemon-TCG-Mega-Forces-Tin-Mega-Dragonite-ex-Front_EN.jpg?v=1782462382",
-    "limit": "limited to 1 per household",
-    "seen_count": 0
-  },
-  {
     "site": "Card Masters - Pre-Orders",
     "title": "PRE - ORDER Pokemon TCG 30th Celebration Knock Out Collection",
     "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-30th-celebration-knock-out-collection",
@@ -10998,5 +10987,16 @@
     "image": "https://static.wixstatic.com/media/6f86e7_7a57d393401f4b0a8bdd87292f92437b~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG Lumiose City Mini Tin (Assorted)",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
+    "price": "$25.00",
+    "timestamp": "2026-10-27T09:52:13.746448+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Lumiose_City_Mini_Tin.jpg?v=1780985527",
+    "limit": null,
+    "seen_count": 7
   }
 ]
