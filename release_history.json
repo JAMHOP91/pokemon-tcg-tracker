@@ -1,17 +1,6 @@
 [
   {
     "site": "Otakumart - Pre-Orders",
-    "title": "Delta Reign 3-Booster Blister | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/delta-reign-3-booster-blister-pokemon-tcg",
-    "price": "$30.00",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/10-10440-120-Delta-Reign-3-Booster-Blister-1.jpg?v=1787291744",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
     "title": "Delta Reign Booster Bundle | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/delta-reign-booster-bundle-pokemon-tcg",
     "price": "$60.00",
@@ -10996,6 +10985,17 @@
     "timestamp": "2026-10-27T11:05:13.594393+00:00",
     "priority": false,
     "image": "http://goblingames.nz/cdn/shop/files/696637.jpg?v=1782050304",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Goblin Games NZ - Pokemon TCG",
+    "title": "Perfect Order Booster Display (Box)",
+    "url": "https://goblingames.nz/products/perfect-order-booster-box",
+    "price": "$360.00",
+    "timestamp": "2026-10-27T14:48:45.184308+00:00",
+    "priority": false,
+    "image": "http://goblingames.nz/cdn/shop/files/672394.jpg?v=1776145744",
     "limit": null,
     "seen_count": 0
   }
