@@ -2,8 +2,8 @@
   "JB Hi-Fi NZ": {
     "seen_ids": [
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister"
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
     ],
     "zero_streak": 749,
     "warned": true,
@@ -2056,8 +2056,8 @@
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
       "10441619603752",
-      "15402635297064",
-      "10365187621160"
+      "10365187621160",
+      "15402635297064"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2123,6 +2123,7 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
+      "15463445528739",
       "9228422611107",
       "15463445528739",
       "9228412158115"
@@ -2189,8 +2190,8 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8789885321414",
-      "8931072311494"
+      "8931072311494",
+      "8789885321414"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2576,6 +2577,7 @@
   },
   "GetThoseMons - Sealed Pokemon TCG": {
     "seen_ids": [
+      "9551121514773",
       "9551118827797",
       "9551121678613",
       "9551121514773",
