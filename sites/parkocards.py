@@ -6,7 +6,7 @@ from sites.shopify_helper import get_shopify_products
 
 SITE_NAME = "Parko Cards - Pokemon TCG"
 BASE_URL = "https://parkocards.co.nz"
-COLLECTION_HANDLE = "pokemon"
+COLLECTION_HANDLE = "pokemon-booster-boxes-and-packs"
 
 
 def get_current_products() -> list[dict]:
