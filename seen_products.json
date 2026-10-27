@@ -18,8 +18,8 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2055,9 +2055,9 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
-      "15402635297064",
       "10365187621160",
-      "10441619603752"
+      "10441619603752",
+      "15402635297064"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2168,9 +2168,9 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672252792878",
+      "7672253120558",
       "7672250695726",
-      "7672253120558"
+      "7672252792878"
     ],
     "zero_streak": 0,
     "warned": false,
