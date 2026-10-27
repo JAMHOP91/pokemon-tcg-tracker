@@ -1,17 +1,6 @@
 [
   {
     "site": "Otakumart - Pre-Orders",
-    "title": "30th Celebration Tech Sticker Collection\u2014Lucario | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/30th-celebration-tech-sticker-collection-lucario-pokemon-tcg",
-    "price": "$36.00",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tech-Sticker-Collection-Lucario_EN.jpg?v=1783060596",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
     "title": "30th Celebration Greninja ex Box | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/30th-celebration-greninja-ex-box-pokemon-tcg",
     "price": "$55.00",
@@ -10998,5 +10987,17 @@
     "image": "http://parkocards.co.nz/cdn/shop/files/pokemonmegazygardeex.webp?v=1785818630",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
+    "price": "$10.99",
+    "timestamp": "2026-10-27T22:10:54.880913+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pitch-black-booster-bundle.png?v=1784072331",
+    "limit": "limit 6 per person",
+    "seen_count": 5,
+    "msrp_ratio": null
   }
 ]
