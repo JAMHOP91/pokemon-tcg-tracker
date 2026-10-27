@@ -647,9 +647,9 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10280790261844",
       "10280802287700",
-      "10280809857108"
+      "10280809857108",
+      "10280790261844"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2193,8 +2193,8 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8789885321414",
-      "8931072311494"
+      "8931072311494",
+      "8789885321414"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2665,6 +2665,13 @@
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-blister-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-binder-collection-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-3",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-mega-emboar-tin",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-rebel-clash-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-mini-tin-assorted",
+      "https://www.bigpotato.co.nz/product-page/copy-of-pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-booster-pack",
       "https://www.bigpotato.co.nz/product-page/copy-of-pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
