@@ -325,9 +325,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10119290454256",
       "10070962241776",
-      "10218488725744",
-      "10119290454256"
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -472,6 +472,8 @@
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/47232",
+      "https://hobbymaster.co.nz/products/product/46974",
+      "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/47431",
       "https://hobbymaster.co.nz/products/product/46974",
@@ -2058,8 +2060,8 @@
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
       "10365187621160",
-      "10441619603752",
-      "15402635297064"
+      "15402635297064",
+      "10441619603752"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2125,9 +2127,9 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9228412158115",
+      "9228422611107",
       "15463445528739",
-      "9228422611107"
+      "9228412158115"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2191,8 +2193,8 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8789885321414",
-      "8931072311494"
+      "8931072311494",
+      "8789885321414"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2350,6 +2352,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8888685723671",
       "8969764110359",
       "8770963537943",
       "8888685723671",
@@ -2680,7 +2683,9 @@
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-greninja-ex-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-elite-trainer-box-1",
-      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-3"
+      "https://www.bigpotato.co.nz/product-page/copy-of-pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-sylveon-ex-box",
+      "https://www.bigpotato.co.nz/product-page/sealed-pok\u00e9mon-tcg-poke-ball-tin-d21-2021-cosmic-eclipse-vivid-voltage-rebel"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2752,8 +2757,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 141,
     "warned": true,
