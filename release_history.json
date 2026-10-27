@@ -1,17 +1,6 @@
 [
   {
     "site": "Otakumart - Pre-Orders",
-    "title": "30th Celebration Tech Sticker Collection\u2014Alolan Exeggutor | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/30th-celebration-tech-sticker-collection-alolan-exeggutor-pokemon-tcg",
-    "price": "$36.00",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tech-Sticker-Collection-Alolan-Exeggutor_EN.jpg?v=1783060645",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
     "title": "30th Celebration Tech Sticker Collection\u2014Lucario | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/30th-celebration-tech-sticker-collection-lucario-pokemon-tcg",
     "price": "$36.00",
@@ -10998,5 +10987,16 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME03_Chaos_Rising_Booster_Box.jpg?v=1777853291",
     "limit": null,
     "seen_count": 2
+  },
+  {
+    "site": "Parko Cards - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Zygarde EX Premium Collection",
+    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": "$130.00",
+    "timestamp": "2026-10-27T21:01:24.257179+00:00",
+    "priority": false,
+    "image": "http://parkocards.co.nz/cdn/shop/files/pokemonmegazygardeex.webp?v=1785818630",
+    "limit": null,
+    "seen_count": 0
   }
 ]
