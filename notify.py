@@ -24,13 +24,14 @@ def _format_line(p: dict) -> str:
     url = p.get("url", "")
     title = html.escape(p.get("title", ""), quote=False)
     price = f" - {p['price']}" if p.get("price") else ""
+    msrp_note = f" (~{p['msrp_ratio']:.1f}x MSRP)" if p.get("msrp_ratio") is not None else ""
     limit = f" ⚠️ {p['limit']}" if p.get("limit") else ""
     seen_count = p.get("seen_count", 0)
     seen_note = f" (seen {seen_count}x before)" if seen_count > 0 else ""
     cart_url = p.get("cart_url")
     # Escaped because Telegram's HTML parser rejects a bare "&" in the href
     cart_link = f' | <a href="{html.escape(cart_url)}">Add to cart</a>' if cart_url else ""
-    return f'- <a href="{url}">{title}</a>{price}{limit}{seen_note}{cart_link}'
+    return f'- <a href="{url}">{title}</a>{price}{msrp_note}{limit}{seen_note}{cart_link}'
 
 
 def notify_new_products(site_name: str, products: list[dict]) -> None:

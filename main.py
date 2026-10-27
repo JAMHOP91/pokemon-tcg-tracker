@@ -19,6 +19,7 @@ from pathlib import Path
 
 from notify import notify_new_products, notify_scraper_warning, notify_scraper_recovered, notify_priority_products, notify_restocks
 from priority import load_priority_keywords, load_priority_exclude_keywords, is_priority_product
+from msrp import msrp_ratio
 from sites import jbhifi
 from sites import coolshit
 from sites import thegametree
@@ -343,6 +344,7 @@ def main():
                 image, limit = fetch_product_page_extras(p["url"])
                 p["image"] = image
                 p["limit"] = limit
+                p["msrp_ratio"] = msrp_ratio(p["title"], p.get("price"))
             priority_restocks = [p for p in restocks if is_priority_product(p["title"], priority_keywords, priority_exclude_keywords)]
             regular_restocks = [p for p in restocks if p not in priority_restocks]
             if priority_restocks:
@@ -360,6 +362,7 @@ def main():
                     "image": p.get("image"),
                     "limit": p.get("limit"),
                     "seen_count": 0,
+                    "msrp_ratio": p.get("msrp_ratio"),
                 })
 
         # A brand-new listing that's already sold out isn't worth an alert
@@ -383,6 +386,7 @@ def main():
                     "image": None,
                     "limit": None,
                     "seen_count": 0,
+                    "msrp_ratio": msrp_ratio(p["title"], p.get("price")),
                 })
 
         if new_products:
@@ -391,6 +395,7 @@ def main():
                 p["image"] = image
                 p["limit"] = limit
                 p["seen_count"] = sum(1 for h in history if h.get("url") == p["url"])
+                p["msrp_ratio"] = msrp_ratio(p["title"], p.get("price"))
 
             priority_matches = [p for p in new_products if is_priority_product(p["title"], priority_keywords, priority_exclude_keywords)]
             regular_matches = [p for p in new_products if p not in priority_matches]
@@ -413,6 +418,7 @@ def main():
                     "image": p.get("image"),
                     "limit": p.get("limit"),
                     "seen_count": p.get("seen_count", 0),
+                    "msrp_ratio": p.get("msrp_ratio"),
                 })
         else:
             print("  No new products")
