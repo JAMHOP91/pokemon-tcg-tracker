@@ -18,8 +18,8 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -104,8 +104,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558379864125",
-      "7558380781629"
+      "7558380781629",
+      "7558379864125"
     ],
     "zero_streak": 935,
     "warned": true,
@@ -355,6 +355,7 @@
   "WP Games - Pokemon TCG": {
     "seen_ids": [
       "9464484626671",
+      "9640491909359",
       "9640492007663",
       "9388718489839",
       "9328351772911",
@@ -2189,8 +2190,8 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8931072311494",
-      "8789885321414"
+      "8789885321414",
+      "8931072311494"
     ],
     "zero_streak": 0,
     "warned": false,
