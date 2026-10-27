@@ -26,6 +26,8 @@ MUST_FAIL = [
     "Mega Lucario ex League Battle Deck",
     "Deluxe Battle Deck Koraidon",
     "2025 World Championships Deck",
+    "2025 World Championship Deck: Jose Cruz Galindo-Resendiz (Pult Bomb)",
+    "2025 World Championship Deck: Liao Fu Guan (Joltdengo)",
     "Card Sleeves 100 pack",
     "Ultra Pro Deck Box",
     "Ultra Pro Binder 9-Pocket",
