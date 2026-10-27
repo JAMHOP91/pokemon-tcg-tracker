@@ -1,17 +1,6 @@
 [
   {
     "site": "Otakumart - Pre-Orders",
-    "title": "Delta Reign Booster Pack | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/delta-reign-booster-pack-pokemon-tcg",
-    "price": "$10.00",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-8.jpg?v=1787291471",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
     "title": "Delta Reign Booster Box | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/delta-reign-booster-box-pokemon-tcg",
     "price": "$330.00",
@@ -10998,5 +10987,16 @@
     "image": "http://goblingames.nz/cdn/shop/files/672398.jpg?v=1776145766",
     "limit": null,
     "seen_count": 0
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Chaos Rising Checklane Blister Booster Pack",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-checklane-blister-booster-pack",
+    "price": "$14.99",
+    "timestamp": "2026-10-27T17:11:01.607309+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/8a6065ca1d5041afa20abee7c8c1d2a9_Original.jpg?v=1779326709",
+    "limit": "Maximum 6 per person",
+    "seen_count": 1
   }
 ]
