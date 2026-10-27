@@ -63,6 +63,7 @@ EXCLUDE_KEYWORDS = [
     "battle deck",
     "tournament deck",
     "championships deck",
+    "championship deck",
     "theme deck",
     "starter deck",
     "deck box",
