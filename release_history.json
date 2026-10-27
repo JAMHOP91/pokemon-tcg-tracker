@@ -1,27 +1,5 @@
 [
   {
-    "site": "Cardtopia - Pre-Orders",
-    "title": "PRE-ORDER : Pokemon TCG: Pok\u00e9mon Day 2026 Collection",
-    "url": "https://www.cardtopia.co.nz/products/pre-order-pokemon-tcg-pokemon-day-2026-collection",
-    "price": "$36.99",
-    "timestamp": "2026-08-31T22:54:32.861118+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/CopyofCopyofCopyofPFCBackground_600x600px_600x600px.png?v=1768298119",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
-    "title": "Delta Reign Elite Trainer Box | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/delta-reign-elite-trainer-box-pokemon-tcg",
-    "price": "$115.00",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1.jpg?v=1787291874",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
     "site": "Otakumart - Pre-Orders",
     "title": "Delta Reign 3-Booster Blister | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/delta-reign-3-booster-blister-pokemon-tcg",
@@ -10998,5 +10976,27 @@
     "image": "https://static.wixstatic.com/media/beffc4_c7ae2ab0da224d02b2f1a21ced27bd12~mv2.avif/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 1
+  },
+  {
+    "site": "Goblin Games NZ - Pokemon TCG",
+    "title": "2025 World Championship Deck: Jose Cruz Galindo-Resendiz (Pult Bomb)",
+    "url": "https://goblingames.nz/products/2025-world-championship-deck-jose-cruz-galindo-resendiz-pult-bomb",
+    "price": "$53.99",
+    "timestamp": "2026-10-27T11:05:13.594393+00:00",
+    "priority": false,
+    "image": "http://goblingames.nz/cdn/shop/files/696639.jpg?v=1782050292",
+    "limit": null,
+    "seen_count": 0
+  },
+  {
+    "site": "Goblin Games NZ - Pokemon TCG",
+    "title": "2025 World Championship Deck: Liao Fu Guan (Joltdengo)",
+    "url": "https://goblingames.nz/products/2025-world-championship-deck-liao-fu-guan-joltdengo",
+    "price": "$53.99",
+    "timestamp": "2026-10-27T11:05:13.594393+00:00",
+    "priority": false,
+    "image": "http://goblingames.nz/cdn/shop/files/696637.jpg?v=1782050304",
+    "limit": null,
+    "seen_count": 0
   }
 ]
