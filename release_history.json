@@ -1,17 +1,6 @@
 [
   {
     "site": "Otakumart - Pre-Orders",
-    "title": "30th Celebration Tin\u2014Sylveon | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/30th-celebration-tin-sylveon-pokemon-tcg",
-    "price": "$65.00",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tin-Day_EN.jpg?v=1783057723",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
     "title": "Zarude 2-Pack Blister | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/zarude-2-pack-blister-pokemon-tcg",
     "price": "$25.00",
@@ -11009,5 +10998,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": 1.38
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Lumiose City Mini Tin",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-lumiose-city-mini-tin",
+    "price": "$22.99",
+    "timestamp": "2026-10-28T12:10:52.525078+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/158043444707358.jpg?v=1790125899",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": null
   }
 ]
