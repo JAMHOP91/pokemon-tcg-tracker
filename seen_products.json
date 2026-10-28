@@ -326,8 +326,8 @@
   "Cardtopia NZ": {
     "seen_ids": [
       "10218488725744",
-      "10119290454256",
-      "10070962241776"
+      "10070962241776",
+      "10119290454256"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -357,6 +357,8 @@
       "9640492007663",
       "9388718489839",
       "9640491909359",
+      "9388718489839",
+      "9640492007663",
       "9464484626671",
       "9328351772911",
       "9388711182575"
@@ -2185,8 +2187,8 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8789885321414",
-      "8931072311494"
+      "8931072311494",
+      "8789885321414"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2289,8 +2291,8 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)"
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2342,6 +2344,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8832667877399",
       "8888685723671",
       "8832667877399",
       "8770963537943",
@@ -2498,6 +2501,7 @@
   "Game Corner - Pokemon": {
     "seen_ids": [
       "8063603605588",
+      "10170166575188",
       "10214066389076",
       "10170361905236",
       "10170166575188"
