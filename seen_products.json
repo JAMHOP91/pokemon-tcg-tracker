@@ -102,8 +102,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558380781629",
-      "7558379864125"
+      "7558379864125",
+      "7558380781629"
     ],
     "zero_streak": 1013,
     "warned": true,
@@ -399,6 +399,7 @@
     "seen_ids": [
       "https://www.collectallday.com/new/venusaur-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/grimmsnarl-vmax-starter-set",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
@@ -2165,9 +2166,9 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672250695726",
       "7672253120558",
-      "7672252792878"
+      "7672252792878",
+      "7672250695726"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2290,8 +2291,8 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)"
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP"
     ],
     "zero_streak": 0,
     "warned": false,
