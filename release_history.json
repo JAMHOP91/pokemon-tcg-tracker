@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: 2-Pack Blister (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-2-pack-blister-pre-order",
-    "price": "$19.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/10-10316-105-Pokemon-TCG-2-Pack-Blster-Double-Wide-Q126.jpg?v=1770168466",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Mega ex Box (Limit 1 per Customer) (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-mega-ex-box-limit-1-per-customer-pre-order",
-    "price": "$52.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/70eb2903-351c-4438-aa18-e363bf765a92.webp?v=1769160809",
-    "limit": "Limit 1 per Customer",
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Booster Bundle (Limit 4 per Customer)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-limit-4-per-customer-pre-order",
     "price": "$84.99",
@@ -11011,6 +10989,30 @@
     "image": "http://thegametree.co.nz/cdn/shop/files/SurpriseAttackGame_Togetic_Bulbasaur.png?v=1763442350",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
+    "price": "$10.99",
+    "timestamp": "2026-10-28T22:40:49.366926+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pitch-black-booster-bundle.png?v=1784072331",
+    "limit": "limit 6 per person",
+    "seen_count": 6,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Chaos Rising: Sealed Booster Pack (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-chaos-rising-sealed-booster-pack-english",
+    "price": "$9.99",
+    "timestamp": "2026-10-28T22:40:49.366926+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/ChaosRisingBooster_1webp.webp?v=1776939197",
+    "limit": null,
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
