@@ -642,9 +642,9 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10280809857108",
       "10280802287700",
-      "10280790261844"
+      "10280790261844",
+      "10280809857108"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2737,8 +2737,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
