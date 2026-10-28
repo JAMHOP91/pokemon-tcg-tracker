@@ -1,17 +1,6 @@
 [
   {
     "site": "Otakumart - Pre-Orders",
-    "title": "30th Celebration Booster Bundle | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/30th-celebration-booster-bundle-pokemon-tcg",
-    "price": "$65.00",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Booster-Bundle_EN.jpg?v=1783059198",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
     "title": "30th Celebration Ultra-Premium Collection\u2014Night | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/30th-celebration-ultra-premium-collection-night-pokemon-tcg",
     "price": "$435.00",
@@ -11004,5 +10993,17 @@
     "limit": null,
     "seen_count": 1,
     "msrp_ratio": 3.67
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG ME05 Pitch Black Booster Box",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-box-preorder-ship-on-july-17-2026",
+    "price": "$340.00",
+    "timestamp": "2026-10-28T08:10:55.685527+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME05_Pitch_Black_Booster_Box.jpg?v=1777870840",
+    "limit": null,
+    "seen_count": 4,
+    "msrp_ratio": null
   }
 ]
