@@ -1,17 +1,6 @@
 [
   {
     "site": "Otakumart - Pre-Orders",
-    "title": "30th Celebration Ditto Premium Collection | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/30th-celebration-ditto-premium-collection-pokemon-tcg",
-    "price": "$96.00",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Ditto-Premium-Collection_EN.jpg?v=1783057972",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
     "title": "30th Celebration Tin\u2014Greninja | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/30th-celebration-tin-greninja-pokemon-tcg",
     "price": "$65.00",
@@ -11007,5 +10996,17 @@
     "limit": null,
     "seen_count": 8,
     "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Pokemon TCG ME06 Delta Reign Booster Box Preorder, ship on November 6, 2026",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-box",
+    "price": "$400.00",
+    "timestamp": "2026-10-28T10:50:57.113613+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2.jpg?v=1787573121",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.23
   }
 ]
