@@ -1,17 +1,6 @@
 [
   {
     "site": "Otakumart - Pre-Orders",
-    "title": "30th Celebration Mini Tin (Assorted) | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/30th-celebration-mini-tin-assorted-pokemon-tcg",
-    "price": "$25.00",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": "http://otakumart.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Mini-Tins-Assorted.jpg?v=1783059390",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Otakumart - Pre-Orders",
     "title": "30th Celebration Booster Bundle | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/30th-celebration-booster-bundle-pokemon-tcg",
     "price": "$65.00",
@@ -11003,5 +10992,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "30TH CELEBRATION ELITE TRAINER BOX",
+    "url": "https://hobbymaster.co.nz/products/product/47423",
+    "price": "$370.00 $400.00",
+    "timestamp": "2026-10-28T06:31:15.609731+00:00",
+    "priority": true,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": 3.67
   }
 ]
