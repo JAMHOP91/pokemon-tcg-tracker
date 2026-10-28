@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Booster Bundle (Limit 4 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-limit-4-per-customer-pre-order",
-    "price": "$84.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/P11436_ME02pt5_3D_Mega_ex_Box_MEmboar_Left_EN-1024x913.jpg?v=1769158993",
-    "limit": "Limit 4 per Customer",
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Charizard Tin (Limit 2 per Customer) (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-charizard-tin-limit-2-per-customer-pre-order",
     "price": "$52.99",
@@ -11013,6 +11002,18 @@
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/ChaosRisingBooster_1webp.webp?v=1776939197",
     "limit": null,
     "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Mega Evolution Ascended Heroes Focused Fighters Premium Collection",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection",
+    "price": "$399.99",
+    "timestamp": "2026-10-28T23:34:44.812955+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Focused-Fighters-Premium-Collection.jpg?v=1793229534",
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
