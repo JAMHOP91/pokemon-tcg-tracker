@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
@@ -104,8 +105,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558380781629",
-      "7558379864125"
+      "7558379864125",
+      "7558380781629"
     ],
     "zero_streak": 1302,
     "warned": true,
@@ -691,7 +692,6 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-sylveon-ex-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-greninja-ex-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-delta-reign-full-set-of-products-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-delta-reign-booster-bundle-pre-order"
@@ -2114,9 +2114,9 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9228422611107",
       "15463445528739",
-      "9228412158115"
+      "9228412158115",
+      "9228422611107"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2159,8 +2159,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672252792878",
-      "7672253120558"
+      "7672253120558",
+      "7672252792878"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2298,7 +2298,6 @@
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
       "15401415344277",
-      "15489103822997",
       "9210168803477",
       "15401330835605",
       "9285822251157",
@@ -2735,8 +2734,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
