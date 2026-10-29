@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 9 Journey Together Booster Bundle (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-9-journey-together-booster-bundle-pre-order",
-    "price": "$51.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Journey-Together-Booster-Bundle_EN-761x1024.jpg?v=1743209975",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 9 Journey Together Blisters (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-9-journey-together-blisters-pre-order",
-    "price": "$8.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/6d593621-pok-mon-tcg-scarlet-violet-journey-together-sleeved-booster-pack-10-cards-600.webp?v=1743209685",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 9 Journey Together Three Booster Blister (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-9-journey-together-three-booster-blister-pre-order",
     "price": "$26.99",
@@ -11023,5 +11001,29 @@
     "limit": null,
     "seen_count": 1,
     "msrp_ratio": 1.79
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "Pok\u00e9mon -  Destined Rivals Booster Pack",
+    "url": "https://cardmasters.co.nz/products/pokemon-destined-rivals-booster-pack",
+    "price": "$15.00",
+    "timestamp": "2026-10-29T09:10:52.957933+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/Destined-Rivals-Booster-1-removebg-preview_1200x1200.png?v=1748438053",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "Pokemon TCG: Mega Evolution: Ascended Heroes Booster Pack",
+    "url": "https://cardmasters.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-booster-pack",
+    "price": "$22.00",
+    "timestamp": "2026-10-29T09:10:52.957933+00:00",
+    "priority": true,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/Pokemon_TCG_Mega_Evolution_Ascended_Heroes_Booster_Wrap_ca7cf3f6-5a9c-417f-93a0-8b1768a48d1f_1200x800.webp?v=1771910434",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
   }
 ]
