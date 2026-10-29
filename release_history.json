@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Elite Trainer Box (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box-pre-order",
-    "price": "$150.00",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/POKEMO1-8-1024x976.jpg?v=1746441953",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Charizard ex Special Collection (Back Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-charizard-ex-special-collection-pre-order",
     "price": "$89.99",
@@ -11021,5 +11010,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "[SOLD OUT] Delta Reign Elite Trainer Box | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/delta-reign-elite-trainer-box-pokemon-tcg",
+    "price": "$115.00",
+    "timestamp": "2026-10-29T07:40:46.447350+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.12
   }
 ]
