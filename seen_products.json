@@ -264,6 +264,8 @@
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-phantasmal-flames-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-enhanced-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-8-5-prismatic-evolutions-2-pack-blister",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-sv-unova-mini-tin-sealed-box-8-tins",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-three-booster-blister",
       "https://www.tcgnz.co.nz/product-page/pokemon-tcg-team-rocket-tin",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
@@ -2046,6 +2048,7 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
+      "15402635297064",
       "10441619603752",
       "15402635297064",
       "10365187621160"
@@ -2421,6 +2424,13 @@
       "10099042582768",
       "10171578286320",
       "10035621396720",
+      "10111551209712",
+      "9982539989232",
+      "10171560952048",
+      "10112141295856",
+      "10171572912368",
+      "10099042582768",
+      "10171578286320",
       "10112184385776",
       "10171560952048",
       "10171547386096",
@@ -2737,8 +2747,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
