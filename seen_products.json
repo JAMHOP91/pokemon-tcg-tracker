@@ -41,6 +41,8 @@
       "7439125512341",
       "8964116873365",
       "7439084388501",
+      "7330101330069",
+      "7439107129493",
       "7330103165077",
       "7439107129493",
       "7330100445333",
@@ -104,8 +106,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558379864125",
-      "7558380781629"
+      "7558380781629",
+      "7558379864125"
     ],
     "zero_streak": 1219,
     "warned": true,
@@ -323,8 +325,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10070962241776",
       "10119290454256",
+      "10070962241776",
       "10218488725744"
     ],
     "zero_streak": 0,
@@ -397,9 +399,9 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
-      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -516,8 +518,10 @@
       "7964213051453",
       "7915168563261",
       "7915175608381",
+      "7964215935037",
+      "7915239145533",
       "7915166564413",
-      "7964217802813",
+      "7964206039101",
       "8052567179325",
       "7915239145533",
       "7964215935037",
@@ -642,9 +646,9 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
+      "10280809857108",
       "10280802287700",
-      "10280790261844",
-      "10280809857108"
+      "10280790261844"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2163,8 +2167,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672253120558",
-      "7672252792878"
+      "7672252792878",
+      "7672253120558"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2286,8 +2290,8 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)"
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP"
     ],
     "zero_streak": 0,
     "warned": false,
