@@ -104,8 +104,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558380781629",
-      "7558379864125"
+      "7558379864125",
+      "7558380781629"
     ],
     "zero_streak": 1186,
     "warned": true,
@@ -253,6 +253,22 @@
   },
   "TCG NZ": {
     "seen_ids": [
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-enhanced-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pok\u00e9mon-tcg-destined-rivals-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-bundle",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-sv-unova-mini-tin-sealed-box-8-tins",
+      "https://www.tcgnz.co.nz/product-page/pokemon-tcg-team-rocket-tin",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-checklane-blister",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-chaos-rising-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-three-booster-blister",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-heroes-mini-tin",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-elite-trainer-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-phantasmal-flames-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-8-5-prismatic-evolutions-binder-collection",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-perfect-order-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-checklane-blister",
@@ -2050,6 +2066,7 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
+      "10365187621160",
       "15402635297064",
       "10365187621160",
       "10441619603752"
@@ -2163,8 +2180,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672253120558",
-      "7672252792878"
+      "7672252792878",
+      "7672253120558"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2182,8 +2199,8 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8789885321414",
-      "8931072311494"
+      "8931072311494",
+      "8789885321414"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2302,6 +2319,7 @@
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
       "15401415344277",
+      "9285822251157",
       "15488902693013",
       "15401330835605",
       "9285822251157",
@@ -2739,8 +2757,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
