@@ -352,6 +352,9 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9640492007663",
+      "9328351772911",
+      "9640491909359",
       "9464484626671",
       "9640491909359",
       "9328351772911",
@@ -397,6 +400,7 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
@@ -642,6 +646,7 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
+      "10280790261844",
       "10280802287700",
       "10280790261844",
       "10280809857108"
@@ -2182,8 +2187,8 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8789885321414",
-      "8931072311494"
+      "8931072311494",
+      "8789885321414"
     ],
     "zero_streak": 0,
     "warned": false,
