@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 9 Journey Together Checklane Blister (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-9-journey-together-checklane-blister-pre-order",
-    "price": "$14.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/pokemon-sv09-journey-together-checklane-blister-set.jpg?v=1743207595",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Surprise Box (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-surprise-box-pre-order",
     "price": "$64.99",
@@ -11025,6 +11014,18 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME03_Chaos_Rising_Booster_Box.jpg?v=1777853291",
     "limit": null,
     "seen_count": 4,
+    "msrp_ratio": null
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-10-29T11:40:53.622281+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201",
+    "limit": null,
+    "seen_count": 9,
     "msrp_ratio": null
   }
 ]
