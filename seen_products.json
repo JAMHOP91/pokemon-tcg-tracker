@@ -393,9 +393,9 @@
   },
   "Collect All Day": {
     "seen_ids": [
-      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
-      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -639,8 +639,8 @@
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
       "10280790261844",
-      "10280802287700",
-      "10280809857108"
+      "10280809857108",
+      "10280802287700"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2159,8 +2159,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672252792878",
-      "7672253120558"
+      "7672253120558",
+      "7672252792878"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2178,8 +2178,8 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8789885321414",
-      "8931072311494"
+      "8931072311494",
+      "8789885321414"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2282,8 +2282,8 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)"
     ],
     "zero_streak": 0,
     "warned": false,
