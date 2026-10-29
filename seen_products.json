@@ -18,9 +18,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/heavyhitters",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-      "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/heavyhitters"
+      "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 239,
     "warned": true,
@@ -43,6 +43,8 @@
       "7330099200149",
       "7330101002389",
       "7439125512341",
+      "7439107129493",
+      "7330101330069",
       "7439084388501",
       "8964116873365",
       "7330101330069",
@@ -393,6 +395,7 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set"
@@ -464,6 +467,7 @@
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/47223",
+      "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/46974",
@@ -639,8 +643,8 @@
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
       "10280802287700",
-      "10280790261844",
-      "10280809857108"
+      "10280809857108",
+      "10280790261844"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2178,8 +2182,8 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8789885321414",
-      "8931072311494"
+      "8931072311494",
+      "8789885321414"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2737,8 +2741,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
