@@ -3,6 +3,7 @@
     "seen_ids": [
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
     ],
     "zero_streak": 1137,
@@ -393,9 +394,9 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
-      "https://www.collectallday.com/new/flareon-vmax-premium-collection"
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -461,6 +462,7 @@
     "seen_ids": [
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/47423",
+      "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/46971",
@@ -472,9 +474,9 @@
       "https://hobbymaster.co.nz/products/product/47431",
       "https://hobbymaster.co.nz/products/product/47051"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-29T18:05:17.183303+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
