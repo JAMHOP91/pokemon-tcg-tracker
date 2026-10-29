@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Surprise Box (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-surprise-box-pre-order",
-    "price": "$64.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/P10460_SV08pt5_3D_Surprise_Box_Packed_Left_EN-1024x766.jpg?v=1741689533",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Accessory Pouch (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-accessory-pouch-pre-order",
     "price": "$69.99",
@@ -11027,5 +11016,17 @@
     "limit": null,
     "seen_count": 9,
     "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG ME06 Delta Reign ETB Preorder, ship on November 6, 2026",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-etb",
+    "price": "$150.00",
+    "timestamp": "2026-10-29T21:37:01.580895+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1.jpg?v=1787572761",
+    "limit": null,
+    "seen_count": 2,
+    "msrp_ratio": 1.47
   }
 ]
