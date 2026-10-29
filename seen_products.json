@@ -19,8 +19,8 @@
   "Cool Shit - Pokemon": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-      "https://www.coolshit.co.nz/product/heavyhitters",
-      "https://www.coolshit.co.nz/product/premiumsealedcase"
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/heavyhitters"
     ],
     "zero_streak": 207,
     "warned": true,
@@ -42,6 +42,7 @@
       "7330101624981",
       "7330099691669",
       "7439084388501",
+      "7330088353941",
       "7439125512341",
       "7330103165077",
       "7330101330069",
@@ -323,9 +324,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10119290454256",
       "10218488725744",
-      "10070962241776"
+      "10070962241776",
+      "10119290454256"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2286,8 +2287,8 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)"
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2603,6 +2604,10 @@
       "8069213454454",
       "7977004859510",
       "8185012945014",
+      "7976837546102",
+      "8069213454454",
+      "7977004859510",
+      "7977047195766",
       "8192198901878",
       "8059218821238",
       "8026257686646",
