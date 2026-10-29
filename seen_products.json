@@ -36,7 +36,12 @@
   },
   "The Game Tree NZ": {
     "seen_ids": [
+      "7330103165077",
+      "7439107129493",
       "7330101002389",
+      "7330101624981",
+      "7439125512341",
+      "7330100445333",
       "7330088353941",
       "7330101330069",
       "7439084388501",
@@ -104,8 +109,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558380781629",
-      "7558379864125"
+      "7558379864125",
+      "7558380781629"
     ],
     "zero_streak": 1286,
     "warned": true,
@@ -393,9 +398,9 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
-      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
-      "https://www.collectallday.com/new/flareon-vmax-premium-collection"
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2114,9 +2119,9 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9228422611107",
+      "9228412158115",
       "15463445528739",
-      "9228412158115"
+      "9228422611107"
     ],
     "zero_streak": 0,
     "warned": false,
