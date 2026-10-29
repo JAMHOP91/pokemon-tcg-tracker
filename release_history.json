@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Elite Trainer Box (Limit 2 per Customer) (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box-limit-2-per-customer-pre-order",
-    "price": "$149.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/10-10315-101-ME-Ascended-Heroes-ETB-4-1024x976_1.jpg?v=1768368335",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet - Black Bolt Tech Sticker Collection (Pre-Order)(Limit 2 per Customer)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-black-bolt-tech-sticker-collection-pre-orderlimit-2-per-customer",
     "price": "$39.99",
@@ -11016,6 +11005,18 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME03_Chaos_Rising_Booster_Box.jpg?v=1777853291",
     "limit": null,
     "seen_count": 3,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions 2 pack Blister pack",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-2-pack-blister-pack",
+    "price": "$31.99",
+    "timestamp": "2026-10-29T02:40:48.857264+00:00",
+    "priority": true,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCG-Megaevolutions2packBlister.jpg?v=1790806747",
+    "limit": null,
+    "seen_count": 10,
     "msrp_ratio": null
   }
 ]
