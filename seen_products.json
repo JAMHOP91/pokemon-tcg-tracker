@@ -18,8 +18,8 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/heavyhitters"
     ],
     "zero_streak": 407,
@@ -323,6 +323,7 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10070962241776",
       "10119290454256",
       "10070962241776",
       "10218488725744"
@@ -394,8 +395,8 @@
   "Collect All Day": {
     "seen_ids": [
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
-      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set"
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -472,9 +473,9 @@
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/46974"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-30T10:01:24.003566+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -2113,8 +2114,8 @@
   "Card Masters - Pre-Orders": {
     "seen_ids": [
       "9228412158115",
-      "15463445528739",
-      "9228422611107"
+      "9228422611107",
+      "15463445528739"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2297,6 +2298,7 @@
     "seen_ids": [
       "15488902693013",
       "9210168803477",
+      "9285822251157",
       "15401330835605",
       "9285822251157",
       "9152299892885",
@@ -2590,6 +2592,7 @@
   "Sealed & Slabbed - Pokemon Sealed": {
     "seen_ids": [
       "7976837546102",
+      "7977004859510",
       "8192198901878",
       "8185012945014",
       "8069213454454",
