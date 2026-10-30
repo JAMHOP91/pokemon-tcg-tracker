@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution Chaos Rising 3-Booster Blister",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-3-booster-blister-pre-order",
-    "price": "$32.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/ME4-Chaos-Rising-3-Booster-Blister-2-1024x940_1.jpg?v=1776756439",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution Chaos Rising Elite Trainer Box (Limit 2 per Customer)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-elite-trainer-box-limit-2-per-customerpre-order",
     "price": "$149.99",
@@ -11047,6 +11036,18 @@
     "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201",
     "limit": null,
     "seen_count": 10,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG ME03 Perfect Order Booster Box",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box-preorder-ship-on-march-27-2026",
+    "price": "$310.00",
+    "timestamp": "2026-10-30T19:10:47.578803+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Base_Mega_Evolution_Perfect_Order_Booster_Box.jpg?v=1772363677",
+    "limit": null,
+    "seen_count": 6,
     "msrp_ratio": null
   }
 ]
