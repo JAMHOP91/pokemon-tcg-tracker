@@ -19,8 +19,8 @@
   "Cool Shit - Pokemon": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-      "https://www.coolshit.co.nz/product/heavyhitters",
-      "https://www.coolshit.co.nz/product/premiumsealedcase"
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/heavyhitters"
     ],
     "zero_streak": 395,
     "warned": true,
@@ -42,6 +42,7 @@
       "7330103165077",
       "7330100445333",
       "7330101002389",
+      "7439107129493",
       "7330099200149",
       "7330099691669",
       "7439084388501",
@@ -510,6 +511,13 @@
       "7964211118141",
       "7964215935037",
       "7964217802813",
+      "7964206039101",
+      "7964215935037",
+      "7915166564413",
+      "7915239145533",
+      "7964211118141",
+      "7915175608381",
+      "7915173249085",
       "7915155521597",
       "7915168563261",
       "7964206039101",
@@ -2176,8 +2184,8 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8789885321414",
-      "8931072311494"
+      "8931072311494",
+      "8789885321414"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2337,6 +2345,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8832667877399",
       "8770963537943",
       "8832667877399",
       "8969764110359",
@@ -2731,8 +2740,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
