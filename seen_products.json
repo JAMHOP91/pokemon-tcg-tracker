@@ -104,8 +104,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558379864125",
-      "7558380781629"
+      "7558380781629",
+      "7558379864125"
     ],
     "zero_streak": 1439,
     "warned": true,
@@ -472,9 +472,9 @@
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/46973"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-30T11:10:54.027597+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -2346,7 +2346,7 @@
       "8969764110359",
       "8770963537943",
       "8888685723671",
-      "8832667877399"
+      "8969764110359"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2499,7 +2499,7 @@
   "Game Corner - Pokemon": {
     "seen_ids": [
       "10334982635604",
-      "10280784822356",
+      "10170166575188",
       "10280802287700",
       "10170361905236",
       "10170166575188",
