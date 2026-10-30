@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Moonlight Tin - Mega Clefable (Limit 2 per Customer) (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-gengar-limit-2-per-customer-pre-order-copy",
-    "price": "$49.49",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Moonlit-Tin-Mega-Clefable_EN.jpg?v=1778735886",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Moonlight Tin - Mega Gengar (Limit 2 per Customer) (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-moonlight-tin-mega-gengar-limit-2-per-customer-pre-order",
     "price": "$49.49",
@@ -11043,6 +11032,18 @@
     "image": "https://static.wixstatic.com/media/6f86e7_b719c03d115f46dab5a0db3f3eb5f4e3~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     "limit": null,
     "seen_count": 3,
+    "msrp_ratio": null
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Chaos Rising Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-10-30T12:40:50.787168+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682",
+    "limit": "Maximum 1 per person",
+    "seen_count": 7,
     "msrp_ratio": null
   }
 ]
