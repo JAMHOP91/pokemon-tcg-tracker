@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution Chaos Rising Elite Trainer Box (Limit 2 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-elite-trainer-box-limit-2-per-customerpre-order",
-    "price": "$149.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Chaos-Rising-Elite-Trainer-Box_EN-1024x976_1.jpg?v=1776756132",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution Chaos Rising Booster (Limit 2 per Customer)(Back Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-booster-limit-2-per-customerpre-order",
     "price": "$359.99",
@@ -11048,6 +11037,18 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Base_Mega_Evolution_Perfect_Order_Booster_Box.jpg?v=1772363677",
     "limit": null,
     "seen_count": 6,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Night - PRE ORDER",
+    "url": "https://www.magicreddragon.co.nz/product-page/copy-of-pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-night-pre-order",
+    "price": null,
+    "timestamp": "2026-10-30T23:35:48.256987+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/6f86e7_109e93d96d6147d8a12eb6d4e42e39d1~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 2,
     "msrp_ratio": null
   }
 ]
