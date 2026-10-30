@@ -263,6 +263,10 @@
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-bundle",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-9-journey-together-three-booster-blister",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-booster-box",
+      "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-sv-unova-mini-tin-sealed-box-8-tins",
+      "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-enhanced-booster-box",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-8-5-prismatic-evolutions-binder-collection",
       "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection",
       "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-chaos-rising-booster-box",
@@ -689,6 +693,7 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
+      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-delta-reign-full-set-of-products-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-greninja-ex-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-delta-reign-booster-bundle-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-sylveon-ex-pre-order",
@@ -2176,8 +2181,8 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8789885321414",
-      "8931072311494"
+      "8931072311494",
+      "8789885321414"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2280,8 +2285,8 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2295,6 +2300,7 @@
   },
   "OCARE NZ - Pokemon TCG": {
     "seen_ids": [
+      "15488902693013",
       "15489103822997",
       "9210168803477",
       "15401330835605",
@@ -2494,6 +2500,7 @@
     "seen_ids": [
       "8063603605588",
       "10170166575188",
+      "8063603605588",
       "10214066389076",
       "10170361905236"
     ],
@@ -2596,7 +2603,13 @@
       "7976837546102",
       "8069213454454",
       "8192198901878",
-      "8026257686646"
+      "7977047195766",
+      "7976837546102",
+      "8026257686646",
+      "8059218821238",
+      "8069213454454",
+      "8185012945014",
+      "7977004859510"
     ],
     "zero_streak": 0,
     "warned": false,
