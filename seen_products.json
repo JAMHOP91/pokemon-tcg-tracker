@@ -355,7 +355,9 @@
       "9328351772911",
       "9640491909359",
       "9388711182575",
-      "9640492007663"
+      "9640492007663",
+      "9640491909359",
+      "9328351772911"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -393,9 +395,9 @@
   },
   "Collect All Day": {
     "seen_ids": [
-      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set"
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -468,6 +470,9 @@
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/46973",
       "https://hobbymaster.co.nz/products/product/47236",
+      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/45463",
+      "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/46975",
       "https://hobbymaster.co.nz/products/product/45463"
@@ -2305,6 +2310,7 @@
       "15401415344277",
       "9210168803477",
       "15488902693013",
+      "9210168803477",
       "9285822251157",
       "15489103822997",
       "15401330835605"
@@ -2741,8 +2747,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
