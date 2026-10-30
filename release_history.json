@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution Chaos Rising Booster Bundle (Limit 2 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-booster-bundle-limit-2-per-customerpre-order",
-    "price": "$65.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Chaos-Rising-Booster-Bundle_EN-697x1024_1.jpg?v=1776756826",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution Chaos Rising 3-Booster Blister",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-3-booster-blister-pre-order",
     "price": "$32.99",
@@ -11046,6 +11035,18 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/10-10439-109-Delta-Reign-Booster-Bundle-1.jpg?v=1787572979",
     "limit": null,
     "seen_count": 9,
+    "msrp_ratio": null
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-10-30T17:54:57.080098+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201",
+    "limit": null,
+    "seen_count": 10,
     "msrp_ratio": null
   }
 ]
