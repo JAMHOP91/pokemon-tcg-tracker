@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: First Partner Illustration Collection - Series 3 (Limit 2 per Customer)(Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-3-limit-2-per-customer",
-    "price": "$79.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-First-Partner-Illustration-Collection_Series-3_EN.jpg?v=1783813459",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Greninja ex Premium Collection (Limit 2 per Customer)(Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection-limit-2-per-customerpre-order",
-    "price": "$98.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Mega-Greninja-ex-Premium-Collection_EN-1-1024x731.jpg?v=1780629419",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution - Pitch Black Elite Trainer Box (Limit 2 per Customer)(Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-limit-2-per-customerpre-order",
     "price": "$149.99",
@@ -11037,5 +11015,29 @@
     "limit": null,
     "seen_count": 2,
     "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Pokemon TCG ME06 Delta Reign Booster Bundle Preorder, ship on November 6, 2026",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-bundle",
+    "price": "$80.00",
+    "timestamp": "2026-10-30T10:51:02.463227+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/10-10439-109-Delta-Reign-Booster-Bundle-1.jpg?v=1787572979",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.45
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG ME06 Delta Reign Booster Bundle Preorder, ship on November 6, 2026",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-bundle",
+    "price": "$80.00",
+    "timestamp": "2026-10-30T10:51:02.463227+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/10-10439-109-Delta-Reign-Booster-Bundle-1.jpg?v=1787572979",
+    "limit": null,
+    "seen_count": 7,
+    "msrp_ratio": 1.45
   }
 ]
