@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution - Pitch Black Three-Booster Blister (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-three-booster-blister-pre-order",
-    "price": "$32.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Three-Booster-Blister-Front_EN-1024x940.jpg?v=1780628375",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution Pitch Black Booster (Back Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-limit-2-per-customerpre-order",
-    "price": "$359.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Display_EN-750x1024.jpg?v=1780628056",
-    "limit": null,
-    "seen_count": 5
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: First Partner Illustration Collection - Series 2 (Limit 1 per Customer)(Back Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-2-limit-2-per-customer-pre-order",
     "price": "$79.99",
@@ -11040,6 +11018,30 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/10-10440-120-Delta-Reign-3-Booster-Blister-1.jpg?v=1787572658",
     "limit": null,
     "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-10-30T11:21:05.438139+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364",
+    "limit": null,
+    "seen_count": 11,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG ME06 Delta Reign Three-Booster Blister Preorder, ship on November 6 2026",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-three-booster-blister",
+    "price": "$50.00",
+    "timestamp": "2026-10-30T11:21:05.438139+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/10-10440-120-Delta-Reign-3-Booster-Blister-1.jpg?v=1787572658",
+    "limit": null,
+    "seen_count": 2,
     "msrp_ratio": null
   }
 ]
