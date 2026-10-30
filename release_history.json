@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: 2-Pack Blister (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-2-pack-blister-pre-order-1",
-    "price": "$29.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/P11446_3D_2pk_Blister_Aug_2026_DoubleWide_Front_EN.jpg?v=1783813879",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: First Partner Illustration Collection - Series 3 (Limit 2 per Customer)(Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-first-partner-illustration-collection-series-3-limit-2-per-customer",
     "price": "$79.99",
@@ -11033,6 +11022,18 @@
     "timestamp": "2026-10-30T10:40:50.937934+00:00",
     "priority": true,
     "image": "https://static.wixstatic.com/media/6f86e7_b719c03d115f46dab5a0db3f3eb5f4e3~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG 30th Celebration Mini Tin (one at random)",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-mini-tin",
+    "price": "$50.00",
+    "timestamp": "2026-10-30T10:45:59.882259+00:00",
+    "priority": true,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/704186_in_1000x1000_e9cd3357-478c-4a4c-8b61-b91b47a43886.jpg?v=1791958635",
     "limit": null,
     "seen_count": 2,
     "msrp_ratio": null
