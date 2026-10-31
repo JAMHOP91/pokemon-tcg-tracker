@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle (Limit 2 per Customer)(Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-bundle-limit-2-per-customerpre-order",
-    "price": "$59.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Bundle_EN.jpg?v=1771395553",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution - Perfect Order 3 - Booster Blister (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-3-booster-blister-pre-order",
     "price": "$28.99",
@@ -11053,6 +11042,18 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Mega-Zygarde_EN.png?v=1774393148",
     "limit": null,
     "seen_count": 5,
+    "msrp_ratio": null
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Mega Evolution Ascended Heroes Focused Fighters Premium Collection",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection",
+    "price": "$299.99",
+    "timestamp": "2026-10-31T06:10:50.202118+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Focused-Fighters-Premium-Collection.jpg?v=1793229534",
+    "limit": null,
+    "seen_count": 2,
     "msrp_ratio": null
   }
 ]
