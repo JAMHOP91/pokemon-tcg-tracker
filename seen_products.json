@@ -695,8 +695,6 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-delta-reign-booster-bundle-pre-order",
-      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-delta-reign-full-set-of-products-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-greninja-ex-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-sylveon-ex-pre-order",
       "https://www.magicreddragon.co.nz/product-page/copy-of-pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-night-pre-order"
@@ -2053,8 +2051,8 @@
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
       "10365187621160",
-      "10441619603752",
-      "15402635297064"
+      "15402635297064",
+      "10441619603752"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2424,6 +2422,9 @@
       "10099042582768",
       "10112179831024",
       "10112184385776",
+      "10171578286320",
+      "10035621396720",
+      "10171560952048",
       "10111551209712",
       "10171578286320",
       "10112186188016",
