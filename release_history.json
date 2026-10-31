@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Collection - Erika/Larry (Assorted)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-collection-erika-larry-assorted-pre-order",
-    "price": "$21.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/10-10312-120-ME-Ascended-Heroes-Collection-Erika-Larry-1024x940_1.jpg?v=1768367046",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Pokemon Day 2026 Collection (Limit 2 per Customer)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-pokemon-day-2026-collection-limit-2-per-customer-pre-order",
     "price": "$32.99",
@@ -11057,6 +11046,18 @@
     "image": "https://static.wixstatic.com/media/6f86e7_b719c03d115f46dab5a0db3f3eb5f4e3~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     "limit": null,
     "seen_count": 6,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Night - PRE ORDER",
+    "url": "https://www.magicreddragon.co.nz/product-page/copy-of-pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-night-pre-order",
+    "price": null,
+    "timestamp": "2026-10-31T22:10:55.297776+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/6f86e7_109e93d96d6147d8a12eb6d4e42e39d1~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 3,
     "msrp_ratio": null
   }
 ]
