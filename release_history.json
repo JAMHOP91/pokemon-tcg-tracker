@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order Elite Trainer Box (Limit 2 per Customer)(Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-elite-trainer-box-limit-2-per-customerpre-order",
-    "price": "$149.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Elite-Trainer-Box_EN.jpg?v=1771395742",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle (Limit 2 per Customer)(Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-bundle-limit-2-per-customerpre-order",
     "price": "$59.99",
@@ -11050,6 +11039,18 @@
     "timestamp": "2026-10-31T02:36:35.866137+00:00",
     "priority": true,
     "image": "https://static.wixstatic.com/media/6f86e7_b719c03d115f46dab5a0db3f3eb5f4e3~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 5,
+    "msrp_ratio": null
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster",
+    "price": "$10.99",
+    "timestamp": "2026-10-31T05:40:47.519785+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Mega-Zygarde_EN.png?v=1774393148",
     "limit": null,
     "seen_count": 5,
     "msrp_ratio": null
