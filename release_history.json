@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order 3 - Booster Blister (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-3-booster-blister-pre-order",
-    "price": "$28.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Three-Booster-Blister_EN.jpg?v=1771395216",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster (Limit 1 per Customer)(Back Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-limit-2-per-customerpre-order",
     "price": "$319.99",
@@ -11054,6 +11043,18 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Focused-Fighters-Premium-Collection.jpg?v=1793229534",
     "limit": null,
     "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "HILDA ULTRA RARE - PSA 10",
+    "url": "https://cardmasters.co.nz/products/hilda-ultra-rare-psa-10",
+    "price": "$85.00",
+    "timestamp": "2026-10-31T13:40:47.015900+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/1QqRAkHUCUekHexV6wZz7A_1200x2015.jpg?v=1787651627",
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
