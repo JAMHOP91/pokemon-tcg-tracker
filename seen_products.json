@@ -104,8 +104,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558379864125",
-      "7558380781629"
+      "7558380781629",
+      "7558379864125"
     ],
     "zero_streak": 1602,
     "warned": true,
@@ -354,8 +354,8 @@
     "seen_ids": [
       "9328351772911",
       "9640492007663",
-      "9640491909359",
-      "9388711182575"
+      "9388711182575",
+      "9640491909359"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -472,9 +472,9 @@
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/45463"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-10-31T08:15:54.081984+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -2184,8 +2184,8 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8789885321414",
-      "8931072311494"
+      "8931072311494",
+      "8789885321414"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2343,6 +2343,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8770963537943",
       "8969764110359",
       "8888685723671",
       "8832667877399",
@@ -2737,8 +2738,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
