@@ -104,8 +104,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558380781629",
-      "7558379864125"
+      "7558379864125",
+      "7558380781629"
     ],
     "zero_streak": 1664,
     "warned": true,
@@ -323,6 +323,7 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10218488725744",
       "10119290454256",
       "10218488725744",
       "10070962241776"
@@ -697,6 +698,8 @@
     "seen_ids": [
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-delta-reign-full-set-of-products-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-delta-reign-booster-bundle-pre-order",
+      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-greninja-ex-pre-order",
+      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-delta-reign-full-set-of-products-pre-order",
       "https://www.magicreddragon.co.nz/product-page/copy-of-pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-night-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-sylveon-ex-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-greninja-ex-pre-order"
@@ -2052,9 +2055,9 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
+      "10441619603752",
       "15402635297064",
-      "10365187621160",
-      "10441619603752"
+      "10365187621160"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2120,8 +2123,8 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9228422611107",
       "15463445528739",
+      "9228422611107",
       "9228412158115"
     ],
     "zero_streak": 0,
@@ -2737,8 +2740,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
