@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Tech Sticker Collection (Assorted)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-tech-sticker-collection-assorted-pre-order",
-    "price": "$35.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/ascended_heroes_tech-sticker-collection_5.webp?v=1768367663",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Collection - Erika/Larry (Assorted)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-collection-erika-larry-assorted-pre-order",
     "price": "$21.99",
@@ -11056,6 +11045,18 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364",
     "limit": null,
     "seen_count": 12,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014 Delta Reign Full Set of products - PRE ORDER -",
+    "url": "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-delta-reign-full-set-of-products-pre-order",
+    "price": "$799.00",
+    "timestamp": "2026-10-31T20:41:04.972569+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/6f86e7_b719c03d115f46dab5a0db3f3eb5f4e3~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 6,
     "msrp_ratio": null
   }
 ]
