@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster (Limit 1 per Customer)(Back Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-limit-2-per-customerpre-order",
-    "price": "$319.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Display_EN.jpg?v=1771394856",
-    "limit": "Limit 1 per Customer",
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Tech Sticker Collection (Assorted)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-tech-sticker-collection-assorted-pre-order",
     "price": "$35.99",
@@ -11055,6 +11044,18 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/1QqRAkHUCUekHexV6wZz7A_1200x2015.jpg?v=1787651627",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-10-31T18:10:47.507296+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364",
+    "limit": null,
+    "seen_count": 12,
     "msrp_ratio": null
   }
 ]
