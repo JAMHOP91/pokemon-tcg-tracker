@@ -18,8 +18,8 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/heavyhitters",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/heavyhitters",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
     ],
     "zero_streak": 786,
@@ -393,9 +393,9 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
-      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set"
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -467,7 +467,7 @@
       "https://hobbymaster.co.nz/products/product/45463",
       "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/46971",
-      "https://hobbymaster.co.nz/products/product/46975",
+      "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/47223",
       "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/47423"
@@ -2745,8 +2745,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
