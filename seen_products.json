@@ -104,8 +104,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558380781629",
-      "7558379864125"
+      "7558379864125",
+      "7558380781629"
     ],
     "zero_streak": 1793,
     "warned": true,
@@ -393,9 +393,9 @@
   },
   "Collect All Day": {
     "seen_ids": [
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
-      "https://www.collectallday.com/new/flareon-vmax-premium-collection"
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -514,6 +514,10 @@
       "7915239145533",
       "7964217802813",
       "7964215935037",
+      "7964211118141",
+      "7915175608381",
+      "7964213051453",
+      "7964206039101",
       "7915166564413",
       "7915173249085",
       "7915155521597",
@@ -2596,6 +2600,7 @@
   "Sealed & Slabbed - Pokemon Sealed": {
     "seen_ids": [
       "7977004859510",
+      "8059218821238",
       "8069213454454",
       "8185012945014",
       "7976837546102",
