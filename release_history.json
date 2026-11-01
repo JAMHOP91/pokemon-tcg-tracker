@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Kangaskhan ex Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-kangaskhan-ex-box-pre-order",
-    "price": "$49.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Kangaskhan-ex-Box_EN-1024x913.jpg?v=1760607131",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Venusaur ex Premium Collection",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-venusaur-ex-premium-collection-pre-order",
     "price": "$94.99",
@@ -11062,5 +11051,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": 1.21
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG: Perfect Order Booster - Mega Zygarde ex",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-perfect-order-booster-mega-zygarde-ex",
+    "price": "$10.90",
+    "timestamp": "2026-11-01T01:40:47.847754+00:00",
+    "priority": false,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG__Perfect_Order_Booster-1.png?v=1785385807",
+    "limit": null,
+    "seen_count": 2,
+    "msrp_ratio": null
   }
 ]
