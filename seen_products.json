@@ -47,7 +47,14 @@
       "7330101330069",
       "7330100445333",
       "7330099200149",
-      "7330099691669"
+      "7330088353941",
+      "7330103165077",
+      "7330101002389",
+      "7439084388501",
+      "7439107129493",
+      "7330099691669",
+      "7330100445333",
+      "7330101330069"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -104,8 +111,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558379864125",
-      "7558380781629"
+      "7558380781629",
+      "7558379864125"
     ],
     "zero_streak": 1801,
     "warned": true,
@@ -324,8 +331,8 @@
   "Cardtopia NZ": {
     "seen_ids": [
       "10119290454256",
-      "10218488725744",
-      "10070962241776"
+      "10070962241776",
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -393,9 +400,9 @@
   },
   "Collect All Day": {
     "seen_ids": [
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
-      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2177,8 +2184,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672253120558",
-      "7672252792878"
+      "7672252792878",
+      "7672253120558"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2515,7 +2522,11 @@
       "10336482426964",
       "10170166575188",
       "10170361905236",
-      "8063603605588"
+      "10336482885716",
+      "8063603605588",
+      "10336482426964",
+      "10214066389076",
+      "10170166575188"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2772,6 +2783,7 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
+      "8231328841846",
       "8083552370806",
       "8231328841846",
       "7650220736630"
