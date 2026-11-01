@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Venusaur ex Premium Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-venusaur-ex-premium-collection-pre-order",
-    "price": "$94.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Venusaur-ex-Premium-Collection-Box_EN-1024x742.jpg?v=1760606889",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Poke Ball Tin - 2025 (Assorted)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-poke-ball-tin-2025-assortedpre-order",
-    "price": "$34.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Poke-Ball-Tin-Q4-Display_FR-1024x529.jpg?v=1760487345",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Collector Chest (Dec 2025)(Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-collector-chest-dec-2025pre-order",
     "price": "$69.99",
@@ -11062,6 +11040,30 @@
     "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG__Perfect_Order_Booster-1.png?v=1785385807",
     "limit": null,
     "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Sword and Shield Astral Radiance Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-sword-and-shield-astral-radiance-elite-trainer-box",
+    "price": "$280.00",
+    "timestamp": "2026-11-01T01:50:46.391387+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/Astral_Radiance_Elite_Trainer_Box.webp?v=1737617772",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Rebel Clash Elite Trainer Box (*some seal rips)",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-rebel-clash-elite-trainer-box",
+    "price": "$620.00",
+    "timestamp": "2026-11-01T01:50:46.391387+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2122.jpg?v=1786439198",
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
