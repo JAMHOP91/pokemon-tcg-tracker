@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG Mega Evolutions 2 Phantasmal Flames Elite Trainer Box (Limit 2 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-2-phantasmal-flames-elite-trainer-box-pre-orderlimit-2-per-customer",
-    "price": "$169.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Phantasmal-Flames-Elite-Trainer-Box_EN-1024x976.jpg?v=1759919620",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG Mega Evolutions 2 Phantasmal Flames Booster Box (Pre-Order)(Limit 2 per Customer)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-2-phantasmal-flames-booster-box-pre-orderlimit-2-per-customer",
     "price": "$429.99",
@@ -11071,5 +11060,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": 1.46
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions 2 pack Blister pack",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-2-pack-blister-pack",
+    "price": "$31.99",
+    "timestamp": "2026-11-01T09:10:43.249352+00:00",
+    "priority": true,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCG-Megaevolutions2packBlister.jpg?v=1790806747",
+    "limit": null,
+    "seen_count": 12,
+    "msrp_ratio": null
   }
 ]
