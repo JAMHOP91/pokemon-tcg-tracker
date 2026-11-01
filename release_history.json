@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG Mega Evolutions 1 Enhance Booster Box (Limit 2 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-1-enhance-booster-box-pre-orderlimit-2-per-customer",
-    "price": "$359.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Holiday 2025 Calendar",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-holiday-2025-calendar",
     "price": "$113.99",
@@ -11077,6 +11066,18 @@
     "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions Pitch Black Booster",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster",
+    "price": "$10.99",
+    "timestamp": "2026-11-01T15:10:48.945392+00:00",
+    "priority": false,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
+    "limit": null,
+    "seen_count": 18,
     "msrp_ratio": null
   }
 ]
