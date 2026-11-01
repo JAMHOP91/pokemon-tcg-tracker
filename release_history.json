@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG Mega Evolutions 1 Three booster blister (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-1-three-booster-blister-pre-order",
-    "price": "$29.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG Mega Evolutions 1 Enhance Booster Box (Limit 2 per Customer)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-1-enhance-booster-box-pre-orderlimit-2-per-customer",
     "price": "$359.99",
@@ -11076,6 +11065,18 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/30th-celebration-ultra-premium-collections-day-night-169-en.png?v=1792043802",
     "limit": null,
     "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "CHAOS RISING - ELITE TRAINER BOX",
+    "url": "https://hobbymaster.co.nz/products/product/46975",
+    "price": "$230.00 $250.00",
+    "timestamp": "2026-11-01T11:40:47.614154+00:00",
+    "priority": false,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
