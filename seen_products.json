@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles"
     ],
     "zero_streak": 1675,
     "warned": true,
@@ -104,8 +104,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558380781629",
-      "7558379864125"
+      "7558379864125",
+      "7558380781629"
     ],
     "zero_streak": 1841,
     "warned": true,
@@ -150,7 +150,7 @@
       "9225967042723",
       "15460987437219",
       "9225964847267",
-      "15460993990819"
+      "7409030103203"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2316,6 +2316,8 @@
       "15401330835605",
       "9285822251157",
       "9152299892885",
+      "15401415344277",
+      "15401330835605",
       "9210168803477"
     ],
     "zero_streak": 0,
@@ -2354,6 +2356,7 @@
       "8832667877399",
       "8770963537943",
       "8888685723671",
+      "8832667877399",
       "8969764110359"
     ],
     "zero_streak": 0,
@@ -2745,8 +2748,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
