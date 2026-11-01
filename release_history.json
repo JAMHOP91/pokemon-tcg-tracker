@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Collector Chest (Dec 2025)(Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-collector-chest-dec-2025pre-order",
-    "price": "$69.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Collector-Chest-2025_EN-1002x1024.jpg?v=1760487098",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Enhanced 2-Pack Blisters 2025",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-enhanced-2-pack-blisters-2025-pre-order",
-    "price": "$25.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/P10442_3D_Enhanced_2pk_Blister_Oct_2025_Front_EN-1024x940.jpg?v=1760486704",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG Blooming Waters Premium Collection (Limit 1 per Customer)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-blooming-waters-premium-collection-pre-order",
     "price": "$399.99",
@@ -11064,6 +11042,30 @@
     "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2122.jpg?v=1786439198",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "CHAOS RISING - BOOSTER BUNDLE",
+    "url": "https://hobbymaster.co.nz/products/product/46973",
+    "price": "$120.00 $150.00",
+    "timestamp": "2026-11-01T02:10:48.796889+00:00",
+    "priority": false,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Perfect Order: Sleeved Sealed Booster Pack (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sleeved-sealed-booster-pack-english",
+    "price": "$9.99",
+    "timestamp": "2026-11-01T02:10:48.796889+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderSleevedBooster_3webp.webp?v=1772703759",
+    "limit": null,
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
