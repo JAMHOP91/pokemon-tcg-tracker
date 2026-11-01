@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG Mega Latias ex Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-latias-ex-box-pre-order",
-    "price": "$49.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Latias-ex-Box_EN-1024x913.jpg?v=1760917352",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: 2025 Trainer's Toolkit (On Sale)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-2025-trainers-toolkit-pre-order",
     "price": "$74.99",
@@ -11059,6 +11048,18 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME05_Pitch_Black_Booster_Box.jpg?v=1777870840",
     "limit": null,
     "seen_count": 5,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "TEAL MASK OGERPON ex SPECIAL ILLUSTRATION - PSA 10",
+    "url": "https://cardmasters.co.nz/products/teal-mask-ogerpon-ex-special-illustration-psa-10",
+    "price": "$165.00",
+    "timestamp": "2026-11-01T00:34:53.581942+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/brMPHClcJEmAMAX7Z1OBMQ_1200x2008.jpg?v=1787651731",
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
