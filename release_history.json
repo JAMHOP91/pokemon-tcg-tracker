@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG Mega Evolutions 2 Phantasmal Flames Booster Bundle (Pre-Order)(Limit 2 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-2-phantasmal-flames-booster-bundle-pre-orderlimit-2-per-customer",
-    "price": "$79.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Phantasmal-Flames-Booster-Bundle_EN-762x1024_1.jpg?v=1759919927",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG Mega Evolutions 2 Phantasmal Flames Elite Trainer Box (Limit 2 per Customer)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-2-phantasmal-flames-elite-trainer-box-pre-orderlimit-2-per-customer",
     "price": "$169.99",
@@ -11070,5 +11059,17 @@
     "limit": null,
     "seen_count": 13,
     "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon Pre-Orders",
+    "title": "[SOLD OUT] Pokemon TCG ME06 Delta Reign Booster Bundle Preorder, ship on November 6, 2026",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-bundle",
+    "price": "$80.00",
+    "timestamp": "2026-11-01T06:10:40.808949+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.46
   }
 ]
