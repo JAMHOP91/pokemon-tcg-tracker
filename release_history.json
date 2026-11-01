@@ -1,61 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG Mega Evolutions 2 Phantasmal Flames Booster Box (Pre-Order)(Limit 2 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-2-phantasmal-flames-booster-box-pre-orderlimit-2-per-customer",
-    "price": "$429.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Phantasmal-Flames-Booster-Display_EN-748x1024.jpg?v=1759919194",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Charizard X ex Ultra Premium Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection-pre-orderlimit-2-per-customer",
-    "price": "$279.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Charizard-X-ex-Ultra-Premium-Collection_EN-1024x722.jpg?v=1759918753",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 1 Booster Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-1-booster-box",
-    "price": "$374.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Booster-Display-Left_EN-775x1024.jpg?v=1757486673",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG Mega Evolutions 1 Booster Bundle (Pre-Order)(Limit 2 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-1-booster-bundle-pre-orderlimit-2-per-customer",
-    "price": "$64.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Booster-Bundle_EN-762x1024.jpg?v=1756612784",
-    "limit": "Limit 2 per Customer",
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG Mega Evolutions 1 Elite Trainer Box (Pre-Order)(Limit 2 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-1-elite-trainer-box-pre-orderlimit-2-per-customer",
-    "price": "$139.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": true,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG Mega Evolutions 1 Three booster blister (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolutions-1-three-booster-blister-pre-order",
     "price": "$29.99",
@@ -11071,6 +11016,66 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCG-Megaevolutions2packBlister.jpg?v=1790806747",
     "limit": null,
     "seen_count": 12,
+    "msrp_ratio": null
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "#36 Igglybuff - Pok\u00e9mon League (May 2001) - WotC Black Star Promo (LP+)",
+    "url": "https://thegametree.co.nz/products/36-igglybuff-pokemon-league-may-2001-wotc-black-star-promo",
+    "price": "$27.98",
+    "timestamp": "2026-11-01T10:10:57.529645+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/products/IgglybuffWizardsPromo36.png?v=1642820331",
+    "limit": null,
+    "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon Pre-Orders",
+    "title": "Pokemon TCG 30th Celebration Ultra-Premium Collection Day Preorder",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day",
+    "price": "$750.00",
+    "timestamp": "2026-11-01T10:10:57.529645+00:00",
+    "priority": true,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/30th-celebration-ultra-premium-collections-day-night-169-en.png?v=1792043802",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon Pre-Orders",
+    "title": "Pokemon TCG 30th Celebration Ultra-Premium Collection Night Preorder",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night",
+    "price": "$750.00",
+    "timestamp": "2026-11-01T10:10:57.529645+00:00",
+    "priority": true,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/30th-celebration-ultra-premium-collections-day-night-169-en_c358aa53-7046-47e3-8f95-01c68472eb17.png?v=1792043814",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG 30th Celebration Ultra-Premium Collection Night Preorder",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night",
+    "price": "$750.00",
+    "timestamp": "2026-11-01T10:10:57.529645+00:00",
+    "priority": true,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/30th-celebration-ultra-premium-collections-day-night-169-en_c358aa53-7046-47e3-8f95-01c68472eb17.png?v=1792043814",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG 30th Celebration Ultra-Premium Collection Day Preorder",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day",
+    "price": "$750.00",
+    "timestamp": "2026-11-01T10:10:57.529645+00:00",
+    "priority": true,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/30th-celebration-ultra-premium-collections-day-night-169-en.png?v=1792043802",
+    "limit": null,
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
