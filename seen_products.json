@@ -472,9 +472,9 @@
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/46975"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-11-02T13:46:06.318883+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -2060,8 +2060,8 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
-      "10365187621160",
       "15402635297064",
+      "10365187621160",
       "10441619603752"
     ],
     "zero_streak": 0,
@@ -2173,8 +2173,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672253120558",
-      "7672252792878"
+      "7672252792878",
+      "7672253120558"
     ],
     "zero_streak": 0,
     "warned": false,
