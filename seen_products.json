@@ -1,8 +1,8 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
     ],
     "zero_streak": 1747,
@@ -2605,6 +2605,9 @@
   },
   "Sealed & Slabbed - Pokemon Sealed": {
     "seen_ids": [
+      "8185012945014",
+      "8026257686646",
+      "8059218821238",
       "8192198901878",
       "7977047195766",
       "8069213454454",
@@ -2766,9 +2769,9 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
-      "8083552370806",
       "8231328841846",
-      "7650220736630"
+      "7650220736630",
+      "8083552370806"
     ],
     "zero_streak": 0,
     "warned": false,
