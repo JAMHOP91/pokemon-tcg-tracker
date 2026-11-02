@@ -104,8 +104,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558379864125",
-      "7558380781629"
+      "7558380781629",
+      "7558379864125"
     ],
     "zero_streak": 1947,
     "warned": true,
@@ -393,8 +393,8 @@
   },
   "Collect All Day": {
     "seen_ids": [
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection"
     ],
     "zero_streak": 0,
@@ -514,6 +514,9 @@
       "7915166564413",
       "7964217802813",
       "7964215935037",
+      "7915155521597",
+      "7915175608381",
+      "7915173249085",
       "7964206039101",
       "7915173249085",
       "7915239145533",
@@ -2131,8 +2134,8 @@
   "Card Masters - Pre-Orders": {
     "seen_ids": [
       "9228422611107",
-      "9228412158115",
-      "15463445528739"
+      "15463445528739",
+      "9228412158115"
     ],
     "zero_streak": 0,
     "warned": false,
