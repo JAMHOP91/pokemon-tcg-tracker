@@ -323,9 +323,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10218488725744",
       "10119290454256",
-      "10070962241776"
+      "10070962241776",
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -393,9 +393,9 @@
   },
   "Collect All Day": {
     "seen_ids": [
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
-      "https://www.collectallday.com/new/flareon-vmax-premium-collection"
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2128,6 +2128,7 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
+      "9228412158115",
       "15463445528739",
       "9228412158115",
       "9228422611107"
@@ -2314,6 +2315,7 @@
       "9152299892885",
       "15401330835605",
       "9285822251157",
+      "9152299892885",
       "15401415344277",
       "15488902693013",
       "9210168803477"
@@ -2532,8 +2534,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9151446548736",
-      "9366282600704"
+      "9366282600704",
+      "9151446548736"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2816,8 +2818,8 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15277806289266",
-      "15231685362034"
+      "15231685362034",
+      "15277806289266"
     ],
     "zero_streak": 0,
     "warned": false,
