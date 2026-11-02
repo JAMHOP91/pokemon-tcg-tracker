@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Booster Bundle",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-booster-bundle-pre-order",
-    "price": "$64.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Blisters",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-blisters-pre-order",
     "price": "$11.99",
@@ -11087,6 +11076,18 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pitch-black-booster-bundle.png?v=1784072331",
     "limit": "limit 6 per person",
     "seen_count": 8,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG 30th Celebration Mini Tin (one at random)",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-mini-tin",
+    "price": "$50.00",
+    "timestamp": "2026-11-02T07:34:53.385865+00:00",
+    "priority": true,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/704186_in_1000x1000_e9cd3357-478c-4a4c-8b61-b91b47a43886.jpg?v=1791958635",
+    "limit": null,
+    "seen_count": 3,
     "msrp_ratio": null
   }
 ]
