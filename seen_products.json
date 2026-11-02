@@ -104,8 +104,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558379864125",
-      "7558380781629"
+      "7558380781629",
+      "7558379864125"
     ],
     "zero_streak": 1967,
     "warned": true,
@@ -708,6 +708,8 @@
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-sylveon-ex-pre-order",
+      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-greninja-ex-pre-order",
+      "https://www.magicreddragon.co.nz/product-page/copy-of-pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-night-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-delta-reign-booster-bundle-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-greninja-ex-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-delta-reign-full-set-of-products-pre-order",
@@ -2064,10 +2066,10 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
-      "10365187621160",
-      "15432829272360",
       "15402635297064",
-      "10441619603752"
+      "10441619603752",
+      "15432829272360",
+      "10365187621160"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2179,8 +2181,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672252792878",
-      "7672253120558"
+      "7672253120558",
+      "7672252792878"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2546,8 +2548,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9151446548736",
-      "9366282600704"
+      "9366282600704",
+      "9151446548736"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2759,8 +2761,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2830,8 +2832,8 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15277806289266",
-      "15231685362034"
+      "15231685362034",
+      "15277806289266"
     ],
     "zero_streak": 0,
     "warned": false,
