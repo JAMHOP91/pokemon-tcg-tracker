@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 9 Journey Together Booster Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-9-journey-together-booster-box-pre-order",
-    "price": "$288.00",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Mini Tin (Assorted)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-mini-tin-assorted",
     "price": "$29.99",
@@ -11094,6 +11083,18 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2.jpg?v=1787573121",
     "limit": null,
     "seen_count": 5,
+    "msrp_ratio": 1.27
+  },
+  {
+    "site": "Game Corner - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Pokemon TCG ME06 Delta Reign Booster Box Preorder, ship on November 6, 2026",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-box",
+    "price": "$420.00",
+    "timestamp": "2026-11-02T08:45:57.360376+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2.jpg?v=1787573121",
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": 1.27
   }
 ]
