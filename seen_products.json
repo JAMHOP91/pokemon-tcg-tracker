@@ -472,9 +472,9 @@
       "https://hobbymaster.co.nz/products/product/47431",
       "https://hobbymaster.co.nz/products/product/46973"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-11-02T01:46:00.514401+00:00",
     "prices": {
       "https://hobbymaster.co.nz/products/product/47223": 430.0,
       "https://hobbymaster.co.nz/products/product/47232": 90.0,
@@ -636,10 +636,10 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10280809857108",
       "10280790261844",
-      "10280784822356",
-      "10280802287700"
+      "10280809857108",
+      "10280802287700",
+      "10280784822356"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2749,8 +2749,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2820,8 +2820,8 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15231685362034",
-      "15277806289266"
+      "15277806289266",
+      "15231685362034"
     ],
     "zero_streak": 0,
     "warned": false,
