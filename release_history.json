@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Booster Bundle",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-booster-bundle-pre-order",
-    "price": "$54.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Elite Trainer Box (Limit 1 per Customer)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-elite-trainer-box-pre-order",
     "price": "$149.99",
@@ -11097,6 +11086,18 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Lumiose_City_Mini_Tin.jpg?v=1780985527",
     "limit": null,
     "seen_count": 9,
+    "msrp_ratio": null
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Greninja ex Premium Collection",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
+    "price": "$99.99",
+    "timestamp": "2026-11-02T16:40:46.363139+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-greninja-ex-premium-collection.png?v=1790137780",
+    "limit": null,
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
