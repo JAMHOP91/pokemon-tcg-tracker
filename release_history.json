@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Tech Sticker Collection (Back-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-tech-sticker-blister-pre-order",
-    "price": "$54.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: 2024 Trainer's Toolkit (On Sale)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-2024-trainers-toolkit-pre-order",
     "price": "$64.99",
@@ -11099,6 +11088,18 @@
     "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG__Perfect_Order_Booster-3.png?v=1785386500",
     "limit": null,
     "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Mega Evolution Ascended Heroes Focused Fighters Premium Collection",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection",
+    "price": "$299.99",
+    "timestamp": "2026-11-02T19:35:24.106702+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Focused-Fighters-Premium-Collection.jpg?v=1793229534",
+    "limit": null,
+    "seen_count": 3,
     "msrp_ratio": null
   }
 ]
