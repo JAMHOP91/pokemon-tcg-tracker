@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Elite Trainer Box (Limit 1 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-elite-trainer-box-pre-order",
-    "price": "$149.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Tech Sticker Collection (Back-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-tech-sticker-blister-pre-order",
     "price": "$54.99",
@@ -11096,6 +11085,18 @@
     "timestamp": "2026-11-02T16:40:46.363139+00:00",
     "priority": false,
     "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-greninja-ex-premium-collection.png?v=1790137780",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG: Perfect Order Booster - Mega Clefable ex",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-perfect-order-booster-mega-clefable-ex",
+    "price": "$10.90",
+    "timestamp": "2026-11-02T19:10:51.908309+00:00",
+    "priority": false,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG__Perfect_Order_Booster-3.png?v=1785386500",
     "limit": null,
     "seen_count": 1,
     "msrp_ratio": null
