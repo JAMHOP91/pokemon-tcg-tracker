@@ -1,50 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Blisters",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-blisters-pre-order",
-    "price": "$11.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Booster Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-booster-box-pre-order",
-    "price": "$342.00",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Iono's Bellibolt ex Premium Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-ionos-bellibolt-ex-premium-collection-pre-order",
-    "price": "$89.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Hop's Zacian ex Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-hops-zacian-ex-box",
-    "price": "$51.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Hops-Zacian-ex-Box4-1024x912.jpg?v=1744800089",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Stacking Tin (assorted)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-stacking-tin-assorted",
     "price": "$35.99",
@@ -11086,6 +11042,54 @@
     "timestamp": "2026-11-02T07:34:53.385865+00:00",
     "priority": true,
     "image": "http://gamecorner.co.nz/cdn/shop/files/704186_in_1000x1000_e9cd3357-478c-4a4c-8b61-b91b47a43886.jpg?v=1791958635",
+    "limit": null,
+    "seen_count": 3,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon Pre-Orders",
+    "title": "Pokemon TCG 30th Celebration Ultra-Premium Collection Day Preorder",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day",
+    "price": "$800.00",
+    "timestamp": "2026-11-02T08:05:11.061171+00:00",
+    "priority": true,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/30th-celebration-ultra-premium-collections-day-night-169-en.png?v=1792043802",
+    "limit": null,
+    "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon Pre-Orders",
+    "title": "Pokemon TCG 30th Celebration Ultra-Premium Collection Night Preorder",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night",
+    "price": "$800.00",
+    "timestamp": "2026-11-02T08:05:11.061171+00:00",
+    "priority": true,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/30th-celebration-ultra-premium-collections-day-night-169-en_c358aa53-7046-47e3-8f95-01c68472eb17.png?v=1792043814",
+    "limit": null,
+    "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG 30th Celebration Ultra-Premium Collection Night Preorder",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night",
+    "price": "$800.00",
+    "timestamp": "2026-11-02T08:05:11.061171+00:00",
+    "priority": true,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/30th-celebration-ultra-premium-collections-day-night-169-en_c358aa53-7046-47e3-8f95-01c68472eb17.png?v=1792043814",
+    "limit": null,
+    "seen_count": 3,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG 30th Celebration Ultra-Premium Collection Day Preorder",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day",
+    "price": "$800.00",
+    "timestamp": "2026-11-02T08:05:11.061171+00:00",
+    "priority": true,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/30th-celebration-ultra-premium-collections-day-night-169-en.png?v=1792043802",
     "limit": null,
     "seen_count": 3,
     "msrp_ratio": null
