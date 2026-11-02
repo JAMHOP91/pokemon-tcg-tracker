@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: 2024 Trainer's Toolkit (On Sale)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-2024-trainers-toolkit-pre-order",
-    "price": "$64.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Bloodmoon Ursaluna ex Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-bloodmoon-ursaluna-ex-box-pre-order",
     "price": "$39.99",
@@ -11100,6 +11089,18 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Focused-Fighters-Premium-Collection.jpg?v=1793229534",
     "limit": null,
     "seen_count": 3,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG ME05 Pitch Black Booster Box",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-box-preorder-ship-on-july-17-2026",
+    "price": "$340.00",
+    "timestamp": "2026-11-02T19:40:47.271340+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME05_Pitch_Black_Booster_Box.jpg?v=1777870840",
+    "limit": null,
+    "seen_count": 6,
     "msrp_ratio": null
   }
 ]
