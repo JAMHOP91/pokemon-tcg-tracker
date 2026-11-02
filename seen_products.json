@@ -1,8 +1,8 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
     ],
     "zero_streak": 1909,
@@ -637,9 +637,9 @@
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
       "10280784822356",
-      "10280802287700",
       "10280790261844",
-      "10280809857108"
+      "10280809857108",
+      "10280802287700"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -703,7 +703,6 @@
   },
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
-      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-delta-reign-booster-bundle-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-sylveon-ex-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-delta-reign-full-set-of-products-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-greninja-ex-pre-order",
@@ -2060,8 +2059,8 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
-      "15402635297064",
       "10441619603752",
+      "15402635297064",
       "10365187621160"
     ],
     "zero_streak": 0,
@@ -2128,9 +2127,9 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9228412158115",
+      "15463445528739",
       "9228422611107",
-      "15463445528739"
+      "9228412158115"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2296,8 +2295,8 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2351,9 +2350,9 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8770963537943",
       "8832667877399",
-      "8888685723671",
-      "8770963537943"
+      "8888685723671"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2434,6 +2433,9 @@
       "10171578286320",
       "9982539989232",
       "10112179831024",
+      "10111551209712",
+      "9599898976496",
+      "9982539989232",
       "10171560952048",
       "10112184385776",
       "10099042582768"
@@ -2816,8 +2818,8 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15231685362034",
-      "15277806289266"
+      "15277806289266",
+      "15231685362034"
     ],
     "zero_streak": 0,
     "warned": false,
