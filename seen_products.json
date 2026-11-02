@@ -394,8 +394,8 @@
   "Collect All Day": {
     "seen_ids": [
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
-      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
-      "https://www.collectallday.com/new/flareon-vmax-premium-collection"
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -459,6 +459,9 @@
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
+      "https://hobbymaster.co.nz/products/product/46976",
+      "https://hobbymaster.co.nz/products/product/46971",
+      "https://hobbymaster.co.nz/products/product/47232",
       "https://hobbymaster.co.nz/products/product/47423",
       "https://hobbymaster.co.nz/products/product/47431",
       "https://hobbymaster.co.nz/products/product/46974",
@@ -2132,9 +2135,9 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
+      "15463445528739",
       "9228412158115",
-      "9228422611107",
-      "15463445528739"
+      "9228422611107"
     ],
     "zero_streak": 0,
     "warned": false,
