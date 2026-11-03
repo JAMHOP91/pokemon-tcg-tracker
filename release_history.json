@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Grand Adventure Collection (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-grand-adventure-collection-pre-order",
-    "price": "$34.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: November 2024 Collectors Chest",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-november-2024-collectors-chest-pre-order",
     "price": "$58.99",
@@ -11103,5 +11092,17 @@
     "limit": null,
     "seen_count": 3,
     "msrp_ratio": 1.8
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Chaos Rising: Sleeved Sealed Booster Pack (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-chaos-rising-sleeved-sealed-booster-pack-english",
+    "price": "$9.99",
+    "timestamp": "2026-11-03T00:10:57.459551+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/SleevedBooster_1avif.avif?v=1779438091",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": null
   }
 ]
