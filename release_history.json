@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Palafin ex Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-palafin-ex-box",
-    "price": "$36.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Eraser Blister 2024",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-eraser-blister-2024",
-    "price": "$17.50",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Paradox Clash Tin (In stock)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-paradox-clash-tin-pre-order",
     "price": "$39.99",
@@ -11128,6 +11106,30 @@
     "image": "https://static.wixstatic.com/media/beffc4_8b333e3c38e643789b56184d1b20928e~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     "limit": null,
     "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Pitch Black Single Pack",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-single-pack",
+    "price": "$11.00",
+    "timestamp": "2026-11-03T21:20:52.864017+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2318353445.jpg?v=1784500677",
+    "limit": null,
+    "seen_count": 5,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Pitch Black Booster Box",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-booster-box-pre-order-17-7-2026",
+    "price": "$360.00",
+    "timestamp": "2026-11-03T21:20:52.864017+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/712845506_122203714544471322_1472360028819368492_n.jpg?v=1780891415",
+    "limit": "LIMIT 1 PER PERSON",
+    "seen_count": 3,
     "msrp_ratio": null
   }
 ]
