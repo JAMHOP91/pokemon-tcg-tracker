@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable Kingdra/Greninja ex Special Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-kingdra-greninja-ex-special-collection",
-    "price": "$54.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable 3 Pack Blister",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-3-pack-blister",
     "price": "$22.99",
@@ -11125,6 +11114,18 @@
     "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201",
     "limit": null,
     "seen_count": 11,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: Charizard ex Premium Collection",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-charizard-ex-premium-collection",
+    "price": "$299.00",
+    "timestamp": "2026-11-03T09:16:03.057193+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_8b333e3c38e643789b56184d1b20928e~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
