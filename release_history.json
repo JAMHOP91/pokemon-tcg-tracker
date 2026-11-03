@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Checklane Blister",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-checklane-blister-pre-order",
-    "price": "$9.50",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Elite Trainer Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-elite-trainer-box-pre-order",
     "price": "$94.99",
@@ -11121,5 +11110,17 @@
     "limit": null,
     "seen_count": 1,
     "msrp_ratio": 2.94
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Delta Reign Elite Trainer Box pre order",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-delta-reign-elite-trainer-box",
+    "price": "$149.99",
+    "timestamp": "2026-11-03T05:01:22.226217+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCG-MegaEvolution6DeltaReignEliteTrainerB.webp?v=1793676866",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.47
   }
 ]
