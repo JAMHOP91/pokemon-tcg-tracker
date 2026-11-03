@@ -1,50 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Holiday Calendar (2024)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-holiday-calendar-2024-pre-order",
-    "price": "$84.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Blisters",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-blisters-pre-order",
-    "price": "$6.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Booster",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-booster-pre-order",
-    "price": "$6.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Booster Bundle",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-booster-bundle-pre-order",
-    "price": "$39.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Checklane Blister",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-checklane-blister-pre-order",
     "price": "$9.50",
@@ -11117,5 +11073,53 @@
     "limit": null,
     "seen_count": 2,
     "msrp_ratio": 3.62
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG 30th Celebration Knock Out Collection",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection",
+    "price": "$59.99",
+    "timestamp": "2026-11-03T04:46:02.235617+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Knock-Out-Collection.png?v=1787566850",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG 30th Celebration Booster Bundle",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-booster-bundle",
+    "price": "$129.99",
+    "timestamp": "2026-11-03T04:46:02.235617+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Booster-Bundle.jpg?v=1790809472",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 2.36
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Sylveon ex Box / Greninja ex Box",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-sylveon-ex-box-greninja-ex-box",
+    "price": "$139.99",
+    "timestamp": "2026-11-03T04:46:02.235617+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Sylveon-ex-Box-Greninja-ex-Box.png?v=1787564274",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": 3.11
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG 30th Celebration Elite Trainer Box",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box",
+    "price": "$299.99",
+    "timestamp": "2026-11-03T04:46:02.235617+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box.png?v=1787562786",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": 2.94
   }
 ]
