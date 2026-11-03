@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Elite Trainer Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-elite-trainer-box-pre-order",
-    "price": "$94.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Three Booster Blister",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-three-booster-blister",
     "price": "$25.99",
@@ -11122,5 +11111,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": 1.47
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG 30th Celebration Booster Bundle",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-30th-celebration-booster-bundle",
+    "price": "$89.99",
+    "timestamp": "2026-11-03T05:50:44.470620+00:00",
+    "priority": true,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-30th-celebration-booster-bundle.jpg?v=1790742555",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.63
   }
 ]
