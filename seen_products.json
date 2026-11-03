@@ -393,8 +393,8 @@
   },
   "Collect All Day": {
     "seen_ids": [
-      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set"
     ],
     "zero_streak": 0,
@@ -2548,8 +2548,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9366282600704",
-      "9151446548736"
+      "9151446548736",
+      "9366282600704"
     ],
     "zero_streak": 0,
     "warned": false,
