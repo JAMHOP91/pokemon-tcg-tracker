@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable 3 Pack Blister",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-3-pack-blister",
-    "price": "$22.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable Elite Trainer Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-elite-trainer-box",
     "price": "$84.99",
@@ -11124,6 +11113,18 @@
     "timestamp": "2026-11-03T09:16:03.057193+00:00",
     "priority": false,
     "image": "https://static.wixstatic.com/media/beffc4_8b333e3c38e643789b56184d1b20928e~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG Mega Zygarde ex Premium Collection",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+    "price": "$98.00",
+    "timestamp": "2026-11-03T18:41:01.119563+00:00",
+    "priority": false,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCGMegaZygardeexPremiumCollection-1.jpg?v=1779967635",
     "limit": null,
     "seen_count": 1,
     "msrp_ratio": null
