@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable Mini Tin (Assorted)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-mini-tin-assorted",
-    "price": "$16.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable Kingdra/Greninja ex Special Collection",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-kingdra-greninja-ex-special-collection",
     "price": "$54.99",
@@ -11124,6 +11113,18 @@
     "image": "http://thegametree.co.nz/cdn/shop/products/43_Machamp.png?v=1642993859",
     "limit": null,
     "seen_count": 3,
+    "msrp_ratio": null
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-11-03T09:10:54.149483+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201",
+    "limit": null,
+    "seen_count": 11,
     "msrp_ratio": null
   }
 ]
