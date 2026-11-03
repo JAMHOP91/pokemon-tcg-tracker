@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Ogerpon ex Premium Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-ogerpon-ex-premium-collection-pre-order",
-    "price": "$75.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Ogerpon-ex-Premium-Collection_EN-1024x943.jpg?v=1725683157",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Poke Ball Tin - Series 9 (Assorted)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-poke-ball-tin-series-9-assortedpre-order",
     "price": "$28.99",
@@ -11105,5 +11094,17 @@
     "limit": "Maximum 1 per person",
     "seen_count": 8,
     "msrp_ratio": null
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolution Delta Reign Elite Trainer Box",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box",
+    "price": "$189.99",
+    "timestamp": "2026-11-03T02:16:04.715608+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Delta-Reign-Elite-Trainer-Box.png?v=1793671970",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.86
   }
 ]
