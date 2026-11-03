@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable Kingambit Illustration Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-kingambit-illustration-collection",
-    "price": "$36.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable Mini Tin (Assorted)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-mini-tin-assorted",
     "price": "$16.99",
@@ -11123,6 +11112,18 @@
     "image": "https://static.wixstatic.com/media/beffc4_8b333e3c38e643789b56184d1b20928e~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "#43 Machamp - Pok\u00e9mon League (2002) - WotC Black Star Promo (LP+)",
+    "url": "https://thegametree.co.nz/products/43-machamp-pokemon-league-february-2002-wotc-black-star-promo",
+    "price": "$149.88",
+    "timestamp": "2026-11-03T08:20:54.249839+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/products/43_Machamp.png?v=1642993859",
+    "limit": null,
+    "seen_count": 3,
     "msrp_ratio": null
   }
 ]
