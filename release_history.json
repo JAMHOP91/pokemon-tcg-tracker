@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Poke Ball Tin - Series 9 (Assorted)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-poke-ball-tin-series-9-assortedpre-order",
-    "price": "$28.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 8 Surging Sparks Blisters (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-blisters-pre-order",
-    "price": "$6.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 8 Surging Sparks Booster Bundle (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-booster-bundle-pre-order",
     "price": "$38.99",
@@ -11106,5 +11084,29 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": 1.86
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions Delta Reign Booster Bundle",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-delta-reign-booster-bundle",
+    "price": "$99.99",
+    "timestamp": "2026-11-03T02:35:08.002311+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Delta-Reign-Booster-Bundle.png?v=1793672995",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.82
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG 30th Celebration Elite Trainer Box",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box",
+    "price": "$159.99",
+    "timestamp": "2026-11-03T02:35:08.002311+00:00",
+    "priority": true,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box_EN.webp?v=1789344673",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.57
   }
 ]
