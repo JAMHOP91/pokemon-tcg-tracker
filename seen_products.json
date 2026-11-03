@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister"
     ],
     "zero_streak": 1999,
     "warned": true,
@@ -355,7 +355,9 @@
       "9328351772911",
       "9388711182575",
       "9640492007663",
-      "9640491909359"
+      "9328351772911",
+      "9640491909359",
+      "9388711182575"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2548,8 +2550,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9151446548736",
-      "9366282600704"
+      "9366282600704",
+      "9151446548736"
     ],
     "zero_streak": 0,
     "warned": false,
