@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 8 Surging Sparks Booster Bundle (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-booster-bundle-pre-order",
-    "price": "$38.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 8 Surging Sparks Checklane Blister",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-checklane-blister-pre-order",
     "price": "$11.99",
@@ -11108,5 +11097,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": 1.57
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions Delta Reign Booster",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-delta-reign-booster",
+    "price": "$10.99",
+    "timestamp": "2026-11-03T03:05:06.672677+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Delta-Reign-Booster-1.png?v=1793674977",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
   }
 ]
