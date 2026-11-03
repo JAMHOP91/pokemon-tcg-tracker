@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 7 Stellar Crown Build & Battle Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-7-stellar-crown-build-battle-box-pre-order",
-    "price": "$39.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Holiday Calendar (2024)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-holiday-calendar-2024-pre-order",
     "price": "$84.99",
@@ -11116,5 +11105,17 @@
     "limit": null,
     "seen_count": 2,
     "msrp_ratio": null
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "30TH CELEBRATION ELITE TRAINER BOX",
+    "url": "https://hobbymaster.co.nz/products/product/47423",
+    "price": "$370.00 $400.00",
+    "timestamp": "2026-11-03T04:41:09.782439+00:00",
+    "priority": true,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 2,
+    "msrp_ratio": 3.62
   }
 ]
