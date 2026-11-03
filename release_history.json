@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6.5 Shrouded Fable Elite Trainer Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-5-shrouded-fable-elite-trainer-box",
-    "price": "$84.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Palafin ex Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-palafin-ex-box",
     "price": "$36.99",
@@ -11127,6 +11116,18 @@
     "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCGMegaZygardeexPremiumCollection-1.jpg?v=1779967635",
     "limit": null,
     "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: Charizard ex Premium Collection",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-charizard-ex-premium-collection",
+    "price": "$299.00",
+    "timestamp": "2026-11-03T20:11:15.696897+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_8b333e3c38e643789b56184d1b20928e~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 2,
     "msrp_ratio": null
   }
 ]
