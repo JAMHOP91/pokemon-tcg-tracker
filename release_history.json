@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Paldea Adventure Chest",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-paldea-adventure-chest-pre-order",
-    "price": "$89.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Stacking Tin 2024",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-stacking-tin-2024-pre-order",
     "price": "$22.99",
@@ -11150,5 +11139,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": 2.63
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "#33 Scizor - Pok\u00e9mon League (June 2001) - WotC Black Star Promo",
+    "url": "https://thegametree.co.nz/products/33-scizor-pokemon-league-june-2001-wotc-black-star-promo",
+    "price": "$33.98",
+    "timestamp": "2026-11-04T08:40:48.390234+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/products/33_Scizor.png?v=1642993728",
+    "limit": null,
+    "seen_count": 3,
+    "msrp_ratio": null
   }
 ]
