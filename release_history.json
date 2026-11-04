@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mabosstiff ex Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mabosstiff-ex-box-pre-order",
-    "price": "$26.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Combined Powers Premium Collection",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-combined-powers-premium-collection-pre-order",
     "price": "$90.99",
@@ -11153,6 +11142,18 @@
     "image": "http://toytime.co.nz/cdn/shop/files/2318353445.jpg?v=1784500677",
     "limit": null,
     "seen_count": 6,
+    "msrp_ratio": null
+  },
+  {
+    "site": "TCG NZ",
+    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014Pitch Black Elite Trainer Box",
+    "url": "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-pitch-black-elite-trainer-box",
+    "price": "$130.00",
+    "timestamp": "2026-11-04T21:16:01.201592+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/f9a8f0_af437f0aa742452782eea457fada67f6~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": "Limit 1 per customer",
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
