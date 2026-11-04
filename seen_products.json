@@ -18,9 +18,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/heavyhitters",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-      "https://www.coolshit.co.nz/product/premiumsealedcase"
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/heavyhitters"
     ],
     "zero_streak": 1396,
     "warned": true,
@@ -393,9 +393,9 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
-      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2377,9 +2377,9 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
+      "8832667877399",
       "8770963537943",
-      "8888685723671",
-      "8832667877399"
+      "8888685723671"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2682,6 +2682,8 @@
   "Big Potato Collectibles - Pokemon Sealed": {
     "seen_ids": [
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-mega-emboar-tin",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-rebel-clash-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-chaos-rising-blister-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-mini-tin-assorted",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-binder-collection-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-2",
