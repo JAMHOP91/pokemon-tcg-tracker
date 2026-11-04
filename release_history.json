@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Blister",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-blister-pre-order",
-    "price": "$6.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Paldea Adventure Chest",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-paldea-adventure-chest-pre-order",
     "price": "$89.99",
@@ -11149,5 +11138,17 @@
     "limit": "Max purchase: 1 unit",
     "seen_count": 1,
     "msrp_ratio": null
+  },
+  {
+    "site": "Redline Trading - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG - 30th Celebration - Elite Trainer Box (English)",
+    "url": "https://redlinetrading.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box-english",
+    "price": "$269.00",
+    "timestamp": "2026-11-04T06:34:53.173846+00:00",
+    "priority": true,
+    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/30thCelebrationEliteTrainerBox1.png?v=1793773201",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 2.63
   }
 ]
