@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Combined Powers Premium Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-combined-powers-premium-collection-pre-order",
-    "price": "$90.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 4.5 Paldean Fates Booster Bundle Set",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-5-paldean-fates-booster-bundle-set-pre-order",
     "price": "$49.99",
@@ -11154,6 +11143,18 @@
     "image": "https://static.wixstatic.com/media/f9a8f0_af437f0aa742452782eea457fada67f6~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     "limit": "Limit 1 per customer",
     "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Delta Reign booster x1 pre order",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-delta-reign-booster",
+    "price": "$10.99",
+    "timestamp": "2026-11-04T21:31:08.891722+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-Delta-Reign-Boosters.webp?v=1793677171",
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
