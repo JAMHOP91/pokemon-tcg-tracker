@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Roaring Moon/ Iron Valiant ex Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-roaring-moon-iron-valiant-ex-box",
-    "price": "$30.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mabosstiff ex Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mabosstiff-ex-box-pre-order",
     "price": "$26.99",
@@ -11152,6 +11141,18 @@
     "image": "https://static.wixstatic.com/media/beffc4_9c188094f295464cba900477d0619d5c~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Pitch Black Single Pack",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-single-pack",
+    "price": "$11.00",
+    "timestamp": "2026-11-04T19:51:26.737873+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2318353445.jpg?v=1784500677",
+    "limit": null,
+    "seen_count": 6,
     "msrp_ratio": null
   }
 ]
