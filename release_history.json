@@ -1,83 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Checklane Blister",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-checklane-blister-pre-order",
-    "price": "$10.49",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Elite Trainer Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-elite-trainer-box-pre-order",
-    "price": "$81.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Three Booster Blister",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-three-booster-blister-pre-order",
-    "price": "$19.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/X_twilight-masquerade-3-pack-blister0718.jpg?v=1711173795",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Vibrant Paldea Mini Tin",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-vibrant-paldea-mini-tin-assorted",
-    "price": "$15.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Armarouge ex Premium Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-armarouge-ex-premium-collection",
-    "price": "$59.50",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Booster Bundle",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-booster-bundle-pre-order-1",
-    "price": "$40.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Grafaiai ex Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-grafaiai-ex-box-pre-order",
-    "price": "$32.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Build & Battle Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-build-battle-box-pre-order",
     "price": "$31.99",
@@ -11135,6 +11058,90 @@
     "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tin-1.jpg?v=1793678370",
     "limit": null,
     "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions \u2014Delta Reign Elite Trainer Box",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-mega-evolutions-delta-reign-elite-trainer-box/",
+    "price": "$143.48",
+    "timestamp": "2026-11-04T01:16:06.305728+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/30509/images/80365/10-10438-111-Delta-Reign-ETB-1__93332.1793753626.220.220.jpg?c=2",
+    "limit": "Max purchase: 1 unit",
+    "seen_count": 0,
+    "msrp_ratio": 1.4
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Tin Greninja ex",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-greninja-ex/",
+    "price": "$94.78",
+    "timestamp": "2026-11-04T01:16:06.305728+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/30508/images/80363/704150_in_1000x1000_1__02966.1793753623.220.220.webp?c=2",
+    "limit": "Max purchase: 1 unit",
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Tin Sylveon ex",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-sylveon-ex/",
+    "price": "$94.78",
+    "timestamp": "2026-11-04T01:16:06.305728+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/30507/images/80361/Pokemon-TCG-30th-Celebration-Tin-Day_EN__66105.1793753620.220.220.jpg?c=2",
+    "limit": "Max purchase: 1 unit",
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014 Delta Reign Booster Bundle",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-mega-evolution-delta-reign-booster-bundle/",
+    "price": "$60.00",
+    "timestamp": "2026-11-04T01:16:06.305728+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/30506/images/80358/10-10439-109-Delta-Reign-Booster-Bundle-1__91509.1793753617.220.220.jpg?c=2",
+    "limit": "Max purchase: 1 unit",
+    "seen_count": 0,
+    "msrp_ratio": 1.09
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Booster Box",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-mega-evolution-delta-reign-booster-box/",
+    "price": "$338.26",
+    "timestamp": "2026-11-04T01:16:06.305728+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/30505/images/80351/10-10446-120-Delta-Reign-Boosters-2__54247.1793753612.220.220.jpg?c=2",
+    "limit": "Max purchase: 1 unit",
+    "seen_count": 0,
+    "msrp_ratio": 1.02
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Three-Booster Blister",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-mega-evolution-delta-reign-three-booster-blister/",
+    "price": "$30.43",
+    "timestamp": "2026-11-04T01:16:06.305728+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/30504/images/80349/10-10440-120-Delta-Reign-3-Booster-Blister-1__93968.1793753609.220.220.jpg?c=2",
+    "limit": "Max purchase: 1 unit",
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG Lumiose City Mini Tin (Assorted)",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
+    "price": "$25.00",
+    "timestamp": "2026-11-04T01:16:06.305728+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Lumiose_City_Mini_Tin.jpg?v=1780985527",
+    "limit": null,
+    "seen_count": 10,
     "msrp_ratio": null
   }
 ]
