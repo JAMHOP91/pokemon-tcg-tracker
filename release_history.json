@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Booster",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-booster-pre-order",
-    "price": "$5.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Blister",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-blister-pre-order",
     "price": "$6.99",
@@ -11147,6 +11136,18 @@
     "image": "http://www.playx.co.nz/cdn/shop/files/10-10440-120-Delta-Reign-3-Booster-Blister-1_1.jpg?v=1791536279",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Three-Booster Blister",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-mega-evolution-delta-reign-three-booster-blister/",
+    "price": "$30.43",
+    "timestamp": "2026-11-04T05:41:08.044784+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/30504/images/80349/10-10440-120-Delta-Reign-3-Booster-Blister-1__93968.1793753609.220.220.jpg?c=2",
+    "limit": "Max purchase: 1 unit",
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
