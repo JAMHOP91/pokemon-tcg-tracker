@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Stacking Tin 2024",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-stacking-tin-2024-pre-order",
-    "price": "$22.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Stacking-Tin-Q1-2024-Display_EN-1024x886.jpg?v=1705994474",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Crown Zenith Premium Collection - Pikachu VMAX",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-crown-zenith-premium-collection-pikachu-vmax",
     "price": "$69.99",
@@ -11148,6 +11137,18 @@
     "timestamp": "2026-11-04T08:40:48.390234+00:00",
     "priority": false,
     "image": "http://thegametree.co.nz/cdn/shop/products/33_Scizor.png?v=1642993728",
+    "limit": null,
+    "seen_count": 3,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Perfect Order Booster Box",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster-pre-order-27-03-2026",
+    "price": "$340.00",
+    "timestamp": "2026-11-04T09:10:53.019916+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2_3072bdfc-7285-41e0-a5bc-07ef49087202.webp?v=1771450521",
     "limit": null,
     "seen_count": 3,
     "msrp_ratio": null
