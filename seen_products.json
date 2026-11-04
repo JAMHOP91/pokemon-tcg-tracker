@@ -323,6 +323,7 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10119290454256",
       "10218488725744",
       "10119290454256",
       "10070962241776"
@@ -516,6 +517,12 @@
       "7964213051453",
       "7964211118141",
       "7915168563261",
+      "7915166564413",
+      "7915173249085",
+      "7964206039101",
+      "7964213051453",
+      "7964217802813",
+      "7964211118141",
       "7915175608381",
       "7915239145533"
     ],
@@ -2124,9 +2131,9 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9228422611107",
       "15463445528739",
-      "9228412158115"
+      "9228412158115",
+      "9228422611107"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2259,7 +2266,7 @@
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-greninja-ex/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-evolutions-delta-reign-elite-trainer-box/",
       "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-evolution-delta-reign-three-booster-blister/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-sylveon-ex/"
     ],
     "zero_streak": 0,
     "warned": false,
