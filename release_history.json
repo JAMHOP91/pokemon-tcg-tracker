@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Build & Battle Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-build-battle-box-pre-order",
-    "price": "$31.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Iono Premium Tournament Collection",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-iono-premium-tournament-collection-pre-order",
     "price": "$74.99",
@@ -11143,5 +11132,17 @@
     "limit": null,
     "seen_count": 10,
     "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon Pre-Orders",
+    "title": "[SOLD OUT] Pokemon TCG ME06 Delta Reign Booster Box Preorder, ship on November 6, 2026",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-box",
+    "price": "$400.00",
+    "timestamp": "2026-11-04T02:40:56.643869+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.21
   }
 ]
