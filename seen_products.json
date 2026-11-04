@@ -2056,9 +2056,9 @@
   },
   "MetaLife - Pokemon TCG": {
     "seen_ids": [
+      "10365187621160",
       "15402635297064",
-      "10441619603752",
-      "10365187621160"
+      "10441619603752"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2558,8 +2558,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9366282600704",
-      "9151446548736"
+      "9151446548736",
+      "9366282600704"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2771,8 +2771,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
