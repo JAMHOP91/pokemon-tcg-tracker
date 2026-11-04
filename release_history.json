@@ -1,39 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Booster",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-booster-pre-order",
-    "price": "$6.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Booster Bundle",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-booster-bundle-pre-order",
-    "price": "$39.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Build & Battle Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-build-battle-box-pre-order",
-    "price": "$39.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 6 Twilight Masquerade Checklane Blister",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-6-twilight-masquerade-checklane-blister-pre-order",
     "price": "$10.49",
@@ -11133,5 +11100,41 @@
     "limit": null,
     "seen_count": 4,
     "msrp_ratio": 1.8
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolution Delta Reign Elite Trainer Box",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box",
+    "price": "$189.99",
+    "timestamp": "2026-11-04T01:01:34.082976+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Delta-Reign-Elite-Trainer-Box.png?v=1793671970",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": 1.86
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions Delta Reign Three Booster Blister",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-delta-reign-three-booster-blister",
+    "price": "$46.99",
+    "timestamp": "2026-11-04T01:01:34.082976+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Delta-Reign-Three-Booster-Blister.png?v=1793676664",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG 30th Celebration Tin",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-tin",
+    "price": "$149.99",
+    "timestamp": "2026-11-04T01:01:34.082976+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tin-1.jpg?v=1793678370",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": null
   }
 ]
