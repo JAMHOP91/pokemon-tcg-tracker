@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Iono Premium Tournament Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-iono-premium-tournament-collection-pre-order",
-    "price": "$74.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Three booster blister",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-three-booster-blister-pre-order",
-    "price": "$23.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 5 Temporal Forces Elite Trainer Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-5-temporal-forces-elite-trainer-box-pre-order",
     "price": "$67.99",
@@ -11144,5 +11122,29 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": 1.21
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "#18 Team Rocket's Meowth - Pok\u00e9mon League (August 2000) - WotC Black Star Promo (LP+)",
+    "url": "https://thegametree.co.nz/products/18-team-rockets-meowth-pokemon-league-august-2000-wotc-black-star-promo",
+    "price": "$53.98",
+    "timestamp": "2026-11-04T03:10:47.079261+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/products/18_Team_Rockets_Meowth.png?v=1642993666",
+    "limit": null,
+    "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Pitch Black Booster Box",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-booster-box-pre-order-17-7-2026",
+    "price": "$360.00",
+    "timestamp": "2026-11-04T03:10:47.079261+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/712845506_122203714544471322_1472360028819368492_n.jpg?v=1780891415",
+    "limit": "LIMIT 1 PER PERSON",
+    "seen_count": 4,
+    "msrp_ratio": null
   }
 ]
