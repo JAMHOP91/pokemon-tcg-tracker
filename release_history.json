@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Crown Zenith Premium Collection - Pikachu VMAX",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-crown-zenith-premium-collection-pikachu-vmax",
-    "price": "$69.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Roaring Moon/ Iron Valiant ex Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-roaring-moon-iron-valiant-ex-box",
     "price": "$30.99",
@@ -11151,6 +11140,18 @@
     "image": "http://toytime.co.nz/cdn/shop/files/2_3072bdfc-7285-41e0-a5bc-07ef49087202.webp?v=1771450521",
     "limit": null,
     "seen_count": 3,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: First Partner Illustration Collection - Series 2",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-2",
+    "price": "$109.00",
+    "timestamp": "2026-11-04T17:21:05.952633+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_9c188094f295464cba900477d0619d5c~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
