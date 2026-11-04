@@ -19,8 +19,8 @@
   "Cool Shit - Pokemon": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-      "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/heavyhitters"
+      "https://www.coolshit.co.nz/product/heavyhitters",
+      "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 1269,
     "warned": true,
@@ -353,6 +353,7 @@
   "WP Games - Pokemon TCG": {
     "seen_ids": [
       "9640491909359",
+      "9328351772911",
       "9388711182575",
       "9640492007663",
       "9328351772911"
@@ -2173,8 +2174,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672252792878",
-      "7672253120558"
+      "7672253120558",
+      "7672252792878"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2192,10 +2193,10 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8909649739974",
-      "8789885321414",
+      "8970824843462",
       "8931072311494",
-      "8970824843462"
+      "8909649739974",
+      "8789885321414"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2848,8 +2849,8 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15277806289266",
-      "15231685362034"
+      "15231685362034",
+      "15277806289266"
     ],
     "zero_streak": 0,
     "warned": false,
