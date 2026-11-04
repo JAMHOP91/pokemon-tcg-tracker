@@ -393,8 +393,8 @@
   },
   "Collect All Day": {
     "seen_ids": [
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
     ],
     "zero_streak": 0,
@@ -2169,8 +2169,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672252792878",
-      "7672253120558"
+      "7672253120558",
+      "7672252792878"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2377,9 +2377,9 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8888685723671",
       "8832667877399",
-      "8770963537943"
+      "8770963537943",
+      "8888685723671"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2757,9 +2757,9 @@
     "seen_ids": [
       "https://www.gameslab.co.nz/products/pokemon-mega-zygarde-ex-premium-collection"
     ],
-    "zero_streak": 0,
+    "zero_streak": 1,
     "warned": false,
-    "first_failure_at": null,
+    "first_failure_at": "2026-11-04T14:40:52.549848+00:00",
     "prices": {},
     "availability": {},
     "last_seen": {
@@ -2769,8 +2769,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
