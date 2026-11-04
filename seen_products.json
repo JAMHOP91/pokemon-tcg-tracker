@@ -352,6 +352,7 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9640491909359",
       "9328351772911",
       "9640491909359",
       "9388711182575",
@@ -512,6 +513,10 @@
       "7964211118141",
       "7915239145533",
       "7915166564413",
+      "7915173249085",
+      "7915155521597",
+      "7964215935037",
+      "7964206039101",
       "7915168563261",
       "7915173249085",
       "7915175608381",
@@ -639,7 +644,7 @@
       "10280802287700",
       "10280790261844",
       "10280784822356",
-      "10280809857108"
+      "10280802287700"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2128,9 +2133,9 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "15463445528739",
       "9228422611107",
-      "9228412158115"
+      "9228412158115",
+      "15463445528739"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2173,8 +2178,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672253120558",
-      "7672252792878"
+      "7672252792878",
+      "7672253120558"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2261,6 +2266,8 @@
       "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-greninja-ex/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-evolution-delta-reign-three-booster-blister/",
+      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-greninja-ex/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-evolution-delta-reign-booster-box/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-sylveon-ex/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-evolutions-delta-reign-elite-trainer-box/"
