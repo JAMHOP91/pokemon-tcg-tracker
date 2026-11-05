@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 4.5 Paldean Fates Tin",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-5-paldean-fates-tin",
-    "price": "$56.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Trading Card Game Classic Collection (Stock Arrived)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-trading-card-game-classic-pre-order",
     "price": "$639.99",
@@ -11160,6 +11149,18 @@
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PitchBlack3pkBlister_1webp.webp?v=1784364768",
     "limit": null,
     "seen_count": 4,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Three-Booster Blister",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-mega-evolution-delta-reign-three-booster-blister/",
+    "price": "$30.43",
+    "timestamp": "2026-11-05T16:22:19.250727+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/30504/images/80349/10-10440-120-Delta-Reign-3-Booster-Blister-1__93968.1793753609.220.220.jpg?c=2",
+    "limit": "Max purchase: 1 unit",
+    "seen_count": 2,
     "msrp_ratio": null
   }
 ]
