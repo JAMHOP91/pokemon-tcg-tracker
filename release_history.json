@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 4.5 Paldean Fates Mini Tin (Assorted)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-5-paldean-fates-mini-tin-assorted",
-    "price": "$18.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 4.5 Paldean Fates Premium Collection",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-5-paldean-fates-premium-collection-pre-order",
     "price": "$94.99",
@@ -11157,6 +11146,18 @@
     "image": "https://static.wixstatic.com/media/6f86e7_7ca4d915715543f49507c0da03607651~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG Lumiose City Mini Tin (Assorted)",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
+    "price": "$25.00",
+    "timestamp": "2026-11-05T09:40:50.991854+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Lumiose_City_Mini_Tin.jpg?v=1780985527",
+    "limit": null,
+    "seen_count": 11,
     "msrp_ratio": null
   }
 ]
