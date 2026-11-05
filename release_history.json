@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 4.5 Paldean Fates Premium Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-5-paldean-fates-premium-collection-pre-order",
-    "price": "$94.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 4.5 Paldean Fates Tech Sticker Blister",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-5-paldean-fates-tech-sticker-blister-pre-order",
     "price": "$32.50",
@@ -11159,5 +11148,17 @@
     "limit": null,
     "seen_count": 11,
     "msrp_ratio": null
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "[SOLD OUT] Delta Reign Booster Bundle | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/delta-reign-booster-bundle-pokemon-tcg",
+    "price": "$60.00",
+    "timestamp": "2026-11-05T14:06:16.237357+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.09
   }
 ]
