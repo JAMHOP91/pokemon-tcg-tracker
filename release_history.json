@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 4 Paradox Rift Booster",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-paradox-rift-booster-pre-order",
-    "price": "$7.00",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 4 Paradox Rift Booster Bundle",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-paradox-rift-booster-bundle-pre-order",
     "price": "$40.00",
@@ -11165,5 +11154,17 @@
     "limit": null,
     "seen_count": 1,
     "msrp_ratio": null
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Delta Reign booster bundle",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-delta-reign-booster-bundle",
+    "price": "$69.99",
+    "timestamp": "2026-11-05T18:22:13.531999+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/delta-reign-bundle.webp?v=1793677020",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.27
   }
 ]
