@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Paldea Partners Tin",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-paldea-partners-tin-pre-order",
-    "price": "$39.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Holiday 2023 Calendar (On Sale!)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-holiday-2023-calendar-pre-order",
     "price": "$54.99",
@@ -11169,5 +11158,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": 1.95
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: Delta Reign Booster Blister Pack",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-delta-reign-booster-blister-pack",
+    "price": "$15.00",
+    "timestamp": "2026-11-05T21:18:45.214040+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_3e0d0ce12694413397708ed9a503c7d3~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
   }
 ]
