@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 4.5 Paldean Fates Booster Bundle Set",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-5-paldean-fates-booster-bundle-set-pre-order",
-    "price": "$49.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 4.5 Paldean Fates Elite Trainer Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-5-paldean-fates-elite-trainer-box-pre-order",
     "price": "$84.99",
@@ -11153,6 +11142,18 @@
     "timestamp": "2026-11-04T21:31:08.891722+00:00",
     "priority": false,
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-Delta-Reign-Boosters.webp?v=1793677171",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Surging Sparks Booster Box",
+    "url": "https://www.magicreddragon.co.nz/product-page/pokemon-tcg-surging-sparks-booster-box",
+    "price": "$499.00",
+    "timestamp": "2026-11-05T00:05:34.583444+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/6f86e7_dd0493af716f4322a9b85f9cc4085187~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
