@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 4 Paradox Rift Booster Bundle",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-paradox-rift-booster-bundle-pre-order",
-    "price": "$40.00",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 4 Paradox Rift Elite Trainer Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-paradox-rift-elite-trainer-box-pre-order",
     "price": "$84.99",
@@ -11166,5 +11155,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": 1.27
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Pitch Black Booster Box",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-booster-box-pre-order-17-7-2026",
+    "price": "$360.00",
+    "timestamp": "2026-11-05T20:10:44.953457+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/712845506_122203714544471322_1472360028819368492_n.jpg?v=1780891415",
+    "limit": "LIMIT 1 PER PERSON",
+    "seen_count": 5,
+    "msrp_ratio": null
   }
 ]
