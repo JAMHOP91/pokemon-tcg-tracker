@@ -18,8 +18,8 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/heavyhitters",
+      "https://www.coolshit.co.nz/product/premiumsealedcase",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
     ],
     "zero_streak": 1510,
@@ -636,8 +636,8 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10280790261844",
-      "10280809857108"
+      "10280809857108",
+      "10280790261844"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2167,8 +2167,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672252792878",
-      "7672253120558"
+      "7672253120558",
+      "7672252792878"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2256,7 +2256,9 @@
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-greninja-ex/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-evolution-delta-reign-booster-box/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-sylveon-ex/",
-      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/"
+      "https://hobbystation.co.nz/pokemon-tcg-mega-evolution-delta-reign-booster-box/",
+      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-greninja-ex/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2533,7 +2535,7 @@
       "8063603605588",
       "10170166575188",
       "10170361905236",
-      "10214066389076"
+      "10170166575188"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2771,8 +2773,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2790,9 +2792,9 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
-      "8231328841846",
       "8083552370806",
-      "7650220736630"
+      "7650220736630",
+      "8231328841846"
     ],
     "zero_streak": 0,
     "warned": false,
