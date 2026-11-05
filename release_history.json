@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: November 2023 Collectors Chest (On Sale!)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-november-2023-collectors-chest-pre-order",
-    "price": "$42.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 4 Paradox Rift Build & Battle Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-paradox-rift-build-battle-box-pre-order",
-    "price": "$26.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 4 Paradox Rift Booster",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-paradox-rift-booster-pre-order",
     "price": "$7.00",
@@ -11163,5 +11141,29 @@
     "limit": "Max purchase: 1 unit",
     "seen_count": 1,
     "msrp_ratio": 1.0
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "#30 Togepi - Pok\u00e9mon League (January 2001) - WotC Black Star Promo (LP+)",
+    "url": "https://thegametree.co.nz/products/30-togepi-pokemon-league-january-2001-wotc-black-star-promo",
+    "price": "$52.88",
+    "timestamp": "2026-11-05T17:11:01.546647+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/products/30_Togepi.png?v=1642993715",
+    "limit": null,
+    "seen_count": 4,
+    "msrp_ratio": null
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "**CLEARANCE** Pokemon Surprise Attack Game - Togetic & Bulbasaur",
+    "url": "https://thegametree.co.nz/products/pokemon-surprise-attack-game-togetic-bulbasaur",
+    "price": "$29.88",
+    "timestamp": "2026-11-05T17:11:01.546647+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/files/SurpriseAttackGame_Togetic_Bulbasaur.png?v=1763442350",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": null
   }
 ]
