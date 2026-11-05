@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 4 Paradox Rift Elite Trainer Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-4-paradox-rift-elite-trainer-box-pre-order",
-    "price": "$84.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Pokeball Tin 2023 (On Sale!)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-pokeball-tin-2023-assorted-pre-order",
-    "price": "$22.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Paldea Partners Tin",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-paldea-partners-tin-pre-order",
     "price": "$39.99",
@@ -11167,5 +11145,29 @@
     "limit": "LIMIT 1 PER PERSON",
     "seen_count": 5,
     "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: Delta Reign Sealed Booster Box (36)",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-delta-reign-sealed-booster-box-36",
+    "price": "$450.00",
+    "timestamp": "2026-11-05T21:11:12.996648+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_ed27a83215cc4c4ea92bce1ac96cd941~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.36
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: Delta Reign Elite Trainer Box",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-delta-reign-elite-trainer-box",
+    "price": "$199.00",
+    "timestamp": "2026-11-05T21:11:12.996648+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_d498e14e885b458d817c9abf954498fa~mv2.avif/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.95
   }
 ]
