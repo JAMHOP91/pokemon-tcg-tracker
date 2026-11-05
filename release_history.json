@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Pencil Tin (On Sale!)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-pencil-tin-pre-order",
-    "price": "$13.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 151 Elite Trainer Box",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-151-elite-trainer-box-pre-order",
     "price": "$89.99",
@@ -11170,6 +11159,18 @@
     "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
     "limit": null,
     "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "[PRE-ORDER] Pokemon TCG - Mega Evolution 6 Delta Reign Booster",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-6-delta-reign-booster",
+    "price": "$11.90",
+    "timestamp": "2026-11-05T22:50:49.861517+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/delta-reign-booster-target-2.jpg?v=1791861436",
+    "limit": null,
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
