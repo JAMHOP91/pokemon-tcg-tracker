@@ -41,6 +41,8 @@
       "7439107129493",
       "7330099691669",
       "7439125512341",
+      "7330103165077",
+      "7330099200149",
       "7330101330069",
       "7330100445333",
       "8964116873365",
@@ -2238,11 +2240,11 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-sylveon-ex/",
-      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-evolution-delta-reign-three-booster-blister/",
-      "https://hobbystation.co.nz/pokemon-tcg-mega-evolution-delta-reign-booster-box/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-greninja-ex/"
+      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-greninja-ex/",
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-sylveon-ex/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-evolution-delta-reign-booster-box/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2763,8 +2765,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
