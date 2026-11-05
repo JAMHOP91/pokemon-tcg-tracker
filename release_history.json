@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 151 Elite Trainer Box",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-151-elite-trainer-box-pre-order",
-    "price": "$89.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 151 Collection - Zapdos ex",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-151-collection-zapdos-ex-pre-order",
-    "price": "$39.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 151 Collection - Alakazam ex",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-151-collection-alakazam-ex-pre-order",
     "price": "$39.99",
@@ -11171,6 +11149,30 @@
     "image": "http://www.metalife.co.nz/cdn/shop/files/delta-reign-booster-target-2.jpg?v=1791861436",
     "limit": null,
     "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolution 6 Delta Reign Three Booster Blister",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-6-delta-reign-three-booster-blister",
+    "price": "$49.80",
+    "timestamp": "2026-11-05T23:10:50.110311+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/delta-reign-blister-milsims-1.jpg?v=1791853081",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Perfect Order Single Pack",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-perfect-order-single-pack",
+    "price": "$9.99",
+    "timestamp": "2026-11-05T23:10:50.110311+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-06-26140207.jpg?v=1782439750",
+    "limit": null,
+    "seen_count": 2,
     "msrp_ratio": null
   }
 ]
