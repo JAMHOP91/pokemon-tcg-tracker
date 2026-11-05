@@ -19,8 +19,8 @@
   "Cool Shit - Pokemon": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/heavyhitters",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/heavyhitters"
     ],
     "zero_streak": 1502,
     "warned": true,
@@ -2254,6 +2254,7 @@
     "seen_ids": [
       "https://hobbystation.co.nz/pokemon-tcg-mega-evolution-delta-reign-booster-box/",
       "https://hobbystation.co.nz/pokemon-tcg-mega-evolution-delta-reign-three-booster-blister/",
+      "https://hobbystation.co.nz/pokemon-tcg-mega-evolution-delta-reign-booster-box/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-greninja-ex/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-sylveon-ex/",
       "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/"
@@ -2771,8 +2772,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2842,8 +2843,8 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15231685362034",
       "15277806289266",
+      "15231685362034",
       "15281980113266"
     ],
     "zero_streak": 0,
