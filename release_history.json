@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 151 Collection - Alakazam ex",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-151-collection-alakazam-ex-pre-order",
-    "price": "$39.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 151 Booster Bundle Set (Back-Order)(Limit 2 per Customer)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-151-booster-bundle-set-pre-order",
     "price": "$98.99",
@@ -11174,5 +11163,17 @@
     "limit": null,
     "seen_count": 2,
     "msrp_ratio": null
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Delta Reign booster bundle",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-delta-reign-booster-bundle",
+    "price": "$69.99",
+    "timestamp": "2026-11-05T23:28:28.355526+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/delta-reign-bundle.webp?v=1793677020",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": 1.27
   }
 ]
