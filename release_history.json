@@ -1,17 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Trading Card Game Classic Collection (Stock Arrived)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-trading-card-game-classic-pre-order",
-    "price": "$639.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-Trading-Card-Game-Classic_EN-1024x663.jpg?v=1695378252",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: November 2023 Collectors Chest (On Sale!)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-november-2023-collectors-chest-pre-order",
     "price": "$42.99",
@@ -11162,5 +11151,17 @@
     "limit": "Max purchase: 1 unit",
     "seen_count": 2,
     "msrp_ratio": null
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Booster Box (Sealed Box)",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-mega-evolution-delta-reign-booster-box/",
+    "price": "$329.57",
+    "timestamp": "2026-11-05T16:40:53.538134+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/30505/images/80351/10-10446-120-Delta-Reign-Boosters-2__54247.1793753612.220.220.jpg?c=2",
+    "limit": "Max purchase: 1 unit",
+    "seen_count": 1,
+    "msrp_ratio": 1.0
   }
 ]
