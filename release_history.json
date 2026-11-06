@@ -1,16 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon Mega Zygarde ex Premium Collection",
-    "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-09-02T03:11:20.364033+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392",
-    "limit": null,
-    "seen_count": 11
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster box 36 packs",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-box-36-packs",
@@ -11192,6 +11181,18 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/4_2Ot1hWAUC43Vw3io7lUA_1200x2008.jpg?v=1792809038",
     "limit": null,
     "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG Lumiose City Mini Tin (Assorted)",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
+    "price": "$25.00",
+    "timestamp": "2026-11-06T06:31:09.258585+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Lumiose_City_Mini_Tin.jpg?v=1780985527",
+    "limit": null,
+    "seen_count": 12,
     "msrp_ratio": null
   }
 ]
