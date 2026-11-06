@@ -395,9 +395,9 @@
   },
   "Collect All Day": {
     "seen_ids": [
-      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set"
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2176,7 +2176,6 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
-      "8789885321414",
       "8970824843462",
       "8931072311494",
       "8909649739974"
@@ -2542,8 +2541,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9366282600704",
-      "9151446548736"
+      "9151446548736",
+      "9366282600704"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2772,9 +2771,9 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
-      "7650220736630",
+      "8231328841846",
       "8083552370806",
-      "8231328841846"
+      "7650220736630"
     ],
     "zero_streak": 0,
     "warned": false,
