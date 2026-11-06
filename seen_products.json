@@ -395,6 +395,7 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
@@ -509,10 +510,10 @@
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [
-      "7915168563261",
+      "7915175608381",
       "7915173249085",
       "7915239145533",
-      "7915175608381"
+      "7915168563261"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2157,8 +2158,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672252792878",
-      "7672253120558"
+      "7672253120558",
+      "7672252792878"
     ],
     "zero_streak": 0,
     "warned": false,
