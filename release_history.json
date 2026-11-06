@@ -1,17 +1,6 @@
 [
   {
     "site": "Game Corner - Pokemon",
-    "title": "Pok\u00e9mon TCG Mega Evolution Pitch Black ETB",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-etb-preorder-ship-on-july-17-2026",
-    "price": "$120.00",
-    "timestamp": "2026-09-02T13:21:51.656354+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME05_Pitch_Black_Elite_Trainer_Box.jpg?v=1777873130",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Game Corner - Pokemon",
     "title": "Pokemon TCG ME02.5 Ascended Heroes Booster Bundle",
     "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-pre-order-ship-on-february-20-2026",
     "price": "$150.00",
@@ -11203,6 +11192,18 @@
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PitchBlackSleevedBooster_1webp.webp?v=1784532248",
     "limit": null,
     "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG ME03 Perfect Order Booster Box",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box-preorder-ship-on-march-27-2026",
+    "price": "$310.00",
+    "timestamp": "2026-11-06T11:34:50.953364+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Base_Mega_Evolution_Perfect_Order_Booster_Box.jpg?v=1772363677",
+    "limit": null,
+    "seen_count": 7,
     "msrp_ratio": null
   }
 ]
