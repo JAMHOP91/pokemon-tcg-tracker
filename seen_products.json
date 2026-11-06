@@ -18,9 +18,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/heavyhitters",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
+      "https://www.coolshit.co.nz/product/heavyhitters"
     ],
     "zero_streak": 1629,
     "warned": true,
@@ -2765,8 +2765,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2784,9 +2784,9 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
+      "8231328841846",
       "7650220736630",
-      "8083552370806",
-      "8231328841846"
+      "8083552370806"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2836,9 +2836,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15277806289266",
       "15281980113266",
-      "15231685362034",
-      "15277806289266"
+      "15231685362034"
     ],
     "zero_streak": 0,
     "warned": false,
