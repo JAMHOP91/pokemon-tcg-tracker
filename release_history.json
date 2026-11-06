@@ -1,27 +1,5 @@
 [
   {
-    "site": "Game Corner - Pokemon",
-    "title": "Pokemon TCG ME02.5 Ascended Heroes Booster Bundle",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-pre-order-ship-on-february-20-2026",
-    "price": "$150.00",
-    "timestamp": "2026-09-02T13:21:51.656354+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Mega_Evolution_Ascended_Heroes_Booster_Bundle.jpg?v=1766019915",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Game Corner - Pokemon",
-    "title": "Pok\u00e9mon TCG Mega Evolution Perfect Order Booster Box",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box-preorder-ship-on-march-27-2026",
-    "price": "$320.00",
-    "timestamp": "2026-09-02T14:41:35.846962+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Base_Mega_Evolution_Perfect_Order_Booster_Box.jpg?v=1772363677",
-    "limit": null,
-    "seen_count": 3
-  },
-  {
     "site": "Razor Leaf - Pokemon TCG",
     "title": "Pokemon TCG - Fusion Strike Elite Trainer Box",
     "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-fusion-strike-elite-trainer-box",
@@ -11204,6 +11182,30 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_Base_Mega_Evolution_Perfect_Order_Booster_Box.jpg?v=1772363677",
     "limit": null,
     "seen_count": 7,
+    "msrp_ratio": null
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolution 6 Delta Reign Three Booster Blister",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-6-delta-reign-three-booster-blister",
+    "price": "$39.80",
+    "timestamp": "2026-11-06T11:42:13.284789+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/delta-reign-blister-milsims-1.jpg?v=1791853081",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Perfect Order: Sealed Booster Pack (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-pack-english",
+    "price": "$9.99",
+    "timestamp": "2026-11-06T11:42:13.284789+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBooster_2webp.webp?v=1780641519",
+    "limit": null,
+    "seen_count": 5,
     "msrp_ratio": null
   }
 ]
