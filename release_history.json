@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 151 Booster Bundle Set (Back-Order)(Limit 2 per Customer)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-151-booster-bundle-set-pre-order",
-    "price": "$98.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 151 Mini Tin (Assorted)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-151-mini-tin-assorted-pre-order",
-    "price": "$20.00",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 151 Ultra-Premium Collection",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-151-ultra-premium-collection-pre-order",
     "price": "$246.50",
@@ -11174,6 +11152,30 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/delta-reign-bundle.webp?v=1793677020",
     "limit": null,
     "seen_count": 1,
+    "msrp_ratio": 1.27
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Lumiose City Mini Tin",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-lumiose-city-mini-tin",
+    "price": "$22.99",
+    "timestamp": "2026-11-06T00:01:48.696810+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/158043444707358.jpg?v=1790125899",
+    "limit": null,
+    "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Masters - Pre-Orders",
+    "title": "[SOLD OUT] PRE ORDER - Pokemon TCG Mega Evolutions 6 Delta Reign Booster Bundle",
+    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolutions-6-delta-reign-booster-bundle",
+    "price": "$70.00",
+    "timestamp": "2026-11-06T00:01:48.696810+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": 1.27
   }
 ]
