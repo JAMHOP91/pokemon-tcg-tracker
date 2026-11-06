@@ -323,9 +323,9 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10218488725744",
       "10070962241776",
-      "10119290454256"
+      "10119290454256",
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -352,9 +352,9 @@
   },
   "WP Games - Pokemon TCG": {
     "seen_ids": [
+      "9640491909359",
       "9328351772911",
       "9388711182575",
-      "9640491909359",
       "9640492007663"
     ],
     "zero_streak": 0,
@@ -393,6 +393,7 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
@@ -622,8 +623,8 @@
   },
   "Game Corner - Pokemon Pre-Orders": {
     "seen_ids": [
-      "10280790261844",
-      "10280809857108"
+      "10280809857108",
+      "10280790261844"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2550,8 +2551,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9366282600704",
-      "9151446548736"
+      "9151446548736",
+      "9366282600704"
     ],
     "zero_streak": 0,
     "warned": false,
