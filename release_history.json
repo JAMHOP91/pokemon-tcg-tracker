@@ -1,17 +1,6 @@
 [
   {
     "site": "Game Corner - Pokemon Pre-Orders",
-    "title": "Pokemon TCG 30th Celebration Elite Trainer Box Preorder, ship on September 16 2026",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box",
-    "price": "$200.00",
-    "timestamp": "2026-09-02T12:51:02.888629+00:00",
-    "priority": true,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/30th-celebration-elite-trainer-box-169-en.png?v=1787042029",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Game Corner - Pokemon Pre-Orders",
     "title": "Pokemon TCG 30th Celebration Knock Out Collection",
     "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection",
     "price": "$30.00",
@@ -11201,6 +11190,18 @@
     "image": "https://static.wixstatic.com/media/6f86e7_13f3e75411e34b9c934c798230a8e623~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
     "limit": null,
     "seen_count": 3,
+    "msrp_ratio": null
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Scarlet & Violet 8 Surging Sparks Booster",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-scarlet-violet-8-surging-sparks-booster",
+    "price": "$14.80",
+    "timestamp": "2026-11-06T09:34:53.942765+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/surging-sparks-36-booster-box.jpg?v=1793930651",
+    "limit": null,
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
