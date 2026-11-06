@@ -1,16 +1,5 @@
 [
   {
-    "site": "Cardtopia - Pre-Orders",
-    "title": "PRE-ORDER : Pokemon TCG: Pok\u00e9mon Day 2026 Collection",
-    "url": "https://www.cardtopia.co.nz/products/pre-order-pokemon-tcg-pokemon-day-2026-collection",
-    "price": "$36.99",
-    "timestamp": "2026-08-31T23:05:00.682723+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/CopyofCopyofCopyofPFCBackground_600x600px_600x600px.png?v=1768298119",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
     "site": "Collect All Day",
     "title": "Venusaur VMAX Starter Set",
     "url": "https://www.collectallday.com/new/venusaur-vmax-starter-set",
@@ -11180,6 +11169,18 @@
     "image": "https://static.wixstatic.com/media/beffc4_9c188094f295464cba900477d0619d5c~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolution - Pitch Black Booster Booster - Mega Excadrill ex",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-booster-mega-excadrill-ex",
+    "price": "$10.90",
+    "timestamp": "2026-11-06T00:34:55.276698+00:00",
+    "priority": false,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/MegaEvolutionPitchBlackBooster-1.jpg?v=1784441647",
+    "limit": null,
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
