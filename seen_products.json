@@ -18,9 +18,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/heavyhitters",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-      "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/heavyhitters"
+      "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 1754,
     "warned": true,
@@ -2772,6 +2772,7 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
+      "8083552370806",
       "8231328841846",
       "8083552370806",
       "7650220736630"
