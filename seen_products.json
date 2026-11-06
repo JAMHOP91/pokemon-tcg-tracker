@@ -395,9 +395,9 @@
   },
   "Collect All Day": {
     "seen_ids": [
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
-      "https://www.collectallday.com/new/flareon-vmax-premium-collection"
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2176,6 +2176,7 @@
   },
   "Toy Time - Pokemon TCG": {
     "seen_ids": [
+      "8789885321414",
       "8970824843462",
       "8789885321414",
       "8909649739974",
@@ -2288,8 +2289,8 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2669,6 +2670,11 @@
       "https://www.bigpotato.co.nz/product-page/copy-of-pokemon-tcg-sword-shield-evolving-skies-booster-pack",
       "https://www.bigpotato.co.nz/product-page/copy-of-pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-mega-emboar-tin",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-mini-tin-assorted",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-mega-feraligatr-tin",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-delta-reign-sealed-booster-box-36",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-binder-collection-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-mini-tin-assorted",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-mega-feraligatr-tin",
