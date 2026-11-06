@@ -1,17 +1,6 @@
 [
   {
     "site": "The Game Tree NZ",
-    "title": "#29 Marill - Pok\u00e9mon League (December 2000) - WotC Black Star Promo",
-    "url": "https://thegametree.co.nz/products/marill-pokemon-league-december-2000-wotc-black-star-promo",
-    "price": "$15.98",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/products/29.png?v=1649201642",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "The Game Tree NZ",
     "title": "#30 Togepi - Pok\u00e9mon League (January 2001) - WotC Black Star Promo (LP+)",
     "url": "https://thegametree.co.nz/products/30-togepi-pokemon-league-january-2001-wotc-black-star-promo",
     "price": "$41.88",
@@ -11213,6 +11202,18 @@
     "image": "https://static.wixstatic.com/media/beffc4_9c188094f295464cba900477d0619d5c~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 5,
+    "msrp_ratio": null
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Pokemon TCG: Mega Forces Tin (Limit 3 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-forces-tin-limit-3-per-customer-pre-order",
+    "price": "$79.99",
+    "timestamp": "2026-11-06T18:35:37.475830+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/poke-force-tins.png?v=1785232857",
+    "limit": "Limit 3 per Customer",
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
