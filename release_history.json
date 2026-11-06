@@ -1,49 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster box 36 packs",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-box-36-packs",
-    "price": "$379.99",
-    "timestamp": "2026-09-02T03:11:20.364033+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
-    "limit": null,
-    "seen_count": 8
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Greninja ex Premium Collection",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-09-02T06:40:50.820828+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Greninja-ex-Premium-Collection.png?v=1782974400",
-    "limit": null,
-    "seen_count": 7
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Mega Evolution: Chaos Rising: Sealed Booster Pack (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-chaos-rising-sealed-booster-pack-english",
-    "price": "$9.99",
-    "timestamp": "2026-09-02T07:40:47.016771+00:00",
-    "priority": false,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/ChaosRisingBooster_1webp.webp?v=1776939197",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$109.99",
-    "timestamp": "2026-09-02T09:10:45.772700+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364",
-    "limit": null,
-    "seen_count": 10
-  },
-  {
     "site": "Hobby Master - Pokemon",
     "title": "MEGA VENUSAUR EX PREMIUM COLLECTION",
     "url": "https://hobbymaster.co.nz/products/product/45878",
@@ -11193,6 +11149,54 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Lumiose_City_Mini_Tin.jpg?v=1780985527",
     "limit": null,
     "seen_count": 12,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: Cosmic Eclipse Booster Pack x 1",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
+    "price": "$199.00",
+    "timestamp": "2026-11-06T06:40:46.866202+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_25fa40dff48d448ca06d02ae7e944c16~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Sealed Pok\u00e9mon TCG: Poke Ball Tin D21 2021 Cosmic Eclipse Vivid Voltage Rebel",
+    "url": "https://www.bigpotato.co.nz/product-page/sealed-pok\u00e9mon-tcg-poke-ball-tin-d21-2021-cosmic-eclipse-vivid-voltage-rebel",
+    "price": "$990.00",
+    "timestamp": "2026-11-06T06:40:46.866202+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_d4e28d31023c4c41a60921ce6a7482a3~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon Center TCG: Fusion Strike Elite Trainer Box",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
+    "price": "$990.00",
+    "timestamp": "2026-11-06T06:40:46.866202+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_c98074ce6da545c4933fad6a4f770f23~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 3,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: First Partner Illustration Collection - Series 2",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-2",
+    "price": "$109.00",
+    "timestamp": "2026-11-06T06:40:46.866202+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_9c188094f295464cba900477d0619d5c~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 4,
     "msrp_ratio": null
   }
 ]
