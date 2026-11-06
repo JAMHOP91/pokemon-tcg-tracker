@@ -44,6 +44,11 @@
       "7330100445333",
       "7330099691669",
       "8964116873365",
+      "7330101330069",
+      "7439125512341",
+      "7330099691669",
+      "7439107129493",
+      "7330103165077",
       "7330088353941",
       "7439084388501",
       "7330101330069",
@@ -682,9 +687,9 @@
   "Magic Red Dragon - Pokemon Pre-Orders": {
     "seen_ids": [
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-delta-reign-full-set-of-products-pre-order",
+      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-greninja-ex-pre-order",
       "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-delta-reign-booster-bundle-pre-order",
-      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-sylveon-ex-pre-order",
-      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-greninja-ex-pre-order"
+      "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-sylveon-ex-pre-order"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2359,7 +2364,7 @@
   },
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
-      "8832667877399",
+      "9041950081047",
       "8770963537943",
       "9041950081047",
       "8888685723671"
