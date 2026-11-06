@@ -18,9 +18,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
+      "https://www.coolshit.co.nz/product/heavyhitters",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
-      "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/heavyhitters"
+      "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 1695,
     "warned": true,
@@ -2824,9 +2824,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15281980113266",
       "15231685362034",
-      "15277806289266",
-      "15281980113266"
+      "15277806289266"
     ],
     "zero_streak": 0,
     "warned": false,
