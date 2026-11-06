@@ -1,49 +1,5 @@
 [
   {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: Mega Evolution\u2014 Delta Reign Booster Bundle (PRE-ORDER)",
-    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
-    "price": "NZ$69.00",
-    "timestamp": "2026-09-02T19:10:54.391277+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/430009263/3.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Greninja ex Premium Collection",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-greninja-ex-premium-collection-pre-order-3-7-2026",
-    "price": "$106.00",
-    "timestamp": "2026-09-02T22:40:45.445146+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2026-06-08161636.jpg?v=1780892221",
-    "limit": null,
-    "seen_count": 4
-  },
-  {
-    "site": "Game Corner - Pokemon",
-    "title": "Pok\u00e9mon TCG Mega Evolution Pitch Black ETB",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-etb-preorder-ship-on-july-17-2026",
-    "price": "$120.00",
-    "timestamp": "2026-09-02T23:11:09.810123+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME05_Pitch_Black_Elite_Trainer_Box.jpg?v=1777873130",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "The Game Tree NZ",
-    "title": "#18 Team Rocket's Meowth - Pok\u00e9mon League (August 2000) - WotC Black Star Promo (LP+)",
-    "url": "https://thegametree.co.nz/products/18-team-rockets-meowth-pokemon-league-august-2000-wotc-black-star-promo",
-    "price": "$55.88",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/products/18_Team_Rockets_Meowth.png?v=1642993666",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "The Game Tree NZ",
     "title": "#29 Marill - Pok\u00e9mon League (December 2000) - WotC Black Star Promo",
     "url": "https://thegametree.co.nz/products/marill-pokemon-league-december-2000-wotc-black-star-promo",
@@ -11209,6 +11165,54 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364",
     "limit": null,
     "seen_count": 14,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: Cosmic Eclipse Booster Pack x 1",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
+    "price": "$199.00",
+    "timestamp": "2026-11-06T16:46:00.715365+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_25fa40dff48d448ca06d02ae7e944c16~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 3,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Sealed Pok\u00e9mon TCG: Poke Ball Tin D21 2021 Cosmic Eclipse Vivid Voltage Rebel",
+    "url": "https://www.bigpotato.co.nz/product-page/sealed-pok\u00e9mon-tcg-poke-ball-tin-d21-2021-cosmic-eclipse-vivid-voltage-rebel",
+    "price": "$990.00",
+    "timestamp": "2026-11-06T16:46:00.715365+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_d4e28d31023c4c41a60921ce6a7482a3~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 3,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon Center TCG: Fusion Strike Elite Trainer Box",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
+    "price": "$990.00",
+    "timestamp": "2026-11-06T16:46:00.715365+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_c98074ce6da545c4933fad6a4f770f23~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 4,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: First Partner Illustration Collection - Series 2",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-2",
+    "price": "$109.00",
+    "timestamp": "2026-11-06T16:46:00.715365+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_9c188094f295464cba900477d0619d5c~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 5,
     "msrp_ratio": null
   }
 ]
