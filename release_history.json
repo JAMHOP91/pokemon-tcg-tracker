@@ -1,38 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG Mega Evolution Ascended Heroes Tin",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-tin",
-    "price": "$99.99",
-    "timestamp": "2026-09-01T22:33:47.128596+00:00",
-    "priority": true,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Tin.png?v=1788221320",
-    "limit": "Limit of 3 per customer",
-    "seen_count": 0
-  },
-  {
-    "site": "TCG Culture - Pokemon",
-    "title": "Pokemon TCG: Mega Evolution Ascended Heroes Mini Tin",
-    "url": "https://tcgculture.com/products/pokemon-tcg-mega-evolution-ascended-heroes-mini-tin",
-    "price": "$64.99",
-    "timestamp": "2026-09-02T02:04:11.661177+00:00",
-    "priority": true,
-    "image": "http://tcgculture.com/cdn/shop/files/PokemonTCG-MegaEvolutionAscendedHeroesMiniTin_1024x1024.png?v=1769115554",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "TCG Culture - Pokemon",
-    "title": "Pokemon TCG: Scarlet & Violet Prismatic Evolutions Mini Tin",
-    "url": "https://tcgculture.com/products/pokemon-tcg-scarlet-violet-prismatic-evolutions-mini-tin",
-    "price": "$74.99",
-    "timestamp": "2026-09-02T02:10:57.498403+00:00",
-    "priority": false,
-    "image": "http://tcgculture.com/cdn/shop/files/PokemonTCG-Scarlet_VioletPrismaticEvolutionsMiniTin-Espeon_1024x1024.webp?v=1788314461",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "MetaLife - Pokemon TCG",
     "title": "Pokemon TCG - 30th Anniversary Celebration Knock Out Collection [PRE-ORDER]",
     "url": "https://www.metalife.co.nz/products/pokemon-tcg-30th-anniversary-celebration-knock-out-collection",
@@ -11189,5 +11156,41 @@
     "limit": null,
     "seen_count": 3,
     "msrp_ratio": null
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Pokemon TCG 30th Celebration Knock Out Collection (Limit 2 per Customer) (Back Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection-limit-2-per-customer-pre-order",
+    "price": "$48.99",
+    "timestamp": "2026-11-06T05:02:12.614154+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Knock-Out-Collection_EN.jpg?v=1786179473",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Pokemon TCG: 30th Celebration Sylveon ex Box / Greninja ex Box (Limit 2 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-sylveon-ex-box-greninja-ex-box-limit-2-per-customer-pre-order",
+    "price": "$139.99",
+    "timestamp": "2026-11-06T05:02:12.614154+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/30_anniversary_ex-collection_3.webp?v=1786179101",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0,
+    "msrp_ratio": 3.11
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Pokemon TCG 30th Celebration Elite Trainer Box (Limit 2 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box-limit-2-per-customer-pre-order",
+    "price": "$349.99",
+    "timestamp": "2026-11-06T05:02:12.614154+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box_EN.jpg?v=1786177437",
+    "limit": "Limit 2 per Customer",
+    "seen_count": 0,
+    "msrp_ratio": 3.42
   }
 ]
