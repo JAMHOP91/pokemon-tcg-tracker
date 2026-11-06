@@ -1,16 +1,5 @@
 [
   {
-    "site": "Game Corner - Pokemon Pre-Orders",
-    "title": "Pokemon TCG 30th Celebration Knock Out Collection",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection",
-    "price": "$30.00",
-    "timestamp": "2026-09-02T12:51:02.888629+00:00",
-    "priority": true,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/704152_in_1000x1000_322a8fa7-e776-44b5-93ec-79dd091fee58.jpg?v=1788351732",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "Game Corner - Pokemon",
     "title": "Pok\u00e9mon TCG Mega Evolution Pitch Black ETB",
     "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-etb-preorder-ship-on-july-17-2026",
@@ -11202,6 +11191,18 @@
     "image": "http://www.metalife.co.nz/cdn/shop/files/surging-sparks-36-booster-box.jpg?v=1793930651",
     "limit": null,
     "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Pitch Black: Sleeved Sealed Booster Pack (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-pitch-black-sleeved-sealed-booster-pack-english",
+    "price": "$10.99",
+    "timestamp": "2026-11-06T10:40:48.064743+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PitchBlackSleevedBooster_1webp.webp?v=1784532248",
+    "limit": null,
+    "seen_count": 2,
     "msrp_ratio": null
   }
 ]
