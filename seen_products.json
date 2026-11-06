@@ -104,8 +104,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558379864125",
-      "7558380781629"
+      "7558380781629",
+      "7558379864125"
     ],
     "zero_streak": 2743,
     "warned": true,
@@ -470,6 +470,10 @@
       "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/47051",
       "https://hobbymaster.co.nz/products/product/46973",
+      "https://hobbymaster.co.nz/products/product/47051",
+      "https://hobbymaster.co.nz/products/product/47232",
+      "https://hobbymaster.co.nz/products/product/46975",
+      "https://hobbymaster.co.nz/products/product/46974",
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/47236",
       "https://hobbymaster.co.nz/products/product/45463"
@@ -2112,8 +2116,8 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9228422611107",
       "15463445528739",
+      "9228422611107",
       "9228412158115"
     ],
     "zero_streak": 0,
@@ -2614,6 +2618,8 @@
   "Sealed & Slabbed - Pokemon Sealed": {
     "seen_ids": [
       "8059218821238",
+      "8026257686646",
+      "7977047195766",
       "7977004859510",
       "8192198901878",
       "7977047195766",
@@ -2753,8 +2759,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2773,8 +2779,8 @@
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
       "8231328841846",
-      "8083552370806",
-      "7650220736630"
+      "7650220736630",
+      "8083552370806"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2824,9 +2830,9 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
+      "15277806289266",
       "15281980113266",
-      "15231685362034",
-      "15277806289266"
+      "15231685362034"
     ],
     "zero_streak": 0,
     "warned": false,
