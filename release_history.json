@@ -1,16 +1,5 @@
 [
   {
-    "site": "Hobby Master - Pokemon",
-    "title": "MEGA VENUSAUR EX PREMIUM COLLECTION",
-    "url": "https://hobbymaster.co.nz/products/product/45878",
-    "price": "$161.00",
-    "timestamp": "2026-09-02T10:41:15.697378+00:00",
-    "priority": false,
-    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pokemon TCG Mega Greninja ex Premium Collection",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
@@ -11197,6 +11186,18 @@
     "image": "https://static.wixstatic.com/media/beffc4_9c188094f295464cba900477d0619d5c~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 4,
+    "msrp_ratio": null
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Single Cards",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-single-cards-1",
+    "price": "$3.05",
+    "timestamp": "2026-11-06T07:40:48.616175+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/20260526165345_181_227.jpg?v=1779771819",
+    "limit": null,
+    "seen_count": 5,
     "msrp_ratio": null
   }
 ]
