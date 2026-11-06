@@ -1,6 +1,7 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
       "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister"
@@ -326,8 +327,8 @@
   "Cardtopia NZ": {
     "seen_ids": [
       "10070962241776",
-      "10218488725744",
-      "10119290454256"
+      "10119290454256",
+      "10218488725744"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2157,8 +2158,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672253120558",
-      "7672252792878"
+      "7672252792878",
+      "7672253120558"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2307,6 +2308,8 @@
       "15497208692885",
       "15497132540053",
       "9152299892885",
+      "15488902693013",
+      "15497093546133",
       "9345801978005",
       "15497059926165",
       "15497093546133",
