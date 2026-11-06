@@ -1,39 +1,6 @@
 [
   {
     "site": "The Game Tree NZ",
-    "title": "#30 Togepi - Pok\u00e9mon League (January 2001) - WotC Black Star Promo (LP+)",
-    "url": "https://thegametree.co.nz/products/30-togepi-pokemon-league-january-2001-wotc-black-star-promo",
-    "price": "$41.88",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/products/30_Togepi.png?v=1642993715",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "The Game Tree NZ",
-    "title": "#31 Cleffa - Pok\u00e9mon League (February 2001) - WotC Black Star Promo",
-    "url": "https://thegametree.co.nz/products/cleffa-pokemon-league-february-2001-wotc-black-star-promo",
-    "price": "$31.98",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/products/31.png?v=1649200906",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "The Game Tree NZ",
-    "title": "#33 Scizor - Pok\u00e9mon League (June 2001) - WotC Black Star Promo",
-    "url": "https://thegametree.co.nz/products/33-scizor-pokemon-league-june-2001-wotc-black-star-promo",
-    "price": "$32.98",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/products/33_Scizor.png?v=1642993728",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "The Game Tree NZ",
     "title": "#36 Igglybuff - Pok\u00e9mon League (May 2001) - WotC Black Star Promo (LP+)",
     "url": "https://thegametree.co.nz/products/36-igglybuff-pokemon-league-may-2001-wotc-black-star-promo",
     "price": "$25.98",
@@ -11213,6 +11180,42 @@
     "priority": false,
     "image": "http://www.playx.co.nz/cdn/shop/files/poke-force-tins.png?v=1785232857",
     "limit": "Limit 3 per Customer",
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Redline Trading - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Surging Sparks Booster Pack",
+    "url": "https://redlinetrading.co.nz/products/surging-sparks-booster-pack",
+    "price": "$16.00",
+    "timestamp": "2026-11-06T20:16:22.180841+00:00",
+    "priority": false,
+    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/IMG_0392.jpg?v=1787981126",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Redline Trading - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG - Destined Rivals - Booster Bundle",
+    "url": "https://redlinetrading.co.nz/products/destined-rivals-booster-bundle",
+    "price": "$80.00",
+    "timestamp": "2026-11-06T20:16:22.180841+00:00",
+    "priority": false,
+    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/RTC-DesintedRivals-Boosterbundle.png?v=1788234117",
+    "limit": null,
+    "seen_count": 3,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Redline Trading - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Scarlet & Violet Destined Rivals Elite Trainer Box",
+    "url": "https://redlinetrading.co.nz/products/pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box",
+    "price": "$150.00",
+    "timestamp": "2026-11-06T20:16:22.180841+00:00",
+    "priority": false,
+    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/sv10-elite-trainer-box-169-en.png?v=1793996112",
+    "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
   }
