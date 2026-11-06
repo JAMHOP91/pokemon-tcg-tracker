@@ -1,27 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Greninja ex Premium Collection",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-09-02T10:41:15.697378+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Greninja-ex-Premium-Collection.png?v=1782974400",
-    "limit": null,
-    "seen_count": 8
-  },
-  {
-    "site": "Game Corner - Pokemon",
-    "title": "Pok\u00e9mon TCG Mega Moonlight Tin (one of each)",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-moonlight-tin-one-of-each",
-    "price": "$110.00",
-    "timestamp": "2026-09-02T12:20:49.654237+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Mega_Moonlight_Tin.jpg?v=1780987378",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolutions - Pitch Black Three Booster Blister",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-three-booster-blister",
@@ -11198,6 +11176,30 @@
     "image": "http://www.metalife.co.nz/cdn/shop/files/20260526165345_181_227.jpg?v=1779771819",
     "limit": null,
     "seen_count": 5,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "Pokemon TCG: Mega Evolution: Ascended Heroes Booster Pack",
+    "url": "https://cardmasters.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-booster-pack",
+    "price": "$22.00",
+    "timestamp": "2026-11-06T08:46:17.240810+00:00",
+    "priority": true,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/Pokemon_TCG_Mega_Evolution_Ascended_Heroes_Booster_Wrap_ca7cf3f6-5a9c-417f-93a0-8b1768a48d1f_1200x800.webp?v=1771910434",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Delta Reign booster x1",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-delta-reign-booster",
+    "price": "$10.99",
+    "timestamp": "2026-11-06T08:46:17.240810+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-Delta-Reign-Boosters.webp?v=1793677171",
+    "limit": null,
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
