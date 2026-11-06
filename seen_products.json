@@ -104,8 +104,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558379864125",
-      "7558380781629"
+      "7558380781629",
+      "7558379864125"
     ],
     "zero_streak": 2748,
     "warned": true,
@@ -396,8 +396,8 @@
   "Collect All Day": {
     "seen_ids": [
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
-      "https://www.collectallday.com/new/blastoise-vmax-starter-set",
-      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
+      "https://www.collectallday.com/new/blastoise-vmax-starter-set"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2157,8 +2157,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672252792878",
-      "7672253120558"
+      "7672253120558",
+      "7672252792878"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2242,9 +2242,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-sylveon-ex/",
       "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-greninja-ex/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-greninja-ex/",
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-sylveon-ex/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2772,9 +2772,9 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
-      "7650220736630",
+      "8083552370806",
       "8231328841846",
-      "8083552370806"
+      "7650220736630"
     ],
     "zero_streak": 0,
     "warned": false,
