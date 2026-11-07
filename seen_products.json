@@ -1,9 +1,9 @@
 {
   "JB Hi-Fi NZ": {
     "seen_ids": [
-      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
       "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
+      "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles"
     ],
     "zero_streak": 2632,
     "warned": true,
@@ -104,8 +104,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558380781629",
-      "7558379864125"
+      "7558379864125",
+      "7558380781629"
     ],
     "zero_streak": 2798,
     "warned": true,
@@ -325,6 +325,7 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10119290454256",
       "10218488725744",
       "10119290454256",
       "10070962241776"
@@ -2242,6 +2243,7 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-greninja-ex/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-sylveon-ex/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-greninja-ex/",
       "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/"
@@ -2530,7 +2532,7 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10214066389076",
+      "10170166575188",
       "10170361905236",
       "10170166575188",
       "8063603605588"
@@ -2558,8 +2560,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9151446548736",
-      "9366282600704"
+      "9366282600704",
+      "9151446548736"
     ],
     "zero_streak": 0,
     "warned": false,
