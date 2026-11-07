@@ -19,8 +19,8 @@
   "Cool Shit - Pokemon": {
     "seen_ids": [
       "https://www.coolshit.co.nz/product/heavyhitters",
-      "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
+      "https://www.coolshit.co.nz/product/premiumsealedcase"
     ],
     "zero_streak": 1898,
     "warned": true,
@@ -39,6 +39,7 @@
       "7439084388501",
       "7439107129493",
       "7330101002389",
+      "7330100445333",
       "7330099691669",
       "7330088353941",
       "7330100445333",
@@ -391,6 +392,7 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set"
@@ -505,6 +507,7 @@
   },
   "Otakumart - Pre-Orders": {
     "seen_ids": [
+      "7915175608381",
       "7915239145533",
       "7915168563261",
       "7915175608381",
@@ -2104,8 +2107,8 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9228422611107",
       "9228412158115",
+      "9228422611107",
       "15463445528739"
     ],
     "zero_streak": 0,
@@ -2548,8 +2551,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9151446548736",
-      "9366282600704"
+      "9366282600704",
+      "9151446548736"
     ],
     "zero_streak": 0,
     "warned": false,
