@@ -1,17 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Tin -  Sylveon ex - PRE ORDER - Release Date: December 4th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-tin-pre-order-release-date-december-4th-2026",
-    "price": "$125.00",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tin-Day_EN.jpg?v=1783046640",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: Mega Evolution\u2014Ascended Heroes Tin - Mega Emboar ex - PRE ORDER - Release Date: August 28th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-tin-mega-emboar-ex-pre-order-release-date-august-28th-2026",
     "price": "$89.00",
@@ -11239,5 +11228,17 @@
     "limit": null,
     "seen_count": 9,
     "msrp_ratio": 1.19
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Perfect Order: Sealed Booster Pack (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-pack-english",
+    "price": "$9.99",
+    "timestamp": "2026-11-07T11:40:49.789694+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBooster_2webp.webp?v=1780641519",
+    "limit": null,
+    "seen_count": 6,
+    "msrp_ratio": null
   }
 ]
