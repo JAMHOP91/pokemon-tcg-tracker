@@ -461,6 +461,7 @@
   },
   "Hobby Master - Pokemon": {
     "seen_ids": [
+      "https://hobbymaster.co.nz/products/product/47423",
       "https://hobbymaster.co.nz/products/product/47431",
       "https://hobbymaster.co.nz/products/product/46976",
       "https://hobbymaster.co.nz/products/product/46973",
@@ -2765,8 +2766,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2784,9 +2785,9 @@
   },
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
+      "7650220736630",
       "8231328841846",
-      "8083552370806",
-      "7650220736630"
+      "8083552370806"
     ],
     "zero_streak": 0,
     "warned": false,
