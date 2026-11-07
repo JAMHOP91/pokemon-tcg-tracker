@@ -2108,8 +2108,8 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
-      "9228422611107",
       "9228412158115",
+      "9228422611107",
       "15463445528739"
     ],
     "zero_streak": 0,
@@ -2356,9 +2356,9 @@
   "Kidzstuffonline - Pokemon TCG": {
     "seen_ids": [
       "8770963537943",
-      "8832667877399",
       "8888685723671",
-      "9041950081047"
+      "9041950081047",
+      "8832667877399"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2524,6 +2524,7 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
+      "8063603605588",
       "10170361905236",
       "10214066389076",
       "8063603605588",
@@ -2682,6 +2683,11 @@
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-binder-collection-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-delta-reign-booster-blister-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-mega-feraligatr-tin",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-binder-collection-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-sylveon-ex-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-delta-reign-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-greninja-ex-box",
+      "https://www.bigpotato.co.nz/product-page/copy-of-pok\u00e9mon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
       "https://www.bigpotato.co.nz/product-page/copy-of-pokemon-tcg-sword-shield-evolving-skies-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-sylveon-ex-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-booster-pack",
@@ -2763,8 +2769,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
