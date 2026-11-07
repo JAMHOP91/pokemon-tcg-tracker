@@ -1,17 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day - PRE ORDER - Release Date: November 6th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-pre-order-release-date-november-6th-2026",
-    "price": "$899.00",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Ultra-Premium-Collection-Day_EN-150x150.jpg?v=1783050008",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection - PRE ORDER - Release Date: November 6th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-ditto-premium-collection-pre-order-release-date-november-6th-2026",
     "price": "$229.00",
@@ -11235,6 +11224,18 @@
     "image": "https://static.wixstatic.com/media/6f86e7_7a8d757d6d634679a51630731ff47233~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
     "limit": null,
     "seen_count": 3,
+    "msrp_ratio": null
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - 30th Celebration Single Card",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-30th-celebration-single-card",
+    "price": "$124.00",
+    "timestamp": "2026-11-07T06:10:43.202091+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-30th-celebration-pikachu-ex-150-128-official.webp?v=1789451628",
+    "limit": null,
+    "seen_count": 6,
     "msrp_ratio": null
   }
 ]
