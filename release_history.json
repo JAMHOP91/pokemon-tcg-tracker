@@ -1,17 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box - PRE ORDER - Release Date:  September 16th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box-pre-order-release-date-september-16th-2026",
-    "price": "$299.00",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box_EN.jpg?v=1783053252",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: 30th Celebration Booster Bundle - PRE ORDER - Release Date:  October 2nd 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-booster-bundle-pre-order-release-date-october-2nd-2026-copy",
     "price": "$135.00",
@@ -11231,6 +11220,18 @@
     "image": "http://toytime.co.nz/cdn/shop/files/2_3072bdfc-7285-41e0-a5bc-07ef49087202.webp?v=1771450521",
     "limit": null,
     "seen_count": 4,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG Lumiose City Mini Tin (Assorted)",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
+    "price": "$25.00",
+    "timestamp": "2026-11-07T02:40:47.388716+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Lumiose_City_Mini_Tin.jpg?v=1780985527",
+    "limit": null,
+    "seen_count": 13,
     "msrp_ratio": null
   }
 ]
