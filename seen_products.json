@@ -104,8 +104,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558379864125",
-      "7558380781629"
+      "7558380781629",
+      "7558379864125"
     ],
     "zero_streak": 2794,
     "warned": true,
@@ -325,6 +325,7 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
+      "10070962241776",
       "10218488725744",
       "10070962241776",
       "10119290454256"
@@ -2242,6 +2243,7 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-sylveon-ex/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-greninja-ex/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-sylveon-ex/",
       "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/"
@@ -2777,8 +2779,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
