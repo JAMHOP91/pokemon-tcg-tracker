@@ -1,16 +1,5 @@
 [
   {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: Mega Forces Tin -  Mega Darkrai EX - PRE ORDER - Release Date: August 28th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-forces-tin-pre-order-release-date-august-28th-2026",
-    "price": "$79.00",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": false,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Forces-Tin-Mega-Darkrai-ex-Front_EN.jpg?v=1782511182",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "Card Masters - Pre-Orders",
     "title": "PRE ORDER - Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Elite Trainer Box",
     "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box",
@@ -11244,5 +11233,17 @@
     "limit": null,
     "seen_count": 12,
     "msrp_ratio": null
+  },
+  {
+    "site": "Collectors Guild - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Delta Reign Booster Bundle & 3 Pack Blister Bundle (Limit 1, Pick-Up, Pre-Order)",
+    "url": "https://collectorsguild.co.nz/products/delta-reign-booster-bundle-3-pack-blister-bundle-limit-1-pick-up-pre-order",
+    "price": "$105.00",
+    "timestamp": "2026-11-07T23:05:07.911244+00:00",
+    "priority": false,
+    "image": "http://collectorsguild.co.nz/cdn/shop/files/dr.png?v=1792549540",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.88
   }
 ]
