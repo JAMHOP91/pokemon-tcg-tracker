@@ -1,17 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: Mega Forces Tin -  Mega Dragonite EX - PRE ORDER - Release Date: August 28th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-forces-tin-mega-dragonite-ex-pre-order-release-date-august-28th-2026",
-    "price": "$85.00",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": false,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Forces-Tin-Mega-Dragonite-ex-Front_EN-150x150.jpg?v=1782511657",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: Mega Forces Tin -  Mega Zeraora EX - PRE ORDER - Release Date: August 28th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-forces-tin-mega-zeraora-ex-pre-order-release-date-august-28th-2026",
     "price": "$75.00",
@@ -11241,6 +11230,18 @@
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBooster_2webp.webp?v=1780641519",
     "limit": null,
     "seen_count": 7,
+    "msrp_ratio": null
+  },
+  {
+    "site": "The Game Tree NZ",
+    "title": "#33 Scizor - Pok\u00e9mon League (June 2001) - WotC Black Star Promo",
+    "url": "https://thegametree.co.nz/products/33-scizor-pokemon-league-june-2001-wotc-black-star-promo",
+    "price": "$38.88",
+    "timestamp": "2026-11-07T19:34:56.159594+00:00",
+    "priority": false,
+    "image": "http://thegametree.co.nz/cdn/shop/products/33_Scizor.png?v=1642993728",
+    "limit": null,
+    "seen_count": 3,
     "msrp_ratio": null
   }
 ]
