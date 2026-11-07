@@ -2149,8 +2149,8 @@
   },
   "TCG Culture - Pokemon": {
     "seen_ids": [
-      "7672253120558",
-      "7672252792878"
+      "7672252792878",
+      "7672253120558"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2234,6 +2234,7 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-sylveon-ex/",
       "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-greninja-ex/"
@@ -2619,6 +2620,7 @@
   },
   "Sealed & Slabbed - Pokemon Sealed": {
     "seen_ids": [
+      "8192198901878",
       "7977004859510",
       "8059218821238",
       "8026257686646",
@@ -2759,8 +2761,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
