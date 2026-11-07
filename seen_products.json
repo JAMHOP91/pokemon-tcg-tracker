@@ -2428,6 +2428,8 @@
     "seen_ids": [
       "15471048098099",
       "10099042582768",
+      "15471516385587",
+      "15471048098099",
       "15471093776691",
       "15471511273779",
       "15471514386739",
@@ -2548,8 +2550,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9151446548736",
-      "9366282600704"
+      "9366282600704",
+      "9151446548736"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2683,6 +2685,8 @@
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-mini-tin-assorted",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-elite-trainer-box-1",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-delta-reign-elite-trainer-box",
+      "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-rebel-clash-booster-pack",
+      "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-booster-pack",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-ascended-heroes-mega-emboar-tin",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-sylveon-ex-box",
       "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-greninja-ex-box",
@@ -2759,8 +2763,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
