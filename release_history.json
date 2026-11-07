@@ -1,17 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014Ascended Heroes Tin - Mega Emboar ex - PRE ORDER - Release Date: August 28th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-tin-mega-emboar-ex-pre-order-release-date-august-28th-2026",
-    "price": "$89.00",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Ascended-Heroes-Tin-Mega-Emboar_EN-150x150.jpg?v=1782511915",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: Mega Evolution\u2014Ascended Heroes Tin -  Mega Meganium ex - PRE ORDER - Release Date: August 28th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-tin-mega-meganium-ex-pre-order-release-date-august-28th-2026",
     "price": "$89.00",
@@ -11239,6 +11228,18 @@
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBooster_2webp.webp?v=1780641519",
     "limit": null,
     "seen_count": 6,
+    "msrp_ratio": null
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Pitch Black Single Card",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-pitch-black-single-card",
+    "price": "$286.00",
+    "timestamp": "2026-11-07T17:10:45.002870+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-pitch-black-mega-darkrai-ex-116-084-card.png?v=1790732069",
+    "limit": null,
+    "seen_count": 5,
     "msrp_ratio": null
   }
 ]
