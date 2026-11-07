@@ -1,17 +1,6 @@
 [
   {
     "site": "The Game Tree NZ",
-    "title": "#39 Misdreavus - Pok\u00e9mon League (September 2001) - WotC Black Star Promo (LP+)",
-    "url": "https://thegametree.co.nz/products/misdreavus-pokemon-league-september-2001-wotc-black-star-promo",
-    "price": "$25.98",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/products/39.png?v=1649201922",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "The Game Tree NZ",
     "title": "#42 Pok\u00e9mon Tower  - Pok\u00e9mon League (January 2002) - WotC Black Star Promo (LP+)",
     "url": "https://thegametree.co.nz/products/42-pokemon-tower-pokemon-league-january-2002-wotc-black-star-promo",
     "price": "$29.88",
@@ -11220,5 +11209,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": 1.43
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Delta Reign booster bundle",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-delta-reign-booster-bundle",
+    "price": "$69.99",
+    "timestamp": "2026-11-07T00:50:52.442389+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/delta-reign-bundle.webp?v=1793677020",
+    "limit": null,
+    "seen_count": 2,
+    "msrp_ratio": 1.25
   }
 ]
