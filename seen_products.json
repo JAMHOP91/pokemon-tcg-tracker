@@ -2,8 +2,8 @@
   "JB Hi-Fi NZ": {
     "seen_ids": [
       "https://www.jbhifi.co.nz/products/card-game-pokemon-tcg-30th-celebration-ultra-premium-day-night-collection-assorted-styles",
-      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister",
-      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster"
+      "https://www.jbhifi.co.nz/products/pokemon-tcg-scarlet-violet-surging-sparks-booster",
+      "https://www.jbhifi.co.nz/products/trading-card-game-pokemon-tcg-mega-evolution-delta-reign-blister"
     ],
     "zero_streak": 2652,
     "warned": true,
@@ -104,8 +104,8 @@
   },
   "Otakumart - Pokemon TCG": {
     "seen_ids": [
-      "7558380781629",
-      "7558379864125"
+      "7558379864125",
+      "7558380781629"
     ],
     "zero_streak": 2818,
     "warned": true,
@@ -2040,7 +2040,9 @@
       "15421342122280",
       "10441619603752",
       "15402635297064",
-      "10365187621160"
+      "15421342122280",
+      "10365187621160",
+      "15421342253352"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2834,7 +2836,8 @@
   },
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
-      "15286962225522",
+      "15231685362034",
+      "15286962356594",
       "15173465637234",
       "15277806289266",
       "15281980113266",
