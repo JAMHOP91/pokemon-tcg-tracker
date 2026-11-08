@@ -1,17 +1,6 @@
 [
   {
     "site": "Redline Trading - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG - Scarlet & Violet - Twilight Masquerade - Elite Trainer Box (Pokemon Center ETB)",
-    "url": "https://redlinetrading.co.nz/products/scarlet-violet-twilight-masquerade-elite-trainer-box-pokemon-center",
-    "price": "$299.90",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": false,
-    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/TwilightmasqueradePCETB.jpg?v=1788232804",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Redline Trading - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG - Scarlet & Violet - Prismatic Evolutions - Surprise Box",
     "url": "https://redlinetrading.co.nz/products/scarlet-violet-prismatic-evolutions-surprise-box",
     "price": "$140.00",
@@ -11250,6 +11239,18 @@
     "timestamp": "2026-11-08T06:40:44.122103+00:00",
     "priority": false,
     "image": "https://static.wixstatic.com/media/f9a8f0_6add6a65b45e46d6af7b000257e7431b~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Delta Reign Three booster blister",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-delta-reign-three-booster-blister",
+    "price": "$34.99",
+    "timestamp": "2026-11-08T07:34:47.174583+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-Delta-Reign-3-Booster-Blister-1_1.webp?v=1793677369",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
