@@ -2236,8 +2236,8 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
-      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-greninja-ex/",
+      "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
       "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-sylveon-ex/"
     ],
     "zero_streak": 0,
@@ -2434,6 +2434,13 @@
       "15471514386739",
       "10171547386096",
       "15471093776691",
+      "10171578286320",
+      "10099042582768",
+      "15471511273779",
+      "10111551209712",
+      "10171560952048",
+      "10035621396720",
+      "9982539989232",
       "15471048098099",
       "10112141295856",
       "15471516385587",
@@ -2552,8 +2559,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9151446548736",
-      "9366282600704"
+      "9366282600704",
+      "9151446548736"
     ],
     "zero_streak": 0,
     "warned": false,
