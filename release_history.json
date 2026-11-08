@@ -1,17 +1,6 @@
 [
   {
     "site": "Redline Trading - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG - Mega Charizard X ex - Ultra Premium Collection",
-    "url": "https://redlinetrading.co.nz/products/mega-charizard-x-ex-ultra-premium-collection",
-    "price": "$399.90",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": false,
-    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/RTC-MegaCharizardEX-UPC.png?v=1788234042",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Redline Trading - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG - Scarlet & Violet - Surging Sparks - Elite Trainer Box",
     "url": "https://redlinetrading.co.nz/products/scarlet-violet-surging-sparks-elite-trainer-box",
     "price": "$249.90",
@@ -11255,6 +11244,18 @@
     "image": "http://www.metalife.co.nz/cdn/shop/files/delta-reign-booster-target-2.jpg?v=1791861436",
     "limit": null,
     "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "[SOLD OUT] 30th Celebration Ultra-Premium Collection\u2014Night | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/30th-celebration-ultra-premium-collection-night-pokemon-tcg",
+    "price": "$435.00",
+    "timestamp": "2026-11-08T12:40:51.934166+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
