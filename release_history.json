@@ -1,17 +1,6 @@
 [
   {
     "site": "The Game Tree NZ",
-    "title": "#42 Pok\u00e9mon Tower  - Pok\u00e9mon League (January 2002) - WotC Black Star Promo (LP+)",
-    "url": "https://thegametree.co.nz/products/42-pokemon-tower-pokemon-league-january-2002-wotc-black-star-promo",
-    "price": "$29.88",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/products/42_Pokemon_Tower.png?v=1642993843",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "The Game Tree NZ",
     "title": "#43 Machamp - Pok\u00e9mon League (2002) - WotC Black Star Promo (LP+)",
     "url": "https://thegametree.co.nz/products/43-machamp-pokemon-league-february-2002-wotc-black-star-promo",
     "price": "$129.88",
@@ -11266,6 +11255,18 @@
     "image": "https://static.wixstatic.com/media/6f86e7_109e93d96d6147d8a12eb6d4e42e39d1~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 4,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Delta Reign booster x1",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-delta-reign-booster",
+    "price": "$10.99",
+    "timestamp": "2026-11-08T23:01:23.873945+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-Delta-Reign-Boosters.webp?v=1793677171",
+    "limit": null,
+    "seen_count": 2,
     "msrp_ratio": null
   }
 ]
