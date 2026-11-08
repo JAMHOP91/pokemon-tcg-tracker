@@ -1,28 +1,6 @@
 [
   {
     "site": "The Game Tree NZ",
-    "title": "#18 Team Rocket's Meowth - Pok\u00e9mon League (August 2000) - WotC Black Star Promo (LP+)",
-    "url": "https://thegametree.co.nz/products/18-team-rockets-meowth-pokemon-league-august-2000-wotc-black-star-promo",
-    "price": "$55.88",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/products/18_Team_Rockets_Meowth.png?v=1642993666",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "The Game Tree NZ",
-    "title": "#29 Marill - Pok\u00e9mon League (December 2000) - WotC Black Star Promo",
-    "url": "https://thegametree.co.nz/products/marill-pokemon-league-december-2000-wotc-black-star-promo",
-    "price": "$15.98",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/products/29.png?v=1649201642",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "The Game Tree NZ",
     "title": "#30 Togepi - Pok\u00e9mon League (January 2001) - WotC Black Star Promo (LP+)",
     "url": "https://thegametree.co.nz/products/30-togepi-pokemon-league-january-2001-wotc-black-star-promo",
     "price": "$41.88",
@@ -11258,6 +11236,30 @@
     "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/img20261023_09070639.jpg?v=1792730035",
     "limit": null,
     "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Chaos Rising Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-booster-box",
+    "price": "$359.99",
+    "timestamp": "2026-11-08T16:40:50.911014+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682",
+    "limit": "Maximum 1 per person",
+    "seen_count": 10,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Pitch Black Booster Box",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-pitch-black-booster-box-pre-order-17-7-2026",
+    "price": "$360.00",
+    "timestamp": "2026-11-08T16:40:50.911014+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/712845506_122203714544471322_1472360028819368492_n.jpg?v=1780891415",
+    "limit": "LIMIT 1 PER PERSON",
+    "seen_count": 6,
     "msrp_ratio": null
   }
 ]
