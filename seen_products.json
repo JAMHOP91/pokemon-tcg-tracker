@@ -393,9 +393,9 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
-      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
-      "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2236,9 +2236,9 @@
   },
   "Hobby Station - Pokemon TCG": {
     "seen_ids": [
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-greninja-ex/",
       "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-sylveon-ex/",
-      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-greninja-ex/"
+      "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-tin-sylveon-ex/"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2552,8 +2552,8 @@
   },
   "Card Bot - English Pokemon TCG": {
     "seen_ids": [
-      "9366282600704",
-      "9151446548736"
+      "9151446548736",
+      "9366282600704"
     ],
     "zero_streak": 0,
     "warned": false,
