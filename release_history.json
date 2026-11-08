@@ -1,17 +1,6 @@
 [
   {
     "site": "Card Masters - Pre-Orders",
-    "title": "PRE ORDER - Pok\u00e9mon 30th Anniversary Celebration Elite Trainer Box",
-    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-30th-anniversary-celebration-elite-trainer-box",
-    "price": "$140.00",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1600_1_9ee170af-c4ef-4811-8bd1-5aba8a901dcb_1200x1208.webp?v=1785772310",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Card Masters - Pre-Orders",
     "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black Booster Bundle",
     "url": "https://cardmasters.co.nz/products/pre-prder-pokemon-tcg-mega-evolution-pitch-black-booster-bundle",
     "price": "$65.00",
@@ -11246,6 +11235,18 @@
     "image": "http://toytime.co.nz/cdn/shop/files/2026-06-26140207.jpg?v=1782439750",
     "limit": null,
     "seen_count": 3,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "GOTHITELLE WHT TECH STICKER COLLECTION - PSA 10",
+    "url": "https://cardmasters.co.nz/products/gothitelle-wht-tech-sticker-collection-psa-10",
+    "price": "$80.00",
+    "timestamp": "2026-11-08T03:10:56.986790+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/files/B1eiU0WNk6K3nAZ0Ogobw_1200x2005.jpg?v=1787205290",
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
