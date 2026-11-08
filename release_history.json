@@ -1,16 +1,5 @@
 [
   {
-    "site": "Card Masters - Pre-Orders",
-    "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black Booster Bundle",
-    "url": "https://cardmasters.co.nz/products/pre-prder-pokemon-tcg-mega-evolution-pitch-black-booster-bundle",
-    "price": "$65.00",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Bundle_EN-698x1024_1200x1760.jpg?v=1780022064",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "Redline Trading - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Great Ball Tin (2025)",
     "url": "https://redlinetrading.co.nz/products/pokemon-tcg-great-ball-tin-2025",
@@ -11247,6 +11236,18 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/B1eiU0WNk6K3nAZ0Ogobw_1200x2005.jpg?v=1787205290",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG ME04 Chaos Rising Booster Box",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-booster-box",
+    "price": "$340.00",
+    "timestamp": "2026-11-08T04:40:45.279437+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME03_Chaos_Rising_Booster_Box.jpg?v=1777853291",
+    "limit": null,
+    "seen_count": 6,
     "msrp_ratio": null
   }
 ]
