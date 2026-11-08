@@ -1,17 +1,6 @@
 [
   {
     "site": "Redline Trading - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Great Ball Tin (2025)",
-    "url": "https://redlinetrading.co.nz/products/pokemon-tcg-great-ball-tin-2025",
-    "price": "$45.00",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": false,
-    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/IMG_0390.jpg?v=1787981001",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Redline Trading - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Mega Charizard Tin (Mega Charizard X)",
     "url": "https://redlinetrading.co.nz/products/pokemon-tcg-mega-charizard-tin-mega-charizard-x",
     "price": "$75.00",
@@ -11248,6 +11237,18 @@
     "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME03_Chaos_Rising_Booster_Box.jpg?v=1777853291",
     "limit": null,
     "seen_count": 6,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: Cosmic Eclipse Booster Pack x 1",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
+    "price": "$199.00",
+    "timestamp": "2026-11-08T06:20:46.056049+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_25fa40dff48d448ca06d02ae7e944c16~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 4,
     "msrp_ratio": null
   }
 ]
