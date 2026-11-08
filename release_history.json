@@ -1,17 +1,6 @@
 [
   {
     "site": "Card Masters - Pre-Orders",
-    "title": "PRE ORDER - Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Booster Box",
-    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolution-delta-reign-booster-box",
-    "price": "$360.00",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": true,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2__1_-removebg-preview_1200x1648.png?v=1787289747",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Card Masters - Pre-Orders",
     "title": "PRE ORDER - Pok\u00e9mon 30th Anniversary Celebration Elite Trainer Box",
     "url": "https://cardmasters.co.nz/products/pre-order-pokemon-30th-anniversary-celebration-elite-trainer-box",
     "price": "$140.00",
@@ -11245,6 +11234,18 @@
     "image": null,
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Perfect Order Single Pack",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-perfect-order-single-pack",
+    "price": "$9.99",
+    "timestamp": "2026-11-08T03:05:09.724565+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2026-06-26140207.jpg?v=1782439750",
+    "limit": null,
+    "seen_count": 3,
     "msrp_ratio": null
   }
 ]
