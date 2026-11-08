@@ -1,17 +1,6 @@
 [
   {
     "site": "The Game Tree NZ",
-    "title": "#39 Misdreavus - Pok\u00e9mon League (September 2001) - WotC Black Star Promo (LP+)",
-    "url": "https://thegametree.co.nz/products/misdreavus-pokemon-league-september-2001-wotc-black-star-promo",
-    "price": "$25.98",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/products/39.png?v=1649201922",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "The Game Tree NZ",
     "title": "#42 Pok\u00e9mon Tower  - Pok\u00e9mon League (January 2002) - WotC Black Star Promo (LP+)",
     "url": "https://thegametree.co.nz/products/42-pokemon-tower-pokemon-league-january-2002-wotc-black-star-promo",
     "price": "$29.88",
@@ -11265,6 +11254,18 @@
     "image": "http://wpgames.co.nz/cdn/shop/files/158043444707358.jpg?v=1790125899",
     "limit": null,
     "seen_count": 3,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Night - PRE ORDER",
+    "url": "https://www.magicreddragon.co.nz/product-page/copy-of-pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-night-pre-order",
+    "price": null,
+    "timestamp": "2026-11-08T22:40:49.770486+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/6f86e7_109e93d96d6147d8a12eb6d4e42e39d1~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 4,
     "msrp_ratio": null
   }
 ]
