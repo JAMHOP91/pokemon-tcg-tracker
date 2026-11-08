@@ -1,16 +1,5 @@
 [
   {
-    "site": "Redline Trading - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG - Mega Evolutions - Phantasmal Flames - Elite Trainer Box",
-    "url": "https://redlinetrading.co.nz/products/pokemon-tcg-mega-evolutions-phantasmal-flames-elite-trainer-box",
-    "price": "$284.90",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": true,
-    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/Pokemon-RTC-PhantasmalFlames-ETB.png?v=1788233777",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "The Game Tree NZ",
     "title": "#18 Team Rocket's Meowth - Pok\u00e9mon League (August 2000) - WotC Black Star Promo (LP+)",
     "url": "https://thegametree.co.nz/products/18-team-rockets-meowth-pokemon-league-august-2000-wotc-black-star-promo",
@@ -11257,6 +11246,18 @@
     "image": "https://static.wixstatic.com/media/beffc4_3e277c4d38114c10bf685001526145c6.svg/v1/fit/w_2500,h_1330,al_c/beffc4_3e277c4d38114c10bf685001526145c6.svg",
     "limit": null,
     "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Redline Trading - English Pokemon TCG",
+    "title": "Ceruledge (Pokemon Day 2024) (Cosmos Holo) (040/091) - Miscellaneous Cards & Products",
+    "url": "https://redlinetrading.co.nz/products/ceruledge-pokemon-day-2024-cosmos-holo-040-091-miscellaneous-cards-products",
+    "price": "$8.00",
+    "timestamp": "2026-11-08T16:11:06.137164+00:00",
+    "priority": false,
+    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/img20261023_09070639.jpg?v=1792730035",
+    "limit": null,
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
