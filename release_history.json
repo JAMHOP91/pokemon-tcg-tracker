@@ -1,17 +1,6 @@
 [
   {
     "site": "Redline Trading - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG - Scarlet & Violet - Prismatic Evolutions - Surprise Box",
-    "url": "https://redlinetrading.co.nz/products/scarlet-violet-prismatic-evolutions-surprise-box",
-    "price": "$140.00",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": false,
-    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/RTC-Prismaticevolutions-surprisebox.png?v=1788234168",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Redline Trading - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG - Destined Rivals - Booster Bundle",
     "url": "https://redlinetrading.co.nz/products/destined-rivals-booster-bundle",
     "price": "$129.90",
@@ -11253,6 +11242,18 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-Delta-Reign-3-Booster-Blister-1_1.webp?v=1793677369",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: Mega Evolutions Booster Pack",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-booster-pack",
+    "price": "$25.00",
+    "timestamp": "2026-11-08T08:34:38.537422+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/beffc4_3e277c4d38114c10bf685001526145c6.svg/v1/fit/w_2500,h_1330,al_c/beffc4_3e277c4d38114c10bf685001526145c6.svg",
+    "limit": null,
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
