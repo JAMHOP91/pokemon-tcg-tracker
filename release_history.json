@@ -1,28 +1,6 @@
 [
   {
     "site": "Redline Trading - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Charizard Tin (Mega Charizard X)",
-    "url": "https://redlinetrading.co.nz/products/pokemon-tcg-mega-charizard-tin-mega-charizard-x",
-    "price": "$75.00",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": false,
-    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/IMG_0388.jpg?v=1787980796",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Redline Trading - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Charizard Tin (Mega Charizard Y)",
-    "url": "https://redlinetrading.co.nz/products/pokemon-tcg-mega-charizard-tin-mega-charizard-y",
-    "price": "$75.00",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": false,
-    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/IMG_0386.jpg?v=1787980692",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Redline Trading - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG - Surging Sparks - Booster Box (small tear in plastic)",
     "url": "https://redlinetrading.co.nz/products/surging-sparks-booster-box-small-tear-in-plastic",
     "price": "$489.90",
@@ -11249,6 +11227,30 @@
     "image": "https://static.wixstatic.com/media/beffc4_25fa40dff48d448ca06d02ae7e944c16~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 4,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG 30th Celebration Tin - Sylveon Coming Soon",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-30th-celebration-tin-sylveon",
+    "price": "$84.00",
+    "timestamp": "2026-11-08T06:34:45.986887+00:00",
+    "priority": true,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCG30thCelebrationTin-Sylveon.jpg?v=1794118594",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG 30th Celebration Tin - Greninja Coming Soon",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-30th-celebration-tin-greninja",
+    "price": "$84.00",
+    "timestamp": "2026-11-08T06:34:45.986887+00:00",
+    "priority": true,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCG30thCelebrationTin-Greninja.jpg?v=1794119020",
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
