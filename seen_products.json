@@ -323,8 +323,8 @@
   },
   "Cardtopia NZ": {
     "seen_ids": [
-      "10218488725744",
       "10119290454256",
+      "10218488725744",
       "10070962241776"
     ],
     "zero_streak": 0,
@@ -2282,8 +2282,8 @@
   },
   "Cool Shit - Status Watch": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP",
-      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)"
+      "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-30th-celebration-ultra-premium-collection-day-night::sold_out::View Pok\u00e9mon TCG: 30th Celebration Mini Tin (Pre-Order) SEALED CASE OF 10 (STRICTLY 1PP)",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-30th-celebration-tin-pe-order::sold_out::View Pok\u00e9mon TCG: 30th Celebration Tin (Pe-Order) STRICTLY 2PP"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2525,9 +2525,9 @@
   "Game Corner - Pokemon": {
     "seen_ids": [
       "10170361905236",
-      "8063603605588",
+      "10170166575188",
       "10214066389076",
-      "10170166575188"
+      "8063603605588"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2623,6 +2623,8 @@
   },
   "Sealed & Slabbed - Pokemon Sealed": {
     "seen_ids": [
+      "7977004859510",
+      "8185012945014",
       "8069213454454",
       "7977004859510",
       "8059218821238",
@@ -2761,8 +2763,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120020552",
-      "7037120610376"
+      "7037120610376",
+      "7037120020552"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2833,6 +2835,9 @@
   "Redline Trading - English Pokemon TCG": {
     "seen_ids": [
       "15286962225522",
+      "15281980113266",
+      "15287136846194",
+      "15231685362034",
       "15286962356594",
       "15231685362034",
       "15277806289266",
