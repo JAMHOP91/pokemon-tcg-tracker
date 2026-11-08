@@ -1,17 +1,6 @@
 [
   {
     "site": "Redline Trading - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG - Destined Rivals - Booster Bundle",
-    "url": "https://redlinetrading.co.nz/products/destined-rivals-booster-bundle",
-    "price": "$129.90",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": false,
-    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/RTC-DesintedRivals-Boosterbundle.png?v=1788234117",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Redline Trading - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG - Mega Charizard X ex - Ultra Premium Collection",
     "url": "https://redlinetrading.co.nz/products/mega-charizard-x-ex-ultra-premium-collection",
     "price": "$399.90",
@@ -11254,6 +11243,18 @@
     "image": "https://static.wixstatic.com/media/beffc4_3e277c4d38114c10bf685001526145c6.svg/v1/fit/w_2500,h_1330,al_c/beffc4_3e277c4d38114c10bf685001526145c6.svg",
     "limit": null,
     "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolution 6 Delta Reign Booster",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-6-delta-reign-booster",
+    "price": "$11.90",
+    "timestamp": "2026-11-08T09:10:58.899024+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/delta-reign-booster-target-2.jpg?v=1791861436",
+    "limit": null,
+    "seen_count": 2,
     "msrp_ratio": null
   }
 ]
