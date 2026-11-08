@@ -18,9 +18,9 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
-      "https://www.coolshit.co.nz/product/heavyhitters"
+      "https://www.coolshit.co.nz/product/heavyhitters",
+      "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
     ],
     "zero_streak": 1973,
     "warned": true,
@@ -2106,6 +2106,7 @@
   },
   "Card Masters - Pre-Orders": {
     "seen_ids": [
+      "15463445528739",
       "9228412158115",
       "15463445528739",
       "9228422611107"
