@@ -18,8 +18,8 @@
   },
   "Cool Shit - Pokemon": {
     "seen_ids": [
-      "https://www.coolshit.co.nz/product/heavyhitters",
       "https://www.coolshit.co.nz/product/premiumsealedcase",
+      "https://www.coolshit.co.nz/product/heavyhitters",
       "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-2-pack-blister-product-pre-order"
     ],
     "zero_streak": 2013,
@@ -2173,7 +2173,9 @@
       "8970824843462",
       "8931072311494",
       "8909649739974",
-      "8789885321414"
+      "8931072311494",
+      "8789885321414",
+      "8970824843462"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2528,9 +2530,9 @@
   },
   "Game Corner - Pokemon": {
     "seen_ids": [
-      "10170361905236",
       "8063603605588",
       "10170166575188",
+      "10170361905236",
       "10214066389076"
     ],
     "zero_streak": 0,
@@ -2767,8 +2769,8 @@
   },
   "Goblin Games NZ - Pokemon TCG": {
     "seen_ids": [
-      "7037120610376",
-      "7037120020552"
+      "7037120020552",
+      "7037120610376"
     ],
     "zero_streak": 0,
     "warned": false,
