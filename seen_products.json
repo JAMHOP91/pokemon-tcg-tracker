@@ -393,6 +393,7 @@
   },
   "Collect All Day": {
     "seen_ids": [
+      "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/blastoise-vmax-starter-set",
       "https://www.collectallday.com/new/flareon-vmax-premium-collection",
       "https://www.collectallday.com/new/vaporeon-vmax-premium-collection"
@@ -2525,7 +2526,8 @@
       "10170361905236",
       "8063603605588",
       "10214066389076",
-      "10170166575188"
+      "10170361905236",
+      "8063603605588"
     ],
     "zero_streak": 0,
     "warned": false,
@@ -2779,8 +2781,8 @@
   "Razor Leaf - Pokemon TCG": {
     "seen_ids": [
       "8231328841846",
-      "8083552370806",
-      "7650220736630"
+      "7650220736630",
+      "8083552370806"
     ],
     "zero_streak": 0,
     "warned": false,
