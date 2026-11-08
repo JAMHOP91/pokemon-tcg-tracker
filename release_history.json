@@ -1,17 +1,6 @@
 [
   {
     "site": "Redline Trading - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG - Surging Sparks - Booster Box (small tear in plastic)",
-    "url": "https://redlinetrading.co.nz/products/surging-sparks-booster-box-small-tear-in-plastic",
-    "price": "$489.90",
-    "timestamp": "2026-09-02T23:41:01.049647+00:00",
-    "priority": false,
-    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/surgingsparksboosterbox.jpg?v=1788231118",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Redline Trading - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG - Scarlet & Violet - Twilight Masquerade - Elite Trainer Box (Pokemon Center ETB)",
     "url": "https://redlinetrading.co.nz/products/scarlet-violet-twilight-masquerade-elite-trainer-box-pokemon-center",
     "price": "$299.90",
@@ -11249,6 +11238,18 @@
     "timestamp": "2026-11-08T06:34:45.986887+00:00",
     "priority": true,
     "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCG30thCelebrationTin-Greninja.jpg?v=1794119020",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "TCG NZ",
+    "title": "POK\u00c9MON TCG Scarlet & Violet 8.5 Prismatic Evolutions 2-Pack Blister",
+    "url": "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-8-5-prismatic-evolutions-2-pack-blister",
+    "price": "$24.00",
+    "timestamp": "2026-11-08T06:40:44.122103+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/f9a8f0_6add6a65b45e46d6af7b000257e7431b~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
