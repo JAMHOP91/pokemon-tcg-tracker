@@ -1,38 +1,5 @@
 [
   {
-    "site": "The Game Tree NZ",
-    "title": "#43 Machamp - Pok\u00e9mon League (2002) - WotC Black Star Promo (LP+)",
-    "url": "https://thegametree.co.nz/products/43-machamp-pokemon-league-february-2002-wotc-black-star-promo",
-    "price": "$129.88",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/products/43_Machamp.png?v=1642993859",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "The Game Tree NZ",
-    "title": "#45 Scyther - Pok\u00e9mon League (April 2002) - WotC Black Star Promo (LP+)",
-    "url": "https://thegametree.co.nz/products/45-scyther-pokemon-league-april-2002-wotc-black-star-promo",
-    "price": "$96.88",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/products/45_Scyther.png?v=1642993900",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "The Game Tree NZ",
-    "title": "#46 Electabuzz - Pok\u00e9mon League (May 2002) - WotC Black Star Promo (LP+)",
-    "url": "https://thegametree.co.nz/products/46-electabuzz-pokemon-league-may-2002-wotc-black-star-promo",
-    "price": "$86.88",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/products/46_Electabuzz.png?v=1642994143",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: 30th Celebration FULL SET OF PRODUCTS - PRE ORDER - Release Date: November 6th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-full-set-of-products-pre-order-release-date-november-6th-2026",
@@ -11267,6 +11234,42 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-Delta-Reign-Boosters.webp?v=1793677171",
     "limit": null,
     "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Lumiose City Mini Tin",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-lumiose-city-mini-tin",
+    "price": "$22.99",
+    "timestamp": "2026-11-08T23:40:49.355585+00:00",
+    "priority": false,
+    "image": "http://wpgames.co.nz/cdn/shop/files/158043444707358.jpg?v=1790125899",
+    "limit": null,
+    "seen_count": 4,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "[SOLD OUT] 30th Celebration Ditto Premium Collection | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/30th-celebration-ditto-premium-collection-pokemon-tcg",
+    "price": "$96.00",
+    "timestamp": "2026-11-08T23:40:49.355585+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Perfect Order Booster Box",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster-pre-order-27-03-2026",
+    "price": "$340.00",
+    "timestamp": "2026-11-08T23:40:49.355585+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/2_3072bdfc-7285-41e0-a5bc-07ef49087202.webp?v=1771450521",
+    "limit": null,
+    "seen_count": 5,
     "msrp_ratio": null
   }
 ]
