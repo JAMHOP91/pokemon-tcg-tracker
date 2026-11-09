@@ -1,17 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Single Booster pack - PRE ORDER - Release Date: November 6th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-single-booster-pack-pre-order-release-date-november-6th-2026",
-    "price": "$24.99",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/product_696613.webp?v=1787555578",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Elite Trainer Box - Pre-order Release Date: November 6th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box",
     "price": "$199.00",
@@ -11272,5 +11261,17 @@
     "limit": "Max purchase: 1 unit",
     "seen_count": 1,
     "msrp_ratio": 1.07
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "DELTA REIGN: BOOSTER BOX",
+    "url": "https://hobbymaster.co.nz/products/product/47972",
+    "price": "$500.00 $650.00",
+    "timestamp": "2026-11-09T01:46:04.218285+00:00",
+    "priority": false,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.49
   }
 ]
