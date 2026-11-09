@@ -1,39 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Elite Trainer Box - Pre-order Release Date: November 6th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box",
-    "price": "$199.00",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1_2dcaf90d-c78c-4cbf-93fc-3ffa5ef201da.jpg?v=1787294712",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014 Delta Reign Booster Display - PRE ORDER - Release Date: November 6th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-evolution-delta-reign-booster-display",
-    "price": "$419.00",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2.jpg?v=1787294235",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Tech Sticker Collection - Lucario - PRE ORDER - Release Date:  September 16th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-tech-sticker-collection-lucario-pre-order-release-date-september-16th-2026",
-    "price": "$59.00",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tech-Sticker-Collection-Lucario_EN.jpg?v=1783055473",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: 30th Celebration Tech Sticker Collection - Alolan Exeggutor - PRE ORDER - Release Date:  September 16th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-tech-sticker-collection-pre-order-release-date-september-16th-2026",
     "price": "$59.00",
@@ -11273,5 +11240,41 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": 1.49
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "DELTA REIGN: BOOSTER BUNDLE",
+    "url": "https://hobbymaster.co.nz/products/product/47974",
+    "price": "$125.00 $150.00",
+    "timestamp": "2026-11-09T02:01:31.722354+00:00",
+    "priority": false,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 2.24
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "DELTA REIGN: 3 PACK BLISTER [SEEL]",
+    "url": "https://hobbymaster.co.nz/products/product/47975",
+    "price": "$70.00 $90.00",
+    "timestamp": "2026-11-09T02:01:31.722354+00:00",
+    "priority": false,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Hobby Master - Pokemon",
+    "title": "DELTA REIGN: ELITE TRAINER BOX",
+    "url": "https://hobbymaster.co.nz/products/product/47973",
+    "price": "$225.00 $250.00",
+    "timestamp": "2026-11-09T02:01:31.722354+00:00",
+    "priority": false,
+    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 2.17
   }
 ]
