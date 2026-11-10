@@ -1,28 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Tin -  Greninja ex - PRE ORDER - Release Date: December 4th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-tin-greninja-ex-pre-order-release-date-december-4th-2026",
-    "price": "$125.00",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tin-Scale-150x150.jpg?v=1783046757",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Tin -  Sylveon ex - PRE ORDER - Release Date: December 4th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-tin-pre-order-release-date-december-4th-2026",
-    "price": "$125.00",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Tin-Day_EN.jpg?v=1783046640",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: Mega Evolution\u2014Ascended Heroes Tin - Mega Emboar ex - PRE ORDER - Release Date: August 28th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-tin-mega-emboar-ex-pre-order-release-date-august-28th-2026",
     "price": "$89.00",
@@ -11284,5 +11262,29 @@
     "limit": null,
     "seen_count": 10,
     "msrp_ratio": 1.12
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Delta Reign Three booster blister",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-delta-reign-three-booster-blister",
+    "price": "$34.99",
+    "timestamp": "2026-11-10T20:16:07.412248+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-Delta-Reign-3-Booster-Blister-1_1.webp?v=1793677369",
+    "limit": null,
+    "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Delta Reign booster x1",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-delta-reign-booster",
+    "price": "$10.99",
+    "timestamp": "2026-11-10T20:16:07.412248+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-Delta-Reign-Boosters.webp?v=1793677171",
+    "limit": null,
+    "seen_count": 4,
+    "msrp_ratio": null
   }
 ]
