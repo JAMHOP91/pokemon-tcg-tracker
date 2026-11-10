@@ -1,17 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Mini Tin FULL CASE OF 10 TINS - PRE ORDER - Release Date:  October 2nd 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-mini-tin-pre-order-release-date-october-2nd-2026",
-    "price": "$589.00",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Mini-Tins-Assorted-150x150.jpg?v=1783052378",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Night - PRE ORDER - Release Date: November 6th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-pre-order-release-date-november-6th-2026",
     "price": "$899.00",
@@ -11279,6 +11268,18 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-Delta-Reign-Boosters.webp?v=1793677171",
     "limit": null,
     "seen_count": 3,
+    "msrp_ratio": null
+  },
+  {
+    "site": "TCG Culture - Pokemon",
+    "title": "Pok\u00e9mon TCG: Mega Evolution - Phantasmal Flames Elite Trainer Box",
+    "url": "https://tcgculture.com/products/pokemon-tcg-mega-evolution-phantasmal-flames-elite-trainer-box",
+    "price": "$275.00",
+    "timestamp": "2026-11-10T00:16:07.606535+00:00",
+    "priority": true,
+    "image": "http://tcgculture.com/cdn/shop/files/PokemonTCG-MegaEvolution-PhantasmalFlamesEliteTrainerBox_1024x1024.png?v=1763854931",
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
