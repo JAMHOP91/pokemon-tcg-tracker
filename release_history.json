@@ -1,17 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Night - PRE ORDER - Release Date: November 6th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-pre-order-release-date-november-6th-2026",
-    "price": "$899.00",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Ultra-Premium-Collection-Night_EN-150x150.jpg?v=1783050332",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Day - PRE ORDER - Release Date: November 6th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-pre-order-release-date-november-6th-2026",
     "price": "$899.00",
@@ -11280,6 +11269,18 @@
     "image": "http://tcgculture.com/cdn/shop/files/PokemonTCG-MegaEvolution-PhantasmalFlamesEliteTrainerBox_1024x1024.png?v=1763854931",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG 30th Celebration Ultra Premium Day/Night Collection",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-ultra-premium-daynight-collection",
+    "price": "$869.99",
+    "timestamp": "2026-11-10T02:01:28.671317+00:00",
+    "priority": true,
+    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Ultra-Premium-Day-Night-Collection-1.png?v=1793248626",
+    "limit": null,
+    "seen_count": 3,
     "msrp_ratio": null
   }
 ]
