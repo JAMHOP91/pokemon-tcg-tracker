@@ -1,16 +1,5 @@
 [
   {
-    "site": "Redline Trading - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG - Mega Evolutions - Phantasmal Flames - Elite Trainer Box",
-    "url": "https://redlinetrading.co.nz/products/pokemon-tcg-mega-evolutions-phantasmal-flames-elite-trainer-box",
-    "price": "$284.90",
-    "timestamp": "2026-09-18T21:40:49.176774+00:00",
-    "priority": true,
-    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/Pokemon-RTC-PhantasmalFlames-ETB.png?v=1788233777",
-    "limit": null,
-    "seen_count": 3
-  },
-  {
     "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG 30th Celebration Mini Tin (Assorted) (Limit 10 per Customer) (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-mini-tin-assorted-limit-10-per-customer-pre-order",
@@ -11546,6 +11535,18 @@
     "image": "https://static.wixstatic.com/media/beffc4_c98074ce6da545c4933fad6a4f770f23~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 4,
+    "msrp_ratio": null
+  },
+  {
+    "site": "GetThoseMons - Sealed Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution - Ascended Heroes Booster Pack",
+    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-booster-pack",
+    "price": "$15.99",
+    "timestamp": "2026-11-11T22:16:00.744041+00:00",
+    "priority": true,
+    "image": "http://getthosecards.co.nz/cdn/shop/files/AscendedHeroes_BoosterPack_8ed9bca8-9882-4d72-86b6-3119b3c6604a.webp?v=1794434962",
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
