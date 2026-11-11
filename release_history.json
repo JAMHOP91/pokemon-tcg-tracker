@@ -1,27 +1,5 @@
 [
   {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: Mega Forces Tin -  Mega Darkrai EX - PRE ORDER - Release Date: August 28th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-forces-tin-pre-order-release-date-august-28th-2026",
-    "price": "$79.00",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": false,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Forces-Tin-Mega-Darkrai-ex-Front_EN.jpg?v=1782511182",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Card Masters - Pre-Orders",
-    "title": "PRE ORDER - Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Elite Trainer Box",
-    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box",
-    "price": "$130.00",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": true,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1_1200x1144.jpg?v=1787290166",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
     "site": "Card Masters - Pre-Orders",
     "title": "PRE ORDER - Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Booster Box",
     "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolution-delta-reign-booster-box",
@@ -11290,5 +11268,29 @@
     "limit": null,
     "seen_count": 1,
     "msrp_ratio": 1.64
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions \u2014Delta Reign Elite Trainer Box",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-mega-evolutions-delta-reign-elite-trainer-box/",
+    "price": "$143.48",
+    "timestamp": "2026-11-11T03:01:41.822379+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/30509/images/80365/10-10438-111-Delta-Reign-ETB-1__93332.1793753626.220.220.jpg?c=2",
+    "limit": "Max purchase: 1 unit",
+    "seen_count": 1,
+    "msrp_ratio": 1.4
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Three-Booster Blister",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-mega-evolution-delta-reign-three-booster-blister/",
+    "price": "$30.43",
+    "timestamp": "2026-11-11T03:01:41.822379+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/30504/images/80349/10-10440-120-Delta-Reign-3-Booster-Blister-1__93968.1793753609.220.220.jpg?c=2",
+    "limit": "Max purchase: 1 unit",
+    "seen_count": 3,
+    "msrp_ratio": null
   }
 ]
