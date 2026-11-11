@@ -1,17 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014Ascended Heroes Tin -  Mega Meganium ex - PRE ORDER - Release Date: August 28th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-tin-mega-meganium-ex-pre-order-release-date-august-28th-2026",
-    "price": "$89.00",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Ascended-Heroes-Tin-Mega-Meganium_EN-150x150.jpg?v=1782511822",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: Mega Forces Tin -  Mega Dragonite EX - PRE ORDER - Release Date: August 28th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-forces-tin-mega-dragonite-ex-pre-order-release-date-august-28th-2026",
     "price": "$85.00",
@@ -11285,6 +11274,18 @@
     "priority": false,
     "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-7990.jpg?v=1744870832",
     "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Pokemon TCG: Mega Forces Tin (Limit 3 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-forces-tin-limit-3-per-customer-pre-order",
+    "price": "$79.99",
+    "timestamp": "2026-11-11T00:16:12.028631+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/poke-force-tins.png?v=1785232857",
+    "limit": "Limit 3 per Customer",
     "seen_count": 0,
     "msrp_ratio": null
   }
