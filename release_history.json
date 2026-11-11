@@ -1,16 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-09-18T08:40:44.819830+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
-    "limit": null,
-    "seen_count": 4
-  },
-  {
     "site": "Toy Time - Pokemon TCG",
     "title": "Pokemon TCG Greninja ex Premium Collection",
     "url": "https://toytime.co.nz/products/pokemon-tcg-greninja-ex-premium-collection-pre-order-3-7-2026",
@@ -11543,5 +11532,17 @@
     "limit": null,
     "seen_count": 2,
     "msrp_ratio": 2.15
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: Delta Reign Elite Trainer Box",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-delta-reign-elite-trainer-box",
+    "price": "$249.00",
+    "timestamp": "2026-11-11T11:01:37.734793+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_3e277c4d38114c10bf685001526145c6.svg/v1/fit/w_2500,h_1330,al_c/beffc4_3e277c4d38114c10bf685001526145c6.svg",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": 2.44
   }
 ]
