@@ -1,17 +1,6 @@
 [
   {
     "site": "Card Masters - Pre-Orders",
-    "title": "PRE ORDER - Pok\u00e9mon 30th Anniversary Celebration Elite Trainer Box",
-    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-30th-anniversary-celebration-elite-trainer-box",
-    "price": "$140.00",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1600_1_9ee170af-c4ef-4811-8bd1-5aba8a901dcb_1200x1208.webp?v=1785772310",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Card Masters - Pre-Orders",
     "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black Booster Bundle",
     "url": "https://cardmasters.co.nz/products/pre-prder-pokemon-tcg-mega-evolution-pitch-black-booster-bundle",
     "price": "$65.00",
@@ -11292,6 +11281,18 @@
     "image": "http://www.playx.co.nz/cdn/shop/files/9166204_1.jpg?v=1790906372",
     "limit": "Limit 1 per Customer",
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG 30th Celebration Mini Tin (one at random)",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-mini-tin",
+    "price": "$40.00",
+    "timestamp": "2026-11-11T05:46:03.764944+00:00",
+    "priority": true,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/704186_in_1000x1000_e9cd3357-478c-4a4c-8b61-b91b47a43886.jpg?v=1791958635",
+    "limit": null,
+    "seen_count": 4,
     "msrp_ratio": null
   }
 ]
