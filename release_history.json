@@ -1,17 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: Mega Evolution\u2014Ascended Heroes Tin - Mega Emboar ex - PRE ORDER - Release Date: August 28th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-tin-mega-emboar-ex-pre-order-release-date-august-28th-2026",
-    "price": "$89.00",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": true,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Ascended-Heroes-Tin-Mega-Emboar_EN-150x150.jpg?v=1782511915",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: Mega Evolution\u2014Ascended Heroes Tin -  Mega Meganium ex - PRE ORDER - Release Date: August 28th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-tin-mega-meganium-ex-pre-order-release-date-august-28th-2026",
     "price": "$89.00",
@@ -11285,6 +11274,18 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-Delta-Reign-Boosters.webp?v=1793677171",
     "limit": null,
     "seen_count": 4,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Journey Together Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-journey-together-elite-trainer-box",
+    "price": "$260.00",
+    "timestamp": "2026-11-11T00:01:32.432304+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-7990.jpg?v=1744870832",
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
