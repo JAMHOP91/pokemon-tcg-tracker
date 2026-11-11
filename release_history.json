@@ -1,16 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-09-18T20:10:48.121450+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
-    "limit": null,
-    "seen_count": 5
-  },
-  {
     "site": "Redline Trading - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG - Mega Evolutions - Phantasmal Flames - Elite Trainer Box",
     "url": "https://redlinetrading.co.nz/products/pokemon-tcg-mega-evolutions-phantasmal-flames-elite-trainer-box",
@@ -11546,5 +11535,17 @@
     "limit": null,
     "seen_count": 2,
     "msrp_ratio": 1.93
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon Center TCG: Fusion Strike Elite Trainer Box",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
+    "price": "$990.00",
+    "timestamp": "2026-11-11T21:16:04.943696+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_c98074ce6da545c4933fad6a4f770f23~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 4,
+    "msrp_ratio": null
   }
 ]
