@@ -1,16 +1,5 @@
 [
   {
-    "site": "Otakumart - Pokemon TCG",
-    "title": "50x Basic Metal Energy | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/50x-basic-metal-energy-pokemon-tcg",
-    "price": "$3.00",
-    "timestamp": "2026-09-18T03:40:52.657502+00:00",
-    "priority": false,
-    "image": "http://otakumart.co.nz/cdn/shop/files/BasicMetalEnergy-50x.jpg?v=1737494522",
-    "limit": null,
-    "seen_count": 3
-  },
-  {
     "site": "Hobby Master - Pokemon",
     "title": "30TH CELEBRATION ELITE TRAINER BOX",
     "url": "https://hobbymaster.co.nz/products/product/47423",
@@ -11541,5 +11530,17 @@
     "limit": null,
     "seen_count": 11,
     "msrp_ratio": 1.09
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG ME06 Delta Reign ETB",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-etb",
+    "price": "$140.00",
+    "timestamp": "2026-11-11T10:16:03.439422+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1.jpg?v=1787572761",
+    "limit": null,
+    "seen_count": 5,
+    "msrp_ratio": 1.37
   }
 ]
