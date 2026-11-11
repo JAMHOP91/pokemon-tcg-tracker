@@ -1,17 +1,6 @@
 [
   {
     "site": "Hobby Station - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Mini Tin Full Case (10 Tins)",
-    "url": "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-mini-tin-full-case-10-tins/",
-    "price": "$399.13",
-    "timestamp": "2026-09-18T02:50:45.921703+00:00",
-    "priority": true,
-    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/29891/images/79109/P11458_10-10465-176_01__97795.1789699749.220.220.jpg?c=2",
-    "limit": "Limited 1 per customer",
-    "seen_count": 0
-  },
-  {
-    "site": "Hobby Station - Pokemon TCG",
     "title": "Pok\u00e9mon TCG: 30th Celebration Booster Bundle",
     "url": "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
     "price": "$86.09",
@@ -11538,6 +11527,18 @@
     "image": "http://cardbot.co.nz/cdn/shop/files/7dfa4603-e77c-4a1e-8737-e93c7c07b61b_20250116_large_088d7bec-e8f4-41d3-b336-d5dfda74513a.jpg?v=1794371879",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Sealed Pok\u00e9mon TCG: Poke Ball Tin D21 2021 Cosmic Eclipse Vivid Voltage Rebel",
+    "url": "https://www.bigpotato.co.nz/product-page/sealed-pok\u00e9mon-tcg-poke-ball-tin-d21-2021-cosmic-eclipse-vivid-voltage-rebel",
+    "price": "$990.00",
+    "timestamp": "2026-11-11T07:31:20.040948+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_d4e28d31023c4c41a60921ce6a7482a3~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 4,
     "msrp_ratio": null
   }
 ]
