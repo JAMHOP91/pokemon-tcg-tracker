@@ -1,49 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster box 36 packs",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-box-36-packs",
-    "price": "$379.99",
-    "timestamp": "2026-09-17T18:40:59.475040+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
-    "limit": null,
-    "seen_count": 5
-  },
-  {
-    "site": "Cool Shit - Pokemon",
-    "title": "View Pok\u00e9mon TCG: Mega Evolution\u2014 Delta Reign Booster Bundle (PRE-ORDER)",
-    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order",
-    "price": "NZ$69.00",
-    "timestamp": "2026-09-17T20:40:45.660672+00:00",
-    "priority": true,
-    "image": "https://assets.bigcartel.com/product_images/430009263/3.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
-    "limit": null,
-    "seen_count": 5
-  },
-  {
-    "site": "Games Lab - Pokemon TCG",
-    "title": "Pokemon Mega Zygarde ex Premium Collection",
-    "url": "https://www.gameslab.co.nz/products/Pokemon-Mega-Zygarde-ex-Premium-Collection-p832752708",
-    "price": null,
-    "timestamp": "2026-09-17T21:41:18.282680+00:00",
-    "priority": false,
-    "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/93607521/products/832752708/5798246075.jpg",
-    "limit": null,
-    "seen_count": 2
-  },
-  {
-    "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Lost Origin Elite Trainer Box",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-sword-shield-lost-origin-elite-trainer-box",
-    "price": "$420.00",
-    "timestamp": "2026-09-18T00:41:11.640352+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-7977.webp?v=1744788713",
-    "limit": null,
-    "seen_count": 2
-  },
-  {
     "site": "Hobby Station - Pokemon TCG",
     "title": "Pok\u00e9mon TCG: 30th Celebration Mini Tin Full Case (10 Tins)",
     "url": "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-mini-tin-full-case-10-tins/",
@@ -11532,6 +11488,54 @@
     "timestamp": "2026-11-11T06:01:37.169108+00:00",
     "priority": false,
     "image": null,
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG 30th Celebration Knock Out Collection",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-knock-out-collection",
+    "price": "$40.00",
+    "timestamp": "2026-11-11T06:16:00.419438+00:00",
+    "priority": true,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/704152_in_1000x1000_322a8fa7-e776-44b5-93ec-79dd091fee58.jpg?v=1788351732",
+    "limit": null,
+    "seen_count": 2,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Duraludon 069/131 (SV: Prismatic Evolutions)",
+    "url": "https://cardbot.co.nz/products/duraludon-069-131-sv-prismatic-evolutions",
+    "price": "$1.00",
+    "timestamp": "2026-11-11T06:16:00.419438+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/036fad2d-571a-486c-8fb1-4f3d888b967a_20250116_large_8b14c030-1306-4f7d-8cc4-f87c76e7a442.jpg?v=1794371879",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Briar 100/131 (SV: Prismatic Evolutions)",
+    "url": "https://cardbot.co.nz/products/briar-100-131-sv-prismatic-evolutions",
+    "price": "$1.00",
+    "timestamp": "2026-11-11T06:16:00.419438+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/20260205_large_0017dac3-0d3d-4248-90a4-d64a499f0383.jpg?v=1794371879",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Professor's Research 124/131 (SV: Prismatic Evolutions)",
+    "url": "https://cardbot.co.nz/products/professors-research-124-131-sv-prismatic-evolutions",
+    "price": "$1.00",
+    "timestamp": "2026-11-11T06:16:00.419438+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/7dfa4603-e77c-4a1e-8737-e93c7c07b61b_20250116_large_088d7bec-e8f4-41d3-b336-d5dfda74513a.jpg?v=1794371879",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
