@@ -1,16 +1,5 @@
 [
   {
-    "site": "Hobby Station - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Booster Bundle",
-    "url": "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-booster-bundle/",
-    "price": "$86.09",
-    "timestamp": "2026-09-18T02:50:45.921703+00:00",
-    "priority": true,
-    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/29889/images/79095/P11460_10-10451-115_01__28487.1789699709.220.220.jpg?c=2",
-    "limit": "Limited 1 per customer",
-    "seen_count": 0
-  },
-  {
     "site": "Otakumart - Pokemon TCG",
     "title": "50x Basic Metal Energy | Pokemon TCG",
     "url": "https://otakumart.co.nz/products/50x-basic-metal-energy-pokemon-tcg",
@@ -11540,5 +11529,17 @@
     "limit": null,
     "seen_count": 4,
     "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG ME06 Delta Reign Booster Box",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-box",
+    "price": "$360.00",
+    "timestamp": "2026-11-11T07:46:01.164207+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2.jpg?v=1787573121",
+    "limit": null,
+    "seen_count": 11,
+    "msrp_ratio": 1.09
   }
 ]
