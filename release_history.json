@@ -1,16 +1,5 @@
 [
   {
-    "site": "Hobby Master - Pokemon",
-    "title": "30TH CELEBRATION ELITE TRAINER BOX",
-    "url": "https://hobbymaster.co.nz/products/product/47423",
-    "price": "$399.00 $450.00",
-    "timestamp": "2026-09-18T03:50:43.393881+00:00",
-    "priority": true,
-    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
@@ -11542,5 +11531,17 @@
     "limit": null,
     "seen_count": 5,
     "msrp_ratio": 1.37
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG 30th Celebration ETB",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box",
+    "price": "$220.00",
+    "timestamp": "2026-11-11T10:31:30.657994+00:00",
+    "priority": true,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/30th-celebration-elite-trainer-box-169-en.png?v=1787042029",
+    "limit": null,
+    "seen_count": 2,
+    "msrp_ratio": 2.15
   }
 ]
