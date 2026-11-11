@@ -1,16 +1,5 @@
 [
   {
-    "site": "Toy Time - Pokemon TCG",
-    "title": "Pokemon TCG Greninja ex Premium Collection",
-    "url": "https://toytime.co.nz/products/pokemon-tcg-greninja-ex-premium-collection-pre-order-3-7-2026",
-    "price": "$99.00",
-    "timestamp": "2026-09-18T11:40:50.188701+00:00",
-    "priority": false,
-    "image": "http://toytime.co.nz/cdn/shop/files/2026-06-08161636.jpg?v=1780892221",
-    "limit": null,
-    "seen_count": 4
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
@@ -11544,5 +11533,17 @@
     "limit": null,
     "seen_count": 1,
     "msrp_ratio": 2.44
+  },
+  {
+    "site": "Card Masters NZ",
+    "title": "Astral Radiance Booster Box",
+    "url": "https://cardmasters.co.nz/products/pre-order-astral-radiance-booster-box",
+    "price": "$800.00",
+    "timestamp": "2026-11-11T12:46:03.095865+00:00",
+    "priority": false,
+    "image": "https://cardmasters.co.nz/cdn/shop/products/astral-radiance-booster-box-555913_1200x1200.jpg?v=1703484049",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
   }
 ]
