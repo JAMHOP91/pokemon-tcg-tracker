@@ -1,17 +1,6 @@
 [
   {
     "site": "Card Masters - Pre-Orders",
-    "title": "PRE ORDER - Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Booster Box",
-    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolution-delta-reign-booster-box",
-    "price": "$360.00",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": true,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2__1_-removebg-preview_1200x1648.png?v=1787289747",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Card Masters - Pre-Orders",
     "title": "PRE ORDER - Pok\u00e9mon 30th Anniversary Celebration Elite Trainer Box",
     "url": "https://cardmasters.co.nz/products/pre-order-pokemon-30th-anniversary-celebration-elite-trainer-box",
     "price": "$140.00",
@@ -11291,6 +11280,18 @@
     "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/30504/images/80349/10-10440-120-Delta-Reign-3-Booster-Blister-1__93968.1793753609.220.220.jpg?c=2",
     "limit": "Max purchase: 1 unit",
     "seen_count": 3,
+    "msrp_ratio": null
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Pokemon TCG: 30th Celebration Ultra-Premium Collection Day / Night (Limit 1 per Customer) (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-battle-deck-espeon-ex-umbreon-ex-limit-2-per-customer-pre-order-copy",
+    "price": "$799.99",
+    "timestamp": "2026-11-11T03:46:08.136703+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/9166204_1.jpg?v=1790906372",
+    "limit": "Limit 1 per Customer",
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
