@@ -1,17 +1,6 @@
 [
   {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: Mega Forces Tin -  Mega Zeraora EX - PRE ORDER - Release Date: August 28th 2026",
-    "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-forces-tin-mega-zeraora-ex-pre-order-release-date-august-28th-2026",
-    "price": "$75.00",
-    "timestamp": "2026-09-02T23:50:45.775697+00:00",
-    "priority": false,
-    "image": "http://magicreddragon.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Forces-Tin-Mega-Zeraora-ex-Front_EN-150x150.jpg?v=1782511579",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: Mega Forces Tin -  Mega Darkrai EX - PRE ORDER - Release Date: August 28th 2026",
     "url": "https://magicreddragon.co.nz/products/pokemon-tcg-mega-forces-tin-pre-order-release-date-august-28th-2026",
     "price": "$79.00",
@@ -11289,5 +11278,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": 1.91
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolution 6 Delta Reign Elite Trainer Box",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-6-delta-reign-elite-trainer-box",
+    "price": "$168.00",
+    "timestamp": "2026-11-11T01:16:07.464669+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/delta-reign-etb-milsims-1.jpg?v=1791853048",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": 1.64
   }
 ]
