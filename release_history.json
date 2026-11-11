@@ -1,16 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-09-18T19:20:49.936000+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/PerfectOrder_BoosterBox.png?v=1774704201",
-    "limit": null,
-    "seen_count": 8
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
@@ -11545,5 +11534,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: Delta Reign Elite Trainer Box",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-delta-reign-elite-trainer-box",
+    "price": "$199.00",
+    "timestamp": "2026-11-11T21:01:35.163972+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_3e277c4d38114c10bf685001526145c6.svg/v1/fit/w_2500,h_1330,al_c/beffc4_3e277c4d38114c10bf685001526145c6.svg",
+    "limit": null,
+    "seen_count": 2,
+    "msrp_ratio": 1.93
   }
 ]
