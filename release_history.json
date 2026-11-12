@@ -1,17 +1,6 @@
 [
   {
     "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-bundle",
-    "price": "$64.99",
-    "timestamp": "2026-09-21T01:31:16.619837+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/5f23187d4fc04b61b38c92238c458bac_Large_815a1ac9-0378-4e65-bdd2-425c1640ac16.jpg?v=1774704851",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolutions - Chaos Rising Checklane Blister Booster Pack",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-checklane-blister-booster-pack",
     "price": "$12.99",
@@ -11552,5 +11541,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolution 6 Delta Reign Booster Bundle",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-6-delta-reign-booster-bundle",
+    "price": "$88.00",
+    "timestamp": "2026-11-12T23:16:04.585014+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/delta-reign-bundle-target-1.jpg?v=1791859303",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": 1.58
   }
 ]
