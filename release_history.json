@@ -1,16 +1,5 @@
 [
   {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG 30th Celebration Booster Bundle (Limit 4 per Customer) (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-30th-celebration-booster-bundle-limit-4-per-customer-pre-order",
-    "price": "$89.99",
-    "timestamp": "2026-09-20T00:01:25.699770+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Booster-Bundle_EN.jpg?v=1789706009",
-    "limit": "Limit 4 per Customer",
-    "seen_count": 0
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Scarlet & Violet - Journey Together Blister Booster Pack",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-scarlet-violet-journey-together-blister-booster-pack",
@@ -11549,5 +11538,17 @@
     "limit": null,
     "seen_count": 5,
     "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution \u2013 Delta Reign Elite Trainer Box",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box",
+    "price": "$151.00",
+    "timestamp": "2026-11-12T10:01:25.852199+00:00",
+    "priority": true,
+    "image": "http://cardbot.co.nz/cdn/shop/files/73493167-IMG-000.jpg?v=1794476862",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.47
   }
 ]
