@@ -1,17 +1,6 @@
 [
   {
     "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Elite Trainer Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-elite-trainer-box",
-    "price": "$139.99",
-    "timestamp": "2026-09-21T01:31:16.619837+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/elite-trainer-box-en.jpg?v=1784081063",
-    "limit": "Maximum 1 per person",
-    "seen_count": 0
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolutions - Pitch Black Booster Bundle",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-bundle",
     "price": "$69.99",
@@ -11554,5 +11543,17 @@
     "limit": null,
     "seen_count": 3,
     "msrp_ratio": 2.41
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Kindler 143/172 (SWSH09: Brilliant Stars)  - Reverse Holofoil",
+    "url": "https://cardbot.co.nz/products/kindler-143-172-swsh09-brilliant-stars-reverse-holofoil",
+    "price": "$2.00",
+    "timestamp": "2026-11-13T02:01:33.026910+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1776402094925_7838322d-9b6b-4653-bd3e-2382cfe80bb3_1776402094925.webp?v=1794534905",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
   }
 ]
