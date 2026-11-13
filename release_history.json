@@ -1,17 +1,6 @@
 [
   {
     "site": "Card Masters NZ",
-    "title": "PONCHO PIKACHU RAYQUAZA - PSA 9 - (PICK UP ONLY)",
-    "url": "https://cardmasters.co.nz/products/poncho-pikachu-rayquaza-psa-9",
-    "price": "$15000.00",
-    "timestamp": "2026-10-24T02:35:28.215397+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/4_2Ot1hWAUC43Vw3io7lUA_1200x2008.jpg?v=1792809038",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Card Masters NZ",
     "title": "Charizard VMAX - OC - PSA 9",
     "url": "https://cardmasters.co.nz/products/charizard-vmax-off-centered-psa-9",
     "price": "$200.00",
@@ -11934,6 +11923,18 @@
     "image": "http://cardbot.co.nz/cdn/shop/files/1789062068253_large_1a9ec3d7-81b6-4381-a4b3-a3331648d5aa.jpg?v=1794547664",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon Center TCG: Fusion Strike Elite Trainer Box",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
+    "price": "$990.00",
+    "timestamp": "2026-11-13T16:16:13.592006+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_c98074ce6da545c4933fad6a4f770f23~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 7,
     "msrp_ratio": null
   }
 ]
