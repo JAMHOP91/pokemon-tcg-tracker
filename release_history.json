@@ -1,38 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolutions - Pitch Black Booster Bundle",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-bundle",
-    "price": "$69.99",
-    "timestamp": "2026-09-21T01:31:16.619837+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/booster-bundle-en.jpg?v=1784081064",
-    "limit": "Maximum 1 per person",
-    "seen_count": 0
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Tin - Greninja ex- PRE ORDER",
-    "url": "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-greninja-ex-pre-order",
-    "price": null,
-    "timestamp": "2026-09-21T22:07:35.083370+00:00",
-    "priority": true,
-    "image": "https://static.wixstatic.com/media/6f86e7_7a8d757d6d634679a51630731ff47233~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Tin - Sylveon ex - PRE ORDER",
-    "url": "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-sylveon-ex-pre-order",
-    "price": null,
-    "timestamp": "2026-09-21T22:07:35.083370+00:00",
-    "priority": true,
-    "image": "https://static.wixstatic.com/media/6f86e7_13f3e75411e34b9c934c798230a8e623~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Night - PRE ORDER",
     "url": "https://www.magicreddragon.co.nz/product-page/copy-of-pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-night-pre-order",
@@ -11554,6 +11521,42 @@
     "image": "http://cardbot.co.nz/cdn/shop/files/1776402094925_7838322d-9b6b-4653-bd3e-2382cfe80bb3_1776402094925.webp?v=1794534905",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: Valentine\u2019s Box - PRE ORDER",
+    "url": "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-valentine-s-box-pre-order",
+    "price": "$59.00",
+    "timestamp": "2026-11-13T02:16:17.136578+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/6f86e7_d16c03b617934276a5409d1d1a1ab2df~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: Mega Rayquaza ex Premium Tournament Collection - PRE ORDER",
+    "url": "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-mega-rayquaza-ex-premium-tournament-collection-pre-order",
+    "price": "$199.00",
+    "timestamp": "2026-11-13T02:16:17.136578+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/6f86e7_5c3d9d5e79774b2ea7550c08388eb137~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon Center TCG: Fusion Strike Elite Trainer Box",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-center-tcg-fusion-strike-elite-trainer-box",
+    "price": "$990.00",
+    "timestamp": "2026-11-13T02:16:17.136578+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_c98074ce6da545c4933fad6a4f770f23~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 5,
     "msrp_ratio": null
   }
 ]
