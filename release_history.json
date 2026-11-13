@@ -1,38 +1,5 @@
 [
   {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Mega Evolution: Perfect Order: Sealed Booster Pack (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-pack-english",
-    "price": "$9.99",
-    "timestamp": "2026-10-23T22:16:11.326786+00:00",
-    "priority": false,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBooster_2webp.webp?v=1780641519",
-    "limit": null,
-    "seen_count": 4
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-10-24T01:49:05.382195+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364",
-    "limit": null,
-    "seen_count": 8
-  },
-  {
-    "site": "Card Masters - Pre-Orders",
-    "title": "PRE ORDER - Pok\u00e9mon 30th Anniversary Celebration Elite Trainer Box",
-    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-30th-anniversary-celebration-elite-trainer-box",
-    "price": "$170.00",
-    "timestamp": "2026-10-24T02:05:17.386383+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/s-l1600_1_9ee170af-c4ef-4811-8bd1-5aba8a901dcb_1200x1208.webp?v=1785772310",
-    "limit": null,
-    "seen_count": 17
-  },
-  {
     "site": "Card Masters NZ",
     "title": "PONCHO PIKACHU RAYQUAZA - PSA 9 - (PICK UP ONLY)",
     "url": "https://cardmasters.co.nz/products/poncho-pikachu-rayquaza-psa-9",
@@ -11929,6 +11896,42 @@
     "timestamp": "2026-11-13T05:02:21.189230+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/1776323008347_d625b43b-a9eb-42d6-ae7d-bf5824b8ea55_1776323008347.webp?v=1794545336",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Rayquaza EX 85/124 (ME: 30th Celebration Classic Collection)  - Holofoil",
+    "url": "https://cardbot.co.nz/products/rayquaza-ex-85-124-me-30th-celebration-classic-collection-holofoil",
+    "price": "$41.00",
+    "timestamp": "2026-11-13T05:31:34.398191+00:00",
+    "priority": true,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1789062426667_large_d0f74c2b-7eed-4f68-a5bf-f744535d05a5.jpg?v=1794547667",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Erika's Jigglypuff 69/132 (ME: 30th Celebration Classic Collection)  - Holofoil",
+    "url": "https://cardbot.co.nz/products/erikas-jigglypuff-69-132-me-30th-celebration-classic-collection-holofoil",
+    "price": "$16.00",
+    "timestamp": "2026-11-13T05:31:34.398191+00:00",
+    "priority": true,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1789062140577_large_1dd57caf-fcc1-4e0b-8393-7fed87651df5.jpg?v=1794547666",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Crobat G 47/127 (ME: 30th Celebration Classic Collection)  - Holofoil",
+    "url": "https://cardbot.co.nz/products/crobat-g-47-127-me-30th-celebration-classic-collection-holofoil",
+    "price": "$13.00",
+    "timestamp": "2026-11-13T05:31:34.398191+00:00",
+    "priority": true,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1789062068253_large_1a9ec3d7-81b6-4381-a4b3-a3331648d5aa.jpg?v=1794547664",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
