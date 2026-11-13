@@ -1,27 +1,5 @@
 [
   {
-    "site": "Game Corner - Pokemon",
-    "title": "Pokemon TCG 30th Celebration ETB",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box",
-    "price": "$260.00",
-    "timestamp": "2026-09-29T02:31:14.289781+00:00",
-    "priority": true,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/30th-celebration-elite-trainer-box-169-en.png?v=1787042029",
-    "limit": null,
-    "seen_count": 2
-  },
-  {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG 30th Celebration Dice and Coin Set",
-    "url": "https://cardbot.co.nz/products/pokemon-tcg-30th-celebration-dice-and-coin-set",
-    "price": "$7.00",
-    "timestamp": "2026-09-29T05:01:30.576904+00:00",
-    "priority": true,
-    "image": "http://cardbot.co.nz/cdn/shop/files/Diceset.jpg?v=1790655416",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "Card Bot - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG MEGA Special Card Set Mega Gallade ex",
     "url": "https://cardbot.co.nz/products/pokemon-tcg-mega-gengar-ex-starter-deck-japanese-copy",
@@ -11576,6 +11554,30 @@
     "timestamp": "2026-11-13T03:16:02.562825+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/20ef44bd-5e34-4148-8c11-8257d3241b3f_20211006_large_59df054e-0b23-4ddc-ba4e-ae27ccf221ac.jpg?v=1794539374",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Hop's Dubwool 136/159 (SV09: Journey Together)  - Holofoil",
+    "url": "https://cardbot.co.nz/products/hops-dubwool-136-159-sv09-journey-together-holofoil",
+    "price": "$0.00",
+    "timestamp": "2026-11-13T03:31:18.260807+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/f9f3a938-6f5f-4627-9960-dbd6271a4e2a_20250506_large_d7aa8795-a343-48ad-a713-94808898a8e1.jpg?v=1794540625",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Blaziken VMAX TG15/TG30 (SWSH12: Silver Tempest Trainer Gallery)  - Holofoil",
+    "url": "https://cardbot.co.nz/products/blaziken-vmax-tg15-tg30-swsh12-silver-tempest-trainer-gallery-holofoil",
+    "price": "$70.00",
+    "timestamp": "2026-11-13T03:31:18.260807+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/20260113_large_05ffaa72-53a2-4cec-87ec-aa58caecc4d1.jpg?v=1794540059",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
