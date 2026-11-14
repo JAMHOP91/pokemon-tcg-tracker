@@ -1,27 +1,5 @@
 [
   {
-    "site": "Card Masters NZ",
-    "title": "MEGA EMBOAR ex SPECIAL ILLUSTRATION RARE - PSA 8",
-    "url": "https://cardmasters.co.nz/products/mega-emboar-ex-special-illustration-rare-psa-8",
-    "price": "$70.00",
-    "timestamp": "2026-10-24T03:10:49.197916+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/mh-wCOJUbkaaPGzXhvrjUA_1200x2024.jpg?v=1792811258",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Card Masters NZ",
-    "title": "BLACK STAR PROMOS #SM214 MEWTWO - PSA 9",
-    "url": "https://cardmasters.co.nz/products/black-star-promos-sm214-mewtwo-psa-9",
-    "price": "$340.00",
-    "timestamp": "2026-10-24T03:10:49.197916+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/E76BQKuXJ0GFL4DI_BoKpQ_1200x2008.jpg?v=1792811058",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "Sealed & Slabbed - Pokemon Sealed",
     "title": "Pok\u00e9mon: Mega Evolution: Perfect Order: Sealed Booster Bundle (English)",
     "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-bundle-english",
@@ -11935,6 +11913,30 @@
     "timestamp": "2026-11-14T01:31:19.882172+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_3de7a7d6-3af6-472a-a3eb-4798106f0b5a.jpg?v=1794619688",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Rotom 034/103 (ME06: Delta Reign)  - Reverse Holofoil",
+    "url": "https://cardbot.co.nz/products/rotom-034-103-me06-delta-reign-reverse-holofoil",
+    "price": "$1.00",
+    "timestamp": "2026-11-14T02:15:58.760660+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_e2fc893a-4bcf-42d6-b02e-95eb60f6fc74.jpg?v=1794621849",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Virizion 009/103 (ME06: Delta Reign)  - Reverse Holofoil",
+    "url": "https://cardbot.co.nz/products/virizion-009-103-me06-delta-reign-reverse-holofoil",
+    "price": "$1.00",
+    "timestamp": "2026-11-14T02:15:58.760660+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_47dc86f0-c794-48fe-be60-eb5c56513852.jpg?v=1794621839",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
