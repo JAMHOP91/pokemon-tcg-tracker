@@ -1,16 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Perfect Order Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-perfect-order-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-10-24T23:23:35.694803+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemonperfectorderboosters.jpg?v=1774410399",
-    "limit": null,
-    "seen_count": 11
-  },
-  {
     "site": "Card Masters - Pre-Orders",
     "title": "PRE ORDER - Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Elite Trainer Box",
     "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box",
@@ -11947,6 +11936,18 @@
     "image": "https://cardmasters.co.nz/cdn/shop/files/mcCxfMJKFkendxJyCmArCw_1200x1996.jpg?v=1787625754",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Delta Reign booster x1",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-delta-reign-booster",
+    "price": "$10.99",
+    "timestamp": "2026-11-14T23:46:04.019313+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-Delta-Reign-Boosters.webp?v=1793677171",
+    "limit": null,
+    "seen_count": 6,
     "msrp_ratio": null
   }
 ]
