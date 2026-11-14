@@ -1,27 +1,5 @@
 [
   {
-    "site": "Card Masters NZ",
-    "title": "UMBREON GX  - PSA 10",
-    "url": "https://cardmasters.co.nz/products/umbreon-gx-psa-10",
-    "price": "$1250.00",
-    "timestamp": "2026-10-24T03:26:14.943971+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/jRu988owoUSgu55vLsce2A_4de7d673-71c0-4be4-8ee4-d90c42f5c5ed_1200x2021.jpg?v=1792811920",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "TCG NZ",
-    "title": "Pokemon TCG: Mega Charizard X ex Ultra-Premium Collection",
-    "url": "https://www.tcgnz.co.nz/product-page/pre-order-pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection",
-    "price": "$420.00",
-    "timestamp": "2026-10-24T14:40:52.936979+00:00",
-    "priority": false,
-    "image": "https://static.wixstatic.com/media/f9a8f0_adf10d1241fb45658ad9175e27997b48~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
@@ -11938,6 +11916,30 @@
     "timestamp": "2026-11-14T02:31:15.089501+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_25392d40-42f1-47ed-8d03-d331b48db78b.jpg?v=1794623240",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Hakamo-o 074/103 (ME06: Delta Reign)  - Reverse Holofoil",
+    "url": "https://cardbot.co.nz/products/hakamo-o-074-103-me06-delta-reign-reverse-holofoil",
+    "price": "$1.00",
+    "timestamp": "2026-11-14T02:46:02.787955+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_dc9204b5-3a1b-444b-bb64-a28bebe367e1.jpg?v=1794623958",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Jangmo-o 073/103 (ME06: Delta Reign)  - Reverse Holofoil",
+    "url": "https://cardbot.co.nz/products/jangmo-o-073-103-me06-delta-reign-reverse-holofoil",
+    "price": "$1.00",
+    "timestamp": "2026-11-14T02:46:02.787955+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_274a0b66-2bad-4154-ace6-72ce86ecf514.jpg?v=1794623957",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
