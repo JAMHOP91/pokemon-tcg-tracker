@@ -1,16 +1,5 @@
 [
   {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pok\u00e9mon: Mega Evolution: Perfect Order: Sealed Booster Bundle (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-bundle-english",
-    "price": "$64.99",
-    "timestamp": "2026-10-24T03:10:49.197916+00:00",
-    "priority": false,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBoosterBundle_1webp.webp?v=1772701953",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "Card Masters NZ",
     "title": "UMBREON GX  - PSA 10",
     "url": "https://cardmasters.co.nz/products/umbreon-gx-psa-10",
@@ -11937,6 +11926,18 @@
     "timestamp": "2026-11-14T02:15:58.760660+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_47dc86f0-c794-48fe-be60-eb5c56513852.jpg?v=1794621839",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Delibird 079/103 (ME06: Delta Reign)  - Reverse Holofoil",
+    "url": "https://cardbot.co.nz/products/delibird-079-103-me06-delta-reign-reverse-holofoil",
+    "price": "$1.00",
+    "timestamp": "2026-11-14T02:31:15.089501+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_25392d40-42f1-47ed-8d03-d331b48db78b.jpg?v=1794623240",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
