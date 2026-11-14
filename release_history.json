@@ -1,17 +1,6 @@
 [
   {
     "site": "Card Masters NZ",
-    "title": "Moltres & Zapdos & Articuno GX - ACE 9",
-    "url": "https://cardmasters.co.nz/products/moltres-zapdos-articuno-gx-ace-9",
-    "price": "$310.00",
-    "timestamp": "2026-10-24T03:05:01.908540+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/433677_front_1200x2009.webp?v=1792810409",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Card Masters NZ",
     "title": "MEGA EMBOAR ex SPECIAL ILLUSTRATION RARE - PSA 8",
     "url": "https://cardmasters.co.nz/products/mega-emboar-ex-special-illustration-rare-psa-8",
     "price": "$70.00",
@@ -11934,6 +11923,18 @@
     "timestamp": "2026-11-14T01:01:29.952034+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_bd23c8d9-6685-45a9-9a68-35027c4032bf.jpg?v=1794617853",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Sandslash 050/103 (ME06: Delta Reign)  - Reverse Holofoil",
+    "url": "https://cardbot.co.nz/products/sandslash-050-103-me06-delta-reign-reverse-holofoil",
+    "price": "$0.00",
+    "timestamp": "2026-11-14T01:31:19.882172+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_3de7a7d6-3af6-472a-a3eb-4798106f0b5a.jpg?v=1794619688",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
