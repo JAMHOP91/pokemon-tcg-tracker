@@ -1,27 +1,5 @@
 [
   {
-    "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Sword & Shield Evolving Skies UMBREON Elite Trainer Box",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-evolving-skies-elite-trainer-box",
-    "price": "$1199.99",
-    "timestamp": "2026-10-24T20:05:16.407444+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-0959.webp?v=1781918813",
-    "limit": null,
-    "seen_count": 3
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG 30th Celebration Mini Tin",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-mini-tin",
-    "price": "$69.99",
-    "timestamp": "2026-10-24T21:10:59.156595+00:00",
-    "priority": true,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Mini-Tin.jpg?v=1790819697",
-    "limit": null,
-    "seen_count": 3
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pok\u00e9mon TCG 30th Celebration Mini Tin",
     "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-mini-tin",
@@ -11944,6 +11922,30 @@
     "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_1d1938db-d38a-46a0-bbf7-adea55cfd097.jpg?v=1794627736",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG ME06 Delta Reign Booster Box",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-box",
+    "price": "$360.00",
+    "timestamp": "2026-11-14T10:31:20.129951+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2.jpg?v=1787573121",
+    "limit": null,
+    "seen_count": 9,
+    "msrp_ratio": 1.07
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pok\u00e9mon TCG ME04 Chaos Rising Booster Box",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-booster-box",
+    "price": "$340.00",
+    "timestamp": "2026-11-14T10:31:20.129951+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME03_Chaos_Rising_Booster_Box.jpg?v=1777853291",
+    "limit": null,
+    "seen_count": 5,
     "msrp_ratio": null
   }
 ]
