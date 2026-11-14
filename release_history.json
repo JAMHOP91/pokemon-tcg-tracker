@@ -1,17 +1,6 @@
 [
   {
     "site": "Card Masters NZ",
-    "title": "Charizard VMAX - OC - PSA 9",
-    "url": "https://cardmasters.co.nz/products/charizard-vmax-off-centered-psa-9",
-    "price": "$200.00",
-    "timestamp": "2026-10-24T03:05:01.908540+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/Safeimagekit-resized-img_3_1204x630.png?v=1703800421",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Card Masters NZ",
     "title": "Moltres & Zapdos & Articuno GX - ACE 9",
     "url": "https://cardmasters.co.nz/products/moltres-zapdos-articuno-gx-ace-9",
     "price": "$310.00",
@@ -11935,6 +11924,18 @@
     "image": "https://static.wixstatic.com/media/beffc4_c98074ce6da545c4933fad6a4f770f23~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 7,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Surskit 002/103 (ME06: Delta Reign)  - Reverse Holofoil",
+    "url": "https://cardbot.co.nz/products/surskit-002-103-me06-delta-reign-reverse-holofoil",
+    "price": "$0.00",
+    "timestamp": "2026-11-14T01:01:29.952034+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_bd23c8d9-6685-45a9-9a68-35027c4032bf.jpg?v=1794617853",
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
