@@ -1,16 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-10-24T19:40:53.648867+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364",
-    "limit": null,
-    "seen_count": 9
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Box",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-box",
@@ -11940,6 +11929,18 @@
     "timestamp": "2026-11-14T02:46:02.787955+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_274a0b66-2bad-4154-ace6-72ce86ecf514.jpg?v=1794623957",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Nidorina 056/103 (ME06: Delta Reign)  - Reverse Holofoil",
+    "url": "https://cardbot.co.nz/products/nidorina-056-103-me06-delta-reign-reverse-holofoil",
+    "price": "$1.00",
+    "timestamp": "2026-11-14T03:16:31.586241+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_b765b622-02c9-4916-afb3-ef75ba4f10ad.jpg?v=1794625963",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
