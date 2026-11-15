@@ -1,27 +1,5 @@
 [
   {
-    "site": "The Game Tree NZ",
-    "title": "#39 Misdreavus - Pok\u00e9mon League (September 2001) - WotC Black Star Promo (LP+)",
-    "url": "https://thegametree.co.nz/products/misdreavus-pokemon-league-september-2001-wotc-black-star-promo",
-    "price": "$25.98",
-    "timestamp": "2026-10-26T16:40:51.382906+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/products/39.png?v=1649201922",
-    "limit": null,
-    "seen_count": 3
-  },
-  {
-    "site": "Card Masters - Pre-Orders",
-    "title": "PRE ORDER - Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Elite Trainer Box",
-    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box",
-    "price": "$130.00",
-    "timestamp": "2026-10-26T16:40:51.382906+00:00",
-    "priority": true,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1_1200x1144.jpg?v=1787290166",
-    "limit": null,
-    "seen_count": 9
-  },
-  {
     "site": "Big Potato Collectibles - Pokemon Sealed",
     "title": "Pokemon TCG: Mega Evolutions Booster Pack",
     "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-mega-evolutions-booster-pack",
@@ -11960,6 +11938,30 @@
     "image": "https://static.wixstatic.com/media/beffc4_b62d1904b2f3491dadf10ffdeacdc51d~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: Cosmic Eclipse Booster Pack x 1",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-cosmic-eclipse-booster-pack-x-1",
+    "price": "$199.00",
+    "timestamp": "2026-11-15T20:31:26.344540+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_25fa40dff48d448ca06d02ae7e944c16~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 5,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Sealed Pok\u00e9mon TCG: Poke Ball Tin D21 2021 Cosmic Eclipse Vivid Voltage Rebel",
+    "url": "https://www.bigpotato.co.nz/product-page/sealed-pok\u00e9mon-tcg-poke-ball-tin-d21-2021-cosmic-eclipse-vivid-voltage-rebel",
+    "price": "$990.00",
+    "timestamp": "2026-11-15T20:31:26.344540+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_d4e28d31023c4c41a60921ce6a7482a3~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 5,
     "msrp_ratio": null
   }
 ]
