@@ -1,71 +1,5 @@
 [
   {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG Mega Greninja ex Premium Collection",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
-    "price": "$99.00",
-    "timestamp": "2026-10-25T16:10:48.330433+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCG_MegaGreninjaexPremiumCollection-1.jpg?v=1783838117",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Hobby Station - Pokemon TCG",
-    "title": "Pokemon TCG: ME2.5 Ascended Heroes Focused Fighters Premium Collection",
-    "url": "https://hobbystation.co.nz/pokemon-tcg-me2-5-ascended-heroes-focused-fighters-premium-collection/",
-    "price": "$346.96",
-    "timestamp": "2026-10-25T16:40:57.054817+00:00",
-    "priority": false,
-    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/30216/images/79769/P12105_ME2pt5_3D_Focused_Fighters_Premium_Collection_Left_EN__52850.1792118508.220.220.webp?c=2",
-    "limit": "Max purchase: 1 unit",
-    "seen_count": 2
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolutions Pitch Black Booster",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster",
-    "price": "$10.99",
-    "timestamp": "2026-10-25T17:40:50.418430+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
-    "limit": null,
-    "seen_count": 16
-  },
-  {
-    "site": "Card Masters - Pre-Orders",
-    "title": "PRE ORDER - Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Booster Box",
-    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolution-delta-reign-booster-box",
-    "price": "$360.00",
-    "timestamp": "2026-10-26T05:10:53.182789+00:00",
-    "priority": true,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2__1_-removebg-preview_1200x1648.png?v=1787289747",
-    "limit": null,
-    "seen_count": 12
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pok\u00e9mon: Mega Evolution: Perfect Order: Sealed Booster Bundle (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-bundle-english",
-    "price": "$64.99",
-    "timestamp": "2026-10-26T05:10:53.182789+00:00",
-    "priority": false,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderBoosterBundle_1webp.webp?v=1772701953",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
-    "site": "Card Masters - Pre-Orders",
-    "title": "PRE ORDER - Pokemon TCG Mega Evolutions 6 Delta Reign Booster Bundle",
-    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolutions-6-delta-reign-booster-bundle",
-    "price": "$70.00",
-    "timestamp": "2026-10-26T08:29:06.989012+00:00",
-    "priority": true,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/delta-reign-bundle-target-1-removebg-preview_1200x1200.png?v=1793002250",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "Redline Trading - English Pokemon TCG",
     "title": "Ceruledge (Pokemon Day 2024) (Cosmos Holo) (040/091) - Miscellaneous Cards & Products",
     "url": "https://redlinetrading.co.nz/products/ceruledge-pokemon-day-2024-cosmos-holo-040-091-miscellaneous-cards-products",
@@ -11950,6 +11884,78 @@
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_1852be08-7252-4d3f-b556-7319b9501096.jpg?v=1794708632",
     "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Delta Reign Sleeved Blister Booster Pack",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-delta-reign-sleeved-blister-booster-pack",
+    "price": "$10.49",
+    "timestamp": "2026-11-15T03:16:14.253275+00:00",
+    "priority": true,
+    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-evolution-delta-reign-sleeved-blister-booster-pack-art-1.png?v=1794122726",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.12
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Delta Reign Elite Trainer Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box",
+    "price": "$200.99",
+    "timestamp": "2026-11-15T03:16:14.253275+00:00",
+    "priority": true,
+    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box.png?v=1794712562",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.93
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Delta Reign Booster Box",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-delta-reign-booster-box",
+    "price": "$369.99",
+    "timestamp": "2026-11-15T03:16:14.253275+00:00",
+    "priority": true,
+    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-evolution-delta-reign-booster-box.png?v=1794712563",
+    "limit": "Maximum 6 per person",
+    "seen_count": 0,
+    "msrp_ratio": 1.1
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Delta Reign Three Booster Blister",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-delta-reign-three-booster-blister",
+    "price": "$32.99",
+    "timestamp": "2026-11-15T03:16:14.253275+00:00",
+    "priority": true,
+    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-evolution-delta-reign-three-booster-blister.png?v=1794712574",
+    "limit": "Maximum 6 per person",
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "WP Games - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Delta Reign Booster Bundle",
+    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolution-delta-reign-booster-bundle",
+    "price": "$69.99",
+    "timestamp": "2026-11-15T03:16:14.253275+00:00",
+    "priority": true,
+    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-evolution-delta-reign-booster-bundle.png?v=1794712562",
+    "limit": "Maximum 1 per person",
+    "seen_count": 0,
+    "msrp_ratio": 1.25
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "[RESTOCK] Pokemon TCG: Mega Evolution - Ascended Heroes Tin (Limit 3 per Customer)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-tin-limit-3-per-customer-pre-order",
+    "price": "$79.99",
+    "timestamp": "2026-11-15T03:16:14.253275+00:00",
+    "priority": true,
+    "image": "http://www.playx.co.nz/cdn/shop/files/ascended-heroes-tins-stacked_530x_f9f27c0c-616c-456b-aeb5-cbb7c4852a47.webp?v=1785231971",
+    "limit": "Limit 3 per Customer",
     "seen_count": 0,
     "msrp_ratio": null
   }
