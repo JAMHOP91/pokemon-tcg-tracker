@@ -1,16 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG Mega Evolution 2-Pack Blister \u2013 Zarude",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-2-pack-blister-zarude",
-    "price": "$34.99",
-    "timestamp": "2026-10-25T10:05:17.471224+00:00",
-    "priority": true,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-2-Pack-Blister-Zarude.jpg?v=1790809018",
-    "limit": null,
-    "seen_count": 7
-  },
-  {
     "site": "Animal Kingdoms - Pokemon TCG",
     "title": "Pokemon TCG Mega Greninja ex Premium Collection",
     "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
@@ -11948,6 +11937,18 @@
     "timestamp": "2026-11-15T02:01:54.952223+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_33cd9d00-0458-4526-a909-6a77d283d406.jpg?v=1794707308",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Wattrel 040/103 (ME06: Delta Reign)  - Reverse Holofoil",
+    "url": "https://cardbot.co.nz/products/wattrel-040-103-me06-delta-reign-reverse-holofoil",
+    "price": "$1.00",
+    "timestamp": "2026-11-15T02:16:07.918006+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_1852be08-7252-4d3f-b556-7319b9501096.jpg?v=1794708632",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
