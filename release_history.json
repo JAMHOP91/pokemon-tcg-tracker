@@ -1,16 +1,5 @@
 [
   {
-    "site": "Card Masters - Pre-Orders",
-    "title": "PRE ORDER - Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Elite Trainer Box",
-    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box",
-    "price": "$130.00",
-    "timestamp": "2026-10-24T23:40:49.276748+00:00",
-    "priority": true,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1_1200x1144.jpg?v=1787290166",
-    "limit": null,
-    "seen_count": 7
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pok\u00e9mon TCG 30th Celebration Mini Tin",
     "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-mini-tin",
@@ -11948,6 +11937,18 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-Delta-Reign-Boosters.webp?v=1793677171",
     "limit": null,
     "seen_count": 6,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Heracross 001/103 (ME06: Delta Reign)  - Reverse Holofoil",
+    "url": "https://cardbot.co.nz/products/heracross-001-103-me06-delta-reign-reverse-holofoil",
+    "price": "$0.00",
+    "timestamp": "2026-11-15T01:31:20.766986+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_5b971a6d-61e8-43ca-b064-a68a69d36883.jpg?v=1794706383",
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
