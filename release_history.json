@@ -1,17 +1,6 @@
 [
   {
     "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG 30th Celebration Mini Tin",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-mini-tin",
-    "price": "$69.99",
-    "timestamp": "2026-10-25T03:10:52.647865+00:00",
-    "priority": true,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Mini-Tin.jpg?v=1790819697",
-    "limit": null,
-    "seen_count": 5
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
     "title": "Pok\u00e9mon TCG Mega Evolution 2-Pack Blister \u2013 Zarude",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-2-pack-blister-zarude",
     "price": "$34.99",
@@ -11947,6 +11936,18 @@
     "timestamp": "2026-11-15T01:31:20.766986+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_5b971a6d-61e8-43ca-b064-a68a69d36883.jpg?v=1794706383",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Druddigon 072/103 (ME06: Delta Reign)  - Reverse Holofoil",
+    "url": "https://cardbot.co.nz/products/druddigon-072-103-me06-delta-reign-reverse-holofoil",
+    "price": "$1.00",
+    "timestamp": "2026-11-15T02:01:54.952223+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_33cd9d00-0458-4526-a909-6a77d283d406.jpg?v=1794707308",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
