@@ -1,27 +1,5 @@
 [
   {
-    "site": "Redline Trading - English Pokemon TCG",
-    "title": "Ceruledge (Pokemon Day 2024) (Cosmos Holo) (040/091) - Miscellaneous Cards & Products",
-    "url": "https://redlinetrading.co.nz/products/ceruledge-pokemon-day-2024-cosmos-holo-040-091-miscellaneous-cards-products",
-    "price": "$8.00",
-    "timestamp": "2026-10-26T08:40:47.672582+00:00",
-    "priority": false,
-    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/img20261023_09070639.jpg?v=1792730035",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Card Masters - Pre-Orders",
-    "title": "PRE ORDER - Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Elite Trainer Box",
-    "url": "https://cardmasters.co.nz/products/pre-order-pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box",
-    "price": "$130.00",
-    "timestamp": "2026-10-26T12:10:51.625084+00:00",
-    "priority": true,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1_1200x1144.jpg?v=1787290166",
-    "limit": null,
-    "seen_count": 8
-  },
-  {
     "site": "Cool Shit - Pokemon",
     "title": "View Pok\u00e9mon TCG Mega Zygarde ex Premium Collection (Sealed case of 6)",
     "url": "https://www.coolshit.co.nz/product/premiumsealedcase",
@@ -11956,6 +11934,30 @@
     "priority": true,
     "image": "http://www.playx.co.nz/cdn/shop/files/ascended-heroes-tins-stacked_530x_f9f27c0c-616c-456b-aeb5-cbb7c4852a47.webp?v=1785231971",
     "limit": "Limit 3 per Customer",
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: 30th Celebration Ultra-Premium Collections Day Espeon",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-ultra-premium-collections-day-espeon",
+    "price": "$999.00",
+    "timestamp": "2026-11-15T18:16:08.326361+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/beffc4_b3ecb3dd213f4d758827399d988ee0e3~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pokemon TCG: 30th Celebration Ultra-Premium Collections Night Umbreon",
+    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-30th-celebration-ultra-premium-collections-night-umbreon",
+    "price": "$1,099.00",
+    "timestamp": "2026-11-15T18:16:08.326361+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/beffc4_21116df208a1407c98d52bbc18e8c2ed~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+    "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
   }
