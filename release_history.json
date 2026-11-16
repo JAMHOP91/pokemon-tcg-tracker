@@ -1,39 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Premium Poster Collection (Pre-Order)",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-premium-poster-collection-pre-order",
-    "price": "$119.99",
-    "timestamp": "2026-10-26T21:21:00.429965+00:00",
-    "priority": true,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon_TCG_Mega_Evolution_Ascended_Heroes_Premium_Poster_Collection.webp?v=1769161324",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Unova Poster Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-unova-poster-collection-pre-order",
-    "price": "$45.99",
-    "timestamp": "2026-10-26T21:21:00.429965+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Unova-Poster-Collection_EN-932x1024.jpg?v=1748867141",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet\u2014White Flare Binder Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-white-flare-binder-collection-pre-order",
-    "price": "$79.99",
-    "timestamp": "2026-10-26T21:21:00.429965+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-White-Flare-Binder-Collection_EN-742x1024.jpg?v=1748865405",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet - Black Bolt Binder Collection",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-black-bolt-binder-collection-pre-order",
     "price": "$79.99",
@@ -11967,5 +11934,41 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon Ascended Heroes Booster Pack",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-ascended-heroes-booster-pack",
+    "price": "$21.99",
+    "timestamp": "2026-11-16T03:01:42.112112+00:00",
+    "priority": false,
+    "image": "http://www.cardtopia.co.nz/cdn/shop/files/images_12.jpg?v=1794797509",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon 30th Anniversary Booster Pack",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-30th-anniversary-booster-pack",
+    "price": "$20.99",
+    "timestamp": "2026-11-16T03:01:42.112112+00:00",
+    "priority": false,
+    "image": "http://www.cardtopia.co.nz/cdn/shop/files/30thboosterpack.jpg?v=1794797395",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Pokemon TCG Delta Reign Booster Box",
+    "url": "https://toytime.co.nz/products/pokemon-tcg-delta-reign-elite-trainer-box-pre-order-copy",
+    "price": "$375.00",
+    "timestamp": "2026-11-16T03:01:42.112112+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/images_1_83b2d140-e02d-46a3-8df2-137eaf016a47.jpg?v=1792032128",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.12
   }
 ]
