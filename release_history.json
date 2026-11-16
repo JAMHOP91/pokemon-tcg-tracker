@@ -1,17 +1,6 @@
 [
   {
     "site": "GetThoseMons - Sealed Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: 2025 World Championship Deck Yuya Okita",
-    "url": "https://getthosemons.co.nz/products/pokemon-tcg-2025-world-championship-deck-yuya-okita",
-    "price": "$44.99",
-    "timestamp": "2026-10-26T21:21:00.429965+00:00",
-    "priority": false,
-    "image": "http://getthosecards.co.nz/cdn/shop/files/2025-Pokemon-TCG-World-Championships-Deck-Okita_EN.jpg?v=1781574858",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "GetThoseMons - Sealed Pokemon TCG",
     "title": "Pok\u00e9mon TCG: 2025 World Championship Deck Jose Cruz Galindo-Resendiz",
     "url": "https://getthosemons.co.nz/products/pokemon-tcg-2025-world-championship-deck-jose-cruz-galindo-resendiz",
     "price": "$44.99",
@@ -11974,6 +11963,18 @@
     "image": "https://static.wixstatic.com/media/beffc4_d4e28d31023c4c41a60921ce6a7482a3~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     "limit": null,
     "seen_count": 6,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Redline Trading - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: 30th Celebration ex Tin (Sylveon ex)",
+    "url": "https://redlinetrading.co.nz/products/pokemon-tcg-30th-celebration-tin-sylveon-ex",
+    "price": "$125.00",
+    "timestamp": "2026-11-16T20:01:52.689181+00:00",
+    "priority": true,
+    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/718674_in_1000x1000_8f860779-a020-43ec-a349-2865e8b4a59a.jpg?v=1793996587",
+    "limit": null,
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
