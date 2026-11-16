@@ -1,28 +1,6 @@
 [
   {
     "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet - Black Bolt Binder Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-black-bolt-binder-collection-pre-order",
-    "price": "$79.99",
-    "timestamp": "2026-10-26T21:21:00.429965+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Black-Bolt-Binder-Collection_EN-742x1024.jpg?v=1748863819",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
-    "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Binder Collection",
-    "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-binder-collection-pre-order",
-    "price": "$59.99",
-    "timestamp": "2026-10-26T21:21:00.429965+00:00",
-    "priority": false,
-    "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Scarlet-Violet-Prismatic-Evolutions-Binder-Collection_EN-746x1024.jpg?v=1731408439",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Scarlet & Violet 8.5 Prismatic Evolutions Poster Collection",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-poster-collection-pre-order",
     "price": "$34.99",
@@ -11970,5 +11948,29 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": 1.12
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Paldea Evolved Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-paldea-evolved-elite-trainer-box",
+    "price": "$370.00",
+    "timestamp": "2026-11-16T03:16:11.314574+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2107.webp?v=1786436851",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Razor Leaf - Pokemon TCG",
+    "title": "Pokemon TCG - Shining Fates Elite Trainer Box",
+    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-shining-fates-elite-trainer-box",
+    "price": "$299.99",
+    "timestamp": "2026-11-16T03:16:11.314574+00:00",
+    "priority": false,
+    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2119.webp?v=1786437968",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
   }
 ]
