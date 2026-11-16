@@ -1,16 +1,5 @@
 [
   {
-    "site": "TCG NZ",
-    "title": "POK\u00c9MON TCG Scarlet & Violet 8.5 Prismatic Evolutions Binder Collection",
-    "url": "https://www.tcgnz.co.nz/product-page/pok\u00e9mon-tcg-scarlet-violet-8-5-prismatic-evolutions-binder-collection",
-    "price": "$64.00",
-    "timestamp": "2026-10-26T21:21:00.429965+00:00",
-    "priority": false,
-    "image": "https://static.wixstatic.com/media/f9a8f0_e10bb6696427410ab78ce7a2227c6059~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "Cardtopia NZ",
     "title": "Pokemon Pitch Black Sleeved Booster Pack",
     "url": "https://www.cardtopia.co.nz/products/pokemon-pitch-black-sleeved-booster-pack",
@@ -11963,6 +11952,18 @@
     "priority": false,
     "image": "http://www.jbhifi.co.nz/cdn/shop/files/488369-Product-0-I-639301248612326285_1024x1024.jpg",
     "limit": "Limit 1 per order",
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Tornadus 085/103 (ME06: Delta Reign)  - Reverse Holofoil",
+    "url": "https://cardbot.co.nz/products/tornadus-085-103-me06-delta-reign-reverse-holofoil",
+    "price": "$0.00",
+    "timestamp": "2026-11-16T01:46:03.026737+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_cb0e3e3d-78c7-4aa6-9581-9f5ed3d555e8.jpg?v=1794793381",
+    "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
   }
