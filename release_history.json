@@ -1,16 +1,5 @@
 [
   {
-    "site": "Cardtopia NZ",
-    "title": "Pokemon Pitch Black Sleeved Booster Pack",
-    "url": "https://www.cardtopia.co.nz/products/pokemon-pitch-black-sleeved-booster-pack",
-    "price": "$11.00",
-    "timestamp": "2026-10-26T21:21:00.429965+00:00",
-    "priority": false,
-    "image": "http://www.cardtopia.co.nz/cdn/shop/files/Pokemon_Pitch_Black_Sleeved_Booster_Pack__94314.jpg?v=1784706793",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "PlayX - Pokemon Pre-Orders",
     "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Premium Poster Collection (Pre-Order)",
     "url": "https://www.playx.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-premium-poster-collection-pre-order",
@@ -11963,6 +11952,18 @@
     "timestamp": "2026-11-16T01:46:03.026737+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_cb0e3e3d-78c7-4aa6-9581-9f5ed3d555e8.jpg?v=1794793381",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Smoliv 015/103 (ME06: Delta Reign)  - Reverse Holofoil",
+    "url": "https://cardbot.co.nz/products/smoliv-015-103-me06-delta-reign-reverse-holofoil",
+    "price": "$0.00",
+    "timestamp": "2026-11-16T02:01:46.271221+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_70b1cc9f-b148-4a74-a208-f9335a6d19a0.jpg?v=1794794453",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
