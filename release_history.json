@@ -1,16 +1,5 @@
 [
   {
-    "site": "Game Corner - Pokemon",
-    "title": "Pok\u00e9mon TCG Lumiose City Mini Tin (Assorted)",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
-    "price": "$25.00",
-    "timestamp": "2026-10-27T09:52:13.746448+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Lumiose_City_Mini_Tin.jpg?v=1780985527",
-    "limit": null,
-    "seen_count": 7
-  },
-  {
     "site": "Big Potato Collectibles - Pokemon Sealed",
     "title": "Pokemon TCG: First Partner Illustration Collection - Series 3",
     "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-3",
@@ -11984,6 +11973,18 @@
     "timestamp": "2026-11-16T22:16:05.396809+00:00",
     "priority": true,
     "image": "http://cardbot.co.nz/cdn/shop/files/1789143686090_large_66f7f508-40d3-4790-aaa7-1f5f0c9f548b.jpg?v=1794556929",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "GetThoseMons - Sealed Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution-Pitch Black Booster Pack",
+    "url": "https://getthosemons.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-pack",
+    "price": "$9.95",
+    "timestamp": "2026-11-17T00:46:27.699365+00:00",
+    "priority": false,
+    "image": "http://getthosecards.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Wrap-Mega-Darkrai_EN-560x1024.jpg?v=1784445114",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
