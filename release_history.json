@@ -1,16 +1,5 @@
 [
   {
-    "site": "Otakumart - Pre-Orders",
-    "title": "[SOLD OUT] 30th Celebration Tin\u2014Greninja | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/30th-celebration-tin-greninja-pokemon-tcg",
-    "price": "$65.00",
-    "timestamp": "2026-10-27T14:52:40.388489+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "Goblin Games NZ - Pokemon TCG",
     "title": "Perfect Order Booster Pack",
     "url": "https://goblingames.nz/products/perfect-order-booster-pack",
@@ -11991,5 +11980,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG 30th Celebration Booster Bundle",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-booster-bundle",
+    "price": "$129.99",
+    "timestamp": "2026-11-17T23:09:35.478104+00:00",
+    "priority": true,
+    "image": "https://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Booster-Bundle.jpg?v=1790809472",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": 2.31
   }
 ]
