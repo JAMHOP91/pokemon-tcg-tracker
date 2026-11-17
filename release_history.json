@@ -1,16 +1,5 @@
 [
   {
-    "site": "Big Potato Collectibles - Pokemon Sealed",
-    "title": "Pokemon TCG: First Partner Illustration Collection - Series 3",
-    "url": "https://www.bigpotato.co.nz/product-page/pokemon-tcg-first-partner-illustration-collection-series-3",
-    "price": "$109.00",
-    "timestamp": "2026-10-27T10:13:32.746214+00:00",
-    "priority": false,
-    "image": "https://static.wixstatic.com/media/beffc4_c7ae2ab0da224d02b2f1a21ced27bd12~mv2.avif/v1/fit/w_500,h_500,q_90/file.webp",
-    "limit": null,
-    "seen_count": 1
-  },
-  {
     "site": "Goblin Games NZ - Pokemon TCG",
     "title": "2025 World Championship Deck: Jose Cruz Galindo-Resendiz (Pult Bomb)",
     "url": "https://goblingames.nz/products/2025-world-championship-deck-jose-cruz-galindo-resendiz-pult-bomb",
@@ -11985,6 +11974,18 @@
     "timestamp": "2026-11-17T00:46:27.699365+00:00",
     "priority": false,
     "image": "http://getthosecards.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Wrap-Mega-Darkrai_EN-560x1024.jpg?v=1784445114",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Fletchling 086/103 (ME06: Delta Reign)  - Reverse Holofoil",
+    "url": "https://cardbot.co.nz/products/fletchling-086-103-me06-delta-reign-reverse-holofoil",
+    "price": "$1250.00",
+    "timestamp": "2026-11-17T01:16:36.040456+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_5cc39bb5-986f-43e8-b261-a5e839813a8f.jpg?v=1794877943",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
