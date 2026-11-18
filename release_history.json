@@ -1,29 +1,5 @@
 [
   {
-    "site": "Cool Shit - Pokemon",
-    "title": "View      Pok\u00e9mon TCG: Unova Heavy Hitters Premium Collection",
-    "url": "https://www.coolshit.co.nz/product/heavyhitters",
-    "price": "NZ$160.00",
-    "timestamp": "2026-10-28T06:21:33.006104+00:00",
-    "priority": false,
-    "image": "https://assets.bigcartel.com/product_images/433580283/Cool+Shit+Product+Images.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
-    "limit": null,
-    "seen_count": 0,
-    "msrp_ratio": null
-  },
-  {
-    "site": "Hobby Master - Pokemon",
-    "title": "30TH CELEBRATION ELITE TRAINER BOX",
-    "url": "https://hobbymaster.co.nz/products/product/47423",
-    "price": "$370.00 $400.00",
-    "timestamp": "2026-10-28T06:34:57.808418+00:00",
-    "priority": true,
-    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
-    "limit": null,
-    "seen_count": 1,
-    "msrp_ratio": 3.67
-  },
-  {
     "site": "Game Corner - Pokemon",
     "title": "Pokemon TCG ME05 Pitch Black Booster Box",
     "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-box-preorder-ship-on-july-17-2026",
@@ -11997,6 +11973,30 @@
     "image": "https://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Ditto-Premium-Collection.png?v=1794959627",
     "limit": null,
     "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution - Perfect Order Booster (Single)",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-perfect-order-booster-single",
+    "price": "$9.99",
+    "timestamp": "2026-11-18T20:40:08.401480+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Meowth_EN_grande.jpg?v=1774554427",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Pop Stop - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Mega Evolution: Pitch Black - Booster (Single)",
+    "url": "https://popstop.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-single",
+    "price": "$9.99",
+    "timestamp": "2026-11-18T20:40:08.401480+00:00",
+    "priority": false,
+    "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191",
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
