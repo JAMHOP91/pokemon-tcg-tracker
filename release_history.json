@@ -1,16 +1,5 @@
 [
   {
-    "site": "Goblin Games NZ - Pokemon TCG",
-    "title": "Perfect Order Booster Pack",
-    "url": "https://goblingames.nz/products/perfect-order-booster-pack",
-    "price": "$12.00",
-    "timestamp": "2026-10-27T16:31:57.791026+00:00",
-    "priority": false,
-    "image": "http://goblingames.nz/cdn/shop/files/672398.jpg?v=1776145766",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
     "site": "WP Games - Pokemon TCG",
     "title": "Pokemon TCG: Mega Evolution - Chaos Rising Checklane Blister Booster Pack",
     "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-checklane-blister-booster-pack",
@@ -11992,5 +11981,17 @@
     "limit": null,
     "seen_count": 1,
     "msrp_ratio": 2.31
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG 30th Celebration Ditto Premium Collection",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-ditto-premium-collection",
+    "price": "$199.99",
+    "timestamp": "2026-11-18T00:08:41.334295+00:00",
+    "priority": true,
+    "image": "https://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Ditto-Premium-Collection.png?v=1794959627",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
   }
 ]
