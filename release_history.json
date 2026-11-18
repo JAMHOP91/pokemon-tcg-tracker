@@ -1,38 +1,5 @@
 [
   {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Mega Evolution: Pitch Black: Sealed 3 Booster Pack (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-pitch-black-sealed-3-booster-pack-english",
-    "price": "$32.99",
-    "timestamp": "2026-10-27T18:05:29.192733+00:00",
-    "priority": false,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PitchBlack3pkBlister_1webp.webp?v=1784364768",
-    "limit": null,
-    "seen_count": 3
-  },
-  {
-    "site": "Game Corner - Pokemon Pre-Orders",
-    "title": "[SOLD OUT] Pokemon TCG ME06 Delta Reign Booster Bundle Preorder, ship on November 6, 2026",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-bundle",
-    "price": "$75.00",
-    "timestamp": "2026-10-27T19:40:53.330077+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Game Corner - Pokemon",
-    "title": "Pok\u00e9mon TCG ME04 Chaos Rising Booster Box",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-booster-box",
-    "price": "$340.00",
-    "timestamp": "2026-10-27T20:28:22.049268+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME03_Chaos_Rising_Booster_Box.jpg?v=1777853291",
-    "limit": null,
-    "seen_count": 2
-  },
-  {
     "site": "Parko Cards - Pokemon TCG",
     "title": "Pok\u00e9mon TCG: Mega Zygarde EX Premium Collection",
     "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
@@ -11994,5 +11961,41 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": 1.33
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: Unova Heavy Hitters Premium Collection (PRE-ORDER)",
+    "url": "https://www.coolshit.co.nz/product/heavyhittersunova",
+    "price": "NZ$199.00",
+    "timestamp": "2026-11-18T05:16:04.683812+00:00",
+    "priority": false,
+    "image": "https://assets.bigcartel.com/product_images/435025116/Cool+Shit+Product+Images+_1_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: Mega Evolution Pitch Black Booster (PRE-ORDER)",
+    "url": "https://www.coolshit.co.nz/product/pok%C3%A9mon-tcg-mega-evolution-pitch-black-booster-pre-order",
+    "price": "NZ$359.00",
+    "timestamp": "2026-11-18T05:16:04.683812+00:00",
+    "priority": false,
+    "image": "https://assets.bigcartel.com/product_images/425269320/17.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View          Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign Booster (PRE-ORDER)",
+    "url": "https://www.coolshit.co.nz/product/DELTABOOSTERBOX",
+    "price": "NZ$359.00",
+    "timestamp": "2026-11-18T05:16:04.683812+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/430009305/2.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
   }
 ]
