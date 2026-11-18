@@ -1,17 +1,5 @@
 [
   {
-    "site": "Game Corner - Pokemon",
-    "title": "Pokemon TCG ME05 Pitch Black Booster Box",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-box-preorder-ship-on-july-17-2026",
-    "price": "$340.00",
-    "timestamp": "2026-10-28T08:10:55.685527+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME05_Pitch_Black_Booster_Box.jpg?v=1777870840",
-    "limit": null,
-    "seen_count": 4,
-    "msrp_ratio": null
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pok\u00e9mon TCG 30th Celebration Mini Tin",
     "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-mini-tin",
@@ -11997,6 +11985,18 @@
     "image": "http://popstop.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Pitch-Black-Booster-Wrap-Mega-Zeraora_EN-560x1024_grande.jpg?v=1784586191",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pokemon TCG Mega Evolutions 2 pack Blister pack",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-2-pack-blister-pack",
+    "price": "$31.99",
+    "timestamp": "2026-11-18T21:38:44.187913+00:00",
+    "priority": true,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCG-Megaevolutions2packBlister.jpg?v=1790806747",
+    "limit": null,
+    "seen_count": 5,
     "msrp_ratio": null
   }
 ]
