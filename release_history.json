@@ -1,17 +1,5 @@
 [
   {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Tin - Sylveon ex - PRE ORDER",
-    "url": "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-sylveon-ex-pre-order",
-    "price": null,
-    "timestamp": "2026-10-28T01:40:55.623919+00:00",
-    "priority": true,
-    "image": "https://static.wixstatic.com/media/6f86e7_13f3e75411e34b9c934c798230a8e623~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
-    "limit": null,
-    "seen_count": 2,
-    "msrp_ratio": null
-  },
-  {
     "site": "Big Potato Collectibles - Pokemon Sealed",
     "title": "Pok\u00e9mon TCG: Sword & Shield Rebel Clash Booster Pack",
     "url": "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-rebel-clash-booster-pack",
@@ -11997,6 +11985,18 @@
     "image": "https://assets.bigcartel.com/product_images/435025011/3.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Kidzstuffonline - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Delta Reign booster x1",
+    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-delta-reign-booster",
+    "price": "$10.99",
+    "timestamp": "2026-11-18T06:01:31.503024+00:00",
+    "priority": false,
+    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-Delta-Reign-Boosters.webp?v=1793677171",
+    "limit": null,
+    "seen_count": 7,
     "msrp_ratio": null
   }
 ]
