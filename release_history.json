@@ -1,17 +1,5 @@
 [
   {
-    "site": "Big Potato Collectibles - Pokemon Sealed",
-    "title": "Pok\u00e9mon TCG: Sword & Shield Rebel Clash Booster Pack",
-    "url": "https://www.bigpotato.co.nz/product-page/pok\u00e9mon-tcg-sword-shield-rebel-clash-booster-pack",
-    "price": "$29.00",
-    "timestamp": "2026-10-28T03:40:50.828520+00:00",
-    "priority": false,
-    "image": "https://static.wixstatic.com/media/beffc4_b93d9cf93c35422e8647a5e0ed0fe943~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
-    "limit": null,
-    "seen_count": 0,
-    "msrp_ratio": null
-  },
-  {
     "site": "Cool Shit - Pokemon",
     "title": "View      Pok\u00e9mon TCG: Unova Heavy Hitters Premium Collection",
     "url": "https://www.coolshit.co.nz/product/heavyhitters",
@@ -11997,6 +11985,18 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-Delta-Reign-Boosters.webp?v=1793677171",
     "limit": null,
     "seen_count": 7,
+    "msrp_ratio": null
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pokemon TCG 30th Celebration Ditto Premium Collection",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-ditto-premium-collection",
+    "price": "$199.99",
+    "timestamp": "2026-11-18T07:37:44.854836+00:00",
+    "priority": true,
+    "image": "https://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Ditto-Premium-Collection.png?v=1794959627",
+    "limit": null,
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
