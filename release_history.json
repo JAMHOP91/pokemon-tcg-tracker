@@ -1,40 +1,5 @@
 [
   {
-    "site": "Parko Cards - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG: Mega Zygarde EX Premium Collection",
-    "url": "https://parkocards.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$130.00",
-    "timestamp": "2026-10-27T21:05:05.919543+00:00",
-    "priority": false,
-    "image": "http://parkocards.co.nz/cdn/shop/files/pokemonmegazygardeex.webp?v=1785818630",
-    "limit": null,
-    "seen_count": 0
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-10-27T22:10:54.880913+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pitch-black-booster-bundle.png?v=1784072331",
-    "limit": "limit 6 per person",
-    "seen_count": 5,
-    "msrp_ratio": null
-  },
-  {
-    "site": "The Game Tree NZ",
-    "title": "#30 Togepi - Pok\u00e9mon League (January 2001) - WotC Black Star Promo (LP+)",
-    "url": "https://thegametree.co.nz/products/30-togepi-pokemon-league-january-2001-wotc-black-star-promo",
-    "price": "$52.88",
-    "timestamp": "2026-10-27T23:40:50.052392+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/products/30_Togepi.png?v=1642993715",
-    "limit": null,
-    "seen_count": 3,
-    "msrp_ratio": null
-  },
-  {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: 30th Celebration Tin - Sylveon ex - PRE ORDER",
     "url": "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-30th-celebration-tin-sylveon-ex-pre-order",
@@ -11994,6 +11959,42 @@
     "timestamp": "2026-11-18T05:16:04.683812+00:00",
     "priority": true,
     "image": "https://assets.bigcartel.com/product_images/430009305/2.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: Mega Rayquaza ex Premium Tournament Collection (PRE-ORDER)",
+    "url": "https://www.coolshit.co.nz/product/MegaRayquaza",
+    "price": "NZ$110.00",
+    "timestamp": "2026-11-18T05:31:33.847072+00:00",
+    "priority": false,
+    "image": "https://assets.bigcartel.com/product_images/435024927/1.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: Pok\u00e9mon Day 2027 Collection",
+    "url": "https://www.coolshit.co.nz/product/POKEMONDAY",
+    "price": "NZ$110.00",
+    "timestamp": "2026-11-18T05:31:33.847072+00:00",
+    "priority": false,
+    "image": "https://assets.bigcartel.com/product_images/435024966/2.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: Valentine\u2019s Box",
+    "url": "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-pok%C3%A9mon-day-2027-collection",
+    "price": "NZ$36.00",
+    "timestamp": "2026-11-18T05:31:33.847072+00:00",
+    "priority": false,
+    "image": "https://assets.bigcartel.com/product_images/435025011/3.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
