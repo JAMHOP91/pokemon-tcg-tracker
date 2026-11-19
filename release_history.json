@@ -1,65 +1,5 @@
 [
   {
-    "site": "The Game Tree NZ",
-    "title": "**CLEARANCE** Pokemon Surprise Attack Game - Togetic & Bulbasaur",
-    "url": "https://thegametree.co.nz/products/pokemon-surprise-attack-game-togetic-bulbasaur",
-    "price": "$29.88",
-    "timestamp": "2026-10-28T21:11:04.563833+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/files/SurpriseAttackGame_Togetic_Bulbasaur.png?v=1763442350",
-    "limit": null,
-    "seen_count": 0,
-    "msrp_ratio": null
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolutions Pitch Black Booster x1",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-x1",
-    "price": "$10.99",
-    "timestamp": "2026-10-28T22:40:49.366926+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pitch-black-booster-bundle.png?v=1784072331",
-    "limit": "limit 6 per person",
-    "seen_count": 6,
-    "msrp_ratio": null
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Mega Evolution: Chaos Rising: Sealed Booster Pack (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-chaos-rising-sealed-booster-pack-english",
-    "price": "$9.99",
-    "timestamp": "2026-10-28T22:40:49.366926+00:00",
-    "priority": false,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/ChaosRisingBooster_1webp.webp?v=1776939197",
-    "limit": null,
-    "seen_count": 1,
-    "msrp_ratio": null
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG Mega Evolution Ascended Heroes Focused Fighters Premium Collection",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection",
-    "price": "$399.99",
-    "timestamp": "2026-10-28T23:34:44.812955+00:00",
-    "priority": true,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Focused-Fighters-Premium-Collection.jpg?v=1793229534",
-    "limit": null,
-    "seen_count": 0,
-    "msrp_ratio": null
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolutions 2 pack Blister pack",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-2-pack-blister-pack",
-    "price": "$31.99",
-    "timestamp": "2026-10-29T01:37:37.480052+00:00",
-    "priority": true,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCG-Megaevolutions2packBlister.jpg?v=1790806747",
-    "limit": null,
-    "seen_count": 9,
-    "msrp_ratio": null
-  },
-  {
     "site": "Game Corner - Pokemon",
     "title": "Pok\u00e9mon TCG ME04 Chaos Rising Booster Box",
     "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-booster-box",
@@ -11998,5 +11938,65 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": 1.09
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "[SOLD OUT] Flowing Fists 3-Booster Blister | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/flowing-fists-3-booster-blister-pokemon-tcg",
+    "price": "$32.00",
+    "timestamp": "2026-11-19T23:01:32.736490+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "[SOLD OUT] Flowing Fists Booster Bundle | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/flowing-fists-booster-bundle-pokemon-tcg",
+    "price": "$60.00",
+    "timestamp": "2026-11-19T23:01:32.736490+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "[SOLD OUT] Flowing Fists Elite Trainer Box | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/flowing-fists-elite-trainer-box-pokemon-tcg",
+    "price": "$120.00",
+    "timestamp": "2026-11-19T23:01:32.736490+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "[SOLD OUT] Flowing Fists Booster Pack | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/flowing-fists-booster-pack-pokemon-tcg",
+    "price": "$10.00",
+    "timestamp": "2026-11-19T23:01:32.736490+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Otakumart - Pre-Orders",
+    "title": "[SOLD OUT] Flowing Fists Booster Box | Pokemon TCG",
+    "url": "https://otakumart.co.nz/products/flowing-fists-booster-box-pokemon-tcg",
+    "price": "$330.00",
+    "timestamp": "2026-11-19T23:01:32.736490+00:00",
+    "priority": false,
+    "image": null,
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
   }
 ]
