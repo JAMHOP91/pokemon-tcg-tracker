@@ -1,29 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Lumiose City Mini Tin",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-lumiose-city-mini-tin",
-    "price": "$22.99",
-    "timestamp": "2026-10-28T12:10:52.525078+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/158043444707358.jpg?v=1790125899",
-    "limit": null,
-    "seen_count": 1,
-    "msrp_ratio": null
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-10-28T17:10:51.804642+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/PitchBlack_BoosterBox.png?v=1784081025",
-    "limit": "Maximum 6 per person",
-    "seen_count": 3,
-    "msrp_ratio": null
-  },
-  {
     "site": "The Game Tree NZ",
     "title": "**CLEARANCE** Pokemon Surprise Attack Game - Togetic & Bulbasaur",
     "url": "https://thegametree.co.nz/products/pokemon-surprise-attack-game-togetic-bulbasaur",
@@ -11998,5 +11974,29 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pok\u00e9mon TCG \u2013 Delta Reign Booster Box",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-tcg-delta-reign-booster-box",
+    "price": "$360.00",
+    "timestamp": "2026-11-19T08:01:35.333034+00:00",
+    "priority": false,
+    "image": "http://www.cardtopia.co.nz/cdn/shop/files/images_13.jpg?v=1795075210",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.06
+  },
+  {
+    "site": "Cardtopia NZ",
+    "title": "Pokemon  - Delta Reign Single Sleeved Booster Pack",
+    "url": "https://www.cardtopia.co.nz/products/pokemon-live-stream-delta-reign-single-sleeved-booster-pack",
+    "price": "$10.20",
+    "timestamp": "2026-11-19T08:01:35.333034+00:00",
+    "priority": false,
+    "image": "http://www.cardtopia.co.nz/cdn/shop/files/1600_1.jpg?v=1794297147",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": 1.09
   }
 ]
