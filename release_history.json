@@ -1,17 +1,5 @@
 [
   {
-    "site": "Game Corner - Pokemon",
-    "title": "Pok\u00e9mon TCG ME04 Chaos Rising Booster Box",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-chaos-rising-booster-box",
-    "price": "$340.00",
-    "timestamp": "2026-10-29T01:37:37.480052+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME03_Chaos_Rising_Booster_Box.jpg?v=1777853291",
-    "limit": null,
-    "seen_count": 3,
-    "msrp_ratio": null
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG Mega Evolutions 2 pack Blister pack",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-2-pack-blister-pack",
@@ -11998,5 +11986,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Mega Evolution 6 Delta Reign Elite Trainer Box",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-6-delta-reign-elite-trainer-box",
+    "price": "$168.00",
+    "timestamp": "2026-11-19T23:20:18.146985+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/delta-reign-etb-milsims-1.jpg?v=1791853048",
+    "limit": null,
+    "seen_count": 2,
+    "msrp_ratio": 1.61
   }
 ]
