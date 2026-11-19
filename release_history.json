@@ -1,17 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG Mega Evolution 2-Pack Blister \u2013 Zarude",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-2-pack-blister-zarude",
-    "price": "$34.99",
-    "timestamp": "2026-10-28T08:40:55.020832+00:00",
-    "priority": true,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-2-Pack-Blister-Zarude.jpg?v=1790809018",
-    "limit": null,
-    "seen_count": 8,
-    "msrp_ratio": null
-  },
-  {
     "site": "Game Corner - Pokemon Pre-Orders",
     "title": "[RESTOCK] Pokemon TCG ME06 Delta Reign Booster Box Preorder, ship on November 6, 2026",
     "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-box",
@@ -11995,6 +11983,18 @@
     "timestamp": "2026-11-18T22:25:19.836731+00:00",
     "priority": false,
     "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG_4426.webp?v=1795039846",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Exeggcute 001/131 (SV: Prismatic Evolutions)  - Reverse Holofoil",
+    "url": "https://cardbot.co.nz/products/exeggcute-001-131-sv-prismatic-evolutions-reverse-holofoil",
+    "price": "$1248.00",
+    "timestamp": "2026-11-19T00:24:52.366253+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/20260314_adf28ecd-6dbb-4d3b-990c-c062f2e34b57_1773476655059.jpg?v=1795047848",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
