@@ -1,53 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG Mega Evolution Ascended Heroes Focused Fighters Premium Collection",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection",
-    "price": "$299.99",
-    "timestamp": "2026-10-30T04:40:58.893040+00:00",
-    "priority": true,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Focused-Fighters-Premium-Collection.jpg?v=1793229534",
-    "limit": null,
-    "seen_count": 1,
-    "msrp_ratio": null
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG 30th Celebration Mini Tin",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-30th-celebration-mini-tin",
-    "price": "$69.99",
-    "timestamp": "2026-10-30T06:10:47.618425+00:00",
-    "priority": true,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Mini-Tin.jpg?v=1790819697",
-    "limit": null,
-    "seen_count": 7,
-    "msrp_ratio": null
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon Mega Zygarde ex Premium Collection",
-    "url": "https://ocare.co.nz/products/pokemon-mega-zygarde-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-10-30T08:11:08.108011+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-Mega-Zygarde-ex-Premium-Collection.png?v=1777952392",
-    "limit": null,
-    "seen_count": 4,
-    "msrp_ratio": null
-  },
-  {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Mega Evolution: Pitch Black: Sleeved Sealed Booster Pack (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-pitch-black-sleeved-sealed-booster-pack-english",
-    "price": "$10.99",
-    "timestamp": "2026-10-30T08:11:08.108011+00:00",
-    "priority": false,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PitchBlackSleevedBooster_1webp.webp?v=1784532248",
-    "limit": null,
-    "seen_count": 1,
-    "msrp_ratio": null
-  },
-  {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: Mega Evolution\u2014 Delta Reign Full Set of products - PRE ORDER -",
     "url": "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-delta-reign-full-set-of-products-pre-order",
@@ -11995,6 +11947,54 @@
     "timestamp": "2026-11-20T01:20:28.659759+00:00",
     "priority": true,
     "image": "https://static.wixstatic.com/media/6f86e7_db18883a619b4f10a94a487ef58863c4~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Chaos Rising: Sealed Booster Box (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-chaos-rising-sealed-booster-box-english",
+    "price": "$339.99",
+    "timestamp": "2026-11-20T01:47:56.064627+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/ChaosRisingEliteBoosterBox_1webp.webp?v=1776938232",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Chaos Rising: Sealed Booster Pack Blister: Chikorita Coin (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-chaos-rising-sealed-booster-pack-blister-chikorita-coin-english",
+    "price": "$14.99",
+    "timestamp": "2026-11-20T01:47:56.064627+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/ChaosRisingChecklaneBlister_1webp.webp?v=1776938722",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pok\u00e9mon: Mega Evolution: Ascended Heroes: Sealed Booster Bundle (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-ascended-heroes-sealed-booster-bundle-english-1",
+    "price": "$149.99",
+    "timestamp": "2026-11-20T01:47:56.064627+00:00",
+    "priority": true,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/AscendedHeroes-BoosterBundle_1.webp?v=1776939400",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Sealed & Slabbed - Pokemon Sealed",
+    "title": "Pokemon: Mega Evolution: Perfect Order: Sealed Booster Pack Blister: Makuhita Art (English)",
+    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sealed-booster-pack-blister-makuhita-art-english",
+    "price": "$14.99",
+    "timestamp": "2026-11-20T01:47:56.064627+00:00",
+    "priority": false,
+    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderSingleBlisterMakuhita_1webp.webp?v=1775104439",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
