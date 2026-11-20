@@ -1,17 +1,5 @@
 [
   {
-    "site": "Magic Red Dragon - Pokemon Pre-Orders",
-    "title": "Pok\u00e9mon TCG: 30th Celebration Ultra-Premium Collection Night - PRE ORDER",
-    "url": "https://www.magicreddragon.co.nz/product-page/copy-of-pok\u00e9mon-tcg-30th-celebration-ultra-premium-collection-night-pre-order",
-    "price": null,
-    "timestamp": "2026-10-31T22:10:55.297776+00:00",
-    "priority": true,
-    "image": "https://static.wixstatic.com/media/6f86e7_109e93d96d6147d8a12eb6d4e42e39d1~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
-    "limit": null,
-    "seen_count": 3,
-    "msrp_ratio": null
-  },
-  {
     "site": "Game Corner - Pokemon",
     "title": "Pokemon TCG ME05 Pitch Black Booster Box",
     "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-box-preorder-ship-on-july-17-2026",
@@ -11998,5 +11986,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": 2.49
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Custom Vest 127/103 (ME06: Delta Reign)  - Holofoil",
+    "url": "https://cardbot.co.nz/products/custom-vest-127-103-me06-delta-reign-holofoil",
+    "price": "$0.00",
+    "timestamp": "2026-11-20T14:31:52.949364+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_a844fdbb-40a2-4a41-9e27-f5d09566558a.jpg?v=1795184914",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
   }
 ]
