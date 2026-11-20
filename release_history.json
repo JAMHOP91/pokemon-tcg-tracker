@@ -1,17 +1,5 @@
 [
   {
-    "site": "Game Corner - Pokemon",
-    "title": "Pokemon TCG ME05 Pitch Black Booster Box",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-mega-evolution-pitch-black-booster-box-preorder-ship-on-july-17-2026",
-    "price": "$340.00",
-    "timestamp": "2026-11-01T00:22:58.282073+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/Pokemon_TCG_ME05_Pitch_Black_Booster_Box.jpg?v=1777870840",
-    "limit": null,
-    "seen_count": 5,
-    "msrp_ratio": null
-  },
-  {
     "site": "Card Masters NZ",
     "title": "TEAL MASK OGERPON ex SPECIAL ILLUSTRATION - PSA 10",
     "url": "https://cardmasters.co.nz/products/teal-mask-ogerpon-ex-special-illustration-psa-10",
@@ -11997,6 +11985,18 @@
     "image": "http://cardbot.co.nz/cdn/shop/files/1793941823297_large_a844fdbb-40a2-4a41-9e27-f5d09566558a.jpg?v=1795184914",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pok\u00e9mon TCG: V Tin Heroes Umbreon (1 Foil Card & 4 Booster Packs)",
+    "url": "https://www.bigpotato.co.nz/product-page/copy-of-pokemon-tcg-sword-shield-evolving-skies-booster-pack",
+    "price": "$299.00",
+    "timestamp": "2026-11-20T22:16:01.468089+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_b3f0763bb14f43d6ae6998546ee1e87e~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 2,
     "msrp_ratio": null
   }
 ]
