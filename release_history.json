@@ -1,17 +1,5 @@
 [
   {
-    "site": "Otakumart - Pre-Orders",
-    "title": "[SOLD OUT] Delta Reign Elite Trainer Box | Pokemon TCG",
-    "url": "https://otakumart.co.nz/products/delta-reign-elite-trainer-box-pokemon-tcg",
-    "price": "$115.00",
-    "timestamp": "2026-10-29T07:40:46.447350+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 0,
-    "msrp_ratio": 1.12
-  },
-  {
     "site": "Magic Red Dragon - Pokemon Pre-Orders",
     "title": "Pok\u00e9mon TCG: Delta Reign Booster Bundle - Pre-order",
     "url": "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-delta-reign-booster-bundle-pre-order",
@@ -11996,6 +11984,18 @@
     "priority": true,
     "image": "http://www.jbhifi.co.nz/cdn/shop/files/488389-Product-0-I-639307274406517851_1024x1024.jpg",
     "limit": "Limit 1 per order",
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Hobby Station - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Ditto Premium Collection",
+    "url": "https://hobbystation.co.nz/pokemon-tcg-30th-celebration-ditto-premium-collection/",
+    "price": "$146.09",
+    "timestamp": "2026-11-20T00:08:35.807558+00:00",
+    "priority": true,
+    "image": "https://cdn11.bigcommerce.com/s-afq6npz/products/30621/images/80789/Pokemon-TCG-30th-Celebration-Ditto-Premium-Collection_EN__32340.1795132785.220.220.jpg?c=2",
+    "limit": "Limited 1 per customer",
     "seen_count": 0,
     "msrp_ratio": null
   }
