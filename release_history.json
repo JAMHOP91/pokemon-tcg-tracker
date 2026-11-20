@@ -1,18 +1,6 @@
 [
   {
     "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-3-perfect-order-booster",
-    "price": "$10.99",
-    "timestamp": "2026-10-31T05:40:47.519785+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Perfect-Order-Booster-Wrap-Mega-Zygarde_EN.png?v=1774393148",
-    "limit": null,
-    "seen_count": 5,
-    "msrp_ratio": null
-  },
-  {
-    "site": "OCARE NZ - Pokemon TCG",
     "title": "Pok\u00e9mon TCG Mega Evolution Ascended Heroes Focused Fighters Premium Collection",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection",
     "price": "$299.99",
@@ -11997,6 +11985,18 @@
     "image": "http://kidzstuffonline.co.nz/cdn/shop/files/pokemon-Delta-Reign-Boosters.webp?v=1793677171",
     "limit": null,
     "seen_count": 8,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pok\u00e9mon TCG: V Tin Heroes Umbreon (1 Foil Card & 4 Booster Packs)",
+    "url": "https://www.bigpotato.co.nz/product-page/copy-of-pokemon-tcg-sword-shield-evolving-skies-booster-pack",
+    "price": "$299.00",
+    "timestamp": "2026-11-20T06:46:03.635259+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_b3f0763bb14f43d6ae6998546ee1e87e~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
