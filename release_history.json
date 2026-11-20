@@ -1,17 +1,5 @@
 [
   {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Evolution - Chaos Rising Booster Box",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-evolutions-chaos-rising-booster-box",
-    "price": "$359.99",
-    "timestamp": "2026-10-30T12:40:50.787168+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/PokemonTradingCardGame-MegaEvolutionME04-ChaosRising-BoosterBox.png?v=1779326682",
-    "limit": "Maximum 1 per person",
-    "seen_count": 7,
-    "msrp_ratio": null
-  },
-  {
     "site": "Game Corner - Pokemon Pre-Orders",
     "title": "[RESTOCK] Pokemon TCG ME06 Delta Reign Booster Bundle Preorder, ship on November 6, 2026",
     "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-bundle",
@@ -11995,6 +11983,18 @@
     "timestamp": "2026-11-20T05:04:32.845000+00:00",
     "priority": true,
     "image": "http://sealedandslabbed.co.nz/cdn/shop/files/LumioseCityMiniTins_Emboar_1webp.webp?v=1780644066",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Big Potato Collectibles - Pokemon Sealed",
+    "title": "Pok\u00e9mon TCG: V Tin Heroes Umbreon (1 Foil Card & 4 Booster Packs)",
+    "url": "https://www.bigpotato.co.nz/product-page/copy-of-pokemon-tcg-sword-shield-evolving-skies-booster-pack",
+    "price": "$299.00",
+    "timestamp": "2026-11-20T05:16:07.391109+00:00",
+    "priority": false,
+    "image": "https://static.wixstatic.com/media/beffc4_b3f0763bb14f43d6ae6998546ee1e87e~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
