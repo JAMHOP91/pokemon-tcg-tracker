@@ -1,17 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pok\u00e9mon TCG Mega Evolution Ascended Heroes Focused Fighters Premium Collection",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection",
-    "price": "$299.99",
-    "timestamp": "2026-10-31T06:10:50.202118+00:00",
-    "priority": true,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution-Ascended-Heroes-Focused-Fighters-Premium-Collection.jpg?v=1793229534",
-    "limit": null,
-    "seen_count": 2,
-    "msrp_ratio": null
-  },
-  {
     "site": "Card Masters NZ",
     "title": "HILDA ULTRA RARE - PSA 10",
     "url": "https://cardmasters.co.nz/products/hilda-ultra-rare-psa-10",
@@ -11997,6 +11985,18 @@
     "image": "https://static.wixstatic.com/media/beffc4_b3f0763bb14f43d6ae6998546ee1e87e~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     "limit": null,
     "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Mr Tofu Card Store - Pokemon TCG",
+    "title": "(Pre-order) Pok\u00e9mon TCG: Mega Evolution - Flowing Fists Booster Box",
+    "url": "https://mrtofu.store/products/pre-order-pokemon-tcg-mega-evolution-flowing-fists-booster-box",
+    "price": "$339.99",
+    "timestamp": "2026-11-20T07:32:10.578769+00:00",
+    "priority": true,
+    "image": "http://mrtofu.store/cdn/shop/files/FlowingFistBoosterBox.png?v=1795152343",
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
