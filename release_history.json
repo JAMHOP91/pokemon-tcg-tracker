@@ -1,17 +1,5 @@
 [
   {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG: Perfect Order Booster - Mega Zygarde ex",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-perfect-order-booster-mega-zygarde-ex",
-    "price": "$10.90",
-    "timestamp": "2026-11-01T01:40:47.847754+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG__Perfect_Order_Booster-1.png?v=1785385807",
-    "limit": null,
-    "seen_count": 2,
-    "msrp_ratio": null
-  },
-  {
     "site": "Razor Leaf - Pokemon TCG",
     "title": "Pokemon TCG - Sword and Shield Astral Radiance Elite Trainer Box",
     "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-sword-and-shield-astral-radiance-elite-trainer-box",
@@ -11998,5 +11986,17 @@
     "limit": null,
     "seen_count": 1,
     "msrp_ratio": 1.39
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box",
+    "price": "$259.00",
+    "timestamp": "2026-11-21T23:01:51.000040+00:00",
+    "priority": true,
+    "image": "http://cardbot.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box_EN.jpg?v=1795163630",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": 2.48
   }
 ]
