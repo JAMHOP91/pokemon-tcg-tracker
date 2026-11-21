@@ -1,17 +1,5 @@
 [
   {
-    "site": "Game Corner - Pokemon Pre-Orders",
-    "title": "[SOLD OUT] Pokemon TCG ME06 Delta Reign Booster Box Preorder, ship on November 6, 2026",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-box",
-    "price": "$400.00",
-    "timestamp": "2026-11-01T01:16:01.717553+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 0,
-    "msrp_ratio": 1.21
-  },
-  {
     "site": "Animal Kingdoms - Pokemon TCG",
     "title": "Pokemon TCG: Perfect Order Booster - Mega Zygarde ex",
     "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-perfect-order-booster-mega-zygarde-ex",
@@ -11998,5 +11986,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": 1.07
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG: Mega Evolution - Delta Reign Elite Trainer Box",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box",
+    "price": "$145.00",
+    "timestamp": "2026-11-21T04:31:52.860140+00:00",
+    "priority": true,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/PokemonTCG_MegaEvolution-DeltaReignEliteTrainerBox.jpg?v=1793943189",
+    "limit": null,
+    "seen_count": 1,
+    "msrp_ratio": 1.39
   }
 ]
