@@ -1,18 +1,6 @@
 [
   {
     "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Sword and Shield Astral Radiance Elite Trainer Box",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-sword-and-shield-astral-radiance-elite-trainer-box",
-    "price": "$280.00",
-    "timestamp": "2026-11-01T01:50:46.391387+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/Astral_Radiance_Elite_Trainer_Box.webp?v=1737617772",
-    "limit": null,
-    "seen_count": 0,
-    "msrp_ratio": null
-  },
-  {
-    "site": "Razor Leaf - Pokemon TCG",
     "title": "Pokemon TCG - Rebel Clash Elite Trainer Box (*some seal rips)",
     "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-rebel-clash-elite-trainer-box",
     "price": "$620.00",
@@ -11998,5 +11986,17 @@
     "limit": null,
     "seen_count": 1,
     "msrp_ratio": 2.48
+  },
+  {
+    "site": "Animal Kingdoms - Pokemon TCG",
+    "title": "Pokemon TCG: Ascended Heroes Focused Fighters Premium Collection",
+    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-ascended-heroes-focused-fighters-premium-collection",
+    "price": "$225.00",
+    "timestamp": "2026-11-22T02:31:54.788598+00:00",
+    "priority": false,
+    "image": "http://animalkingdoms.co.nz/cdn/shop/files/AscendedHeroesFocusedFightersPremiumCollection.jpg?v=1794007388",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
   }
 ]
