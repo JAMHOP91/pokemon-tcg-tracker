@@ -1,29 +1,5 @@
 [
   {
-    "site": "Hobby Master - Pokemon",
-    "title": "30TH CELEBRATION MINI TIN (ASSORTED)",
-    "url": "https://hobbymaster.co.nz/products/product/47431",
-    "price": "$50.00 $75.00",
-    "timestamp": "2026-11-01T02:40:48.746736+00:00",
-    "priority": true,
-    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
-    "limit": null,
-    "seen_count": 1,
-    "msrp_ratio": null
-  },
-  {
-    "site": "Hobby Master - Pokemon",
-    "title": "CHAOS RISING - MEGA ZYGARDE EX PREMIUM COLLECTION",
-    "url": "https://hobbymaster.co.nz/products/product/46976",
-    "price": "$150.00 $200.00",
-    "timestamp": "2026-11-01T02:40:48.746736+00:00",
-    "priority": false,
-    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
-    "limit": null,
-    "seen_count": 2,
-    "msrp_ratio": null
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
@@ -11997,6 +11973,30 @@
     "image": "http://cardbot.co.nz/cdn/shop/files/1789143355207_large_d4d2d38a-751a-4405-bc8b-ce67b04d731a.jpg?v=1794556933",
     "limit": null,
     "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Hunting Gloves 142/172 (SWSH09: Brilliant Stars)  - Reverse Holofoil",
+    "url": "https://cardbot.co.nz/products/hunting-gloves-142-172-swsh09-brilliant-stars-reverse-holofoil",
+    "price": "$1.00",
+    "timestamp": "2026-11-22T23:02:00.649269+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1776402084225_c9c8185b-6566-4766-ad8f-ba24c593f42b_1776402084225.webp?v=1795388104",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Claydol 059/172 (SWSH09: Brilliant Stars)  - Reverse Holofoil",
+    "url": "https://cardbot.co.nz/products/claydol-059-172-swsh09-brilliant-stars-reverse-holofoil",
+    "price": "$1.00",
+    "timestamp": "2026-11-22T23:02:00.649269+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1776400689383_f0b19abb-8ef5-4229-91a4-909d6e9aa9a5_1776400689383.webp?v=1795388102",
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
