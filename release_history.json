@@ -1,17 +1,5 @@
 [
   {
-    "site": "Razor Leaf - Pokemon TCG",
-    "title": "Pokemon TCG - Rebel Clash Elite Trainer Box (*some seal rips)",
-    "url": "https://www.razorleaf.co.nz/products/pokemon-tcg-rebel-clash-elite-trainer-box",
-    "price": "$620.00",
-    "timestamp": "2026-11-01T01:50:46.391387+00:00",
-    "priority": false,
-    "image": "http://www.razorleaf.co.nz/cdn/shop/files/IMG-2122.jpg?v=1786439198",
-    "limit": null,
-    "seen_count": 0,
-    "msrp_ratio": null
-  },
-  {
     "site": "Hobby Master - Pokemon",
     "title": "CHAOS RISING - BOOSTER BUNDLE",
     "url": "https://hobbymaster.co.nz/products/product/46973",
@@ -11995,6 +11983,18 @@
     "timestamp": "2026-11-22T02:31:54.788598+00:00",
     "priority": false,
     "image": "http://animalkingdoms.co.nz/cdn/shop/files/AscendedHeroesFocusedFightersPremiumCollection.jpg?v=1794007388",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "[PRE-ORDER] Pokemon TCG - Unova Heavy Hitters Premium Collection Box",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-unova-heavy-hitters-premium-collection-box",
+    "price": "$228.00",
+    "timestamp": "2026-11-22T11:01:46.312860+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/71hgB1PlK4L._AC_SL1000_d1ff0274-2259-4675-bcb7-97f7d0006286.jpg?v=1775448458",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
