@@ -1,17 +1,5 @@
 [
   {
-    "site": "Sealed & Slabbed - Pokemon Sealed",
-    "title": "Pokemon: Mega Evolution: Perfect Order: Sleeved Sealed Booster Pack (English)",
-    "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sleeved-sealed-booster-pack-english",
-    "price": "$9.99",
-    "timestamp": "2026-11-01T02:10:48.796889+00:00",
-    "priority": false,
-    "image": "http://sealedandslabbed.co.nz/cdn/shop/files/PerfectOrderSleevedBooster_3webp.webp?v=1772703759",
-    "limit": null,
-    "seen_count": 1,
-    "msrp_ratio": null
-  },
-  {
     "site": "Hobby Master - Pokemon",
     "title": "30TH CELEBRATION MINI TIN (ASSORTED)",
     "url": "https://hobbymaster.co.nz/products/product/47431",
@@ -11997,6 +11985,18 @@
     "image": "https://static.wixstatic.com/media/6f86e7_d1ffc6f9841249b8aa3fecaef3cb95d0~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Poke Pad 126/128 (ME: 30th Celebration)  - Holofoil",
+    "url": "https://cardbot.co.nz/products/poke-pad-126-128-me-30th-celebration-holofoil",
+    "price": "$1.00",
+    "timestamp": "2026-11-22T22:16:00.224789+00:00",
+    "priority": true,
+    "image": "http://cardbot.co.nz/cdn/shop/files/1789143355207_large_d4d2d38a-751a-4405-bc8b-ce67b04d731a.jpg?v=1794556933",
+    "limit": null,
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
