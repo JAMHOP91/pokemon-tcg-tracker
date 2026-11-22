@@ -1,17 +1,5 @@
 [
   {
-    "site": "Hobby Master - Pokemon",
-    "title": "CHAOS RISING - BOOSTER BUNDLE",
-    "url": "https://hobbymaster.co.nz/products/product/46973",
-    "price": "$120.00 $150.00",
-    "timestamp": "2026-11-01T02:10:48.796889+00:00",
-    "priority": false,
-    "image": "https://hobbymaster.co.nz/asset/images/hobbymaster_logo_tall3.jpg",
-    "limit": null,
-    "seen_count": 0,
-    "msrp_ratio": null
-  },
-  {
     "site": "Sealed & Slabbed - Pokemon Sealed",
     "title": "Pokemon: Mega Evolution: Perfect Order: Sleeved Sealed Booster Pack (English)",
     "url": "https://sealedandslabbed.co.nz/products/pokemon-mega-evolution-perfect-order-sleeved-sealed-booster-pack-english",
@@ -11995,6 +11983,18 @@
     "timestamp": "2026-11-22T11:01:46.312860+00:00",
     "priority": false,
     "image": "http://www.metalife.co.nz/cdn/shop/files/71hgB1PlK4L._AC_SL1000_d1ff0274-2259-4675-bcb7-97f7d0006286.jpg?v=1775448458",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: Mega Evolution - Flowing Fists Complete set of products PRE- ORDER",
+    "url": "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-mega-evolution-flowing-fists-complete-set-of-products-pre-order",
+    "price": "$709.00",
+    "timestamp": "2026-11-22T21:46:06.000590+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/6f86e7_d1ffc6f9841249b8aa3fecaef3cb95d0~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
