@@ -1,53 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-11-01T04:10:50.644691+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364",
-    "limit": null,
-    "seen_count": 13,
-    "msrp_ratio": null
-  },
-  {
-    "site": "Game Corner - Pokemon Pre-Orders",
-    "title": "[SOLD OUT] Pokemon TCG ME06 Delta Reign Booster Bundle Preorder, ship on November 6, 2026",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-bundle",
-    "price": "$80.00",
-    "timestamp": "2026-11-01T06:10:40.808949+00:00",
-    "priority": false,
-    "image": null,
-    "limit": null,
-    "seen_count": 0,
-    "msrp_ratio": 1.46
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolutions 2 pack Blister pack",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-2-pack-blister-pack",
-    "price": "$31.99",
-    "timestamp": "2026-11-01T09:10:43.249352+00:00",
-    "priority": true,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCG-Megaevolutions2packBlister.jpg?v=1790806747",
-    "limit": null,
-    "seen_count": 12,
-    "msrp_ratio": null
-  },
-  {
-    "site": "The Game Tree NZ",
-    "title": "#36 Igglybuff - Pok\u00e9mon League (May 2001) - WotC Black Star Promo (LP+)",
-    "url": "https://thegametree.co.nz/products/36-igglybuff-pokemon-league-may-2001-wotc-black-star-promo",
-    "price": "$27.98",
-    "timestamp": "2026-11-01T10:10:57.529645+00:00",
-    "priority": false,
-    "image": "http://thegametree.co.nz/cdn/shop/products/IgglybuffWizardsPromo36.png?v=1642820331",
-    "limit": null,
-    "seen_count": 2,
-    "msrp_ratio": null
-  },
-  {
     "site": "Game Corner - Pokemon Pre-Orders",
     "title": "Pokemon TCG 30th Celebration Ultra-Premium Collection Day Preorder",
     "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day",
@@ -11995,6 +11947,54 @@
     "timestamp": "2026-11-22T23:02:00.649269+00:00",
     "priority": false,
     "image": "http://cardbot.co.nz/cdn/shop/files/1776400689383_f0b19abb-8ef5-4229-91a4-909d6e9aa9a5_1776400689383.webp?v=1795388102",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View    Pok\u00e9mon TCG: Mega Evolution - Flowing Fists Three-Booster Blister (PRE-ORDER)",
+    "url": "https://www.coolshit.co.nz/product/copy-of-pok%C3%A9mon-tcg-mega-evolution-flowing-fists-elite-trainer-box-pre-order",
+    "price": "NZ$35.00",
+    "timestamp": "2026-11-23T05:31:22.033786+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/435460587/Untitled+design+_3_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: Mega Evolution - Flowing Fists Elite Trainer Box (PRE-ORDER)",
+    "url": "https://www.coolshit.co.nz/product/FLOWINGFISTSETB",
+    "price": "NZ$130.00",
+    "timestamp": "2026-11-23T05:31:22.033786+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/435460545/Untitled+design+_2_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: Mega Evolution - Flowing Fists Booster Bundle (PRE-ORDER)",
+    "url": "https://www.coolshit.co.nz/product/FLOWINGFISTSBOOSTERBUNDLE",
+    "price": "NZ$65.00",
+    "timestamp": "2026-11-23T05:31:22.033786+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/435460503/Untitled+design+_1_.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Cool Shit - Pokemon",
+    "title": "View Pok\u00e9mon TCG: Mega Evolution - Flowing Fists Booster (PRE-ORDER)",
+    "url": "https://www.coolshit.co.nz/product/FLOWINGFISTSBOOSTERBOX",
+    "price": "NZ$360.00",
+    "timestamp": "2026-11-23T05:31:22.033786+00:00",
+    "priority": true,
+    "image": "https://assets.bigcartel.com/product_images/435460287/Untitled+design.png?auto=format&amp;fit=max&amp;h=1200&amp;w=1200",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
