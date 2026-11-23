@@ -1,18 +1,6 @@
 [
   {
     "site": "Game Corner - Pokemon",
-    "title": "Pokemon TCG 30th Celebration Ultra-Premium Collection Night Preorder",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night",
-    "price": "$750.00",
-    "timestamp": "2026-11-01T10:10:57.529645+00:00",
-    "priority": true,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/30th-celebration-ultra-premium-collections-day-night-169-en_c358aa53-7046-47e3-8f95-01c68472eb17.png?v=1792043814",
-    "limit": null,
-    "seen_count": 1,
-    "msrp_ratio": null
-  },
-  {
-    "site": "Game Corner - Pokemon",
     "title": "Pokemon TCG 30th Celebration Ultra-Premium Collection Day Preorder",
     "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day",
     "price": "$750.00",
@@ -11995,6 +11983,18 @@
     "timestamp": "2026-11-23T09:34:34.402149+00:00",
     "priority": false,
     "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Pitch-Black-Booster-Display_EN-750x1024.jpg?v=1780628056",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "PlayX - Pokemon Pre-Orders",
+    "title": "Pokemon TCG: Unova Heavy Hitters Premium Collection (Pre-Order)",
+    "url": "https://www.playx.co.nz/products/pokemon-tcg-unova-heavy-hitters-premium-collection-pre-order",
+    "price": "$194.99",
+    "timestamp": "2026-11-23T09:46:04.088712+00:00",
+    "priority": false,
+    "image": "http://www.playx.co.nz/cdn/shop/files/Unova-Heavy-Hitters-Premium-Collection_EN.jpg?v=1795426892",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
