@@ -1,17 +1,5 @@
 [
   {
-    "site": "Game Corner - Pokemon",
-    "title": "Pokemon TCG 30th Celebration Ultra-Premium Collection Day Preorder",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day",
-    "price": "$750.00",
-    "timestamp": "2026-11-01T10:10:57.529645+00:00",
-    "priority": true,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/30th-celebration-ultra-premium-collections-day-night-169-en.png?v=1792043802",
-    "limit": null,
-    "seen_count": 1,
-    "msrp_ratio": null
-  },
-  {
     "site": "Hobby Master - Pokemon",
     "title": "CHAOS RISING - ELITE TRAINER BOX",
     "url": "https://hobbymaster.co.nz/products/product/46975",
@@ -11998,5 +11986,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG ME06 Delta Reign ETB",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-etb",
+    "price": "$130.00",
+    "timestamp": "2026-11-23T10:17:50.370400+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1.jpg?v=1787572761",
+    "limit": null,
+    "seen_count": 3,
+    "msrp_ratio": 1.24
   }
 ]
