@@ -1,17 +1,5 @@
 [
   {
-    "site": "Card Masters NZ",
-    "title": "UMBREON GX  - PSA 10",
-    "url": "https://cardmasters.co.nz/products/umbreon-gx-psa-10",
-    "price": "$1250.00",
-    "timestamp": "2026-11-01T15:40:50.763453+00:00",
-    "priority": false,
-    "image": "https://cardmasters.co.nz/cdn/shop/files/jRu988owoUSgu55vLsce2A_4de7d673-71c0-4be4-8ee4-d90c42f5c5ed_1200x2021.jpg?v=1792811920",
-    "limit": null,
-    "seen_count": 1,
-    "msrp_ratio": null
-  },
-  {
     "site": "Game Corner - Pokemon",
     "title": "Pok\u00e9mon TCG Lumiose City Mini Tin (Assorted)",
     "url": "https://gamecorner.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
@@ -11998,5 +11986,17 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
+  },
+  {
+    "site": "Game Corner - Pokemon",
+    "title": "Pokemon TCG ME06 Delta Reign Booster Box",
+    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-box",
+    "price": "$360.00",
+    "timestamp": "2026-11-24T11:02:00.912599+00:00",
+    "priority": false,
+    "image": "http://gamecorner.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2.jpg?v=1787573121",
+    "limit": null,
+    "seen_count": 8,
+    "msrp_ratio": 1.06
   }
 ]
