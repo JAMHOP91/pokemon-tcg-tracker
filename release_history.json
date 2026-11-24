@@ -1,17 +1,5 @@
 [
   {
-    "site": "OCARE NZ - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolutions Pitch Black Booster",
-    "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolutions-pitch-black-booster",
-    "price": "$10.99",
-    "timestamp": "2026-11-01T15:10:48.945392+00:00",
-    "priority": false,
-    "image": "http://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolutions-Pitch-Black-Booster.jpg?v=1784019504",
-    "limit": null,
-    "seen_count": 18,
-    "msrp_ratio": null
-  },
-  {
     "site": "Card Masters NZ",
     "title": "UMBREON GX  - PSA 10",
     "url": "https://cardmasters.co.nz/products/umbreon-gx-psa-10",
@@ -11996,6 +11984,18 @@
     "priority": true,
     "image": "http://www.playx.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Ditto-Premium-Collection_EN_1.jpg?v=1790908172",
     "limit": "Limit 2 per Customer",
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - 30th Celebration Ultra Premium Day/Night Collection",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-30th-celebration-ultra-premium-day-night-collection",
+    "price": "$748.00",
+    "timestamp": "2026-11-24T08:25:08.237817+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-30th-premium-10-10448-120-original.jpg?v=1791851955",
+    "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
   }
