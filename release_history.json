@@ -1,29 +1,5 @@
 [
   {
-    "site": "Game Corner - Pokemon",
-    "title": "Pok\u00e9mon TCG Lumiose City Mini Tin (Assorted)",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
-    "price": "$25.00",
-    "timestamp": "2026-11-01T20:50:45.266488+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Lumiose_City_Mini_Tin.jpg?v=1780985527",
-    "limit": null,
-    "seen_count": 8,
-    "msrp_ratio": null
-  },
-  {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG Mega Evolutions 2 pack Blister pack",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-evolutions-2-pack-blister-pack",
-    "price": "$31.99",
-    "timestamp": "2026-11-01T22:40:49.569284+00:00",
-    "priority": true,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/PokemonTCG-Megaevolutions2packBlister.jpg?v=1790806747",
-    "limit": null,
-    "seen_count": 13,
-    "msrp_ratio": null
-  },
-  {
     "site": "Card Bot - English Pokemon TCG",
     "title": "Desacne Premium Booster Box Collectible Hard Stack 2 Pack",
     "url": "https://cardbot.co.nz/products/desacne-premium-booster-box-collectible-hard-stack-2-pack",
@@ -11998,5 +11974,29 @@
     "limit": null,
     "seen_count": 8,
     "msrp_ratio": 1.06
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Topps Flagship Premier League 2026/2027 Eco Pack",
+    "url": "https://toytime.co.nz/products/topps-flagship-premier-league-2026-2027-eco-pack",
+    "price": "$29.99",
+    "timestamp": "2026-11-24T22:31:49.037932+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/sportcard.png?v=1795396360",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Toy Time - Pokemon TCG",
+    "title": "Topps Flagship Premier League 2026/27 - Pack",
+    "url": "https://toytime.co.nz/products/topps-flagship-premier-league-2026-27-pack",
+    "price": "$10.00",
+    "timestamp": "2026-11-24T22:31:49.037932+00:00",
+    "priority": false,
+    "image": "http://toytime.co.nz/cdn/shop/files/sportc.png?v=1795396897",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
   }
 ]
