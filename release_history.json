@@ -1,17 +1,5 @@
 [
   {
-    "site": "Redline Trading - English Pokemon TCG",
-    "title": "Pok\u00e9mon TCG - Mega Evolution - Ascended Heroes - Focused Fighters Premium Collection",
-    "url": "https://redlinetrading.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection",
-    "price": "$260.00",
-    "timestamp": "2026-11-02T01:34:56.776295+00:00",
-    "priority": true,
-    "image": "https://cdn.shopify.com/s/files/1/0990/5422/3730/files/pokemon-focused-fighters-premium-collection-front.jpg?v=1793582944",
-    "limit": null,
-    "seen_count": 0,
-    "msrp_ratio": null
-  },
-  {
     "site": "Kidzstuffonline - Pokemon TCG",
     "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
     "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
@@ -11998,5 +11986,17 @@
     "limit": null,
     "seen_count": 2,
     "msrp_ratio": 2.46
+  },
+  {
+    "site": "Magic Red Dragon - Pokemon Pre-Orders",
+    "title": "Pok\u00e9mon TCG: Flowing Fists Elite Trainer Box SEALED CASE - PRE ORDER",
+    "url": "https://www.magicreddragon.co.nz/product-page/pok\u00e9mon-tcg-flowing-fists-elite-trainer-box-sealed-case-pre-order",
+    "price": "$1,900.00",
+    "timestamp": "2026-11-25T18:31:52.974253+00:00",
+    "priority": true,
+    "image": "https://static.wixstatic.com/media/6f86e7_5e932841682648a493e0d8a0791cae14~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
   }
 ]
