@@ -1,29 +1,5 @@
 [
   {
-    "site": "Card Bot - English Pokemon TCG",
-    "title": "Desacne Premium Booster Box Collectible Hard Stack 2 Pack",
-    "url": "https://cardbot.co.nz/products/desacne-premium-booster-box-collectible-hard-stack-2-pack",
-    "price": "$83.00",
-    "timestamp": "2026-11-02T00:05:08.596708+00:00",
-    "priority": false,
-    "image": "http://cardbot.co.nz/cdn/shop/files/DPDSBB-02-Premium-Booster-Box-Protector-2-Pack-1-1024x1021.jpg?v=1755663132",
-    "limit": null,
-    "seen_count": 0,
-    "msrp_ratio": null
-  },
-  {
-    "site": "MetaLife - Pokemon TCG",
-    "title": "Pokemon TCG - Mega Evolution 2.5 Ascended Heroes Focused Fighters Premium Collection",
-    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-2-5-ascended-heroes-focused-fighters-premium-collection",
-    "price": "$298.00",
-    "timestamp": "2026-11-02T01:34:56.776295+00:00",
-    "priority": true,
-    "image": "http://www.metalife.co.nz/cdn/shop/files/pokemon-ascended-heroes-focused-fighters-premium-collection-package.webp?v=1792473091",
-    "limit": null,
-    "seen_count": 0,
-    "msrp_ratio": null
-  },
-  {
     "site": "Redline Trading - English Pokemon TCG",
     "title": "Pok\u00e9mon TCG - Mega Evolution - Ascended Heroes - Focused Fighters Premium Collection",
     "url": "https://redlinetrading.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection",
@@ -11998,5 +11974,29 @@
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: Chaos Rising Elite Trainer Box",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-chaos-rising-elite-trainer-box",
+    "price": "$159.00",
+    "timestamp": "2026-11-25T05:31:45.863125+00:00",
+    "priority": false,
+    "image": "http://cardbot.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_Chaos-Rising-Elite-Trainer-Box_EN-1024x976_780ec5de-f4c3-44d1-9126-32b47380e62d.jpg?v=1795583022",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "Card Bot - English Pokemon TCG",
+    "title": "Pok\u00e9mon TCG: 30th Celebration Elite Trainer Box",
+    "url": "https://cardbot.co.nz/products/pokemon-tcg-30th-celebration-elite-trainer-box",
+    "price": "$258.00",
+    "timestamp": "2026-11-25T05:31:45.863125+00:00",
+    "priority": true,
+    "image": "http://cardbot.co.nz/cdn/shop/files/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box_EN.jpg?v=1795163630",
+    "limit": null,
+    "seen_count": 2,
+    "msrp_ratio": 2.46
   }
 ]
