@@ -1,17 +1,5 @@
 [
   {
-    "site": "Kidzstuffonline - Pokemon TCG",
-    "title": "Pokemon TCG Mega Zygarde ex - Premium Collection",
-    "url": "https://kidzstuffonline.co.nz/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-11-02T02:40:50.872118+00:00",
-    "priority": false,
-    "image": "http://kidzstuffonline.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection.webp?v=1779250364",
-    "limit": null,
-    "seen_count": 14,
-    "msrp_ratio": null
-  },
-  {
     "site": "Game Corner - Pokemon Pre-Orders",
     "title": "[SOLD OUT] Pokemon TCG ME06 Delta Reign ETB Preorder, ship on November 6, 2026",
     "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-etb",
@@ -11995,6 +11983,18 @@
     "timestamp": "2026-11-25T18:31:52.974253+00:00",
     "priority": true,
     "image": "https://static.wixstatic.com/media/6f86e7_5e932841682648a493e0d8a0791cae14~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "OCARE NZ - Pokemon TCG",
+    "title": "Pok\u00e9mon TCG Unova Heavy Hitters Premium Collection",
+    "url": "https://ocare.co.nz/products/pokemon-tcg-unova-heavy-hitters-premium-collection",
+    "price": "$269.99",
+    "timestamp": "2026-11-26T06:07:02.846283+00:00",
+    "priority": false,
+    "image": "https://ocare.co.nz/cdn/shop/files/Pokemon-TCG-Unova-Heavy-Hitters-Premium-Collection.webp?v=1795672474",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
