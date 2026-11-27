@@ -1,17 +1,5 @@
 [
   {
-    "site": "Game Corner - Pokemon",
-    "title": "Pokemon TCG ME06 Delta Reign Booster Box Preorder, ship on November 6, 2026",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-box",
-    "price": "$420.00",
-    "timestamp": "2026-11-02T08:41:08.278192+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2.jpg?v=1787573121",
-    "limit": null,
-    "seen_count": 5,
-    "msrp_ratio": 1.27
-  },
-  {
     "site": "Game Corner - Pokemon Pre-Orders",
     "title": "[RESTOCK] Pokemon TCG ME06 Delta Reign Booster Box Preorder, ship on November 6, 2026",
     "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-box",
@@ -11997,6 +11985,18 @@
     "image": "http://getthosecards.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Zygarde-ex-Premium-Collection_EN-1024x762.jpg?v=1779678921",
     "limit": null,
     "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "JB Hi-Fi NZ",
+    "title": "Pok\u00e9mon TCG: Mega Evolution Flowing Fists Booster Bundle",
+    "url": "https://www.jbhifi.co.nz/products/pokemon-tcg-pokemon-tcg-mega-evolution-flowing-fists-booster-bundle",
+    "price": "$60",
+    "timestamp": "2026-11-27T22:31:17.370630+00:00",
+    "priority": true,
+    "image": "http://www.jbhifi.co.nz/cdn/shop/files/488389-Product-0-I-639307274406517851_1024x1024.jpg",
+    "limit": "Limit 1 per order",
+    "seen_count": 1,
     "msrp_ratio": null
   }
 ]
