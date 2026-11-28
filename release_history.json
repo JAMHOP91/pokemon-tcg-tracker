@@ -1,41 +1,5 @@
 [
   {
-    "site": "Game Corner - Pokemon",
-    "title": "Pok\u00e9mon TCG Lumiose City Mini Tin (Assorted)",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
-    "price": "$25.00",
-    "timestamp": "2026-11-02T13:10:59.876265+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/pokemon_TCG_Lumiose_City_Mini_Tin.jpg?v=1780985527",
-    "limit": null,
-    "seen_count": 9,
-    "msrp_ratio": null
-  },
-  {
-    "site": "WP Games - Pokemon TCG",
-    "title": "Pokemon TCG: Mega Greninja ex Premium Collection",
-    "url": "https://wpgames.co.nz/products/pokemon-tcg-mega-greninja-ex-premium-collection",
-    "price": "$99.99",
-    "timestamp": "2026-11-02T16:40:46.363139+00:00",
-    "priority": false,
-    "image": "http://wpgames.co.nz/cdn/shop/files/pokemon-tcg-mega-greninja-ex-premium-collection.png?v=1790137780",
-    "limit": null,
-    "seen_count": 1,
-    "msrp_ratio": null
-  },
-  {
-    "site": "Animal Kingdoms - Pokemon TCG",
-    "title": "Pokemon TCG: Perfect Order Booster - Mega Clefable ex",
-    "url": "https://animalkingdoms.co.nz/products/pokemon-tcg-perfect-order-booster-mega-clefable-ex",
-    "price": "$10.90",
-    "timestamp": "2026-11-02T19:10:51.908309+00:00",
-    "priority": false,
-    "image": "http://animalkingdoms.co.nz/cdn/shop/files/Pokemon_TCG__Perfect_Order_Booster-3.png?v=1785386500",
-    "limit": null,
-    "seen_count": 1,
-    "msrp_ratio": null
-  },
-  {
     "site": "OCARE NZ - Pokemon TCG",
     "title": "Pok\u00e9mon TCG Mega Evolution Ascended Heroes Focused Fighters Premium Collection",
     "url": "https://ocare.co.nz/products/pokemon-tcg-mega-evolution-ascended-heroes-focused-fighters-premium-collection",
@@ -11995,6 +11959,42 @@
     "timestamp": "2026-11-28T04:16:28.926877+00:00",
     "priority": true,
     "image": "http://www.metalife.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_E2_80_94Flowing-Fists-Elite-Trainer-Box_EN.jpg?v=1795838848",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "[PRE-ORDER] Pokemon TCG - Mega Evolution 7 Flowing Fists Booster Bundle",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-7-flowing-fists-booster-bundle",
+    "price": "$69.80",
+    "timestamp": "2026-11-28T04:31:23.061863+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_E2_80_94Flowing-Fists-Booster-Bundle_EN.jpg?v=1795838847",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "[PRE-ORDER] Pokemon TCG - Mega Evolution 7 Flowing Fists Three Booster Blister",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-7-flowing-fists-three-booster-blister",
+    "price": "$36.80",
+    "timestamp": "2026-11-28T04:31:23.061863+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_E2_80_94Flowing-Fists-Three-Booster-Blister_EN.jpg?v=1795838850",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "[PRE-ORDER] Pokemon TCG - Mega Evolution 7 Flowing Fists Booster",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-7-flowing-fists-booster",
+    "price": "$10.80",
+    "timestamp": "2026-11-28T04:31:23.061863+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_E2_80_94Flowing-Fists-Booster-Display_EN.jpg?v=1795838839",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
