@@ -1,17 +1,5 @@
 [
   {
-    "site": "Game Corner - Pokemon Pre-Orders",
-    "title": "[RESTOCK] Pokemon TCG ME06 Delta Reign Booster Box Preorder, ship on November 6, 2026",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-booster-box",
-    "price": "$420.00",
-    "timestamp": "2026-11-02T08:45:57.360376+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/10-10446-120-Delta-Reign-Boosters-2.jpg?v=1787573121",
-    "limit": null,
-    "seen_count": 0,
-    "msrp_ratio": 1.27
-  },
-  {
     "site": "Game Corner - Pokemon",
     "title": "Pokemon TCG ME06 Delta Reign ETB Preorder, ship on November 6, 2026",
     "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-etb",
@@ -11997,6 +11985,18 @@
     "image": "http://www.jbhifi.co.nz/cdn/shop/files/488389-Product-0-I-639307274406517851_1024x1024.jpg",
     "limit": "Limit 1 per order",
     "seen_count": 1,
+    "msrp_ratio": null
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "Pokemon TCG - Delta Reign Single Card",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-delta-reign-single-card",
+    "price": "$3.00",
+    "timestamp": "2026-11-28T03:31:16.384801+00:00",
+    "priority": false,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/ME06_EN_11.png?v=1795829153",
+    "limit": null,
+    "seen_count": 0,
     "msrp_ratio": null
   }
 ]
