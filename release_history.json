@@ -1,18 +1,6 @@
 [
   {
     "site": "Game Corner - Pokemon",
-    "title": "Pokemon TCG ME06 Delta Reign ETB Preorder, ship on November 6, 2026",
-    "url": "https://gamecorner.co.nz/products/pokemon-tcg-me06-delta-reign-etb",
-    "price": "$150.00",
-    "timestamp": "2026-11-02T10:40:48.709957+00:00",
-    "priority": false,
-    "image": "http://gamecorner.co.nz/cdn/shop/files/10-10438-111-Delta-Reign-ETB-1.jpg?v=1787572761",
-    "limit": null,
-    "seen_count": 4,
-    "msrp_ratio": 1.47
-  },
-  {
-    "site": "Game Corner - Pokemon",
     "title": "Pok\u00e9mon TCG Lumiose City Mini Tin (Assorted)",
     "url": "https://gamecorner.co.nz/products/pokemon-tcg-lumiose-city-mini-tin-assorted",
     "price": "$25.00",
@@ -11995,6 +11983,18 @@
     "timestamp": "2026-11-28T03:31:16.384801+00:00",
     "priority": false,
     "image": "http://www.metalife.co.nz/cdn/shop/files/ME06_EN_11.png?v=1795829153",
+    "limit": null,
+    "seen_count": 0,
+    "msrp_ratio": null
+  },
+  {
+    "site": "MetaLife - Pokemon TCG",
+    "title": "[PRE-ORDER] Pokemon TCG - Mega Evolution 7 Flowing Fists Elite Trainer Box",
+    "url": "https://www.metalife.co.nz/products/pokemon-tcg-mega-evolution-7-flowing-fists-elite-trainer-box",
+    "price": "$136.00",
+    "timestamp": "2026-11-28T04:16:28.926877+00:00",
+    "priority": true,
+    "image": "http://www.metalife.co.nz/cdn/shop/files/Pokemon-TCG-Mega-Evolution_E2_80_94Flowing-Fists-Elite-Trainer-Box_EN.jpg?v=1795838848",
     "limit": null,
     "seen_count": 0,
     "msrp_ratio": null
